@@ -1,0 +1,357 @@
+﻿Stative predicates with possessives in Classical Manx
+1
+Stative predicates with possessives in Classical Manx
+Max Wheeler
+Revised October 2017
+Manx has a small number —eight— of stative predicates that are constructed with possessive pronouns,
+as in ta mee my hassoo ‘I am standing’. Most of these items are undoubtedly verbal, that is, they are
+also constructed as ordinary verbs: cadley ‘sleeping’, lhie ‘lying’, shassoo ‘standing’, soie ‘sitting’,
+trostey ‘fasting’. However, taaue ‘idle’, and tost ‘silent’ do not have independent verbal uses in Manx,
+though their cognates in other Gaelic languages have: Sc. G. tàmh v. ‘reside, stay’ (tàmh n. ‘inactivity,
+idleness’), Ir. tost v. ‘fall silent’ (tost n. ‘silence’). Lomarcan ‘alone’, ‘only’ occurs only in this
+possessive construction, and, indeed, ny-lomarcan in the sense ‘only’ is better classified as a restrictive
+focusing modifier1 than as a predicate. Whereas this construction of stative predicates with possessives
+is exceptional in Manx, the parallel construction of nominal predicates with possessives is quite general.
+The semantic effect may be rather similar: see, for example, traartys ‘desolation’2 as a predicate
+nominal:
+Shoh yn ard-valley boggyssagh, va
+cummal ayns soaillid, dooyrt ayns e cree,
+Ta mish ayn, as cha vel unnane erbee
+casley rhym: kys t’ee er jeet dy ve ny
+traartys, ynnyd son maase dy lhie sheese
+ayn!
+As bee ard-ynnydyn Isaac nyn draartys,
+as bee thieyn-sheaynt Israel er ny chur
+naardey
+This is the rejoicing city that dwelt Zeph. 2.15
+carelessly, that said in her heart, I
+am, and there is none beside me:
+how is she become a desolation, a
+place for beasts to lie down in!
+And the high places of Isaac shall be Amos 7.9
+desolate [Manx: ‘shall be a
+desolation’], and the sanctuaries of
+Israel shall be laid waste
+As predicates of ve ‘be’, these eight stative predicate items are constructed in the same way in Classical
+and Modern Manx: the possessive pronoun agrees in person and number with the subject of ve. I include
+some selected examples in the lists below (A). My focus here is what other constructions these
+predicates are found in in Classical Manx, using my corpus of texts 1700-1850 that are digitally
+searchable.
+The texts show that these constructions may be:
+B.	stative predicates of intransitive verbs other than ve, such as çheet ‘come’, tuittym ‘fall’, shassoo
+‘stand’, tannaghtyn ‘remain’, soie ‘sit’, baghey ‘live’, roie ‘run’, goll ‘go’.
+They are also found:
+C.	as complements of the objects of certain transitive verbs —of perception: fakin ‘see’, jeeaghyn
+‘show’, cur my ner ‘behold’, and others: faagail ‘leave’, feddyn ‘find’, goaill ‘capture’, cur lesh
+‘bring’, cur ersooyl ‘send away’.
+1 Restrictive focusing modifier is the term used for, e.g. but, exactly, exclusively, just, only, simply, in Rodney
+Huddleston and Geoffrey K. Pullum, The Cambridge Grammar of the English Language, Cambridge: University
+Press, 2002, 586-592.
+2 Probably related to this traartys are the expressions ny haart ‘confounded, discomfited, destroyed’ (only with
+ny), and cur haart ‘overthrow, destroy’ as in Da Abdiel annoon hug eshyn niart, / As foyr da'n chliwe, dy chur
+Satan haart / Lesh laue feer aashagh ‘to feeble Abdiel he gave strength, and keenness to the sword, to overthrow
+Satan with an effortless hand’ (Pargys Callit).
+Stative predicates with possessives in Classical Manx
+2
+They may be used:
+D.	as complements of cur ‘do’, ‘make’ + direct object, in causative constructions; thus, cur ny lhie
+is the common way to express ‘lay’.
+Lastly, certain of them may be used not only as predicates but also:
+E.	in apposition to verb subjects, as in the proverb Cha vow laue ny haaue veg ‘An idle hand will
+receive nothing’.
+I give some special attention to lomarcan, which has two uses that overlap somewhat, both semantically
+and syntactically: a stative predicate ‘alone’, ‘without company’, and a restrictive focusing modifier
+‘only’, ‘exclusively’, ‘just’.
+In an appendix I illustrate the usage of saie ‘satiety, sufficiency’, also used with preposed possessives,
+but which differs from the constructions that are the focus of this paper in being used adverbially, rather
+than as a predicate.
+Whereas cadley, shassoo and soie regularly appear without initial mutation following ny ‘her’ (that is,
+agreeing with a 3sg feminine noun), in the case of the items beginning with /t/, the expected *ny taaue,
+*ny tost, and *ny trostey are not found. In fact, the masculine 3sg forms ny haaue and ny host are used
+agreeing with feminine singular nouns. There is no relevant example of trostey constructed with a
+feminine singular noun. On problems of number agreement with ny lomarcan ‘only’, see the final
+section below.
+A.	Predicates of ve ‘be’
+CADLEY
+‘asleep’
+LHIE
+‘lying’
+Predicates of ve ‘be’
+Sonnish veign my lhie ec my aash; dy kuine veign my chadley ayns shee as ec fea	For now should I have lain still and been quiet, I should have slept: then had I been at rest [Manx, or: ‘quietly I should be asleep in peace and at rest’]	Job 3.13
+Tra t’ou shooyl, bee eh dty leeideilagh, tra t’ou dty chadley, nee eh dty choadey; as tra t’ou doostey, loayree eh rhyt	When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee	Prov. 6.22
+agh va Jonah ersooyl sheese ’sy chabbane, as lhie eh, as v’eh trome ny chadley	But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep	Jon. 1.5
+As ren ee girree ec y vean-oie, as ghow ee my vac’s veih my lhiattee, tra va dty inney-veyl ny cadley, as ghow ee eh ’syn oghrish eck, as hug ee yn lhiannoo marroo eck hene ’syn oghrish aym’s	And she arose at midnight, and took my son from beside me, while thine handmaid slept, and laid it in her bosom, and laid her dead child in my bosom	1 Ki. 3.20
+As ta mee my lhie dy jarroo mastey cloan gheiney, ta soit er aile: nyn veeacklyn t’ad shleiyghyn as sideyn, as nyn jengey ny chliwe gyere	And I lie even among the children of men, that are set on fire: whose teeth are spears and arrows, and their tongue a sharp sword	Ps. 57.5
+Stative predicates with possessives in Classical Manx
+3
+SOIE
+‘sitting’
+LOMARCAN
+‘alone’
+SHASSOO
+‘standing’
+TAAUE
+‘at rest, at
+leisure’
+Predicates of ve ‘be’		
+Ta dty vec er n’gholl neeal, t’ad nyn lhie ayns king ooilley ny straidyn myr tarroo feïe ayns ribbey: t’ad lane dy eulys y Chiarn jeh oghsan dty Yee	Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the Lord, the rebuke of thy God.	Isa. 51.20
+As haink eh gy-kione mysh y traa shen, myr va Jeroboam goll magh veih Jerusalem, dy dooar yn phadeyr Ahijah yn Shilonite eh er y raad: as v’eh [Ahijah] er choamrey eh-hene lesh garmad noa: as v’ad nyn-neesht ny- lomarcan [sic] ’sy vagher	And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field	1 Ki. 11.29
+Agh fegooish coraa-dorraghey cha loayr eh roo: as tra v’ad nyn- lomarcan hoilshee eh dy chooilley nhee da e ostyllyn	But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples	Mark 4.34
+Eisht haink eh er-gerrey da’n boayl raad va mee my hassoo:	So he came near where I stood	Dan. 8.17
+As dooyrt Balaam rish ainle y Chiarn Ta mee er n’yannoo peccah; son ve gyn-yss dou, dy row uss dty hassoo ’sy raad roym	And Balaam said unto the angel of the Lord, I have sinned; for I knew not that thou stoodest in the way against me	Num. 22.34
+Agh va Moirrey ny shassoo cheu mooie jeh’n oaie keayney: as myr v’ee keayney, chroym ee sheese as yeeagh ee stiagh ayns yn oaie	But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre	John 20.11
+cha beem’s my hoie myr ben- treoghe, chamoo vees fys aym cre ta baase clienney	I shall not sit as a widow, neither shall I know the loss of children	Isa. 47.8
+as honnick mee ben ny soie er baagh scarleod, lane dy enmyn mollaghtagh, lesh shiaght king, as jeih eairkyn	and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns	Rev. 17.3
+Bee’m my-haaue, agh smooinee- ym er y chooish er-lheh ayns my ynnyd-vaghee, myr y chiass kiune er lossreeyn, as goll-rish bodjal dy ghruight ayns chiass yn ouyr.	I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest.	Isa. 18.4
+Ta mee mysh obbyr vooar, myr shen nagh voddym cheet sheese hiu: cre’n-fa veagh yn obbyr ny- haaue, choud as aagym’s eh, dy choyrt meeiteil diuish? [obbyr f.]	I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?	Neh. 6.3
+duirree Asher rish oirr ny marrey, as v’eh ny haaue ayns ny purtyn	Asher continued on the sea shore, and abode in his breaches	Jud. 5.17
+Son nee ny Egyptianee cooney
+ayns fardail, as gyn ymmyd: shen-
+y-fa ta mee er n’eamagh
+mychione shoh, She yn niart oc dy
+ve ny haaue [sic]
+For the Egyptians shall help in Isa. 30.7
+vain, and to no purpose:
+therefore have I cried
+concerning this, Their strength
+is to sit still
+Stative predicates with possessives in Classical Manx
+4
+TOST
+‘silent’
+TROSTEY
+‘fasting’
+Predicates of ve ‘be’
+Ny-yeih cha bailts dy beagh obbraghyn dty chreenaght nyn- daaue	Nevertheless thou wouldest not that the works of thy wisdom should be idle	Wis. 14.5
+S’foddey ta mee er ve my host; ta mee er lhiggey shaghey, as dreill mee orrym pene; nish ver-ym eam gyere myr ben er-troailt; nee’m stroie as sluggey seose er-y- chooyl	I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once.	Isa. 42.14
+Son my vees oo ooilley cooidjagh dty host ec y traa shoh	For if thou altogether holdest thy peace at this time,	Est. 4.14
+Hug oo er dty vriwnys dy ve er ny chlashtyn veih niau: va’n ooir er- creau, as ve ny-host [ooir f.]	Thou didst cause thy judgement to be heard from heaven: the earth trembled, and was still	Ps. 76.8
+Ta dooinney ny ghaa cummal e hengey, er-yn-oyr nagh vel veg echey dy ghra; as fer elley ny- host, toiggal e hraa.	Some man holdeth his tongue, because he hath not to answer: and some keepeth silence, knowing his time	Ecclesiasticus 20.6
+Kiare laa er-dy-henney va mish my hrostey derrey mish y traa shoh dy laa, as ec yn nuyoo oor ghow mee padjer ayns my hie	Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house,	Acts 10.30
+As erreish daue v’er ve foddey nyn drostey, hass Paul magh nyn mast’oc	But after long abstinence Paul stood forth in the midst of them	Acts 27.21
+B.	Statives as predicates of other intransitive verbs (plus one example with a
+stative predicated of the subject of a transitive construction: ceau yn oie ‘pass
+the night’)
+Statives as predicates of other intransitive verbs
+baghey	Ooilley ny laghyn vees y doghan er, t’eh neu-ghlen; t’eh neu-ghlen: nee eh baghey ny lomarcan; cheu- mooie jeh’n champ vees e ynnyd- vaghee	All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be	Lev. 13.46
+çheet	Cur-my-ner, ta dty ree cheet hood dy imlee, as ny hoie er assyl, as er lhiy sharragh assyl	Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass	Mat. 21.5
+goll	Tra dennee Yeesey er-y-fa shen dy darragh ad, as dy goghe ad eh er- niart, dy yannoo eh ny ree, hie eh seose reesht er slieau eh-hene ny- lomarcan	When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone	John 6.15
+Stative predicates with possessives in Classical Manx
+5
+Statives as predicates of other intransitive verbs
+goll ersooyl	tra honnick yn pobble va nyn shassoo cheu elley jeh’n cheayn nagh row baatey erbee elley ayns shen, cheu-mooie jeh’n un vaatey shen va ny ostyllyn er n’ghoaill, as nagh jagh Yeesey maroosyn ayns y vaatey, agh dy row ny ostyllyn er n’gholl ersooyl nyn-lomarcan	when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone	John 6.22
+ny lhie	Myr shen haink David as Abishai er y pobble ’syn oie: as cur-my- ner, va Saul ny lhie ny chadley ayns mean y champ, as y shleiy echey soit ’sy thalloo ec e chione	So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster	1 Sam. 26.7
+roie	as hrog eh seose e hooillyn, as yeeagh eh, as cur-my-ner, dooinney roie ny-lomarcan	and lifted up his eyes, and looked, and behold a man running alone	2 Sam. 18.24
+shassoo	As hie eh magh mysh y trass oor, as honnick eh feallagh elley shassoo nyn daaue ’syn ynnyd- margee	And he went out about the third hour, and saw others standing idle in the marketplace	Mat. 20.3
+	Cre’n-fa ta shiu nyn shassoo ayns shoh fey ny laa nyn daaue?	Why stand ye here all the day idle?	Mat. 20.6
+soie	Ta my chadley er gholl voym, as ta mee eer myr sparroo: ta soie ny-lomarcan er mullagh thie	I have watched, and am even as it were a sparrow: that sitteth alone upon the housetop	Ps. 102.7
+	Kys ta’n ard-valley va lane dy leih soie ny lhome-lomarcan! kys t’ee er jeet dy ve myr ben-treoghe!	How doth the city sit solitary, that was full of people! how is she become as a widow!	Lam.1.1
+	Cre shoh t’ou dy yannoo rish y pobble? cre’n-fa dy vel oo soie dty lomarcan, as y pobble ooilley nyn shassoo liort, veih’n voghrey gys yn astyr?	What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even?	Ex. 18.14
+	Soie uss dty host, as stiagh oo ayns dorraghys, O inneen ny Caldeanee	Sit thou silent, and get thee into darkness, O daughter of the Chaldeans:	Isa. 47.5
+	T’eh soie ny-lomarcan, as ny- host, er-yn-oyr dy vel eh er n’ymmyrkey er eh	He sitteth alone and keepeth silence, because he hath borne it upon him.	Lam. 3.28
+tannaghtyn	Eisht haink mee gys cloan y chappeeys ee Tel-abib, va cummal liorish awin Chebar, as hoie mee raad v’adsyn ny hoie, as ren mee tannaghtyn ayns shen my-host ny mast’ oc shiaght laa	Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days	Ez. 3.15
+	choyrlee Paul ad ooilley dy ghoaill beaghey, gra, Jiu yn chiarroo laa yeig, ta shiu er hannaghtyn nyn drostey, gyn lhongey cooie	Paul besought them all to take meat, saying, This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing	Acts 27.33
+Stative predicates with possessives in Classical Manx
+6
+Statives as predicates of other intransitive verbs
+tuittym	Agh myr v’ad shiaulley, huitt eh ny chadley: as dirree sterrym mooar dy gheay er y cheayn, as lhieen yn ushtey stiagh orroo, dy row ad ayns gaue	But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy	Luke 8.23
+	Ny lurg shen v’eh er ny akin liorish ny smoo na queig cheead braar ec yn un cheayrt: jeu ta’n ayrn smoo er-mayrn gys y tree t’ayn: agh ta paart er duittym nyn gadley	After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep	1 Cor. 15.6
+ceau yn oie	Eisht hie yn ree gys e phlaase, as cheau eh yn oie ny hrostey: chamoo va greïnyn-kiaullee currit lhieu huggey, as hie e chadley veih	Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him	Dan. 6.18
+C.	Stative predicates as complements of the objects of transitive verbs; in nearly
+all cases direct objects, but a couple of indirect objects or prepositional
+objects.
+Stative predicates as complements of the objects of transitive verbs
+cummal	lesh e shleiy chum eh ‘hene ny hassoo	with his spear he supported himself standing	Pargys Caillit
+cur ersooyl	Ta chymmey aym er y pobble, er- yn-oyr dy vel ad er ve marym nish three laa, as cha vel monney beaghey oc dy ghoaill: as cha der- ym ad ersooyl nyn drostey, er aggle dy gannooinee ad er y raad.	I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way	Mat. 15.32
+	As my ver-ym ad ersooyl nyn drostey gys nyn dhieyn hene, nee ad gannooinaghey er y raad: son ta paart jeu er jeet veih foddey	And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.	Mark 8.3
+cur lesh	hug ad lhieu huggey dooinney doghanit lesh y chingys craaee, ny lhie er lhiabbee	they brought to him a man sick of the palsy, lying on a bed	Mat. 9.2
+	Ayns wheesh as dy dug ad lhieu magh ayns ny straidyn sleih chingey nyn lhie er lhiabbaghyn as lhiaghtyn, dy voddagh eer scadoo Pheddyr goll shaghey cheet er paart jeu	Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them	Acts 5.15
+cur my ner	Eisht by-chooidsave lesh jeeaghyn runt-my-geayrt, Er e chroo aalin ooilley ec un cheayrt; Er y thalloo jeeaghyn, hug eh ayn my-ner Adam as Aue, nyn lomarcan ’sy ghaar’,	Then it pleased him to look round about on his fair creation all at one time; looking to the earth, he beheld in it Adam and Eve, alone in the garden	Pargys Caillit
+Stative predicates with possessives in Classical Manx
+7
+faagail
+faagail
+y currym
+er
+fakin
+Stative predicates as complements of the objects of transitive verbs
+As va Jacob faagit ny lomarcan: as ren dooinney gleck rish, derrey brishey’n laa	And Jacob was left alone; and there wrestled a man with him until the breaking of the day	Gen. 32.24
+va mee faagit my-lomarcan, ad shoh, cre’n raad t’ad er ve?	I was left alone; these, where had they been?	Isa. 49.21
+as va Yeesey faagit ny-lomarcan, as y ven ny shassoo kiongoyrt rish	and Jesus was left alone, and the woman standing in the midst	John 8.9
+Liorish shoh eisht vees mee- chairys Yacob er ny heyrey, as shoh yn slane cowrey, dy vel e pheccaghyn er ny leih da; tra t’eh jannoo ooilley claghyn yn altar myr claghyn kelk t’er ny vroo dy myn, cha bee ny keylljyn ny ny jallooyn faagit nyn shassoo	By this therefore shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin; when he maketh all the stones of the altar as chalkstones that are beaten in sunder, the groves and images shall not stand up	Isa. 27.9
+Hiarn, nee dty aigney’s eh dy vel my huyr er n’aagail y currym orryms my lomarcan dy hirveish er y cheshaght?	Lord, dost thou not care that my sister hath left me to serve alone?	Luke 10.40
+My hee oo yn assyl echeysyn ta ayns noidys dhyt, ny lhie fo e laad, cha jed oo shaghey: nee oo, son shickyrys, cooney lesh	If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him	Ex. 23.5
+hie deiney shaghey, as honnick ad yn corp ny lhie er y raad, as y lion ny hassoo liorish y chorp	men passed by, and saw the carcase cast in the way, and the lion standing by the carcase	1 Ki. 13.25
+As tra va Yeesey er jeet stiagh ayns thie Pheddyr, honnick eh moir e ven ny lhie, as ching ayns y chiassaghey	And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever	Mat. 8.14
+As honnick yn assyl ainle y Chiarn ny hassoo ayns y raad, as e chliwe lommyrtagh ayns e laue	And the ass saw the angel of the Lord standing in the way, and his sword drawn in his hand	Num. 22.23
+Honnick mee yn Chiarn ny hoie er e stoyl-reeoil, as ooilley sheshaght-flaunyss ny hassoo liorish, er e laue yesh as er e laue hoshtal	I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left	1 Ki. 22.19
+Ny-yeih cha vel ooilley shoh jannoo ven y vie dou, choud as ta mee fakin Mordecai yn Ew ny hoie ec giat y ree	Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king’s gate	Est. 5.13
+As tra yn Yeesey er n’gholl veih shen, honnick eh dooinney va enmyssit Mian, ny hoie ec boayrd y cheesh	And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom	Mat. 9.9
+Son my hee dooinney erbee uss, ta tushtey ayd, dty hoie ec bee ayns chiamble y jalloo, nagh bee yn chooinsheanse echeysyn ta annoon, miolit dy ee ny reddyn shen ta er ny hebbal da jallooyn?	For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols?	1 Cor. 8.10
+Stative predicates with possessives in Classical Manx
+8
+feddyn
+Stative predicates as complements of the objects of transitive verbs
+Ny lurg shoh hee shiu Mac y dooinney ny hoie er laue yesh yn phooar, as cheet ayns bodjallyn yn aer	Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven	Mat. 26.64
+Er shen hug eh lesh mee liorish y spyrryd gys yn aasagh: as honnick mee ben ny soie er baagh scarleod, lane dy enmyn mollaghtagh, lesh shiaght king, as jeih eairkyn	So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns	Rev. 17.3
+As honnick ee daa ainle nyn soie ayns coamraghyn sollys, yn derrey yeh ec y chione, as y jeh elley ec ny cassyn raad va corp Yeesey ny lhie	And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain	John 20.12
+As haink eh gys ny ostyllyn, as hooar eh ad nyn gadley	And he cometh unto the disciples, and findeth them asleep,	Mat. 26.40
+Er-aggle dy jig eh doaltattym, as dy vow eh shiu nyn gadley	Lest coming suddenly he find you sleeping	Mark 13.36
+My vees dooinney er ny gheddyn ny lhie marroo ’sy vagher	If one be found slain in the land	Deut 21.1
+As haink coraa ass y vodjal, gra, Shoh my vac graihagh; eaisht-jee rishyn. As lurg y choraa, hooar ad Yeesey ny lomarcan	And there came a voice out of the cloud, saying, This is my beloved Son: hear him. And when the voice was past, Jesus was found alone	Luke 9.35- 6
+Myr shen tra v’ad ersooyl magh, scar ad veih my-cheilley, as chyndaa reesht haink ad gys yn un voayll; as lurg daue v’er vriaght eh my-cheilley yn oyr, ghow ad rish nyn yeearree: eisht phoint ad traa ny-neesht cooidjagh, tra oddagh ad geddyn ee ny lomarcan.	So when they were gone out, they parted the one from the other, and turning back again they came to the same place; and after that they had asked one another the cause, they acknowledged their lust: then appointed they a time both together, when they might find her alone	Susanna 14
+Myr shoh hie ad magh gys giat ard-valley, Vethulia, as hooar ad ny shassoo [sic] ayns shen Osias, as shanstyryn yn ard-valley	Thus they went forth to the gate of the city of Bethulia, and found standing there Ozias and the ancients of the city	Judith 10.6
+Ec Billey’n tushtey hooar eh ee ny shassoo, E sooillyn injil jeeaghyn er y thalloo	At the Tree of Knowledge he found her standing, her eyes looking low to the ground	Pargys Caillit
+As Jimmee eh geiyrt er y dooinney dy Yee, as hooar eh eh ny hoie fo billey-darragh	And went after the man of God, and found him sitting under an oak	1 Ki. 13.14
+As haink eh gy-kione, lurg three laa dy dooar ad eh ayns y chiamble, ny hoie mastey ny fir- ynsee, chammah geaishtagh roo, as cur feyshtyn orroo	And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions	Luke 2.46
+Eshyn ta dy leah shirrey ee, cha mooar vees e ghoccar, son yiow eh ee ny soie ec e ghorryssyn	Whoso seeketh her early shall have no great travail: for he shall find her sitting at his doors	Wis. 6.14
+Stative predicates with possessives in Classical Manx
+9
+Stative predicates as complements of the objects of transitive verbs
+goaill	My vees dooinney goit ny lhie marish ben-phoost, eisht bee ad ny-neesht er nyn goyrt gy-baase, chammah yn dooinney, ren lhie marish y ven, as y ven hene	If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman	Deut. 22.22
+jannoo	Son shickyrys ayns yn oie, ta Ar jeh Moab jeant ny hraartys, as ny- host	Because in the night Ar of Moab is laid waste, and brought to silence	Isa 15.1
+jeeaghyn	As yeeagh eh dooys Joshua yn ard- saggyrt, ny hassoo fenish ainle y Chiarn as Satan shassoo ec e laue yesh, dy chur eddin da	And he shewed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to resist him	Zec. 3.1
+ve rour da	son ta’n errey shoh ro hrome er dty hon; te rour dhyt’s dty lomarcan dy ymmyrkey	for this thing is too heavy for thee; thou art not able to perform it thyself alone	Ex. 18.18
+D.	Causative constructions with cur
+Causative constructions with cur
+cur As ghow eh ad shoh ooilley, as yiare eh dagh unnane oc ayns daa ayrn, as hug eh dagh peesh ny lhie yn derrey yeh noi yn jeh elley	And he took unto him all these, and	Gen. 15.10 divided them in the midst, and laid each piece one against another
+As haink ad gys y voayl va Jee er hoilshaghey da, as hrog Abraham altar ayns shen as chiartee eh yn fuygh as chiangle eh Isaac e vac, as hug eh ny lhie eh er y fuygh v’er yn altar.	And they came to the place which	Gen. 22.9 God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood
+lhig da my vioys y stampey sheese er y thalloo, as cur my onnor ny lhie ’sy joan	let him tread my life down upon the Ps. 7.5 earth, and lay mine honour in the dust
+As hug ee son y theihll yn chied mac rug jee, as hoill ee eh ayns aanrityn soïllee, as hug ee eh ny lhie ayns manjoor, er-y-fa nagh row room er nyn son ayns y thie-oast	And she brought forth her firstborn	Luke 2.7 son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn
+Cur-jee ad nyn lhie ayns daa charnane rish lhiattee’n yiat, derrey’n voghrey	Lay ye them in two heaps at the	2 Ki. 10.8 entering in of the gate until the morning
+Va’n chied-er jeu goll-rish lion, lesh skianyn urley: as yeeagh mee, derrey va ny skianyn spolgit Jeh, lhieu v’eh troggit seose veih yn thalloo, as v’eh currit ny hassoo er e chassyn, myr dooinney, as va cree dooinney er ny choyrt da	The first was like a lion, and had	Dan. 7.4 eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it
+As hug ad lhieu yn assyl as y lhiy, as hug ad orroo nyn eaddeeyn, as hug ad eshyn ny hoie orroo	And brought the ass, and the colt,	Mat. 21.7 and put on them their clothes, and they set him thereon
+Stative predicates with possessives in Classical Manx
+10
+Causative constructions with cur
+Agh Michael yn ard-ainle, tra ayns streeu rish y drogh-spyrryd, v’eh pleadeil mychione corp Voses, cha ghow eh er dy choyrt stiagh plaiynt oltooanagh n’oï agh dooyrt eh, Dy der y Chiarn oo dty-host.	Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee	Jude 1.9
+Rish lhing Voses myrgeddin ren eh obbyr vyghinagh, eh hene as Caleb mac Jephunne, ayns dy hass ad noi yn irree-magh, as lhiett ad yn pobble veih peccah, as hug ad ny-host yn trughanys mee-chrauee	In the time of Moses also he did a work of mercy, he and Caleb the son of Jephunne, in that they withstood the congregation, and withheld the people from sin, and appeased the wicked murmuring	Ecclesiasticus 46.7
+as ver-yms ny-host yn trughanys ta cloan Israel, jannoo m’oï [sic]	and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you	Num. 17.5
+Mannagh beagh y Chiarn er chooney lhiam: cha row saase my chour nagh beagh m’annym er ny choyrt ny-host	If the Lord had not helped me: it had not failed but my soul had been put to silence	Ps. 94.17
+Ta bannaghtyn er kione yn er- cairagh: agh ver tranlaase ny-host beeal ny drogh-yantee	Blessings are upon the head of the just: but violence covereth the mouth of the wicked	Prov. 10.6
+Son dy vel y Chiarn er speeiney Babylon, as er chur ny-host [sic] ayn- jee yn coraa vooar [vooar implies coraa f., though then one would expect yn choraa vooar]	Because the Lord hath spoiled Babylon, and destroyed out of her the great voice	Jer. 51.55
+Son myr shen ta aigney Yee, dy vod shiuish lesh jannoo mie mee-hushtey deiney ommijagh y chur ny-host	For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men	1 Pet. 2.15
+E.	In apposition to verb subjects
+The use of ny lomarcan ‘alone’ in apposition to verb subjects resembles the use of possessives with low
+numerals: ny neesht ‘both’, ‘the two of us/you/them’ (< *nyn yees ‘our/your/their two’); nyn droor ‘we
+three/you three/the three of them’; nyn giare ‘we four/you four/the four of them’. But these numeral
+expressions are not also used as predicates.
+Apposition to verb subjects
+Agh adsyn nyn lhie fo cadley trome yn oie cheddin, va dy jarroo atchimagh, as nagh dod shaghney shen haink orroo veih diunid yn niurin, Va paart jeu seaghnit lesh scaanyn neu-ghooghyssagh …	But they sleeping the same sleep that night,	Wis. 17.14- which was indeed intolerable, and which	15 came upon them out of the bottoms of inevitable hell, Were partly vexed with monstrous apparitions
+Dooys v’eh myr muc-awin ny lhie farkiaght, as myr lion cooylchlea	He was unto me as a bear lying in wait, and	Lam. 3.10 as a lion in secret places
+Cha vod-yms gymmyrkey errey ooilley’n pobble shoh my-lomarcan, son dy vel eh ro-hrome er my hon	I am not able to bear all this people alone,	Num. 11.14 because it is too heavy for me
+Stative predicates with possessives in Classical Manx
+11
+Apposition to verb subjects
+Cha vel mish er-son reill shiu my- lomarcan	I am not able to bear you myself alone	Deut. 1.9
+[K]ys oddym’s my-lomarcan gymmyrkey ny cooishyn, yn errey, as yn anvea eu?	How can I myself alone bear your cumbrance, and your burden, and your strife?	Deut. 1.12
+As huitt ny Sabeanee orroo, as ghow ad ad ersooyl; as t’ad er varroo ny sharvaantyn lesh foyr y chliwe: as ta mish my-lomarcan er scapail dy insh dhyt	And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee	Job. 1.15
+Reesht, my ta jees lhie cooidjagh, eisht ta chiass oc; agh kys oddys fer ve cheh ny-lomarcan?	Again, if two lie together, then they have heat: but how can one be warm alone?	Eccl. 4.11
+Ta mee er stampey yn press-feeyney ny-lomarcan [sic]; as jeh’n pobble cha row fer jeu mârym [expected: my lomarcan]	I have trodden the winepress alone; and of the people there was none with me	Isa. 63.3
+As dooyrt ny shanstyryn, Myr va shinyn shooyl ’sy gharey ny lomarcan [sic], haink y ven shoh marish daa ven aeg	And the elders said, As we walked in the garden alone, this woman came in with two maids	Susanna 36
+Eisht, ny hassoo ’sy vean oc, dooyrt eh, Vel shiu lheid ny ommidanyn, shiuish vec Israel, dy vel shiu fegooish feyshtey ny toiggal jeh’n irriney, er gheyrey inneen jeh Israel?	So he standing in the midst of them said, Are ye such fools, ye sons of Israel, that without examination or knowledge of the truth ye have condemned a daughter of Israel?	Susanna 48
+As dooyrt eh, Jean breearrey dou: as ren eh breearrey da, as ren Israel ooashlaghey, croymmey er e lorg, ny hoie ec kione ny lhiabbagh	And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head. [Vulgate: quo iurante adoravit Israhel Deum, conversus ad lectuli caput. Manx: and Israel worshipped, bent on his staff, seated at the head of the bed]	Gen 47.31
+Cha vow laue ny haaue veg.	An idle hand will receive nothing.	Cregeen Prov.
+Ta çhengey ny host ny share na olk A silent tongue is better than evil speaking.	Cregeen
+y ghra.	Prov.
+Stative predicates with possessives in Classical Manx
+12
+The following table summarizes which of the stative predicates with possessives are used in each of
+the constructions mentioned above.
+A B C D E		CADLEY	LHIE	LOMARCAN	SHASSOO	SOIE	TAAUE	TOST	TROSTEY
+	ve	/	/	/	/	/	/	/	/
+	baghey			/					
+	çheet					/			
+	goll			/					
+	goll ersooyl			/					
+	ny lhie	^							
+	roie			/					
+	shassoo						/		
+	soie			/				/	
+	tannaghtyn							/	/
+	tuittym	/							
+	ceau yn oie								/
+	cummal				/				
+	cur ersooyl								/
+	cur lesh		/						
+	cur my ner			/					
+	faagail			/	/				
+	faagail y currym er			/					
+	fakin		/		/	/			
+	feddyn	/	/	/	/	/			
+	goaill		/						
+	jannoo							/	
+	jeeaghyn				/				
+	ve rour da			/					
+	cur		/		/			/	
+	Apposition	to subject		/	/	/	/	/	/	
+Stative predicates with possessives in Classical Manx
+13
+MY/DTY/NY/NYN LOMARCAN restrictive focusing modifier: ‘only’, ‘just’,
+‘exclusively’
+When the focused item is 1sg or 2sg, my lomarcan, dty lomarcan are usually found. But when the
+focused item is plural the expected nyn lomarcan is exceptional, the default 3sg ny lomarcan being
+used. The latter cases are indicated with [sic] in the examples below. The distinction between ‘alone,
+solitary’ and ‘only’ is not always easy to make; English ‘alone’ has often the sense ‘only’.
+My/dty/ny/nyn lomarcan ‘only’
+As ren Joseph eh ny leigh harrish cheer Egypt, gys y laa t’ayn jiu, dy beagh yn wheiggoo ayrn ec Pharaoh; er-lhimmey jeh thalloo ny saggyrtyn ny lomarcan, nagh row dy ve lesh Pharaoh	And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part, except the land of the priests only, which became not Pharaoh’s.	Gen. 47.26
+As hed ny froggyn void’s, as veih dty hieyn, as veih dty harvaantyn, as veih dty phobble; ayns yn awin ny lomarcan vees ad	And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only	Ex. 8.10
+Ny lomarcan ayns cheer Ghoshen raad va cloan Israel, cha row veg y sniaghtey- garroo	Only in the land of Goshen, where the children of Israel were, was there no hail	Ex. 9.26
+cha bee monney erbee dy obbyr jeant orroo, er-lhimmey jeh ny shegin da dy chooilley ghooinney gee, shen ny lomarcan ta lowit diu dy yannoo.	no manner of work shall be done in them, save that which every man must eat, that only may be done of you	Ex. 12.16
+Quoi erbee hebbys oural da jee erbee, agh da’n Chiarn ny-lomarcan, bee eh stroit gyn vyghin	He that sacrificeth unto any god, save unto the Lord only, he shall be utterly destroyed	Ex. 22.20
+As dooyrt ad, Vel y Chiarn er loayrt dy jarroo ny-lomarcan liorish Moses? nagh vel eh myrgeddin er loayrt liorinyn?	And they said, Hath the Lord indeed spoken only by Moses? hath he not spoken also by us?	Num. 12.2
+Lhig daue poosey lurg nyn aigney hene: ny-lomarcan rish deiney-mooinjer jeh tribe nyn ayrey nee ad poosey.	Let them marry to whom they think best; only to the family of the tribe of their father shall they marry	Num. 36.6
+nagh nee er arran ny-lomarcan ta dooinney beaghey, agh liorish creerbee ta cheet magh ass beeall y Chiarn ta dooinney beaghey	that man doth not live by bread only, but by every word that proceedeth out of the mouth of the Lord doth man live.	Deut. 8.3
+As cha nee riuish ny-lomarcan [sic] ta mee jannoo’n conaant, as y breearrey shoh	Neither with you only do I make this covenant and this oath	Deut. 29.14
+as nee ooilley’n pobble treigeil eh; as bwoaillym y ree ny-lomarcan	and all the people that are with him shall flee; and I will smite the king only	2 Sam. 17.2
+son ayd’s, dy jarroo ayd’s dty lomarcan, ta fys cre t’ayns creeaghyn ooilley cloan gheiney	for thou, even thou only, knowest the hearts of all the children of men	1 Ki. 8.39
+Eisht dooyrt Elijah rish y pobble, She mish, dy jarroo mish my-lomarcan, t’er- mayrn ayns shoh jeh phadeyryn y Chiarn	Then said Elijah unto the people, I, even I only, remain a prophet of the Lord	1 Ki. 18.22
+ny-lomarcan ayns Kir-haraseth daag ad ny voallaghyn echey shassoo	only in Kirharaseth left they the stones thereof	2 Ki. 3.25
+Stative predicates with possessives in Classical Manx
+14
+My/dty/ny/nyn lomarcan ‘only’
+Dauesyn ny-lomarcan [sic] va’n thalloo er ny choyrt, as nagh daink joarree erbee ny mast’oc	Unto whom alone the earth was given, and no stranger passed among them	Job 15.19
+Dt’oï’s dty-lomarcan ta mee er n’yannoo peccah	Against thee only have I sinned	Ps. 51.4
+Ta’n smooinaghtyn croutagh oc ny- lomarcan kys dy chur eshyn sheese baillish Jee y hoiaghey seose	Their device is only how to put him out whom God will exalt	Ps. 62.4
+ta chiarnyn elley cheu-mooie jeed’s er reill harrin; agh liort’s ny-lomarcan [sic: not dty lomarcan] nee mayd gimraa er dty ennym	other lords beside thee have had dominion over us: but by thee only will we make mention of thy name	Isa. 26.13
+bee ad-hene ny-lomarcan [sic] er ny livrey, agh bee yn cheer ny hraartys	they only shall be delivered, but the land shall be desolate.	Ez. 14.16
+As honnick mish Daniel my-lomarcan yn ashlish, son cha vaik ny deiney va marym yn ashlish	And I Daniel alone saw the vision: for the men that were with me saw not the vision	Dan. 10.7
+Shiuish ny-lomarcan [sic] ta mee er reih jeh ooilley kynneeyn y thallooin: shen-y-fa nee’m shiu y cherraghey son ooilley nyn meechraueeaght	You only have I known of all the families of the earth: therefore I will punish you for all your iniquities	Amos 3.2
+My she da nyn mraaraghyn ny lomarcan [sic] ta shiu coyrt oltaghey-bea, cre smoo ta shiu dy yannoo na feallagh elley?	And if ye salute your brethren only, what do ye more than others?	Mat. 5.47
+Cha nee dy chooilley ghooinney oddys shen y ghoaill er, agh adsyn ny-lomarcan [sic] daue te er ny choyrt	All men cannot receive this saying, save they to whom it is given	Mat. 19.11
+Kys hie eh stiagh ayns thie Yee, as ghow eh as d’ee eh yn arran casherick, as hug eh eh myrgeddin dauesyn va marish, ga nagh row eh lowit dy ve eeit, agh liorish ny saggyrtyn ny-lomarcan [sic]?	How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?	Luke 6.4
+Chamoo ta mee guee er ny son oc shoh nyn lomarcan, agh myrgeddin er ny son ocsyn nee credjal aynym’s trooid y goo oc	Neither pray I for these alone, but for them also which shall believe on me through their word	John 17.20
+Myr shen dy vel, cha nee ny-lomarcan yn cheird shoh ain ayns dangeyr dy ve mee lowit; agh myrgeddin chiamble yn ven Jee vooar Diana dy ve beg soit jeh, as yn ard- ooashley eck dy ve er ny stroie, jeeish ta ooilley Asia as y seihll cur ooashley	So that not only this our craft is in danger to be set at nought; but also that the temple of the great goddess Diana should be despised, and her magnificence should be destroyed, whom all Asia and the world worshippeth	Acts 19.27
+Vel eshyn Jee ny Hewnyn ny-lomarcan [sic]?	Is he the God of the Jews only?	Rom. 3.29
+Ny nee mish as Barnabas ny-lomarcan [sic] nagh vel ec nyn reamys dy chur nyn geird dy lhiattee?	Or I only and Barnabas, have not we power to forbear working?	1 Cor. 9.6
+Agh v’ad ny-lomarcan er chlashtyn, Dy vel eshyn ren ’sy traa pastit tranlaase orrin, nish preacheil yn credjue v’eh roïe dy stroie	But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed	Gal. 1.23
+agh ren Jee myghin er, as cha nee ersyn ny-lomarcan, agh orrym’s myrgeddin	but God had mercy on him; and not on him only, but on me also	Phil. 2.27
+Stative predicates with possessives in Classical Manx	15
+My/dty/ny/nyn lomarcan ‘only’
+Cur-jee my-ner cha vel mee er laboragh er my hon hene my lomarcan, agh er y hon ocsyn ooilley ta shirrey lurg creenaght.	Behold that I have not laboured for	Ecclesiasticus myself only, but for all them that	24.34 seek wisdom
+Harrystoo shoh ny-lomarcan [sic] va skeaylt oie groamagh	Over them only was spread an heavy Wis. 17.20 night
+Stative predicates with possessives in Classical Manx
+16
+Appendix on saie ‘satiety, sufficiency’
+Saie is used only in the expressions
+my haie ‘sufficiently for me’
+dty haie ‘sufficiently for thee’
+e haie ‘what is sufficient for him’
+nyn saie ‘what is sufficient for us/you/them’, ‘sufficiently for us/you/them’.
+Whereas the examples for my haie and dty haie show this idiom used adverbially, the examples of e
+haie are direct objects. With nyn saie, which is considerably more frequent, we find both nominal and
+adverbial uses.
+Ta my haie cooid-seihlt aym, as mooarane ayns my chummal; as cre olk oddys cheet my raad ny lurg shoh?	I have enough, and possess many things, and what evil shall I have hereafter?	Ecclesiasticus 11.24
+Ta my haie fys aym, dy vel dy chooilley phecca ren mee rieau, as nagh vel mee er-ghoail-roo, as er yeearree pardoon er nyn son, shassoo ayns briwnys m’oi.	I am convinced, that all the sins I ever committed, and which I have not confessed and begged pardon for, do stand in judgment against me.	Wilson, Sermon 1
+As bee dty haie bainney goair ayd son dty vee, dy yannoo magh dty lught-thie, as son beaghey dty inneenyn.	And thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens	Prov. 27.27
+As cur-my-ner beisht elley, yn nah-er, goll-rish muc-awin, as hrog eh eh-hene seose er y derrey heu, lesh three asnaghyn ny veeal, eddyr e eeacklyn: as dooyrt ad myr shoh rish, Trog ort, ee dty haie feill	And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh	Dan. 7.5
+T’eh lostey paart jeh ’syn aile; lesh paart elley t’eh gaarlaghey feill: t’eh roastey bee, as gee e haie	He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied	Is. 44.16
+S’mooar y tooilleil t’er y verchagh ayns coyrt seose berchys, as tra t’eh er gheddyn e haie, t’eh goaill soylley jeh e chooid	The rich hath great labour in gathering riches together; and when he resteth [Manx: when he has got his fill], he is filled with his delicates	Ecclesiasticus 31.3
+Cha bee eshyn gyn-loght ta sayntoilagh er airh, as eshyn ta coyrt rish drogh- ghellal yiow eh e haie jeh	He that loveth gold shall not be justified, and he that followeth corruption shall have enough thereof	Ecclesiasticus 31.5
+hug oo daue nyn saie dy ushtey liorish saaseyn erskyn nyn yercal	thou gavest unto them abundance of water by a means which they hoped not for	Wisdom 11.7
+As va ny chibbraghyn folmit, as cha row ushtey nyn saie oc son un laa	And the cisterns were emptied, and they had not water to drink their fill for one day	Judith 7.21
+Shoh myr vees eh, tra ver y Chiarn diuish ec yn astyr feill dy ee, as ayns y voghrey nyn saie arran	This shall be, when the Lord shall give you in the evening flesh to eat, and in the morning bread to the full	Ex. 16.8
+Lhig-jee dou loayrt; as eisht craid-jee nyn saie	Suffer me that I may speak; and after that I have spoken, mock on	Job 21.3
+Tar royd, lhig dooin goaill nyn saie dy ghraih, derrey’n voghrey, lhig: dooin shin hene y gherjaghey lesh graih	Come, let us take our fill of love until the morning: let us solace ourselves with loves	Prov. 7.18
+Stative predicates with possessives in Classical Manx	17
+Ayns fockle, ta nyn saie fys eu kys	In short, you know very well how you bailliuish feallagh elley dy hoilshaghey would have others to shew their love yn aigney-mie ocsyn diu hene	for you.	Wilson, Sermon 2, p. 36

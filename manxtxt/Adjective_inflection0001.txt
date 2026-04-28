@@ -1,0 +1,1017 @@
+﻿Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+1
+Manx Gaelic inflection, 4. Adjectives
+Manx adjectives may inflect for either of the categories comparative and plural, or for both, or
+for neither. There is no distinct superlative: comparative in Manx covers ‘comparative’ and
+‘superlative’.
+There are two suffixes available for the comparative: -ee and -ey. The comparative suffix -ee
+occurs almost exclusively with adjectives containing the suffix -agh, which is replaced by -ee
+in the comparative (e.g. graihagh ‘loving’ - graihee ‘more loving’). Cregeen gives 334
+examples of adjectives in -agh that are inflected in this way. The comparative suffix -ey is
+sometimes accompanied by a change in the stem it is attched to, such as syncope (loss of a
+medial syllable, as in mennick ‘frequent’ - menkey ‘more frequent’), a change of stem vowel
+similar to what takes place in some noun genitives before the suffix -ey (e.g. liauyr ‘long’ -
+lhiurey ‘longer’), or a suppletive stem (e.g. olk ‘bad’ - (s)messey ‘worse’). In Cregeen there are
+some 117 comparatives in -ey. A dozen adjectives have irregular comparative forms, not
+involving a suffix, but some other change in the stem (e.g. lhean ‘wide’ - lhea ‘wider’), or a
+completely different stem (suppletive, e.g. beg ‘small’ - (s)loo ‘smaller’). When no
+comparative inflection is available for an adjective, the comparative sense comes from the
+comparative construction itself, which is used in the same way with uninflected and inflected
+comparatives, as, for example, in (uninflected) t’ee ny s’costal na rubieyn ‘she is more precious
+than rubies’; (inflected) va ny Nazariteyn eck ny s’glenney na sniaghtey ‘her Nazarites were
+purer than snow’. The construction of these is, in origin at least, as in (1).
+(1)	a. t’	ee	ny	s’	costal	na	rubieyn
+	is	she	that-which	is	precious	than	rubies
+	b. va	ny Nazariteyn eck	ny	s’	glenn-ey	na	sniaghtey
+	were	the Nazarites at-her	that-which	is	pure-r	than	snow
+With ‘inexplicit’ comparatives, the only mark of the ‘comparison’ may be the particle s’ (= the
+copula verb), as in yn dobberan s’doogh ‘the bitterest lamentation’, though in nearly all the
+Biblical examples of this construction, the form of the comparative adjective is itself
+distinctive, as in ayns ardjyn s’diuney y thallooin ‘in the deeper/deepest regions of the earth’.
+Because the s’ particle of the comparative construction was originally the present tense of the
+copula (‘is’), comparison in the past could involve the past tense form of the copula by or b’.
+In the Bible there are a handful of examples displaying this use, e.g. b’yrjey ‘(was) higher’,
+b’odjey ‘(was) further’, by niartal ‘(was) mightiest’.1 Bare ‘(was) better’, ‘(would be) better’,
+corresponding to share ‘(is) better’ remains current in modern Manx.
+In Classical Manx (The Bible and Cregeen), smoo ‘more’ (pronoun), ‘greater, larger’
+(comparative adjective) is not used in explicit comparisons modifying an adjective. That is to
+say, these texts do not have the construction mentioned by Goodwin, First Lessons in Manx,
+p. 42: va’n dooinney shen ny smoo sayntoil na adsyn ooilley ‘that man was more covetous than
+them all’. In Classical Manx, this would have to be va’n dooinney shen ny sayntoil na adsyn
+1 Cregeen appears not to have fully understood this construction: he gives by-niartal as an adverb “by-niartal,
+adv. because of strength, those of strength; Psl. lxxviii. 52: As woaill eh ooilley yn chied v'er nyn ruggey ayns
+Egypt: yn vooinjer b’yrjey as by-niartal ayns cummallyn Ham. And smote all the first-born in Egypt: the most
+principal and mightiest in the dwellings of Ham.”
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+2
+ooilley (without s’ because the adjective itself begins with s-). Examples are given below of
+how smoo is used in the Bible.
+The suffix used to make plural adjectives is also -ey. It is added to the basic singular stem (with
+nearly always no more than orthographic changes). Thus some adjectives that inflect with -ey
+for both comparative and plural show a changed stem in the comparative, but not in the plural,
+e.g. çhionn ‘stiff, tight’, comp. çhienney, pl. çhionney. Cregeen gives some 92 plural adjective
+forms. Nearly all the adjectives that can take a plural inflection are monosyllabic, such as beg
+‘small’, pl. beggey, though plural forms are offered for eight two-syllable adjectives.2 Of those
+92 plural adjectives, only 24 are attested in the Bible, though some of these that are are
+extremely frequent, such as aegey ‘young’ (x142), ardey ‘high’ (x10), beggey ‘small’ (x98),
+çhingey ‘sick’ (x12), dowiney ‘deep’ (x12), mooarey ‘large’ (x136). Plural adjectives are used
+only in attributive constructions, e.g. neem’s ny ynnydyn cammey y yannoo jeeragh ‘I will
+make the crooked places straight’, not in predicative constructions (where positive adjectives
+are uninflected), e.g. t’eh er n’yannoo [m]y chassanyn cam ‘he hath made my paths crooked’.
+Adjectives ending in -agh, with comparative in -ee, according to Cregeen3
+Adj. in -agh	Comp. in -ee	Adj. in -agh		Comp. in -ee	
+accrysssagh	accryssee	hungry	banglaneagh	banglanee	branching
+aggairagh	aggairee	unjust	beishtagh	beishtee	beastly,
+agglagh	agglee	terrible,			brutish
+		timorous	berçhagh	berçhee	rich
+aileagh	ailee	fiery,	beysagh	beysee	compliant
+		flammable	biallagh	biallee	submissive,
+ainjyssagh	ainjyssee	familiar			docile
+almoragh	almoree	ignorant	billagh	billee	wooded
+ammyssagh	ammyssee	respectful	birragh	birree	pointed
+angaaishagh	angaaishee	agonising	blaaagh	blaaee	flowery
+anmagh	anmee	late	boirragh	boirree	worrying
+anoayllagh	anoayllee	unaccustomed	bollagh	bollee	absolute,
+anveagh	anveaee	upsetting			entire
+arganagh	arganee	contentious	bolvaneagh	bolvanee	foolish
+arkyssagh	arkyssee	distressed,	booiagh	booiee	pleased
+		afflicted	breenagh	breenee	sultry
+arreydagh	arreydee	watchful	brishtagh	brishtee	brittle
+arryltagh	arryltee	willing	broutagh	broutee	savage
+arrymagh	arrymee	respectful	bugganeagh	bugganee	frightening,
+arryssagh	arryssee	repentant			scary
+atçhimagh	atçhimee	astonished,	bwaagh,	bwaaie4	handsome
+		shocking	pl. bwaaghey		
+Baarlagh	Baarlee	English	bwoailtagh	bwoailtee	percussive,
+baccagh	baccee	disabled			quarrelsome
+baggyrtagh	baggyrtee	threatening	caarjyssagh	caarjyssee	friendly
+banganagh	banganee	branchy			
+2 Namely: baasoil, pl. baasoiley ‘fatal’, dunnal, pl. dunnalley ‘bold’, khyrloghe, pl. khyrloghey ‘infirm’, lajer,
+pl. lajerey ‘strong’, mhenoyr, pl. mhenoyrey ‘mellow’, shickyr, pl. shickyrey ‘sure’, sooeeagh, pl. sooeey (sic)
+‘sooty’, tramylt, pl. tramyltey ‘sturdy’. Bear in mind that e.g. shliawin is monosyllabic [ʃljɛudnj] (Joseph
+Woodworth), pl. shliawney ‘slippery’, and similarly dowin [daunj] (Ned Maddrell), pl. dowiney ‘deep’, dewil
+[døulj] (Harry Kelly), pl. dewiley ‘cruel’.
+3 In this and the following tables I have taken the adjective meanings largely from Phil Kelly’s Dictionary, as
+Cregeen’s adjective senses are not always succinct or helpful.
+4 NB spelling.
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+3
+Adj. in -agh	Comp. in -ee	
+cabbagagh	cabbagee	abounding in docks
+cadjin	cadjinee	common, ordinary
+cadlagh	cadlee	sleepy
+cairagh	cairee	fair
+cairailagh	cairailee	careful
+camlaagagh	camlaagee	perverse, illicit
+carnaneagh	carnanee	heaped
+carragh	carree	scabby
+cassanagh	cassanee	passable
+caulgagh	caulgee	bristly, barbed
+çhelleeragh	çhelleeree	immediate
+çhymsagh	çhymsee	cumulative
+clabbinagh	clabbinee	squally
+claghagh	claghee	stony
+clugagh	clugee	cunning, crafty
+condaigagh	condaigee	contrary, stubborn
+cooinidagh	cooinidee	retentive
+cooinsheans-	cooinsheans-	conscientious
+agh	ee	
+cossylagh	cossylee	middling, tolerable
+costalagh	costalee	expensive
+craidoilagh	craidoilee	derisive
+craitnagh	craitnee	skinlike
+craiuaigagh	craiuaigee	ruinous
+crammanagh	crammanee	lumpy
+craplagh	craplee	wrinkled
+creaynagh	creaynee	shivering
+creggagh	creggee	rocky
+cregganagh	cregganee	rugged
+cribbidjagh	cribbidjee	stingy
+croaganagh	croaganee	importunate
+cronganagh	cronganee	hillocky
+croobagh	croobee	lame
+croutagh	croutee	wily
+cruittagh	cruittee	humpbacked
+cuilleigagh	cuilleigee	recessed
+cuishlinagh	cuishlinee	veined
+cumrailagh	cumrailee	obstructive, tedious
+curneeinagh	curneeinee	huffy
+danjeyragh	danjeyree	dangerous
+debejagh	debejee	desperate
+deinagh	deinee	weary, laborious
+dendeysagh	dendeysee	delicate
+dholtaneagh	dholtanee	doltish
+dhonnanagh	dhonnanee	duncelike
+doaltattymagh	doaltattymee	sudden
+doccaragh	doccaree	arduous
+doghanagh	doghanee	ill
+dorrinagh	dorrinee	stormy
+dourinagh	dourinee	diseased, contagious
+dressagh	dressee	brambly
+Adj. in -agh	Comp. in -ee	
+drineagh	drinee	thorny
+drollaneagh	drollanee	indolent
+dronnagh	dronnee	convex
+drughaigagh	druighaigee	full of hips
+druightoilagh	druightoilee	dewy
+duillagagh	duillagee	leafy
+dunveragh	dunveree	murderous
+eadolagh	eadolee	jealous
+eairkagh	eairkee	horned
+earrooagh	earrooee	numerous
+eignagh	eignee	obligatory, necessary
+elgyssagh	elgyssee	spiteful
+ennaghtagh	ennaghtee	sensitive
+erreeishagh	erreeishee	sympathetic
+eulyssagh	eulyssee	indignant
+eunyssagh	eunyssee	delightful
+faasaagagh	faasaagee	bearded
+fadaneagh	fadanee	remote, reclusive
+faghidagh	faghidee	contemptible, insulting
+faitagh	faitee	timid, shy
+fammanagh	fammanee	tail-like
+fardalagh	fardalee (s’ardalee)	trivial, vain
+fastagh	fastee	pensive,
+		uncommunica-
+		tive
+fasteeagh	fastee	sheltered
+feagh	feaee	still, quiet
+fedjagagh	fedjagee	feathery
+feeacklagh	feeacklee	toothed, snappish
+feillagh	feillee	meaty, fleshy
+feiyragh	feiyree	noisy
+fendeilagh	fendeilee	defensive
+feohdagh	feohdee	disgusting
+feoiltagh	feoiltee	liberal
+feoisagh	feoisee	slight
+fergagh	fergee	ferocious
+firrinagh	firrinee	true
+flaunyssagh	flaunyssee	heavenly
+fliaghagh	fliaghee	rainy
+floutagh	floutee	slanderous, scurrilous
+foiljagh	foiljee	culpable
+fondagh	fondee	valid, effective
+fowanagh	fowanee	blasting
+foyragh	foyree	sharp-edged
+frappagh	frappee	popping
+frassagh	frassee	showery
+frauagh	frauee	primordial
+frauaigagh	frauaigee	fibrous
+freaynagh	freaynee	turbulent, surging
+freggyrtagh	freggyrtee	responsive
+freoaghagh	freoaghee	heathery
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+4
+Adj. in -agh	Comp. in -ee	
+freoaghanagh	freoghanee	abundant in bilberries
+frioganagh	frioganee	bristly
+frioosagh	frioosee	attentive, mindful
+fritlagh	fritlee	ragged
+frowartagh	frowartee	perverse
+fuirraghtagh	fuirraghtee	tardy
+fynneigagh	fynneigee	podded
+gaaigagh	gaaigee	chapped
+Gaeligagh	Gaeligee	favourable to Gaelic
+gallagh	gallee	gusty
+gammanagh	gammanee	sporty
+ganglanagh	ganglanee	bickering
+gannidagh	gannidee	derisive
+gargagh	gargee	acrimonious
+gaueagh	gauee	dangerous
+geayeeagh	geayee nb	windy
+gerjoilagh	gerjoilee	comfortable
+geuragh	geuree	wintry
+gewagh	gewee	painful
+giastyllagh	giastyllee	benevolent
+gibbagh	gibbee	pointed
+giuagagh	giuagee	in gullets, creeks
+goanlyssagh	goanlyssee	malicious
+gonnagh	gonnee	sore
+graihagh	graihee	loving
+griaghtagh	griaghtee	gregarious
+grianagh	grianee	sunny
+grinderagh	grinderee	taunting
+grineagh	grinee	granular, grainy
+groamagh	groamee	sullen
+guirragh	guirree	broody, ready to hatch
+imneagh	imneaee	anxious
+jaaghagh	jaaghee	smoky
+jarroodagh	jarrooddee	forgetful
+jeantagh	jeantee	practical
+jeeassagh	jeeassee	in ear
+jeebinagh	jeebinee	netlike, reticulated
+jeeigagh	jeeigee	ditched
+jeeragh	jeeree	direct
+jerrinagh	jerrinee	last, ultimate
+jiooldagh	jiooldee	nauseating, squeamish
+joanagh	joanee	dusty
+jollyssagh	jollyssee	insatiable
+jouyllagh	jouyllee	diabolical
+jummal(t)agh	jummal(t)ee	wasteful
+jymmoosagh	jymmoosee	angry
+keeayllagh	keeayllee	sensible, witty
+keshagh	keshee	frothy
+kialgagh	kialgee	tricky, deceitful
+kiarkylagh	kiarkylee	circular
+Adj. in -agh	Comp. in -ee	
+kicklagh	kicklee	ticklish
+kinjagh	kinjee	constant, regular
+kyndagh	kyndee	guilty
+laaghagh	laaghee	muddy
+laatçhagh	laatçhee	lacy
+lheibbeidjagh	lheibbeidjee	unwieldy
+lhiantagh	lhiantee	sticky
+litçheragh	litçheree	lazy, idle
+loghanagh	loghanee	full of lakes
+lossanagh	lossanee	luminous, bright
+louraanagh	louraanee	leprous
+maaigagh	maaigee	clumsy (with the hand)
+magganeagh	magganee	numb
+marvanagh	marvanee	mortal
+meekagh	meekee	winking, peeping
+meeylagh	meeylee	lousy
+mergagh	mergee	rusty
+mhenoyragh	mhenoyree	mellow, rich
+miandagh	miandee	fond; desirable
+mirrilagh	mirrilee	miraculous
+mitçhooragh	mitçhooree	mischievous
+moanagh	moanee	turfy, boggy
+moandagh	moandee	blunt; hesitant
+mollagh	mollee	shaggy
+mollaghtagh	mollaghtee	accursed, damned
+molteyragh	molteyree	deceptive, fraudulent
+mooaralagh	mooaralee	haughty
+moughaneagh	moughanee	coughing
+moyrnagh	moyrnee	proud
+myghinagh	myghinee	compassionate
+naareydagh	naareydee	shameful, bashful
+naarildagh	naarildee	shameful, bashful
+nieunagh	nieunee	poisonous
+oayllagh	oayllee	habitual, knowledge- able
+olkyssagh	olkyssee	wicked
+oltooanagh	oltooanee	censorious, critical
+ommidjagh	ommidjee	stupid
+onneragh	onneree	honest
+ooiganagh	ooiganee	pitted
+ooirragh	ooirree	earthy
+ooriltagh	ooriltee	refreshing
+ostylagh	ostylee	apostolic
+ouryssagh	ouryssee	suspicious
+peajeogagh	peajogee	mean
+piandagh	piandee	painful
+pishagagh	pishagee	magical; superstitious
+plooghanagh	plooghanee	suffocating
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+5
+Adj. in -agh	Comp. in -ee		Adj. in -agh	Comp. in -ee	
+quaagh	quaaie	strange	spaagagh	spaagee	flat-footed
+rastagh	rastee	squally	spaarailagh	spaarailee	frugal
+rastanagh	rastanee	uncultivated	speeikeenagh	speeikeenee	having spires
+reagh	reaie	randy	speeineigagh	speeineigee	thick-skinned
+reamyssagh	reamyssee	spacious			(fruit)
+reeastagh	reeastee	coarse, rough	spollagagh	spollagee	having chips
+resoonagh	resoonee	reasonable	staghylagh	staghylee	awkward
+rimmeigagh	rimmeigee	striped	stappanagh	stappanee	stumpy
+rollageagh	rollagee	starry	sterrymagh	sterrymee	stormy
+roonagh	roonee	vicious	sthanganagh	sthanganee	indebted
+rouailagh	rouailee	wandering,	sthurneishagh	sthurneishee	stubborn
+		rambling	streeuailtagh	streeuailtee	contentious
+rouanagh	rouanee	lewd, riotous	striggagh	striggee	slow to give
+ruishagh	ruishee	ruddy			milk
+samarkagh	samarkee	shamrock-	stronnagh	stronnee	nasal
+		covered	strooanagh	strooanee	streaming
+sampleyragh	sampleyree	typical,	surdremagh	surdremee	trustworthy
+		exemplary	surransagh	surransee	patient,
+saveenagh	saveenee	drowsy			tolerant
+sayntoilagh	sayntoilee	lustful,	taghyssagh	taghyssee	itchy
+		covetous	taitnyssagh	taitnyssee	pleasing
+scaaillagh	scaaillee	scaly	tammyltagh	tammyltee	occasional,
+scadooagh	scadooee	shady			temporary
+schimmeigagh	schimmeigee	streaky	tannaghtagh	tannaghtee	enduring
+screbbagh	screbbee	scabby	tappagagh	tappagee	tufty
+seihlltagh	seihlltee	secular,	tarmaynagh	tarmaynee	economical,
+		worldly			well-managed
+sheeabinagh	sheeabinee	soapy	tastagh	tastee	intelligent,
+shliggagh	shliggee	shelly			acute
+siyrragh	siyrree	hasty	teaymagh	teaymee	fanciful,
+skeealagh	skeealee	anecdotal			capricious
+skeetagh	skeetee	nosey	thallooinagh	thallooinee	earthly
+skeltagh	skeltee	apt to squat	thammagagh	thammagee	bushy
+skilleigagh	skilleigee	striated	thanvaneagh	thanvanee	amazing
+skyrraghtagh	skyrraghtee	liable to slip	thartagh	thartee	constipated
+sleaydagh	sleaydee	trailing,	thollaneagh	thollanee	dizzy
+		dragging	thorranagh	thorranee	full of
+sleetçhagh	sleetçhee	furtive			dungheaps
+sleitagh	sleitee	mountainous	thummidagh	thummidee	bulky
+slibbinagh	slibbinee	slovenly	toiggal(t)agh	toiggal(t)ee	intellectual,
+sluhtagh	sluhtee	sluttish			judicious
+smarageagh	smaragee	glowing	toilçhinagh	toilçhinee	deserving
+smiddagh	smiddee	smutty	tootagh	tootee	silly
+smoghanagh	smoghanee	stinking	torcanagh	torcanee	with choking
+smuggagh	smuggee	snotty			smoke
+smuiragh	smuiree	greasy,	torragh	torree	pregnant
+		marrowy	traartyssagh	traartyssee	devastating,
+sneggagh	sneggee	carping,			catastrophic
+		peevish	tranlaasagh	tranlaasee	tyrannical,
+sneihagh	sneihee	vexing, piqued			oppressive
+sockeragh	sockeree	easy-going,	treishteilagh	treishteilee	trustworthy,
+		plain			trusting
+soilsheanagh	soilsheanee	radiant	trimshagh	trimshee	sad
+sondagh	sondee	selfish,	trooagh	trooee	envious
+		miserly	troshtagh	troshtee	strong
+sonnaasagh	sonnaasee	arrogant,	tushtagh	tushtee	knowledge-
+		ambitious			able
+sonnyssagh	sonnyssee	abundant	ush(t)lagh	ush(t)lee	watery
+sou-aignagh	sou-aignee	despondent	vondeishagh	vondeishee	beneficial
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+6
+Adj. in -agh wagaantagh yindyssagh ymmyrçhagh	Comp. in -ee wagaantee	vagrant yindyssee	wonderful ymmyrçhee	needy,
+necessary
+In Cregeen the following adjectives ending in -agh explicitly have comparatives without
+inflection:
+Adj. in -agh	Comp.		Adj. in -agh	Comp.	
+shanglanagh	shanglanagh	empty-bellied	dwoaiagh	dwoaiagh	hateful
+kayeeagh	kayeeagh	foggy	doaieagh	doaieagh	civil
+feeagh	feeagh	valuable	craueagh	craueagh	bony
+fasteeagh	fasteeagh	sheltered	corragh	corragh	unstable
+Examples from the Bible, 1. Comparative inflected adjectives in explicit comparative
+constructions (i. e. with a standard or comparison).
+Comparatives in -ee are used in the Bible, as in the following examples:
+nagh vel my chynney’s ny s’fardalee na ooilley
+kynneeyn tribe Venjamin?
+t’ou er ve ny s’graihee er neu-chairys na er mieys
+bee mayd ny s’aggindee er dty ghraih na er feeyn
+as bee yn chiarroo foddey s’berchee na ad ooilley
+dy ve ny s’biallee diuish na da Jee
+agh ren mee laboragh ny s’doccarree na ad ooilley
+[is not] my family the least of all the
+families of the tribe of Benjamin?
+thou hast loved unrighteousness more than
+goodness
+we will remember thy love more than wine
+and the fourth shall be far richer than they
+all
+to hearken unto you more than unto God
+but I laboured more abundantly than they
+all
+However, in the Manx Bible, several adjectives that according to Cregeen have comparatives
+in -ee in fact are used uninflected. Here are some examples:
+nish va’n ardnieu ny s’croutagh na ooilley
+cretooryn [not croutee]
+va goan deiney Yudah ny s’fargagh na goan deiney
+Israel [not fargee or fergee]
+dy yannoo cairys as briwnys kiart, te ny
+s’taitnyssagh da’n Chiarn na ourallyn costal [not
+taitnyssee]
+bee ny s’arryltagh dy chlashtyn na dy hebbal oural
+yn ommydan [not arryltee]
+va ny eddinyn oc jeeaghyn ny s’aalin as ny
+s’ruishagh ayns feill na ooilley ny scollagyn, va gee
+jeh’n chooid-ronney reeoil [not ruishee]
+ta ny cabbil oc neesht ny s’bieau na ny leopardyn,
+as ny s’barbagh na moddee-oaldey yn astyr [not
+barbee]
+now the serpent was more subtil than any
+beast
+the words of the men of Judah were fiercer
+than the words of the men of Israel
+to do justice and judgment is more acceptable
+to the Lord than sacrifice
+be more ready to hear, than to give the
+sacrifice of fools
+their countenances appeared fairer and fatter
+in flesh than all the children which did eat the
+portion of the king's meat
+their horses also are swifter than the leopards,
+and are more fierce than the evening wolves
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+7
+Cregeen mentions comparatives in -ee for four adjectives that do not end in -agh:
+Adj.	Comp.	in -ee bane	banee	white broigh,	pl. broighey broiee	dirty dorraghey	dorree	dark	Adj. shickyr	Comp. in -ee shickyree	sure
+Of these, shickyree is attested in the Bible: Ta ain myrgeddin goo shickyree dy adeyrys	We have also	a more sure word of prophecy
+Dunnal ‘valiant’, which is uninflected for Cregeen, displays one example of comparative
+dunnallee in the Bible:
+Agh daase Saul ny s’dunnallee dy chooilley laa But Saul increased the more in strength, [lit.
+‘Saul grew more valiant each day’]
+Alongside this, there are two Bible examples of uninflected comparative dunnal:
+daa housane jeig jeh ny deiney s’dunnal	twelve thousand men of the valiantest
+cha by-loys da’n dooinney s’dunnal dy ghoostey None is so fierce that dare stir him up [lit. ‘the
+eh	boldest man dared not arouse him’]
+Adjectives with comparatives in -ey, according to Cregeen
+Most of the adjectives that have a comparative in -ey are monosyllabic.5 Those in Cregeen
+that are monosyllabic are listed in the following table:
+Adj.	Comp. in -ey	Adj.		Comp. in -ey	
+aitt	aittey	funny	feayr	feayrey	cold
+	~ aaittey		feeu	feeuey (pl.)	worth, worthy
+anchiart	anchiartey	incorrect,	fliugh	fliughey	wet
+cf. kiart		unequal	follan	follaney	sound, edible
+aw	awey	raw	follym	follymey	empty
+bane	baney	white	frogh	froghey	perished
+barb	barbey	sharp	geayr	geayrey	sour, sharp
+beayn	beayney	durable	~ gyere	~ gyerey	
+bing	bingey	tuneful	glass	glassey	green
+bioyr	bioyrey	brisk, animated	glen	glenney	clean
+boght	boghtey	poor	goan	genney	rare
+bouyr	bouyrey	deaf	gorrym	gorrymey	blue
+breinn	breinney	stinking	gort	gortey	sour, stale
+buigh	buighey	yellow	jeean	jeeaney	keen
+cam	cammey	crooked	jesh	jeshey	right, nice
+çhing	çhingey	ill	jiarg	jiargey	red
+çhirrym	çhirmey	dry	jooigh	jooighey	greedy
+cooie	cooieey	suitable, apt	keeir	keeirey	dark grey, sable
+coon	cooney	narrow	keoie	keoiey	mad
+corrym	cormey	equal, level	keyl	keylley	slender, slim
+dewil	dewiley	cruel	kiart	kiartey	right, even
+deyr	deyrey	dear	~ cairt	~ cairtey	
+dhone	dhoaney	brown	kiune	kiuney	calm
+doal	doaley	blind	lhag	laggey	loose
+doo	dooey	black	loam ~	loamey	bare
+feayn	feayney	wide	lhome		
+5 I am here taking çhirrym, corrym, follym, gorrym, and dewil as monosyllabic; NB. spelling of the
+comparatives çhirmey, cormey.
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+8
+Adj.	Comp. in -ey	Adj.		Comp. in -ey	
+loau	loauey	rotten	runt	runtey	round
+meein	meeiney	fine, soft	ruy	ruyey	red-haired
+meen	meeney	dear, patient	sheelt	sheeltey	sober
+meiygh	meiyghey	tender,	skeoigh	skeoighey	neat, snug
+		sentimental	~ schoigh	~ schoighey	
+merg	mergey	woeful	stark	starkey	stiff
+mow	mowey	waste, destroyed	stuitt	stuittey	trim; stout
+myn	myney	tiny	tash	tashey	damp
+oor	oorey	fresh	trean	treaney	heroic, valiant
+ouyr	ouyrey	dun-coloured	treoghe	treoghey	orphaned,
+rank	rankey	luxuriant			widowed
+reen	reeney	tough			
+In Cregeen, in addition, 24 polysyllabic adjectives have an inflected comparative in -ey, as
+displayed in the table following.
+Adj.	Comp. in -ey		Adj.	Comp. in -ey	
+aghtal	aghtaley	clever	gloyroil	gloyroiley	glorious
+anchasherick	anchasherickey	profane	graihoil	graihoiley	lovely
+annoon	annooney	feeble	graysoil	graysoiley	graceful
+baasoil	baasoiley	fatal	kenjal	kenjaley	kind
+breeoil	breeoiley	dynamic	khyrloghe	khyrloghey	infirm
+casherick	casherickey	holy	loghtal	loghtaley	severe
+ennoil	ennoiley	endearing,	lowal	lowaley	permissible
+		popular	mhenoyr	mhenoyrey	mellow, rich
+femoil	femoiley	necessary	skibbylt	skibbyltey	nimble
+feoilt	feoiltey	generous	slayntoil	slayntoiley	healthy
+flaaoil	flaaoiley	fluent	sollys	sollysey	bright
+~ floaoil	~ floaoiley		tramman	trammaney	entangled
+foayroil	foayroiley	favourable	trochoil	trochoiley	lenient
+Two adjectives ending in -agh have comparatives in -ey, rather than the expected -ee:
+Adj. in -agh Comp. in -ey
+laaghagh	laaghey	muddy
+troshagh	troshey	strong
+A very few adjectives with two syllables may lose the vowel of the second syllable in the
+comparative before -ey (‘syncope’). There are some other changes, of spelling, at least.
+Adj.	Comp. in -ey	Adj.	Comp. in -ey (syncopated)	(syncopated)
+anvennick gerrid injil	anvenkey	infrequent	mennick	menkey ~	frequent gerjey	soon, (recent)	mennickey inshley	low	millish	miljey	sweet ~ injilley
+Finally, among the adjectives with comparatives in -ey, Cregeen gives the following with some
+stem irregularity, vowel change, other changes of a related stem, and those with an unrelated
+(suppletive) stem in the comparative.
+Adj.	Comp. -ey with vowel change		Adj.	Comp. -ey with vowel change	
+ard	yrjey	high	dowin	diuney	deep
+bog	buiggey	soft	gial	gilley	bright
+çhionn	çhenney	stiff, tight	giare	girrey	short
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+9
+Adj.	Comp. -ey with vowel change		Adj. aalin	Comp. -ey (irregular) aaley	beautiful
+liauyr	lhiurey	long	aashagh	assey	easy
+moal	melley	slow,			
+		poor	Adj.	Comp. -ey (suppletive	
+roauyr	riurey	thick,		stem)	
+		plump	faggys	(s)niessey	near
+shenn	shinney	old	foddey	(s)odjey	far
+thanney	theinney	thin	lajer	(s)troshey	strong
+trome	trimmey	heavy	olk	(s)messey	bad
+Examples from the Bible, 2. Comparative inflected adjectives in -ey in explicit comparative
+constructions (with a standard of comparison)
+va e ghoan ny shliawney na ooil
+va ny Nazariteyn eck ny s’glenney na sniaghtey
+v’ad ny s’melley na joan ny hooirrey
+ta’n towse echey ny s’lhiurey na’n thalloo,
+as ny shlea na’n aarkey
+ren oo eh red beg s’inshley6 na ny ainleyn
+ta my cherraghey ny s’trimmey na oddym
+gymmyrkey
+his words were smoother than oil
+her Nazarites were purer than snow
+they were viler than the earth
+the measure thereof is longer than the earth,
+and broader than the sea
+thou madest him a little lower than the angels
+my punishment is greater than I can bear
+Inflected comparative adjectives without suffix, according to Cregeen
+Last among the inflected comparatives come those with stem changes (including some
+suppletive stems) but no suffix:
+Adj.	Comparative		Adj.	Comparative	
+aeg	(s)aa	young	garroo	girroo	rough
+çheh	çhoe	hot	sharroo	shirroo	bitter
+çhiu	çhee, pl. çheey	thick	beg	(s)loo	small
+leah	leaïe	early, soon	mie	share	good
+lhean	lhea (shlea)	wide	mooar	(s)moo	big
+pooaragh	pooaral	powerful	ymmodee	shlee	many
+Examples from the Bible, 3. Comparative inflected adjectives with stem changes but no suffix,
+in explicit comparative constructions (with a standard of comparison):
+t’ou uss foddey s’pooaral7 na shinyn	thou art much mightier than we
+bee e vraar saa ny s’pooaral na eshyn	his younger brother shall be greater than he
+6 In this predicate construction one might have expected ...red beg ny s’inshley na... (but see next footnote)
+7 In the predicate construction, one might expect ...ny s’pooaral na.. But there are several other cases in the Bible
+where ny is absent when foddey is present: as bee mairagh myr y laa jiu, as foddey s’rouanee ‘and to morrow
+shall be as this day, and much more abundant’; as bee yn chiarroo foddey s’berchee na ad ooilley ‘and the fourth
+shall be far richer than they all’; nagh vel shiuish foddey share na adsyn? are ye not much better than they?; as ta
+graih jeean e chree hiuish foddey s’troshey ‘and his inward affection is more abundant toward you’, etc. And, in
+fact, there are no cases in the Bible of foddey ny + comparative, so it appears to be a rule of Classical Manx
+grammar that ny is omitted after foddey in comparative constructions. Does this rule extend to other degree
+modifiers of comparatives? Yes, it does. So red beg ‘a little’ is not followed by ny (otherwise expected): tra v’eh
+er n’gholl red beg sodjey veih shen ‘when he had gone a little farther thence’, etc. And cre-woad sassey te eisht...?
+‘how much rather [lit. ‘easier is it’] then...? cre-woad share ta’n billey-feeyney na billey erbee elley? ‘what is the
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+10
+as hooar mee ny shirroo na’n baase yn ven ta’n
+cree eck ribbaghyn as lieenteenyn
+bee my vair veg ny s’chee na slheeasid my ayrey
+ta’n towse echey ny s’lhiurey na’n thalloo, as ny
+shlea na’n aarkey
+cha der y berchagh ny smoo, ny’n boght ny sloo
+na lieh shekel,
+t’ad ny shlee na renaigyn my ching
+and I find more bitter than death the woman,
+whose heart is snares and nets
+my little finger shall be thicker than my
+father's loins
+the measure thereof is longer than the earth,
+and broader than the sea.
+the rich shall not give more, and the poor shall
+not give less than half a shekel
+they are more than the hairs of my head
+Examples from the Bible, 4. Inflected comparatives in ‘inexplicit’ comparative constructions
+(without standard)
+er-lhimmey jeh’n boanlagh s’boghtey jeh
+phobble ny cheerey
+as bee towse s’feoiltey er ny choyrt da
+va’n chiamyr s’inshley queig cubityn er lheead
+yn raad sassey dy chosney stiagh ’syn ard-
+valley
+as v’ad wheesh shen s’chenney er
+lurg yn aght s’chenney jeh’n chredjue ain
+ronsaghey magh eer folliaghtyn s’diuney yn
+chree
+ayns ardjyn s’diuney y thallooin
+as hug Abel lesh myrgeddin jeh toshiaght e
+hioltane, as y chooid s’riurey
+as nee yn fer shinney shirveish yn fer saa
+shen-y-fa ta kerraghey strimmey nyn gour
+derrey nagh bee’n chlagh sloo faagit
+nagh der mayd eisht foddey sleaïe biallys da Ayr
+ny spyrrydyn? [adverbial, but no ny after
+foddey]
+cha row yn fockle ny sleaie ass beeal y ree nagh
+choodee ad eddin Haman [ny because adverbial]
+lhig dasyn ren geid, gyn geid arragh; agh ny
+sleaie lhig da laboragh [ny because adverbial]
+as loayr ad ny s’jeeaney lesh ard-choraaghyn
+[ny because adverbial]
+nish va ny shamyryn syrjey ny s’cooney [ny
+marks the predicate]
+as ren cloan Israel shen, as haggil paart ny
+smoo, as paart ny sloo [ny because adverbial]
+as my sloo ta ny bleeantyn, my sloo vees y
+phrice
+save the poorest sort of the people of the land
+and he shall have more abundance
+The nethermost chamber was five cubits broad
+the entrance into the city
+and they were the more fierce
+after the most straitest sect of our religion
+searching all the inward parts of the belly
+in the nether parts of the earth
+and Abel, he also brought of the firstlings of his
+flock and of the fat thereof
+and the elder shall serve the younger
+ye shall receive the greater damnation
+until there be not one small stone found there
+[lit. ‘until there is not the smallest stone left’]
+shall we not much rather be in subjection unto
+the Father of spirits?
+as the word went out of king's mouth, they
+covered Haman's face [lit. ‘no sooner was the
+word out of the king’s mouth...’]
+let him that stole steal no more: but rather let
+him labour
+and they were instant with loud voices
+now the upper chambers were shorter
+and the children of Israel did so, and gathered,
+some more, some less
+and according to the fewness of years thou shalt
+diminish the price of it. [lit. ‘the less the years,
+the less will be the price’]
+vine tree more than any tree?’ [lit. ‘how much better...?’]; as nagh vel eh veg s’diuney na’n chrackan ‘and it be
+no lower than the other skin’, ny edyr shin gyn gee, cha vel shin veg smessey ‘neither, if we eat not, are we the
+worse’ [lit. ‘or either we without eating, we are not any the worse’]; jean uss eh red ennagh s’eddrym dooin ‘make
+thou it somewhat lighter for us’.
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+11
+In 73 cases, Cregeen specifically mentions a comparative form that is identical to the positive
+adjective. This includes 12 where the positive stem ends in -ey anyway (such as maynrey
+‘happy’, comp. maynrey).
+Positive	Comp. =		Positive	Comp. =	
+Adj.	positive		Adj.	positive	
+aarloo	aarloo	ready	garg	garg	bitter
+anchasley	anchasley	different	gastey	gastey	agile
+anvio	anvio	inanimate,	geayney	geayney	green
+		extinct	gennal	gennal	merry, glad
+appee	appee	ripe	gennish	gennish	barren
+baghtal	baghtal	obvious	glib	glib	glib
+balloo	balloo	dumb	graney	graney	ugly
+bannee	bannee	blessed	imlee	imlee	humble
+beeit	beeit	fed, plump	lauee	lauee	handy
+bieau	bieau	quick	lheeah	lheeah	grey
+bioal	bioal	lively	lhiastey	lhiastey	lazy, reluctant
+biooil	biooil	lively	lickly	lickly	likely
+bla(y)stal	bla(y)stal	tasty, savoury	marroo	marroo	dead
+boggoil	boggoil	joyful	maynrey	maynrey	happy
+broie	broie	boiled	mea	mea	fat
+cliaghtal	cliaghtal	habitual,	messoil	messoil	fruitful
+		(complacent ?)	moghey	moghey	early
+coayr	coir ~ coyr	odd	niartal	niartal	powerful
+corree	corree	angry	noa	noa	new
+crauee	crauee	devout	oney	oney	innocent
+creen	creen	ripe, dried up	onnoroil	onnoroil	honourable
+creeney	creeney	wise	ooasle	ooasle	noble
+creeoil	creeoil	hearty	paa	paa	thirsty
+creoï	creoï	hard	paittoil	paittoil	pestilent
+creoidey	creoidey	hardy	palçhey	palçhey	abundant
+cronnal	cronnal	conspicuous,	peccoil	peccoil	sinful
+		notable	rank	rank	luxuriant
+croym	croym	bent	rea	rea	level
+doillee	doillee	difficult	reeoil	reeoil	regal, royal
+doogh	doogh	bad	sharroo	sharroo	bitter
+dooie	dooie	good-natured,	sheeoil	sheeoil	peaceful
+		natural	soo-oil	soo-oil	juicy
+dooishtit	dooishtit	awakened	spyrrydoil	spyrrydoil	spiritual
+dree	dree	boring	tarroogh	tarroogh	busy
+dunnal	dunnal8	bold	tessen	tessen	diagonal,
+eajee	eajee	odious,			transverse
+		abominable	treih	treih	pitiful, pale
+eddrym	eddrym	light	warree	warree	witty
+foalsey	foalsey	false	ynrick	ynrick	upright,
+	(s’oalsey)				genuine
+follan	follan	sound, edible			
+8 Bible has comp. dunnallee x1
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+12
+Examples from the Bible, 5. Uninflected adjectives in comparative constructions, with explicit
+standard
+as v’eh ny s’ooasle na ooilley thie e ayrey
+dy jean Jee ennym Solomon ny s’ooasle na dty
+ennym’s
+t’ee er ve ny s’cairal na mish
+dy vod prowal nyn gredjue ta foddey s’costal na
+airh
+ta’n sleih ny s’troshey, as ny s’toallee na shinyn;
+veih e gheayltyn seose v’eh ny s’thollee na veg
+jeh’n pobble
+ashoonyn ny smoo, as ny s’niartal na shiu hene
+nagh vel e shuyr saa ny s’aalin na ish? [NB not
+aaley]
+T’ou ny s’aalin na cloan gheiney [NB not aaley]
+cha row mastey cloan Israel persoon ny stoamey
+na eh
+ren David gymmyrkey eh hene ny s’dunnal na
+ooilley sharvaantyn Saul
+v’ad ny s’bieau na urlee
+ta my laghyn ny s’bieau na spaal fidderagh
+v’eh ny s’creeney na dooinney erbee
+vod dooinney ve ny s’ynrick na e Er-croo?
+ta my laghyn ny s’tappee na post
+bee’n eill echey ny s’meiygh na feill lhiannoo
+[NB not meiyghey]
+t’ad ooilley-cooidjagh ny s’eddrym na fardailys
+hene
+t’ee ny s’costal na rubieyn
+neem’s dooinney dy ve ny s’costal na airh ghlen
+ta braar, as corree er, ny s’doillee dy ve cosnit na
+ard-valley lajer
+va e eddin jeant ny s’eajee na eddin dooinney
+erbee
+ta mee ny s’casherick na uss [NB not
+casherickey]
+v’ad ny sollys na’n sapphire [NB not sollysey]
+as dty lurg’s hroggys reeriaght elley ny s’faase
+na uss
+lesh shilley s’daaney na e heshaghyn
+va mee ny s’maynrey mârishyn, na ta mee nish
+te ny s’bannee dy choyrt na dy ghoaill
+and he was more honourable than all the house
+of his father
+God make the name of Solomon better than thy
+name,
+she hath been more righteous than I
+that the trial of your faith, being much more
+precious than of gold
+the people is greater and taller than we
+from his shoulders and upward he was higher
+than any of the people
+greater nations and mightier than yourselves
+is not her younger sister fairer than she?
+thou art fairer than the children of men
+there was not among the children of Israel a
+goodlier person than he
+David behaved himself more wisely than all
+the servants of Saul
+they were swifter than eagles
+my days are swifter than a weaver's shuttle
+he was wiser than all men
+shall a man be more pure than his maker?
+my days are swifter than a post
+his flesh shall be fresher than a child's
+they are altogether lighter than vanity itself.
+she is more precious than rubies
+I will make a man more precious than fine gold
+A brother offended is harder to be won than a
+strong city
+his visage was so marred more than any man
+I am holier than thou
+[their polishing was of sapphire]
+and after thee shall arise another kingdom
+inferior to thee
+whose look was more stout than his fellows
+then was it better with me than now [lit. I was
+happier with him...]
+it is more blessed to give than to receive
+Uninflected comparatives without explicit standard
+as foast ta mee jeeaghyn diu raad foddey	and yet shew I unto you a more excellent way
+s’ooasle
+as ta ymmodee jeh ny braaraghyn ayns y Chiarn and many of the brethren in the Lord ...
+... foddey s’creeoil dy loayrt yn goo fegooish	are much more bold to speak the word without
+aggle	fear
+as te foddey s’cronnal	and it is yet far more evident
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+13
+t’ee cur eam veih ynnydyn s’cronnal yn
+ardvalley
+t’eh er lhieeney e volg lesh my vee s’blaystal
+ynsee dooinney creeney, as bee eh foast ny
+s’creeney
+Jean y whing hug dty ayr orrin ny s’eddrym
+jean uss eh red ennagh s’eddrym dooin
+agh t’ee ny s’maynrey ayns y smooinaght aym’s,
+my reaillys ee myr t’ee
+dy chooilley vanglane ta gymmyrkey mess, t’eh
+dy phollal, dy vod eh ve ny s’messoil
+ta’n Chiarn, ta cummal er yn yrjid, ny s’niartal
+ta mish er-nyn-skyn: ayns tooilleilyn ny
+s’palchey
+My she ’sy vea shoh ny-lomarcan ta nyn
+dreishteil ayns Creest, shinyn s’treih jeh ooilley
+sheelnaue
+ynsit lurg aght s’ynrick leigh nyn shenn-ayryn
+she crieth upon the highest places of the city
+he hath filled his belly with my delicates [lit.
+‘my tastiest food’]
+give instruction to a wise man, and he will be
+yet wiser
+make the yoke which thy father did put upon
+us lighter
+make thou it somewhat lighter for us
+but she is happier if she so abide, after my
+judgment
+every branch that beareth fruit, he purgeth it,
+that it may bring forth more fruit
+the Lord, who dwelleth on high, is mightier
+I am more; in labours more abundant
+If in this life only we have hope in Christ, we
+are of all men most miserable
+taught according to the perfect manner of the
+law of the fathers
+The use of smoo in Biblical Manx
+Though smoo is not used as an equivalent to ‘more’ in explicit comparative constructions such
+as ‘more difficult than I expected’, it can modify an adjective, in the sense ‘very X’, ‘highly
+X’, as in the following examples:
+Smoo modifying an adjective
+smoo syrjey Bx31
+yn ynnyd smoo casherick Bx41
+O uss smoo niartal
+Yn Jee smoo niartal
+cabbane-agglish yn Jee smoo ard Bx13
+rish ny raaidyn-mooarey smoo taaghit
+ayns ynnydyn smoo taaghit yn ard-valley
+eisht va mee ayns ny sooillyn echey, myr e
+charrey smoo ennoil
+t’ou uss, smoo ynrick, kiartaghey cassan yn
+vooinjer chairal.
+va ny Hewnyn wheesh shen smoo shleeuit er cur
+dy baase eh
+v’ad wheesh shen smoo nyn-dhost
+kys nagh bee shirveish y spyrryd ny smoo
+gloyroil?
+dy vod shiu lowal jeh ny reddyn smoo ooasle
+son y tushtey smoo ooasle jeh Creest Yeesey my
+Hiarn
+as dy chooilley horch dy hiyn fuygh smoo costal
+most high
+the most holy place
+O thou most mighty
+the most mighty God
+the tabernacle of the Most Highest
+by the way in the places of the paths [the most
+frequented highways]
+in the high places of the city
+then was I in his eyes as one that found favour
+thou, most upright, dost weigh the path of the
+just
+the Jews sought the more to kill him [lit. ‘were
+so much the more keen...’]
+they kept the more silence
+How shall not the ministration of the spirit be
+rather glorious?
+That ye may approve things that are excellent
+for the excellency of the knowledge of Christ
+Jesus my Lord
+and all manner vessels of most precious wood
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+14
+Smoo is also used in its original sense, as the comparative of mooar, i.e. ‘greater, larger
+attributively modifying a noun.
+yiow eshyn ta geddyn foill, booise smoo ny lurg,
+na eshyn ta brynneraght lesh e hengey
+son quoi oddys ymmyd share y yannoo jeh, ny
+soylley smoo y ghoaill jeh, na mish?
+ta leagh smoo oc son nyn obbyr
+ta fea smoo ec y derrey yeh na’n jeh elley
+he that rebuketh a man afterwards shall find
+more [lit. ‘greater’] favour than he that flattereth
+with the tongue
+for who can eat [lit. ‘make better use of it’], or
+who else can hasten hereunto [lit. ‘or get greater
+enjoyment from it’], more than I?
+they have a good [lit. ‘greater’] reward for their
+labour
+this hath more [lit. ‘greater’] rest than the other
+Appendix: further Biblical examples of ‘past tense comparatives’ with by or b’, which is
+followed by lenition type 1.
+baare lhiam currym y dorrys y ve orrym ayns
+thie my Yee: na dy vaghey ayns cabbaneyn ny
+mee-chrauee
+veagh eh ny baare da dy beagh clagh-wyllin er
+ve croghit mysh e wannal
+baare dou baase y gheddyn na dooinney erbee
+dy yannoo shoh my voggys dyn bree
+veagh eh ny bare dooin dy hirveish ny
+Egyptianee, n[a] dooin dy gheddyn baase ’syn
+aasagh
+as hoie ad kiongoyrt rish, yn fer by-hinney,
+cordail rish e eash
+as ronsee eh, as ghow eh toshiaght, ec yn er by-
+hinney, as daag eh jeh ec yn er saa [by-hinney
+x8 in Bib, all = ‘firstborn’. NB coordinated with
+‘present’ comparative saa here.]
+as hug ad orroo aanrit-sack veih’n vooinjer
+b’yrjey jeu, dy jarroo gys yn vooinjer b’inshley
+jeu
+yn vooinjer b’yrjey as by-niartal ayns
+cummallyn Ham
+ooilley shanstyr yn ard-valley shen by niessey
+da’n varroo [many examples of by niessey in
+Bib.]
+as va’n kione b’odjey magh jeh ec Jordan
+hilg eh ad ayns y phryssoon b’odjey stiagh
+haink jymmoose trome Yee orroo as varr eh yn
+vooinjer by-verchee jeu
+As ayns y vasket b’yrjey, va jeh dy chooilley
+vonney dy vee broit
+yn Tachmonite, yn er b’yrjey soit jeh mastey ny
+captanyn
+hrog eh yn giat b’yrjey jeh thie yn Chiarn
+son ta mee goaill orrym nagh row mee veg
+ergooyl ny eer ostyllyn b’yrjey
+I had rather be a doorkeeper in the house of my
+God: than to dwell in the tents of ungodliness
+it were better for him that a millstone were
+hanged about his neck
+it were better for me to die, than that any man
+should make my glorying void
+it had been better for us to serve the Egyptians,
+than that we should die in the wilderness
+and they sat before him, the firstborn according
+to his birthright
+and he searched, and began at the eldest, and
+left at the youngest
+and put on sackcloth, from the greatest of them
+even to the least of them
+the most principal and mightiest in the
+dwellings of Ham
+all the elders of that city, that are next unto the
+slain man
+and the outgoings thereof were at Jordan
+[he] thrust them into the inner prison
+the heavy wrath of God came upon them, and
+slew the wealthiest of them
+And in the uppermost basket there was of all
+manner of bakemeats
+the Tachmonite that sat in the seat, chief among
+the captains
+he built the higher gate of the house of the Lord
+For I suppose I was not a whit behind the very
+chiefest apostles.
+Manx Gaelic inflection, 4. Adjectives	Max Wheeler, June 2015
+15
+Adjectives with inflected plural in Cregeen. Bx = number of occurrences in the Manx Bible.9
+Adj.	Adj. pl.		jiarg	jiargey	red
+aeg	aegey Bx142	young	jooigh	jooighey	greedy
+ard	ardey Bx10	high	keyl	keyley	slender, slim
+baasoil	baasoiley	fatal	khyrloghe	khyrloghey	infirm
+bane	baney Bx8	white	kiart	kiartey	right, even
+barb	barbey	sharp	~ cairt	~ cairtey	
+beg	beggey Bx98	small	lajer	lajerey	strong
+bing	bingey Bx2	tuneful	lane	laney	full
+bioyr	bioyrey	brisk,	leoaie	leoaiey	leaden
+		animated	lhean	lheaney Bx6	wide
+bouyr	bouyrey	deaf	liauyr	liauyrey Bx6	long
+braew	braewey	fine	loam	loamey	bare
+breck	breckey Bx1	spotted	~ lhome		
+breen	breeney	sultry	loau	loauey	rotten
+breinn	breinney	stinking	meein	meeiney	fine, soft
+broie	broiey	boiled	meen	meeney Bx1	dear, patient
+broigh	broighey	dirty	mhenoyr	mhenoyrey	mellow, rich
+buigh	buighey	yellow	mhollim	mholmey	crumbly
+bwaagh	bwaaghey	handsome	mie	mieey	good
+cam	cammey Bx8	crooked	millish	miljey12 Bx5	sweet
+çhing	çhingey Bx12	ill	moal	moalley	slow, poor
+çhionn	çhionney	stiff, tight		~ moaldey Bx1	
+çhyrrym	çhyrmey Bx1	dry	mooar	mooarey Bx136	big
+coon	cooney	narrow	myn	myney	tiny
+creen	creeney	ripe, dried up	noa	noaey	new
+dewil	dewiley Bx1	cruel	olk	olkey	bad
+deyr	deyrey	dear	ooasle	ooasley	noble
+dhone	dhoaney	brown	oor	oorey Bx1	fresh
+	dhonney	unfortunate	reen	reeney	tough
+doal	doaley	blind	roauyr	roauyrey Bx7	thick, plump
+doo	dooey	black	rooisht	rooishtey	naked
+doogh	dooghey	bad	runt	runtey	round
+dooisht	dooishtey	awake	ruy	ruyey	red-haired
+dowin	dowiney Bx12	deep	seyr	seyrey Bx3	free
+dunnal	dunnalley10	bold	shang	shangey	lean
+feayr	feayrey	cold	sheelt	sheeltey	sober
+follym	folmey	empty	shiast	shiastey	barren, dry
+foyin	foyiney	fine	shickyr	shickyrey	sure
+frogh	froghey	perished	shliawin	shliawney	slippery
+garg	gargey	bitter	sie	siey	bad
+geayr ~	geayrey	sour, sharp	skee	skeey	tired
+gyere	~ gyerey Bx2		slane	slaney	whole
+gial	gialley	bright	sooeeagh	sooeey (sic)	sooty
+giare	giarey	short	soor	soorey	sour
+glass	glassey Bx5	green	stark	starkey	stiff
+glen	glenney11	clean	stuitt	stuittey	trim; stout
+goan	gonney Bx2	rare	tramylt	tramyltey	sturdy
+gorrym	gormey	blue	trean	treaney	heroic, valiant
+jesh	jeshey	right, nice	trome	tromey Bx3	heavy
+9 Not all items have been checked for Bible frequency; some, e.g. cooney, deyrey, are homonymous with
+unrelated words of a different category, and would need to be identified manually.
+10 Bible has deiney dunnal x15.
+11 Bib. ny beiyn glen, eeanlee glen, laueyn glen.
+12 A rare example where the stem of the plural adjective is not the same as that of the singular positive adjective,
+but rather is the same as that of the comparative adjective.

@@ -1,0 +1,237 @@
+﻿Bun as Bree 2
+© Christopher Lewin 2011
+Christopher Lewin
+No. 2 - May 2011
+A series of short articles on Manx Gaelic grammar, idiom, vocabulary
+and pronunciation.
+These little pieces, which I intend to produce every month, are aimed at intermediate-
+advanced learners of Manx Gaelic and everyone who has an interest in the quirks of
+the Manx language. Some of the things I will mention will be familiar to many
+people, some to a few people, and some perhaps will not be widely known. I hope
+these articles will be interesting, and please let me know if what I say is incorrect, or
+if I have omitted something relevant.
+The trouble with anchasley
+One word that is impossible to avoid hearing and reading in today’s Manx is
+anchasley ‘different’. But where does it come from? And are there better and more
+idiomatic ways of saying talking about ‘difference’?
+I have long had reservations about the word anchasley, and these are the reasons why:
+- It doesn’t occur (so far as I know) in classical, literary Manx; at any rate it is
+not usual.
+- an- is not a very common prefix (though it is found in some profusion in
+certain texts such as Wilson’s Sermons) and one would expect neu-chasley.
+- It seems to be the opposite of casley as in casley rish ‘to be like’ which is in
+origin (I think) a verb meaning ‘to ressemble’; therefore it should not be used
+as an adjective and an- is not usually prefixed to verbs (except an-choodee
+Isaiah 47:2)
+I think it stems from Cregeen’s dictionary in the entry for lhiettrimmys, one of the
+idiomatic words for ‘difference’ which Cregeen dislikes for some reason. He then
+suggests caghlaa, anchaslys and neuchaslys as alternatives: caghlaa is attested in this
+meaning, and the other two are probably made up by Cregeen as suggestions, just as
+he suggests jeeoilid for ‘divinity’. I suppose that anchaslys and neuchaslys would
+probably been comprehensible enough to Manx speakers, though since they already
+had nouns meaning ‘difference’ they were unnecessary. And while anchaslys might
+be acceptable because it has a noun ending, an adjective anchasley is not so good
+because it does not seem to have an adjective ending.
+For a start, the negative of t’eh casley rish e ayr ‘he is like his father’ would not be
+*t’eh anchasley rish e ayr but rather cha nel eh casley rish e ayr, which is the normal
+1
+Bun as Bree 2
+© Christopher Lewin 2011
+way of negating verbal constructions, and even with adjectives: I think it is less
+marked to say cha nel eh glen than t’eh neu-ghlen. Secondly, if we wanted an
+adjective corresponding to anchaslys, would it not more naturally be something like
+anchaslagh with an adjectival ending? I tried to use this form for a while; but
+somehow it did not really work, because it still sounds and feels like a made-up word
+for a concept which is very basic and must have been within the expressive capacities
+of the old Gaelgeyryn.
+Anchasley is unsatisfactory for another reason too: it is used in a variety of ways
+which correspond exactly to English, as if we are thinking in English and looking
+around for a catch-all word we can use to fill the gap that in English is covered by the
+word ‘different’. However, just because there is a single word in English with various
+uses does not mean that a single dubious Manx word anchasley can be dragged into
+all the same positions; otherwise we are just mapping quasi-Manx words onto English
+grammar.
+Since the English word ‘different’ is used in several different ways, it may be that we
+need more than one expression in Manx. This is the case in German:
+verschiedene Farben - different colours (i.e. several colours, various colours)
+andere Farben - different colours (i.e. other colours, particular colours that are
+different from colours we have just been talking about)
+diese Farben sind anders - these colours are different (predicative use; anders is a
+form of anderer, -e, -es meaning ‘other’)
+In Manx of course we have a word for ‘other’ elley, which like the German andere, -s
+can stand in for ‘different’:
+Ta mee geearree thie elley - I want a different house = I want another house
+However, elley has a fairly weak meaning and can only be used in certain
+circumstances; you cannot for example say *ta’n thie elley just as in English you
+cannot say *‘the house is other’ (though you can say it in German as we have seen.)
+Elley can also never be used to mean ‘various’ or ‘several’, which is what ‘different’
+often means in English; and the unfortunate anchasley is often pressganged into
+fulfilling this role as well:
+*V’eh cummal ayns thieyn anchasley fud ny cheerey - He lived in different houses
+throughout the country
+However, there is a good idiomatic way of expressing this, which is amply and
+uncontrovertibly attested in the Bible and elsewhere: caghlaaghyn, literally ‘changes’.
+Caghlaaghyn is followed by the singular (presumably as a relic of the old genitive
+plural, cf. thousane dooinney ‘a thousand men’), or occasionally the partitive
+preposition dy and the (lenited) plural form. Either way the etymology is basically
+‘changes of houses’ etc. which is the Manx way of saying ‘different’ or ‘various’ in
+this sense. Therefore our example sentence should be:
+2
+Bun as Bree 2
+© Christopher Lewin 2011
+V’eh cummal ayns caghlaaghyn thie fud ny cheerey - He lived in different houses
+throughout the country
+Here are some examples from the Bible:
+coamrey jeh caghlaaghyn sorch - a garment of divers [different / various] sorts
+(Deuteronomy 22:11)
+caghlaaghyn rass kione-y-cheilley - divers seeds [different seeds mixed together]
+(Deuteronomy 22:9)
+ayns caghlaaghyn dy aghtyn - in divers manners [different / various ways] (Hebrews
+1:1)
+Nish ta ayn caghlaaghyn dy ghiootyn, agh y Spyrryd cheddin - Now there are
+diversities of gifts, but the same Spirit (1 Corinthians 12:4)
+dy chaghlaaghyn daah - of divers [different] colours = multicoloured
+And from the Homilies:
+Ta ny caghlaaghyn keint shoh dy loo son oyryn ymmyrchagh as onneragh lowal -
+all these maner of swearing [these various / different kinds of swearing], for causes
+necessary and honest, be lawfull (Homily 7, p. 58)
+Myr shoh ren nyn Saualtagh Creest loo caghlaaghyn keayrt gra, “dy firrinagh,
+firrinagh.” - Thus did our Saviour Christ swear divers [various] times, saying, Verily,
+verily (Homily 7, p. 59)
+I find dy chaghlaaghyn daah to be a very elegant and very Manx way of saying what
+in modern English would be ‘multicoloured’; there is no need to talk about daahghyn
+anchasley and certainly no need to go anywhere near things like yl-daahagh! (Except
+perhaps in very technical, jargonish and un-Gaelic contexts.)
+Compare these Scottish examples from Dwelly’s dictionary:
+air chaochladh dreach, in a different form; caochladh sheòrsachan, several kinds;
+ann an caochladh àitean, in various places
+To say ‘X is different from Y’, that is, when we are talking of a clear and explicit
+distinction, contrast and opposition as opposed to mere variety, anchasley is slightly
+harder to exorcise, because there are caghlaaghyn aght (different ways) to say it in
+Manx, and the sentence structure may differ from the English.
+We can simply paraphrase, by saying ‘X is not like Y’ or ‘X is not the same as Y’,
+which may suffice in many cases:
+Cha nel yn thie shoh myr / gollrish / casley rish yn thie shen - This house is different
+[not like] from that house
+3
+Bun as Bree 2
+© Christopher Lewin 2011
+Eisht va mee booiagh firrinys y gheddyn jeh’n chiarroo veisht nagh row goll-rish veg
+jeh’n vooinjer elley - Then I would know the truth of the fourth beast, which was
+diverse from all the others [which was not like any of the others] (Daniel 7:19)
+For ‘they are different’, Manx can say:
+Cha nel ad goll ry-cheilley - They are not like each other
+Cha nel ad co-laik - They are not alike
+Here is an example from the Bible:
+As haink kiare beishtyn mooar seose veih yn aarkey, nagh row goll ry-cheilley - And
+four great beasts came up from the sea, diverse one from another (Daniel 7:3)
+Or we can say ‘there is a difference between X and Y’. As already mentioned, the
+words, caghlaa (basic meaning ‘change’), lhiettrimmys (‘hindrance, obstacle’), and
+lheamys (‘defect’) are used. There is also a phrasal verb idiom jannoo soiaghey eddyr
+X as Y, ‘to differentiate between X and Y’, which is probably an extension of the
+meaning of jannoo soiaghey jeh ‘to esteem, value, evaluate’. Scansh is also used in a
+similar way. There are several different spellings of lhiettrimys, even within the Bible.
+As she Credjue ta jannoo’n caghlaa mooar ta eddyr dooinney as beagh [baagh] - And
+it is Religion that makes the great Difference between a Man and a Beast (Fer-raauee
+Creestee p. 7)
+Agh y caghlaa mooar ta eddyr deiney mie as olk vees er ny yannoo ec laa ny briwnys,
+tra vees ny Kirree er nyn goyrt er laue yesh Chreest, as ny Goair er y laue chiare - But
+the great Difference will be made at the Day of Judgment, when the Sheep shall be set
+on Christ’s right Hand, and the Goats on the left (Fer-raauee Creestee p. 31)
+cre’n lhiettrimys mooar vees son shickyrys eddyr cronney ny crauee as ny mee-
+chrauee ayns y theihl ta ry-heet - how very different the portion of good and bad men
+is sure to be in the next world (Sharmaneyn Wilson p. 39)
+She liorish yn Sacrament shoh t’yh, dy vel lhiettrimys jeant eddyr sharvaantyn
+Chreest as sharvaantyn yn Noid-anmey - It is by this Sacrament that the subjects of
+Christ are distinguished from the subjects of Satan (Sharmaneyn Wilson p. 144)
+coontey plain as shickyr jeh’n ard lhiettrimys ta edyr staydyn ny crauee as ny mee-
+chrauee lurg yn vaase - a plain and positive account of the very different condition of
+good and bad men after death (Sharmaneyn Wilson p. 182)
+As nish, ta shiu fakin dy plain, dy vel lhiettrimys foddey eddyr Creestee, as Creestee
+firrinagh. - And now, you see plainly, that to be a Christian, and a true Christian, are
+two very different things (Sharmaneyn Wilson p. 215)
+As ynsee ad my phobble dy yannoo soiaghey eddyr casherick as an-chasherick, as dy
+hoiggal y lhiettrimmys eddyr glen as neughlen - And they shall teach my people the
+difference between the holy and profane, and cause them to discern between the
+unclean and the clean (Ezekiel 44:23)
+4
+Bun as Bree 2
+© Christopher Lewin 2011
+As cha dug eh liettrimys erbee eddyr adsyn as shinyn, casherickey ny creeaghyn oc
+liorish credjue - And put no difference between us and them, purifying their hearts by
+faith (Acts 15:9)
+Dy jarroo cairys Yee, ta liorish credjue Yeesey Creest, dauesyn ooilley, as orroosyn
+ooilley ta credjal; son cha vel liettrimys erbee - Even the righteousness of God which
+is by faith of Jesus Christ unto all and upon all them that believe: for there is no
+difference (Romans 3:22)
+ta ram lhiettrymmys ayns y daa sheean - there’s a lot of difference in the two sounds
+(Thomas Christian; Broderick, Handbook of Late Spoken Manx p. 274)
+va lhiettrymmys mooar eddyr Gaelg Skylley Maghal as Skyll Lonan as Gaelg ny
+ayrnyn elley jeh yn Ellan - there was a great difference between Kirk Maughold and
+Kirk Lonan Manx and the Manx of the other parts of the Island (Thomas Christian;
+Broderick, Handbook of Late Spoken Manx p. 274)
+Son cha vel veg y soiagh eddyr yn Hew as y Greek; son ta’n Chiarn cheddin harrish
+ooilley, berchagh dauesyn ooilley ta geamagh er - For there is no difference between
+the Jew and the Greek: for the same Lord over all is rich unto all that call upon him
+(Romans 10:12)
+Ta ny saggyrtyn eck er vrishey my leigh, as my reddyn casherick t’ad er vee-
+ooashlaghey: cha vel ad er n’yannoo soiaghey erbee eddyr casherick as neu-
+chasherick, chamoo ta scansh oc eddyr glen as neu-ghlen, as t’ad er n’ollaghey nyn
+sooillyn veih my ghooneeyn, as ta mee er my oltooaney by-chyndagh roo - Her priests
+have violated my law, and have profaned mine holy things: they have put no
+difference between the holy and profane, neither have they shewed difference
+between the unclean and the clean, and have hid their eyes from my sabbaths, and I
+am profaned among them (Ezekiel 22:26)
+There is also the word lheamys, which is used in Pargys Caillit at lines 1648, 1683,
+2810 and 3263 in Robert Thomson’s edition. Thomson’s note on the word is as
+follows:
+1648 lheamys: both senses of the word are possible here: the ‘difference’ (2810)
+between single Adam and the paired animals; and the ‘blemish’ (650) that this causes
+to his contentment. At 1683, 3263, ta...lheamys can be construed as adj ‘different’ or
+as vbn ‘differ’; as it is undoubtedly a noun, the latter is more probable.
+There may be objections that these words have too many meanings and that we do
+need a special word for ‘difference’. However, I think this is just the influence of
+English. It is perfectly possible to have, for example, caghlaa meaning both ‘change’
+and ‘difference’, because the context makes it clear what is intended. I question
+whether Manx speakers would have perceived the word to have two meanings:
+perhaps to them it had a single meaning that is simply broader than the English
+meanings.
+5
+Bun as Bree 2
+© Christopher Lewin 2011
+It seems that the basic sense of caghlaa in Manx is ‘variation’, whether across time or
+at a particular moment. In English, we call variation across time ‘change’ and
+variation at a particular moment ‘difference’; but there is no reason why a language
+should not use one word for both these types of variation, nor should we expect Manx
+to conform to the English way of dividing up ‘semantic space’.
+So is there any room left for anchasley and anchaslys? From a historical point of
+view, there seems to be no need for them. The Manx language used to get by, and still
+can get by, without a catch-all equivalent of the English word ‘different’. Having said
+that, anchasley is now well-established and some will say there is no point fighting it.
+However, that does not mean that the traditional idioms cannot be revived and used
+alongside it. Anchasley is not ‘wrong’; just unnecessary and a bit English. The only
+situation where anchasley would, I think, be categorically wrong is when ‘different’
+means ‘various’. In this case, caghlaaghyn is the definitive Manx idiom.
+Thus in the book Droghad ny Seihill, instead of:
+*V’ee cooinaghtyn er ny taghyrtyn anchasley v’er jeet urree er y gherrid (p. 34)
+the author should have written:
+V’ee cooinaghtyn er ny caghlaaghyn taghyrt v’er jeet urree er y gherrid - She was
+remembering the different / various things that had happened to her recently [the
+various happenings that had come on her]
+The same author does use caghlaaghyn correctly on p. 62 (caghlaaghyn keint dy leih
+‘different types of people’) and on p. 194 (ny caghlaaghyn dy voteilyn ‘the various
+bottles’), but he had evidently not yet fully weaned himself off anchasley, for he
+inisists on using it profusely even where it is manifestly not necessary. He must have
+been thinking in English when he made the protagonist say:
+ta mee anchasley rish sleih elley - I am different from other people (p. 149)
+when she could just as well have said:
+cha nel mee gollrish sleih elley - I am not like other people
+So in conclusion I would urge people to explore the alternative ways to talk about
+‘difference’ in Manx. Apart from anything else, variety can’t be a bad thing.
+Anchaslys is a legitimate Manx word—but it would most appropriate as a technical
+term in philosophy etc. (closer in tone and formality to ‘dissimilitude’ in English than
+‘difference’); caghlaa etc. are good enough for everyday use.
+Proverb of the Month
+Caghlaa obbyr aash - Change (/variety) of work is rest
+(A nice zero copula, and it has the word caghlaa in it of course.)
+6

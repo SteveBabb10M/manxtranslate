@@ -1,0 +1,83 @@
+﻿Variation in Manx lenition: a probe1
+Max Wheeler, December 2016
+It is well known that initial consonant lenition in Manx is somewhat variable. Acknowledging this might
+lead one to suppose that variation, or deviation from the rules, is scattered randomly among the
+consonants subject to lenition, and among the contexts triggering lenition. In a small study, using a
+corpus that consists of over 1m words of Classical Manx (1700-1850), I show that this is not the case.
+Some consonants (specifically s- and f-) are markedly more variable than the rest. Leaving those
+consonants aside, there are contexts in which the ‘correct’ application of lenition is virtually categorical,
+such as after dy chooilley ‘every’ (which takes Lenition 1: that is, s-, sh- → h-, and all other lenitable
+consonants affected). In another context, namely in the prepositional phrase ayns y(n)/’sy(n) ‘in the’
+(followed by Lenition 2: that is, s- → t-, sh- → çh-, denti-alveolars t-, çh-, d-, j- not affected, other
+consonants as Lenition1), deviation from the rule, for consonants other than s- and f-, is rare but not
+negligible: 1.74% of lenition failure.
+In both of these contexts, lenition failure for s- stands at around 15 per cent, while, for f-, non-lenition
+is around 13% after dy chooilley and around 8% after aynsy(n)/’sy(n). One might have guessed that sh-
+would behave similarly to s-, but this proves not to be so. Lenition failure for sh- after dy chooilley runs
+at a lower rate than of s- and f-, though more than that of the other consonants; after ayns y(n)/’sy(n) it
+runs at about the same rate as for the consonants other than s- and f-.
+In the corpus there are 1535 cases of dy chooilley before a lenitable consonant. In only 24 (1.56%) of
+these is the consonant not lenited according to the rule. Of these ‘deviations’ two involve çheer
+‘country’, with dy chooilley cheer appearing instead of dy chooilley heer (a construction frequent
+elsewhere: 22 cases in the corpus). Both of the examples of dy chooilley cheer are in the Metrical version
+of a selection of Psalms included at the end of the Book of Common Prayer in Manx (1777). The
+remainder consists of 10 cases of unlenited s- (out of 75 —13.33%), two of unlenited sh- (out of 28 —
+7.14%), and 10 of unlenited f- (out of 75 —13.33%). Of the cases of unlenited s- words after dy
+chooilley, three are of words that do not have a lenited variant attested anywhere in the corpus: seiyr
+‘carpenter’, synagogue ‘synagogue’, and slaa-laueeys ‘bribery’. The others, however, do display lenited
+variants, not only elsewhere in the corpus, but elsewhere in the dy chooilley context: saase ‘method’
+(x3), sorçh ‘sort’, and slieau ‘mountain’. Unlenited sh- appears once in shiaght ‘seven’ (elsewhere dy
+chooilley hiaghtoo vleïn ‘every seventh year’), and once in sharvaant ‘servant’: lenited harvaant does
+not occur after dy chooilley, but there are over 400 cases of it in other contexts. Of the f- words unlenited
+after dy chooilley, two: feeagh ‘raven’, and feoiltys ‘generosity’ have no lenited variant elsewhere in
+the corpus; for the others, however, lenited variants are attested in other contexts: fea ‘rest’, failleil
+‘failing’, fyrrynagh ‘male’, fastyr ‘evening’ and foays ‘benefit’.
+The corpus contains 1722 cases of ayns y(n)/’sy(n) ‘in the’ before a lenitable consonant, with 88
+deviations —5.11%. The two main variants, the full form aynsy(n) and the reduced ’syni) are of roughly
+comparable frequency (787 : 935), but interestingly the deviations from the lenition norm are
+predominantly found in the full form (10.42% deviation), sixteen times more often than after the
+reduced form, where deviation from the norm (at 0.64%) is negligible. This fact suggests that reduced
+’sy(n) is found in more familiar, well-established, collocations in which correct lenition is more firmly
+entrenched. Even so, as with dy chooilley, non-lenition is predominantly found with s- (including sl-)
+(15.3%), and with f ■ (8.13%), and these consonants account for all the non-lenitions after ’syni) (6 out
+of 935 cases). For the velars and labials (g(i-), c/k(i)-, qu-, b-, m-, p-) non-lenitions make up only 1.74%
+of the total. There are no deviations for qu- (33 cases), 0.09% for c/k(i)- (410), 1.35% for m- (224),
+1 I am grateful to Christopher Lewin for suggestions and advice on an earlier version of this note, now, I think,
+thereby improved.
+2.4% for b- (125), 3.3% for g(i)- (121), and 5.17% for p- (58). For sh-, which might be expected to
+behave like s-, the rate of non-lenition is in line with that of the velars and labials: 1.97% (of 152 cases).
+Some of the examples of non-lenited s- after ayns y(n)/’sy(n) occur in words where the lenited variant
+t- occurs elsewhere in the corpus. This is the case for sushtal ‘gospel’ with 12 cases of ayns y sushtal,
+even though there are 27 instances of tushtal in the corpus, three of them in the phrase ayns y tushtal.
+There is one case of ayns y soilshey ‘in the light’ (John 5.35), though lenited toilshey has 47 occurrences
+in the corpus, four of them in the phrase ayns y toilshey. However, most of the examples of non-lenited
+s- are found in words that lack a t-initial allomorph anywhere in the corpus: sacrament ‘sacrament’
+(x8), sarey ‘order’, seaghyn ‘affliction’, sollysid ‘brightness’, and synagogue ‘synagogue’ (x16). In the
+case of variable f- lenition, most of the examples of non-lenition occur in words whose lenited variant
+is to be found elsewhere in the corpus: faarkey ‘sea’ (169 examples of aarkey, including 23 of ayns yn
+aarkey or ’syn aarkey), fea ‘rest’ (7 examples of ea, including two of ’syn ea), feedoo ‘twentieth’ (x5;
+two examples only of eedoo in the corpus), feme ‘need’ (13 examples of eme), firrinys ‘truth’ (9
+examples of irrinys), fliaghey ‘rain’ (4 examples of liaghey), foayr ‘favour’ (x4; 19 examples of oayr).
+But the following words not lenited after ayns y(n)/’sy(n) have no f-less variant in the corpus: feh
+‘sinew’, fine ‘scabbard’, fooillagh ‘scraps’, fraue ‘root’, freoagh ‘heather’, and frynepan ‘frying pan’.
+To sum up, this probe indicates that while lenition in Classical Manx is, indeed, variable, the variability
+is not evenly spread around the possible lenition targets and contexts. Non-lenition of stops after dy
+chooilley is negligible, and after ayns y(n)/’sy(n) does not reach two per cent. Non-lenition is also
+negligible after the less formal (more entrenched) variant ’sy(n). In the two contexts investigated here,
+non-lenition substantially affects the fricatives (and even here sh- is less affected than s- —the
+significance of this distinction is a matter for further research). Why might this be so? One relevant
+consideration is that, for f-, its lenited variant, namely zero, is as different from the radical f- as could
+be: lenited f-words are not distinct phonologically from any vowel-initial word, and vowel-initial words
+are frequent in Manx. The lenited variants of the stops all remain consonantal, and all, except for t- and
+çh- (→ h-), retain some oral place of articulation feature (though the contrast between d- and g(i)-, and
+between b- and m-, is lost in lenition). For s-, the situation is rather that lenition involves two different
+variants, one, h-, without oral place of articulation, and the other, t-, which is an exceptional hardening
+in a lenition context, though retaining dental/alveolar place of articulation. (The words slieau
+‘mountain’ and straid ‘street’, which are included in this study, display their own special anomalies, in
+that slieau has lieau in Lenition 1 and clieau in Lenition 2, while straid has straid, i.e. regular non-
+lenition, in Lenition 1 context, and traid in Lenition 2.) In the two cases, f- and s-, word-recognition of
+the forms with lenition is somewhat more compromised than in the case of the other consonants.
+Speakers seem to have reacted to this difficulty in two ways: one, by becoming more tolerant of failure
+of lenition of these two consonants than of others; and two, by adjusting the lexicon so that some s- and
+f- words lack a lenited allomorph altogether. More extensive research would be needed to see what
+other features, semantic or syntactic, might be shared by the words without a lenition allomorph.

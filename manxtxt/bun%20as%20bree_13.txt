@@ -1,0 +1,261 @@
+﻿Christopher Lewin
+No. 13 - April 2012
+A series of short articles on Manx Gaelic grammar, idiom,
+vocabulary and pronunciation.
+The past habitual.
+I have been asked by a number of people to clarify the issue of how the past habitual
+(I used to do, I would do) is expressed in Manx. This is a matter of some controversy
+among academics, and papers have been written in journals on this subject by Jennifer
+Kewley Draskau (2006, Journal of Celtic Linguistics 10 pp. 85-120) and George
+Broderick (2011, Scottish Gaelic Studies 28 pp. 307-332).
+The controversy centres on whether the conditional veign / yinnin jannoo should be
+used as an imperfect or past habitual. Kewley Draskau surmises that this usage arose
+“probably through the influence of English on the Manx speech of the older speakers
+and a conflation of the functions of English ‘would’” (p. 88) and that “in modern [i.e.
+revived] Manx, v/beagh and y/jinnagh are no longer frequently encountered as
+expressions of consuetudinal past events or states, either in speech or in texts, but are
+returned to their functions as subjunctives or conditionals. This is possibly a
+deliberate return to the orthodoxy of Biblical Manx, where the use of a conditional to
+express habitual past was so unusual as to arouse comment from Thomson” (p. 102).
+Broderick on the other hand points out (p. 328) that Kewley Draskau “has seemingly
+not understood that veagh / beagh in Spoken Manx can be represented by /vi(:)x/,
+/bi(:)x/ for the imperfect (cf. Ir. bhíodh) and /ve(:)x/, /be(:)x/ for the conditional
+(secondary future) (cf. Ir. bheadh)” (i.e. the past habitual and the conditional, which
+were (and) are similar in form but nonetheless distinct in Irish, have fallen together in
+Manx so that the same form may be used in both functions, as is the case in Scottish
+Gaelic, where use of the ‘conditional’ to mean ‘used to…’ is very common).
+Moreover, Broderick uses phonetic data from the last native speakers to assert the
+hypothesis that “Although in the substantive verb the old imperfect and secondary
+future have fallen together in Manx in the written form of the old secondary future,
+nevertheless, in the spoken language some semblance of distinction was made along
+traditional lines, i.e. /vi(:)x/ (Ir. bhíodh) was used for the imperfect and /ve(:)x/ (Ir.
+bheadh) for the secondary future, though later the distinction became blurred” (p.
+327).
+1
+Broderick’s hypothesis that the past habitual survived into Late Manx is certainly
+plausible; there is no particular reason to suppose that it should have died out, even if
+it merged in form with the conditional. It survives heartily in Modern Scottish Gaelic,
+although there is no difference in form between the two tenses in that language. The
+main problem with it is that the use of the ‘conditional’ for past habitual does not
+seem to be at all common in the Classical Manx of the Bible and other texts. Kewley
+Draskau (p. 91) cites the example of John 19.17 gys ynnyd yiarragh ad ynnyd y vollag
+rish ‘to a place called the place of the skull’ and claims ‘this particular instance may
+well constitute the first recorded use of the conditional as an imperfect, a usage which
+later became so widespread in ‘Late Manx’ that some grammarians and
+lexicographers dissolve the distinction between form and function’. She also observes
+(same page) that ‘Thomson (1981: 142) notes that the use of the conditional
+(yiarragh) as an imperfect in this idiom is quite exceptional’.
+While it is perfectly possible and a priori quite likely that the Irish past habitual
+should have continued through Classical and Late Manx, the paucity of examples in
+Classical Manx could pose a challenge to this: are we to suppose that the past habitual
+existed ‘underground’ and largely unrecorded in popular speech throughout the
+eighteenth century and only pops up again in the Manx of Edward Faragher and the
+last native speakers?
+Another consideration is the situation in Scottish Gaelic. Here the merging of the
+conditional with the past habitual is mirrored by the merging of the future with the
+present habitual tense.
+So Irish: chuirfeadh ‘would put’ and chuireadh ‘used to put’ > Scottish chuireadh
+cuirfidh ‘will put’ and cuiridh (later cuireann1) ‘puts’ > Scottish cuiridh
+bheadh ‘would be’ and bhíodh ‘used to be’ > Scottish bhiodh (bhitheadh)
+beidh ‘will be’ and bidh ‘tends to be’ > Scottish bidh (bithidh)
+The Irish -f- is usually pronounced [h] today, in Scottish Gaelic it has been lost
+entirely resulting in the forms with -f- (conditional and future) being identical in form
+with the forms without -f- (past and present habitual). In the verb ‘to be’ the forms in
+[i] (past and present habitual) have supplanted the forms in [e] (conditional and
+future). Either way the distinction in form between the conditional and the past
+habitual, and between the future and the present habitual, has been entirely lost in
+modern Scottish Gaelic. However the use of bhiodh a’ dèanamh ‘used to (be) do(ing)’
+remains very common in Scottish Gaelic, and looks similar to how Faragher uses it.
+Compare:
+Bhiodh mi fhìn ’s mo pheathraichean, gu h-àraid mise, bhiodh sinn a’ cluich
+‘taighean beaga’ - ‘Myself and my sisters, especially me, we’d play at ‘little houses’’
+(Mas math mo chuimhe: Reflection of the Gaels, 2010, p. 52)
+And:
+1 cuireann was originally the dependent form, it is now used for both independent and dependent of the
+present tense in Irish.
+2
+Vagh y ny cheayrtyn tra vagh bine beg rouyr dy yogh ayns y volg gholl mygeayrt
+lesh y vadjey ayns y laue2 - Sometimes when there was too much ale in his belly he
+would go about with the stick in his hand (EF 12)
+However, Gaelic also uses the present/future tense in a similar way:
+Bidh sgoiltean a’ tighinn a-staigh a Thaigh Chearsabhagh, agus cuideachd bidh mise
+a’ dol a-mach gu sgoiltean cuideachd, agus cuideachd bidh mi ag obair le buidhnean
+eile, um, coltach ri seann dhaoine a tha a’ fuireach anns an ospadal, no seann dhaoine
+a tha a’ fuireach ann an Trìonaid - Schools come into Taigh Chearsabhagh, and also I
+go out to schools too, and also I work with other groups, um, like old people who live
+in the hospital, or old people who live in Trinity (Taigh Chearsabhagh Heritage
+Officer Interview, Guthan nan Eilean, Sabhal Mòr Ostaig3)
+In the last example, note how the present habitual progressive with bidh (Manx bee) is
+used for habitual or repeated actions (such as going out to schools), but the simple
+present (progressive) with tha (Manx ta) is used to denote continuous states, as well
+as continuous actions, where there is no emphasis on habituality. In Manx, in contrast,
+ta is used for both and bee only has a future meaning.
+Ta mee goll magh dys scoillyn - I (habitually / repeatedly) go out to schools
+Ta mee cummal ayns Doolish - I live in Douglas
+Since Manx does not share Scottish Gaelic’s use of the future for habitual present, one
+might expect this to be paralleled in the past, with the ordinary past continuous with
+va being used for both functions. This indeed appears to be largely the case in
+Classical Manx, where e.g. V’eh goll mygeayrt… might be expected instead of Veagh
+eh goll mygeayrt… for ‘he used to go about’. This would suggest that the later
+widespread use of veagh in this way could indeed be from English influence (note that
+English too has this distinction in the past but not the present, like Manx but unlike
+Gaelic).
+However, if Broderick is right about two separate forms of the verb ‘to be’ being
+preserved, then this would suggest that the inherited Gaelic past habitual did indeed
+persist in Manx. His data is persuasive but the limited number of examples, and the
+confounds, mean that it cannot be regarded as conclusive.
+Here is a summary of all the instances he gives of the two forms from the native
+speakers (Harry Kelly once apparently corrects himself from the conditional form to
+the past habitual; M means recorded by Marstrander, identity of informant unknown).
+Habitual (Irish bhíodh > Mx. *vi:x)
+vi:x - HK, HK (<ve:x), NM, NM, NM, NM, NM, NM, TC, TC, HK, NM, NM, HK,
+NM, NM (16)
+ve:x - HK, HK, JW (3)
+2 Veagh eh ny cheayrtyn tra veagh bine beg rour dy yough ayns e volg goll mygeayrt lesh y vaidjey
+ayns e laue
+3 http://www.ambaile.org/en/item/item_videofilm.jsp?item_id=96210
+3
+Conditional (Irish bheadh > Mx. *ve:x)
+ve:x - M, M, M, M, M, M, NM, HB, TC (9)
+vi:x - NM (1)
+There seems to be a tendency to use realization with [e] or similar vowels in the
+conditional and ones with [i] for the past habitual, but these data come from limited
+numbers of speakers and only Ned Maddrell and Thomas Christian give the expected
+forms for both functions; Maddrell also has an [i] form for conditional. Also the
+spellings in Faragher’s stories are inconclusive: there is no clear distinction made
+between two pronunciations; he usually rights vagh indiscriminately, and forms such
+as been for the first person singular (Irish bhéinn and bhínn).
+A summary of the two positions for and against the idea that the use of ‘conditional’
+forms as past habitual was a natural continuation of older forms in the language, as
+opposed to being a late English-influenced innovation.
+Points which support the two positions (my points, some following theirs)	
+(Broderick) -	the use of veagh etc. for past habitual is largely a natural continuation of the Irish past habitual tense -	the conditional and past habitual functions of v/beagh are differentiated in pronunciation in Late Spoken Manx	(Kewley Draskau) - the use of v/beagh etc. for past habitual is a Late Manx innovation inspired by English influence
+One would expect the conditional and past habitual to fall together in form but continue with both functions into Classical and Late Manx	There are few or no examples from Classical Manx. How did the past habitual remain underground for so long and then pop up in Late Manx?
+Bhiodh etc. is widely used for both conditional and past habitual in Scottish Gaelic.	Scottish Gaelic uses the future tense as a present habitual, but this does not occur in Manx. This would be paralleled by the absence of the conditional with a past habitual function.
+Broderick finds differences in pronunciation between the two different functions of v/beagh which suggest that the Irish distinction between bheadh (conditional) and bhíodh (past habitual) was maintained into Late Manx.	There was wide variation in pronunciation in Late Spoken Manx and the distinction Broderick finds is not completely consistent. Moreover the number of examples is quite small. His findings are suggestive and plausible, but not conclusive.
+Edward Faragher extensively uses the ‘conditional’ form with a past habitual function.	Although Edward Faragher uses the ‘conditional’ with a past habitual function, he does not make any distinction in spelling between [vi:x] and [ve:x] as might be expected if such a distinction was maintained two generations after him (and his spelling generally closely follows his pronunciation, see Broderick 1982: 178)
+Summary of the expression of the past habitual in Manx. Example sentence ‘I used to
+play’:
+1)	Va mee cloie
+As ve cliaghtey ny saggyrtyn cheddin dy yannoo rish y pobble, tra va dooinney erbee
+chebbal oural, haink sharvaant y taggyrt, choud’s va’n eill dy vroïe, lesh aall three-
+meïr ayns e laue - And the priest’s custom with the people was, that, when any man
+4
+offered sacrifice, the priest’s servant came, while the flesh was in seething, with a
+fleshhook of three teeth in his hand (1 Sam. 2:13)
+This use of the past progressive with va/row is common, and is used alongside
+v/beagh in Late Manx, as in this example from Faragher:
+va ny yeesteeryn mannanagh giu ayns thie Kelly; jonnie yoan antonee vagh ad gra
+rish ayns ny laghyn shen, as vagh dheiney arklow giu ayns thie Turnbull son cha row
+cordaill erbee eddyr oc—the Manx fishermen would drink in Kelly’s—Johnnie Juan
+Anthony’s is what they called it in those days—and the men from Arklow would
+drink in Turnbull’s (EF 12)
+The behaviour of the Manx fishermen and the Arklow fishermen are clearly parallel,
+so the two forms are used interchangeably (though the veagh form probably
+emphasizes the habitual meaning more).
+2)	Va mee cliaghtey cloie
+Ny my ve er fys da’n er by-liesh y dow, dy row eh cliaghtey puttey, as nagh vel eh
+er ghoaill kiarail jeh, nee eh son shickyrys geeck dow son dow, as bee'n marroo lesh
+hene - Or if it be known that the ox hath used to push in time past, and his owner hath
+not kept him in; he shall surely pay ox for ox; and the dead shall be his own. Exodus
+21:36
+This can also be used with other tenses, t’eh cliaghtey jannoo ‘he usually does’ etc.
+3)	Boallin cloie
+This is originally from a copula phrase b’oayllagh with the adjective oayllagh
+‘acquainted’ (G. eolach), but it has been completely reanalysed as a conditional / past
+habitual verb form with the -agh ending, and therefore the form boallin arose for the
+first person. These forms are completely normal and there is no trace of the original
+analysis in Classical Manx, so efforts to restore *b’oayllagh dou and the like are
+anachronistic.
+Hem’s magh myr boallin, dy chraa mee-hene - I will go out as at other times before
+[as I used to], and shake myself (Judges 16:20)
+Nagh nee shoh eshyn boallagh soie shirrey jeirk? - Is not this he that sat and begged
+[that used to sit seeking alms]? (John 9:8)
+4)	Chloiein, yinnin cloie, veign cloie
+As noted by Thomson and Kewley Draskau, these forms do not seem to be common
+in Classical Manx for past habitual.
+Conclusion:
+It seems impossible currently to come to a firm conclusion either way about whether
+the use of the ‘conditional’ for past habitual is a natural continuation in Manx of an
+5
+inherited form, or a late imitation of English. It may be a mixture of both: Broderick
+concedes this possibility when he writes (pp. 307-308), ‘As pointed out by Kewley-
+Draskau (2006: 114-115), contact with English (either through education or other
+means), initially among educated Manx people (including the Manx Bible translators),
+filtering down in the course of time to the ordinary people, especially when they
+became bilingual and later predominantly speakers of English, influences from
+English would naturally be expected, including interpretations of English “would”,
+and in this regard may have subconsciously coloured their use of the appropriate
+Manx form to express “would” when speaking or writing Manx. This scenario cannot
+be ruled out’ but considers that ‘Nevertheless, it is believed that there is a certain
+residue of the appropriate use of “would” in spoken and written Manx which has
+come down to us’.
+Whatever its origins, though, the use of v/beagh etc. for the past habitual is well
+established in Late Manx, it is not simply an occasional feature. Moreover, Faragher’s
+Manx is in other respects lexically and idiomatically rich and grammatically accurate,
+and he was born in the 1830s in a largely monoglot Manx-speaking community
+(Cregneash): his Manx should therefore reflect natural pre-decay usage. There seems
+therefore no particular reason to avoid it in contemporary Manx, though the other
+strategies shown above are equally acceptable.
+Conditional perfect
+Manx uses the conditional tense in both the protasis (the ‘if’) and the apodosis (the
+‘then’).
+Agh dy beagh fys er ve euish, cre ta er ny hoiggal liorish y raa shoh, Share lhiam
+myghin na oural, cha beagh shiu er gheyrey yn vooinjer neu-chyndagh - But if ye
+had known what this meaneth, I will have mercy, and not sacrifice, ye would not have
+condemned the guiltless (Matt. 12:7)
+Agh dy beagh ad er hassoo gys my choyrle, as v’er choyrt da my phobble toiggal
+jeh my ghoo, eisht veagh ad er hyndaa ad veih nyn raaidyn mee-chrauee, as veih nyn
+ghrogh-yannoo - But if they had stood in my counsel, and had caused my people to
+hear my words, then they should have turned them from their evil way, and from the
+evil of their doings (Jer. 23:22)
+But the past tense va / row can also be used in the apodosis:
+Son mannagh beagh veg y treishteil jeh myghin er ve, cha row shin rieau er ve
+tayrnit gys arrys, agh dy jarroo goll-rish ny Jouill hene, va shin er hannaghtyn laane
+dy Vyskit as dy Ghoanlys noi Jee, dy bollagh mee-hreisteil er cooney veih - And if
+there had been no Hopes of Mercy, we should never have been drawn to Repentance,
+but, even like the Devils themselves, should have remained full of Hatred and Malice
+against God, utterly despairing of Relief from him (FRC p. 12:25)
+dy beagh yh er aght elley, cha row eh er ghoail padjer gys Jee eh dy leih daue -
+otherwuise he would not have prayed that God would forgive them (SW p. 226)
+6
+My with conditional
+Although dy + dependent is the historically correct form to use with the conditional /
+past subjunctive, my + independent is often substituted: ‘my is not uncommon,
+especially to avoid the ambiguity attaching to dy’ (Thomson note, FRC 26.1, also LS
+11:40).
+Ny my huittagh ad ayns stayd injil, foast ta dy chooilley pheccagh mie bione ad
+aarloo dy ghoaill chymmey jeu as dy eaysley orroo - Or if they should fall into a low
+Condition, yet all good People that know them are ready to pity and relieve them
+(FRC p. 26)
+Son my veagh Joshua er chur fea daue, cha row eh ny lurg shen er loayrt mychione
+laa elley - For if Jesus had given them rest, then would he not afterward have spoken
+of another day (Heb. 4:8)
+my yinnagh dooinney ooilley e chooid seihlt son graih, cha beagh yn soiagh sloo
+jeant jeh - if a man would give all the substance of his house for love, it would utterly
+be contemned (Cant. 8:7)
+Future and conditional for volition (‘I will, I would’ = ‘I want’)
+In Manx as in English the conditional and the future sometimes appear to imply
+wanting to do something. Thomson (FRC 36.7 note on cha neaishtagh ad ‘they would
+not hear’) treats such usages in Manx as ‘misinterpretations’ of an ‘English
+ambiguity’, and it may well be that English influence is evident here, though given
+that such usages are fairly common, it may be too harsh to judge such usages as
+always being a result of a misunderstanding (Lewin 2011: . Moreover, I see no
+particular reason why this usage shouldn’t have arisen naturally. If words such as
+‘will’ can go from meaning ‘want’ to meaning simply future in English, then why
+couldn’t it go the other way. ‘I would do it’ (with an implied condition clause ‘if I
+could’) could, I think, easily give rise to a meaning of volition.
+Proverb of the Month:
+Bannit t’adsyn ta ruggit bwoirrin, t’ad sauchey veih dagh geay as dorrin - Blessed are
+they who are born female, they are safe from every wind and tempest
+References and abbreviations:
+Broderick, George (2011): ‘The Imperfect and Secondary Future in Late Spoken
+Manx
+Kewley Draskau, Jennifer (2006): ‘Interlingual contact: Some modals with variable
+morphology in Manx Gaelic’. Journal of Celtic Linguistics 10 (2006): 85-120.
+Lewin, Christopher (2011): ‘A Sermon in Manx translated from the work of Thomas
+Wilson: text and commentary’. Scottish Gaelic Studies 28 (2011): 175-210.
+EF - Stories of Edward Faragher (Ned Beg Hom Ruy), numbering follows
+Broderick’s (1981-2) edition
+FRC - Fer-raauee Creestee, edited by Robert Thomson (1998)
+7

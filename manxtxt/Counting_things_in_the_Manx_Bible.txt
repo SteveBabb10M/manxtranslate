@@ -1,0 +1,223 @@
+﻿1
+Counting things in the Manx Bible
+Max Wheeler. May 2016
+When complex numerals are used with an explicit nominal head (e.g. ‘ninety days’), an issue arises in
+Manx grammar in the classical period as to where in the numeral expression the noun is placed (never
+first, though).1
+With numbers up to 60 there is no variation in the construction of numeral expressions. The
+construction there is set out in the table below.2 Biblical Manx and Modern Manx are the same in this
+respect.
+1-10, 20, 40, 60	x N	three bleeaney ‘3 years’, jeih bleeaney ‘10 years’, feed bleïn ‘20 years’, da-eed bleïn ‘40 years’ three-feed bleïn ‘60 years’
+11-19	x N jeig	shiaght bleeaney jeig ‘17 years’
+21-30	x N as feed	jeih bleeaney as feed ‘30 years’
+31-39	x N jeig as feed	hoght bleeaney jeig as feed ‘38 years’
+41-50	x N as da-eed	queig bleeaney as da-eed ‘45 years’
+51-59	x N jeig as da-eed	daa vleïn jeig as da-eed ‘52 years’
+Above 60, while round hundreds and scores precede the nominal head (and Manx counts in scores up
+to 180), e.g. kiare-feed co-lhiabbagh ‘fourscore concubines’, shey-feed prince ‘120 princes’, hoght
+cheead bleïn ‘800 years’, for more complex numerals, there are two patterns of cardinal numeral
+expressions with a nominal head that can be found in the Manx Bible. Both patterns are common.
+Pattern 1 puts the nominal head to the left as far as possible, as in the construction with numbers up to
+60. The thousands and hundreds precede the nominal head, and the additional tens (or scores) and
+units follow, after as ‘and’. This is the simpler pattern. The numeral that follows the nominal head has
+the same construction as that used in counting without a nominal, e.g. with jees ‘two’.
+Pattern 2 puts the nominal head further to the right, so thousands, and hundreds come first, then as
+‘and’, then, with 10s and units from 1 to 59, the numeral including the head nominal just as in the
+table above, that is with units or 10 preceding the noun, and the rest, —scores 20 or 40 and ‘teens’—
+following (but see footnote 4). With tens and units from 60 to 99, the scores —three-feed ‘60’ and
+kiare-feed ‘80’— and the units precede the nominal head, while jeig ‘teen’ follows. Thus, with tens
+and units above 59, the nominal head either comes last, or is followed by jeig.3
+Nouns directly after feed ‘20’, keead ‘hundred’, and thousane(yn) ‘thousand(s)’ are normally in the
+singular form (as they are after un ‘one’ and daa ‘two’), though shaghtinyn ‘weeks’ is also found
+1 Counting of things can also be expressed via ‘numeral dy N’ in Manx, as: As ooilley adsyn jeh Israel v’ad,
+milley as keead thousane dy gheiney va son tayrn y cliwe ‘And all they of Israel were a thousand thousand and
+an hundred thousand men that drew sword’ (i.e. 1100000 men) 1. Chron. 21:5. This construction, which is
+frequent in the Bible, is not discussed here.
+2 That is to say, up to 60, the units precede the noun, as do 10 and the scores (20, 40, 60, 80) without units.
+When a unit precedes, the rest —‘teen’ or scores— follow.
+3 Pattern 2 is not attested for 201-210, 301-310, etc., or for 240, 340, etc. So the model given with ? in Table 1 is
+extrapolated. Neither Pattern 1 not Pattern 2 is attested for 251-259, 351-359, etc.
+2
+(marked here in purple4). Keead appears with mutation, as cheead, after any numeral, but not = ‘one
+hundred’.
+The examples in Table 1 are selected from the corpus in Table 2.
+Table 1. Two patterns of numeral expressions (> 60) with a nominal head (N) in the Manx Bible
+A. Up to 200	Pattern 1	Pattern 2
+	x-feed N as y	x-feed as y N
+61-70	three-feed bleïn as queig	three-feed as shey laa
+	three-feed laa as jeih	three-feed as jeih bleeaney
+81-90	kiare-feed bleïn as shey	kiare-feed as kiare bleeaney kiare-feed as jeih cubityn
+101-110		queig-feed as queig bleeaney
+121-130	shey feed bleïn as shiaght	shey-feed as jeih bleeaney
+	shey-feed bleïn as jeih	shey-feed as jeih shekelyn
+	shey-feed shekel as jeih	shey-feed as shiaght rheamyn
+141-150	shiaght-feed bleïn as shiaght	shiaght feed as kiare thousaneyn
+161-170 181-190	nuy feed bleïn as jees	hoght feed as daa vleïn
+	x-feed N as y-jeig	x-feed as y N jeig
+71-79	three-feed bleïn as queig-jeig	three-feed as queig anmeenyn jeig
+91-99	kiare-feed bleïn as nuy-jeig	kiare-feed as shey reaghyn jeig kiare-feed as nuy persoonyn jeig
+111-119		queig-feed as nuy bleeaney jeig
+131-139	shey-feed bleïn as shiaght-jeig	shey-feed as shiaght bleeaney jeig shey-feed as three bleeaney jeig
+151-159 171-179 191-199		hoght-feed as queig bleeaney jeig
+B. Over 200	Pattern 1	Pattern 2
+B1. 10s up to 59		
+	x cheead N as y	? x cheead as y N
+x1-10 N	hoght cheead bleïn as shiaght	
+	x cheead N as y jeig	x cheead as y N jeig
+x11-19 N	hoght cheead bleïn as queig jeig	nuy cheead as daa vleïn jeig
+	x cheead N as feed	x cheead as feed N
+x20 N	kiare cheead talent as feed	daa cheead as feed Nethinim
+x40 N	x cheead N as da-eed	? x cheead as da-eed N
+	hoght cheead bleïn as da-eed	
+4 Three examples of three-feed shaghtinyn, Daniel 9:24, 25, and 26.
+3
+Table 1. Two	atterns of numeral expressions (> 60) with a nominal head (N) in the Manx Bible	
+x21-30 N x41-50 N	x cheead N as z as (y1,2) feed kiare cheead bleïn as jeih as feed nuy cheead bleïn as jeih as da-eed	x cheead as z N as (y1,2) feed kiare cheead as jeih bleeaney as feed three cheead as jeih bleeaney as da-eed
+x31-39 N		x cheead feed N as y jeig hoght cheead feed persoon as ghaa-yeig5
+x51-59 N	No examples	
+B2. 10s from 60		
+x60 N x80 N		x cheead (as) y3,4 feed N thousane daa cheead as three-feed laa daa cheead as kiare-feed thousane
+x61-70 N x81-90 N	x cheead N (as) y3,4 feed as z three cheead bleïn, three feed as queig nuy cheead bleïn three feed as nuy shiaght cheead bleïn as kiare feed as jees	x cheead (as) y3,4 feed as z N shey cheead three-feed as shey talentyn thousane three cheead as three feed as queig shekelyn three cheead kiare-feed as jeih laghyn
+x71-79 N x91-99 N	x cheead N as y3,4 feed as z jeig hoght cheead bleïn as kiare feed as queig jeig	x cheead (as) y3,4 feed as z N jeig daa cheead three-feed as shey anmeenyn jeig thousane shiaght cheead (as) three feed as queig shekelyn jeig
+5 If the pattern <60 were followed, this would be *hoght cheead daa phersoon yeig as feed. This is the only
+Bible example of a numeral over 200 with units in the range 31-39, so we cannot say whether the deviation from
+the pattern found in numbers up to 60 is systematic.
+4
+Table 2. Numeral expressions (‘> 20’) with nominal heads in the Manx Bible (selected). Examples of
+Pattern 2 are highlighted in yellow. Examples of Pattern 1 are not highlighted. Ascending numerical
+order.
+2 Kings 24:18	Va Zedekiah bleïn as feed dy eash tra ghow eh toshiaght dy reill6	21	Zedekiah was twenty and one years old when he began to reign
+Joshua 19:30	Ummah myrgeddin, as Aphek, as Rehob: daa ard-valley as feed marish nyn maljyn-beggey	22	Ummah also, and Aphek, and Rehob: twenty and two cities with their villages
+Exodus 36:9	Va lhiurid un churtan hoght cubityn as feed, as va lheead curtan kiare cubityn: va ny curtanyn ooilley jeh’n un towse	28	The length of one curtain was twenty and eight cubits, and the breadth of one curtain four cubits: the curtains were all of one size
+Judges 14:12	As dooyrt Samson roo, Ver-yms magh raa-dorraghey: my oddys shiu dy jarroo bun y choyrt dou er cheu- sthie jeh shiaght laa yn vannish, as feddyn magh eh, eisht ver-yms diu jeih brelleenyn as feed, as jeih caghlaaghyn as feed dy gharmadyn	30	And Samson said unto them, I will now put forth a riddle unto you: if ye can certainly declare it me within the seven days of the feast, and find it out, then I will give you thirty sheets and thirty change of garments
+Deuteronomy 34:8	As ren cloan Israel dobberan son Moses ayns strahghyn Voab jeih laa as feed: as eisht va laghyn keayney as dobberan son Moses ec kione	30	And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended
+Exodus 36:15	Va lhiurid un churtan jeih cubityn as feed, as lheead dagh curtan kiare cubityn; va’n un churtan jeig jeh’n un towse	30	The length of one curtain was thirty cubits, and four cubits was the breadth of one curtain: the eleven curtains were of one size
+2 Kings 22:1	Va Josiah hoght bleeaney dy eash tra ghow eh toshiaght dy reill, as ren eh reill un vleïn jeig as feed ayns Jerusalem. As ennym e voir va Jedidah, inneen Adaiah jeh Boscath	31	Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name was Jedidah, the daughter of Adaiah of Boscath
+1 Kings 20:1	As haggil Ben-hadad ree Syria ooilley e heshaght-chaggee cooidjagh: as va daa ree jeig as feed mârish, as cabbil, as fainee: as hie eh seose, as ren eh cruinnaghey stiagh Samaria, as caggey n’oï	32	And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it
+Genesis 11:20	As tra va Reu daa vleïn jeig as feed dy eash, hooar eh Serug	32	And Reu lived two and thirty years, and begat Serug
+6 For 21, etc., preceding un ‘one’ is optional; see 31 below.
+5
+1 Chronicles 29:27	As y traa ren eh reill harrish Israel va da-eed bleïn; shiaght bleeaney reill eh ayns Hebron, as three bleeaney jeig as feed ayns Jerusalem	33	And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem
+Genesis 11:12	As va Arphaxad bio queig bleeaney jeig as feed, as hooar eh Salah.	35	And Arphaxad lived five and thirty years, and begat Salah:
+1 Kings 15:10	As bleïn as da-eed ren eh reill ayns Jerusalem.	41	And forty and one years reigned he in Jerusalem
+2 Kings 14:23	ren eh reill un vleïn as da-eed	41	[he] reigned forty and one years
+Joshua 14:10	As cur-my-ner nish, ta’n Chiarn er my reayll bio, myr yiall eh dou, ny queig bleeaney as da-eed shoh, er- dyn traa loayr y Chiarn yn fockle shoh rish Moses, choud as va cloan Israel er nyn yurnah ’syn aasagh: as cur-my-ner nish, ta mee yn laa jiu kiare-feed as queig bleeaney dy eash	45	And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old
+2 Chron. 26:3	ren eh reill daa vleïn jeig as da-eed ayns Jerusalem	52	he reigned fifty and two years in Jerusalem
+Daniel 9:26	As lurg three-feed shiaghtinyn as jees bee Messiah er ny yiarey jeh, agh cha nee er y choontey echey hene: as nee pobble y phrince shen ta ry-heet stroie yn ard-valley as y chiamble casherick, as bee yn jerrey echey lesh thooilley, as gys jerrey yn chaggey ta traartyssyn kiarit.	62	And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.
+Daniel 5:31	As haink Darius yn Median gys yn reeriaght, tra v’eh three-feed bleïn as jees.	62	And Darius the Median took the kingdom, being about threescore and two years old.
+Isaiah 7:8	Son ta Damascus kione Syria, as Rezin kione Ghamascus; as cheu- sthie jeh three-feed bleïn as queig bee Ephraim naardey, nagh bee eh ny phobble	65	For the head of Syria is Damascus, and the head of Damascus is Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people
+Leviticus 12:5	As my t’ee gymmyrkey lhiannoo- inneen, eisht bee ish neu-ghlen daa hiaghtin, myr ayns y traa-scarree eck: as nee ish tannaghtyn ayns e ghlenney-folley, three-feed as shey laa	66	But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
+Nehemiah 7:72	As hug y chooid elley jeh’n pobble; feed thousane peesh dy airh, as daa housane punt dy argid, as three-feed	67	And that which the rest of the people gave was twenty thousand drams of gold, and two thousand
+	as shiaght coamraghyn-saggyrt		pound of silver, and threescore and seven priests’ garments
+6
+Genesis 50:3	As va da-eed laa er ny chooilleeney er e hon (son choud shen ta er nyn gooilleeney ny laghyn ocsyn ta jeant seose lesh spiceyn ry-hoi freayll) as ren ny Egyptianee dobberan er e hon three-feed laa as jeih	70	And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days
+Judges 12:14	As v’echey da-eed mac, as jeih oe as feed, va markiagh er three-feed as jeih lhiynyn-assyl: as ren eshyn briwnys Israel hoght bleeaney	70	And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years
+Jeremiah 25:11	As bee yn slane cheer ny aasagh, as ny atchim; as nee ny ashoonyn shoh shirveish ree Vabylon three-feed bleïn as jeih	70	And this whole land shall be a desolation, and an astonishment; and these nations shall serve the king of Babylon seventy years
+Psalms 90:10	Ta laghyn yn eash ain three-feed bleïn as jeih: as ga dy vod deiney ’ve cha lajer as dy roshtyn kiare-feed bleïn: ny-yeih cha vel y troshid oc eisht agh deinys as trimshey; cha leah shen te er n’gholl shaghey, as ta shin goit jeh	70	The days of our age are threescore years and ten: and though men be so strong that they come to fourscore years: yet is their strength then but labour and sorrow; so soon passeth it away, and we are gone
+Isaiah 23:17	As hig eh gy-kione ec jerrey ny three-feed as jeih bleeaney, dy jean y Chiarn jeeaghyn er Tyre, as nee ish chyndaa reesht gys e cosney, as eiyrys ee er maarderys rish ooilley reeriaghtyn y theihll er feaï-ny- cruinney	70	And it shall come to pass after the end of seventy years, that the Lord will visit Tyre, and she shall turn to her hire, and shall commit fornication with all the kingdoms of the world upon the face of the earth
+Numbers 11:16	As dooyrt y Chiarn rish Moses, Reih magh dooys three-feed dooinney as jeih jeh shanstyr Israel, ta toiggal ayd jeu dy ve shanstyr y pobble, as fir- reill harrystoo; as cur lhiat ad gys y chabbane-agglish, dy vod ad shassoo ayns shen mayrt	70	And the Lord said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee
+Ezekiel 8:11	As hass kiongoyrt roo three-feed as jeih deiney jeh shanstyr thie Israel, as ayns y vean oc hass Jaazaniah mac Shaphan, dagh dooinney lesh e henser ny laue, as hrog bodjal choo dy incense seose voue	70	And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up
+7
+Numbers 11:25	As haink y Chiarn neose ayns bodjal, as loayr eh rish, as ghow eh jeh’n spyrryd va ersyn, as hug eh shen er y three-feed shanstyr as jeih: as haink eh gy-kione, tra ren y spyrryd tannaghtyn orroo, dy ren ad phadeyrys, as cha ren ad scuirr	70	And the Lord came down in a cloud, and spake unto him, and took of the spirit that was upon him, and gave it unto the seventy elders: and it came to pass, that, when the spirit rested upon them, they prophesied, and did not cease
+2 Chronicles 29:32	As va coontey ny ourallyn ren y pobble y hebbal, three-feed as jeih dow, keead rea, as daa cheead eayn: v’ad shoh ooilley son oural-losht da’n Chiarn	70	And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the Lord
+Numbers 33:9	As scugh ad veih Marah, as haink ad gys Elim; as ayns Elim va daa hibbyr jeig ushtey, as three-feed billey palm as jeih, as ren ad campal ayns shen.	70	And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.
+Exodus 38:29	As va prash yn oural three feed talent as jeih	70	And the brass of the offering was seventy talents
+Numbers 7:25	Va’n chebbal echey un chlaare mooar argid, yn trimmid echey va shey-feed as jeih shekelyn, un veiley argid va three-feed as jeih shekelyn, cordail rish shekel y chabbane- casherick, as ad ny-neesht lane dy flooyr meein, lesh ooil ny chione son oural-arran	70	His offering was one silver charger, the weight whereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering
+Ezekiel 41:12	Nish yn buildal va kiongoyrt rish yn chlose er-lheh, ec y chione lesh y neear va three-feed as jeih cubityn er-lheead, as va voalley yn vuildal queig cubityn er cheeid ooilley mygeayrt, as y lhiurid echey kiare- feed as jeih cubityn	70	Now the building that was before the separate place at the end toward the west was seventy cubits broad; and the wall of the building was five cubits thick round about, and the length thereof ninety cubits
+Daniel 9:24	Ta three-feed shiaghtinyn as jeih kiarit er dty phobble, as er dty ard- valley casherick, dy lhiettal mee- chraueeaght, as dy choyrt jerrey er peccah, as dy yannoo lhiasaghey son mee-chairys, as dy choyrt lesh stiagh ynrickys dy bragh farraghtyn, as dy sealal seose yn ashlish, as y phadeyrys, as dy ooilaghey yn er smoo casherick	70	Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy
+8
+Judges 9:24	Dy voddagh y dewlys jeant er ny three-feed as jeih mec Jerubbaal ve cooilleenit, as yn uill oc lhie er Abimelech nyn mraar, ren ad y varroo, as er deiney Shechem, ren cooney lesh dy stroie e vraaraghyn	70	That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren
+Judges 9:56	Myr shen ren Jee cooilleeney er Abimelech yn olk ren eh da e ayr, liorish stroie ny three-feed as jeih braaraghyn echey	70	Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren
+Deuteronomy 10:22	Hie dty ayraghyn sheese gys Egypt lesh three-feed as jeih persoonyn, as nish ta’n Chiarn dty Yee er dty vishaghey myr rollageyn yn aer ayns earroo	70	Thy fathers went down into Egypt with threescore and ten persons; and now the Lord thy God hath made thee as the stars of heaven for multitude
+Genesis 12:4	Myr shen dimmee Abram roish, myr va’n Chiarn er loayrt rish, as hie Lot mârish: as va Abram three feed bleïn as queig-jeig dy eash, tra hie eh magh ass Haran	75	So Abram departed, as the Lord had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran
+Acts 7:14	Eisht hug Joseph fys, as chuirr eh yn ayr echey Jacob huggey, as ooilley e chynney, three-feed as queig anmeenyn jeig	75	Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls
+Ezra 8:35	Myrgeddin, yn chloan ocsyn v’er nyn goyrt lhieu ersooyl, v’er jeet ass y chappeeys, heb ad ourallyn-losht gys Jee Israel, daa ghow jeig son ooilley Israel; kiare-feed as shey reaghyn jeig, three-feed as shiaght eayin [67], daa ghoayr jeig fyrryn son oural-peccah: va ooilley shoh son oural-losht gys y Chiarn	(77)	Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto the Lord
+Luke 2:37	As v’ee ny ben-treoghe mysh kiare feed as kiare bleeaney dy eash, as v’ee dy kinjagh taaghey yn chiamble, shirveish Jee lesh trostey as padjeryn oie as laa	84	And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day
+Joshua 14:10	As cur-my-ner nish, ta’n Chiarn er my reayll bio, myr yiall eh dou, ny queig bleeaney as da-eed shoh, er- dyn traa loayr y Chiarn yn fockle shoh rish Moses, choud as va cloan Israel er nyn yurnah ’syn aasagh: as cur-my-ner nish, ta mee yn laa jiu kiare-feed as queig bleeaney dy eash	85	And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old
+9
+1 Samuel 22:18	As dooyrt y ree rish Doeg, Chyndaa uss, as tuitt er ny saggyrtyn. As hyndaa Doeg yn Edomite, as huitt eh er ny saggyrtyn, as varr eh er y laa shen kiare-feed as queig persoonyn va ceau coamrey casherick	85	And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod
+Genesis 16:16	As va Abram kiare feed bleïn as shey dy eash tra ren Hagar gymmyrkey Ishmael da Abram.	86	And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram
+Genesis 17:17	As huitt Abraham er e eddin, as ren eh garaghtee, as dooyrt eh ayns e chree, Bee lhiannoo er ny ruggey dasyn ta keead bleïn dy eash? as jean Sarah, ta kiare-feed bleïn as jeih, lhiannoo y ymmyrkey?	90	Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
+Ezekiel 41:12	Nish yn buildal va kiongoyrt rish yn chlose er-lheh, ec y chione lesh y neear va three-feed as jeih cubityn er- lheead, as va voalley yn vuildal queig cubityn er cheeid ooilley mygeayrt, as y lhiurid echey kiare-feed as jeih cubityn	90	Now the building that was before the separate place at the end toward the west was seventy cubits broad; and the wall of the building was five cubits thick round about, and the length thereof ninety cubits
+Ezra 8:35	Myrgeddin, yn chloan ocsyn v’er nyn goyrt lhieu ersooyl, v’er jeet ass y chappeeys, heb ad ourallyn-losht gys Jee Israel, daa ghow jeig son ooilley Israel; kiare-feed as shey reaghyn jeig, three-feed as shiaght eayin, daa ghoayr jeig fyrryn son oural- peccah: va ooilley shoh son oural- losht gys y Chiarn	96, 77	Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto the Lord
+Jeremiah 52:23	As va kiare-feed as shey pomegranateyn jeig er y derrey heu; as ooilley ny pomegranateyn er yn obbyr-lieen, v’ad queig-feed runt mygeayrt	96	And there were ninety and six pomegranates on a side; and all the pomegranates upon the network were an hundred round about
+1 Samuel 4:15	Nish va Eli kiare-feed as hoght bleeaney jeig dy eash; as va e hooillyn moal, nagh voddagh eh fakin	98	Now Eli was ninety and eight years old; and his eyes were dim, that he could not see
+Genesis 17:1	As tra va Abram kiare-feed bleïn as nuy-jeig, ren y Chiarn eh-hene y hoilshaghey da Abram, as dooyrt eh rish, She mish yn Jee ooilley niartal, jean gimmeeaght kiongoyrt rhym, as bee uss ynrick	99	And when Abram was ninety years old and nine, the Lord appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect
+10
+Luke 15:7	Ta mee gra riu, dy bee boggey myrgeddin ayns niau, jeh un pheccagh ta goaill arrys, ny smoo na jeh kiare-feed as nuy persoonyn jeig cairagh, nagh vel feme arrys	99	I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance
+Genesis 5:6	As va Seth queig feed as queig bleeaney dy eash, as va echey Enos	105	And Seth lived an hundred and five years, and begat Enos
+Genesis 50:26	Myr shoh hooar Joseph baase, as va e eash queig-feed as jeih bleeaney: as ren ad yn corp echey ’spiceal, as v’eh er ny choyrt ayns coffin ayns Egypt	110	So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt
+Genesis 11:25	As va Nahor bio lurg Terah ve ruggit queig feed as nuy bleeaney jeig; as va echey mec as inneenyn	119	And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters
+Genesis 23:1	As va Sarah shey feed bleïn as shiaght dy eash: shoh va bleeantyn seihll Sarah	127	And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah
+Esther 9:30	As hug eh ny screeunyn magh gys ooilley ny Hewnyn v’ayns ny shey- feed as shiaght rheamyn jeh reeriaght Ahasuerus, lesh goan dy hee as dy hickyrys	127	And he sent the letters unto all the Jews, to the hundred twenty and seven provinces of the kingdom of Ahasuerus, with words of peace and truth
+Genesis 5:3	As va Adam shey feed bleïn as jeih dy eash, as hooar eh mac ayns e chaslys hene, goll-rish hene; as ren eh genmys eh Seth	130	And Adam lived an hundred and thirty years, and begat a son in his own likeness, and after his image; and called his name Seth
+2 Chronicles 24:15	Agh daase Jehoiada feer shenn, as dy eash vooar tra hooar eh baase; shey- feed as jeih bleeaney d’eash v’eh tra hooar eh baase	130	But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died
+Numbers 7:85	Dagh claare argid towse shey-feed shekel as jeih	130	Each charger of silver weighing an hundred and thirty shekels
+Numbers 7:25	Va’n chebbal echey un chlaare mooar argid, yn trimmid echey va shey-feed as jeih shekelyn	130	His offering was one silver charger, the weight whereof was an hundred and thirty shekels
+Exodus 6:18	As mec Kohath; Amram, as Izhar, as Hebron, as Uzziel: as bleeantyn bea Kohath v’ad shey-feed as three bleeaney jeig	133	And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years
+Genesis 25:17	As ad shoh bleeantyn eash Ishmael, shey-feed bleïn as shiaght-jeig: as livrey eh seose e annym, as hooar eh baase, as v’eh er ny haglym gys e ayraghyn	137	And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people
+11
+Exodus 6:20	As phoose Amram Jochebed shuyr e ayrey; as va echey r’ee Aaron as Moses: As va bleeantyn eash Amram shey-feed as shiaght bleeaney jeig	137	And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years
+Job 42:16	Ny lurg shoh va Job bio shiaght-feed bleïn, as honnick eh e vec, as cloan e chlienney, eer kiare sheelogheyn	140	After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, even four generations
+Genesis 47:28	As ren Jacob beaghey ayns cheer Egypt shiaght bleeaney jeig: myr shoh va slane eash Yacob shiaght- feed bleïn as shiaght	147	And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years
+Genesis 7:24	As ren ny ushtaghyn lhieeney er y thalloo shiaght feed laa as jeih	150	And the waters prevailed upon the earth an hundred and fifty days
+Ezra 8:10	As jeh mec Shelomith; mac osiphiah, as mârishyn hoght-feed dooinney	160	And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males
+Genesis 5:18	As va Jared hoght feed as daa vleïn dy eash, as va echey Enoch	162	And Jared lived an hundred sixty and two years, and he begat Enoch
+Genesis 25:7	As ad shoh bleeantyn yn eash ren Abraham y cheau, hoght-feed as queig bleeaney jeig	175	And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years
+Esther 1:4	Tra hoilshee eh magh berchys e reeriaght ghloyroil, as onnor e ard- ooashley reeoil, ymmodee laghyn, eer nuy-feed laa	180	When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, even an hundred and fourscore days
+Genesis 5:28	As va Lamech nuy feed bleïn as jees dy eash, as va mac echey	182	And Lamech lived an hundred eighty and two years, and begat a son
+Genesis 5:25	As va Methuselah nuy feed bleïn as shiaght dy eash, as va echey Lamech	187	And Methuselah lived an hundred eighty and seven years, and begat Lamech
+Genesis 11:19	As va Peleg bio lurg Reu ve ruggit daa cheead bleïn as nuy	209	And Peleg lived after he begat Reu two hundred and nine years
+Ezra 8:20	Myrgeddin, jeh ny Nethinimee, va David as ny princeyn er phointeil son shirveish ny Leviteyn, daa cheead as feed Nethinim	220	Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims
+Numbers 16:17	as cur-jee lhieu ad roish y Chiarn dagh dooinney e henser, daa cheead censer as jeih as feed [230]	(250)	and bring ye before the Lord every man his censer, two hundred and fifty censers
+12
+Numbers 16:35	As haink aile magh veih’n Chiarn, as losht eh seose yn daa cheead as jeih deiney as da-eed va chebbal incense	250	And there came out a fire from the Lord, and consumed the two hundred and fifty men that offered incense
+Numbers 16:2	As hass ad seose noi Moses, marish shiartanse dy chloan Israel, daa cheead as jeih as da-eed prince7 jeh’n cheshaght	250	And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly
+Acts 27:37	As va shin ayns ooilley ayns y lhong, daa cheead three-feed as shey anmeenyn jeig	276	And we were in all in the ship two hundred threescore and sixteen souls
+Genesis 9:28	As va Noah bio lurg y thooilley, three cheead as jeih bleeaney as da-eed	350	And Noah lived after the flood three hundred and fifty years
+Genesis 5:23	As va slane eash Enoch three cheead bleïn, three feed as queig	365	And all the days of Enoch were three hundred sixty and five years
+Ezekiel 4:5	Son ta mee er lhie ort’s bleeantyn nyn mee-chairys, cordail rish earroo ny laghyn, three cheead kiare-feed as jeih laghyn: myr shen nee uss mee-chairys thie Israel y ymmyrkey	390	For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel
+1 Kings 9:28	As haink ad gys Ophir, as hug ad lhieu veih shen airh, kiare cheead talent as feed	420	And they came to Ophir, and fetched from thence gold, four hundred and twenty talents
+Genesis 11:17	As va Eber bio lurg ruggyr Peleg kiare cheead bleïn as jeih as feed: As va echey mec as inneenyn.	430	And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.
+Exodus 12:40	va joarreeaght (Tra nyn gummal) chloan Israel ayns Egypt, kiare cheead as jeih bleeaney as feed	430	the sojourning of the children of Israel, who dwelt in Egypt, was four hundred and thirty years
+2 Chron. 8:18	as hie ad marish marrinee Solomon gys Ophir, as hug ad lhieu veih shen	450	and they went with the servants of Solomon to Ophir, and took thence
+	kiare cheead as jeih talentyn as da- eed dy airh		four hundred and fifty talents of gold
+1 Kings 10:14	Nish va trimmid yn airh haink gys Solomon ayns un vleïn, shey cheead three-feed as shey talentyn dy airh	666	Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold
+Exodus 38:24	Ooilley’n airh va baarit er yn obbyr, ayns slane obbyr yn ynnyd casherick, eer airh yn oural, ve nuy talentyn as feed, as shiaght cheead as jeih shekelyn as feed	730	All the gold that was occupied for the work in all the work of the holy place, even the gold of the offering, was twenty and nine talents, and seven hundred and thirty shekels
+7 This construction is anomalous: one would expect daa cheead as jeih princeyn as da-eed; cf. 350, 450 below.
+13
+Jeremiah 52:30	Ayns y trass vleïn as feed jeh reill Nebuchadrezzar, ren Nebuzaradan captan y ghard cur lesh ersooyl nyn gappeeyn jeh ny Hewnyn shiaght cheead as queig persoonyn as da- eed	745	In the three and twentieth year of Nebuchadrezzar Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty and five persons
+Genesis 5:31	As va slane eash Lamech shiaght cheead bleïn three feed as shiaght- jeig: as hooar eh baase	777	And all the days of Lamech were seven hundred seventy and seven years: and he died
+Genesis 5:26	As lurg da Lamech ve ruggit, va Methuselah shiaght cheead bleïn as kiare feed as jees, as va echey mec as inneenyn	782	And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters
+Genesis 5:7	As lurg da Enos ve ruggit, va Seth hoght cheead bleïn as shiaght	807	And Seth lived after he begat Enos eight hundred and seven years
+Genesis 5:10	As lurg da Cainan de ruggit, va Enos hoght cheead bleïn as queig jeig	815	And Enos lived after he begat Cainan eight hundred and fifteen years
+Genesis 5:16	As lurg da Jared ve ruggit, va Mahalaleel hoght cheead bleïn as jeih as feed, as va echey mec as inneenyn	830	And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters
+Jeremiah 52:29	Ayns yn hoghtoo vleïn jeig jeh reill Nebuchadrezzar hug eh lesh ersooyl cappeeyn veih Jerusalem hoght cheead feed persoon as ghaa-yeig8	832	In the eighteenth year of Nebuchadrezzar he carried away captive from Jerusalem eight hundred thirty and two persons
+Genesis 5:17	As va slane eash Mahalaleel hoght cheead bleïn as kiare feed as queig jeig: as hooar eh baase	895	And all the days of Mahalaleel were eight hundred ninety and five years: and he died
+Genesis 5:11	As va slane eash Enos nuy-cheead bleïn as queig	905	And all the days of Enos were nine hundred and five years:
+Genesis 5: 14	As va slane eash Cainan nuy cheead bleïn as jeih	910	And all the days of Cainan were nine hundred and ten years
+Genesis 5:8	As va slane eash Seth nuy cheead as daa vleïn jeig	912	And all the days of Seth were nine hundred and twelve years
+Genesis 5:5	As va slane eash Adam nuy cheead as jeih bleeaney as feed, as hooar eh baase	930	And all the days that Adam lived were nine hundred and thirty years: and he died
+Genesis 9:29	As va slane eash Noah nuy cheead bleïn as jeih as da-eed: as hooar eh baase	950	And all the days of Noah were nine hundred and fifty years: and he died
+8 This seems to be the sole case in the Bible of pattern 2, involving feed, where the ‘remainder’ is 12.
+14
+Genesis 5:20	As va slane eash Jared nuy cheead bleïn three feed as jees: as hooar eh baase	962	And all the days of Jared were nine hundred sixty and two years: and he died
+Genesis 5:27	As va slane eash Methuselah nuy cheead bleïn three feed as nuy: as hooar eh baase	969	And all the days of Methuselah were nine hundred sixty and nine years: and he died
+Numbers 3:50	Jeusyn va hoshiaght-ruggit jeh cloan Israel ghow eh yn argid; thousane three cheead as three feed as queig shekelyn, cordail rish shekel yn ynnyd casherick	1365	Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary
+	As va’n argid ocsyn, v’er nyn earroo jeh’n pobble, keead talent, as		And the silver of them that were numbered of the congregation was
+Exodus 38:25	thousane shiaght cheead as three feed as queig shekelyn jeig, lurg shekel yn ynnyd casherick	1775	an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary
+Exodus 38:29	As va prash yn oural three feed talent as jeih, as daa housane as kiare cheead shekel.	2400	And the brass of the offering was seventy talents, and two thousand and four hundred shekels.
+Numbers 31:52	As ooilley airh yn oural, ren ad chebbal gys y Chiarn, veih ny captanyn thousane, as ny captanyn keead, va shey thousane jeig	16750	And all the gold of the offering that they offered up to the Lord, of the captains of thousands, and of the captains of hundreds, was sixteen
+	shiaght cheead as jeih shekelyn as da-eed		thousand seven hundred and fifty shekels
+Ezekiel 45:1	bee’n lhiurid echey queig as feed thousane cubit9	25000	the length shall be the length of five and twenty thousand reeds
+Ezekiel 48:8	shen nee shiu y hoiaghey magh jeh queig thousaneyn cubit as feed er lheead [5020]10	25000	…shall be the offering which ye shall offer of five and twenty thousand reeds in breadth
+Judges 20:35	As hug y Chiarn Benjamin fo-chosh kiongoyrt rish Israel: as stroie cloan Israel jeh ny Benjamiteyn yn laa shen queig thousaneyn as feed as keead dooinney; v’ad shoh ooilley deiney- cliwe	25100	And the Lord smote Benjamin before Israel: and the children of Israel destroyed of the Benjamites that day twenty and five thousand and an hundred men: all these drew the sword
+Numbers 31:34	As three-feed as un thousane assyl	61000	And threescore and one thousand asses
+2 Chron. 2:2	As ren Solomon pointeil three-feed as jeih thousane dooinney dy ymmyrkey erraghyn	70000	And Solomon told out threescore and ten thousand men to bear burdens
+9 NB not *queig thousane as feed cubit.
+10 I think, as expressed, the Manx can only mean ‘5020’ —a translation error, not the only one among the
+numerals, as other examples here show.
+15
+1 Kings 12:21	As tra va Rehoboam er jeet gys Jerusalem, haggil eh cooidjagh ooilley thie Yudah, marish tribe Venjamin, keead as kiare-feed thousane reih deiney-caggee, dy chaggey noi thie Israel, dy chur lesh back yn reeriaght gys Rehoboam mac Solomon	180000	And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon
+Numbers 31:36	three cheead thousane as shiaght thousaneyn jeig as feed as queig cheead baagh keyrragh	337500	three hundred thousand and seven and thirty thousand and five hundred sheep
+Numbers 31:32	As y spooilley, ta shen, yn chooid elley jeh’n chragh va ny deiney- caggee er ghoaill, va shey cheead thousane as three-feed as queig thousane jeig keyrragh	675000	And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep

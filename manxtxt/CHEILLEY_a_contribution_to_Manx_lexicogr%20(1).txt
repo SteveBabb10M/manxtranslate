@@ -1,0 +1,1294 @@
+﻿Max Wheeler
+Cheilley
+1
+CHEILLEY: a contribution to Manx lexicography
+Max W. Wheeler
+December 2016
+for Leslie Faragher, Manninagh dooie
+CHEILLEY ‘each other, one another’: reciprocal pronoun
+This word, occasionally spelt chielley, typically occurs with the apparent definite article y, which may
+be ‘absorbed’ in a preceding y (after dy, my, ry), or represented with ’ after a vowel. However, y is really
+the possessive e ‘his’ (thus y cheilley = e cheilley ‘his fellow, his partner’), which explains why the
+expected variant of the definite article, ’n, is not found here, and why cheilley always appears in this
+lenited form. The most common expressions are dy cheilley and ry cheilley ‘one another’, ‘together’. I
+do not think it is possible to give a wholly coherent account of the difference between them. One may
+observe, though, that movement or direction in space (‘towards one another’, ‘converging’) favours dy
+cheilley, occurring in the semantic fields of ‘gathering’, ‘joining’, and ‘folding (one part of an object
+towards another)’; while both ‘communicating with’, and ‘fighting with’ one another favour ry cheilley
+(facing one another). Between the prepositions fo, jeh, and veih and y cheilley, -m- is inserted: written
+fo-my-cheilley, jeh-my-cheilley, veih-my-cheilley. The source of this -m- is unclear; it is not found with
+other prepositions that end in a vowel —da, dy, ry.1 One might suppose that ‘with one another’ could
+be expressed by *marish y cheilley, but this expression does not occur. Instead, writers used lesh y
+cheilley, or just dy cheilley (and occasionally ry cheilley).
+A. Cregeen, Dictionary of the Manks Language, 1835, includes the following expressions with cheilley:
+dy cheilley, adv. together, joined.
+lurg-y-cheilley, adv. after one another.
+fud-y-cheilley, adv. through others, mixed.
+cab-ry-cheilley, s. f. a pair of scissors [literally ‘jaw(s) together’, a visual metaphor].
+coyrt-dy-cheilley, v. joining.
+fo-my-cheilley, adv. through others, subverting; 2 Tim. ii. 14: Jeh ny reddyn shoh cur ad ayns
+cooinaghtyn, coyrt currym orroo kiongoyrt rish y Chiarn, nagh streeu ad mysh focklyn nagh
+vel gys veg yn ymmyd, agh dy choyrt sleih fo-my-cheilley. Of these things put them in
+remembrance, charging them before the Lord that they strive not about words to no profit, but
+to the subverting of the hearers.
+fud-y-cheilley, adv. mixed through others.
+kione y cheilley, adv. through others, mixed.
+lesh-y-cheilley, adv. one with another.
+my-cheilley, a. continuous, together. [In the corpus, only found in the contexts fo-my-
+cheilley, jeh-my-cheilley, veih-my cheilley, as mentioned above; and one case of rish my
+cheilley (see below).]
+veih my cheilley, adv. asunder.
+ry-cheilley, adv. together, stuck together.
+goll-ry-cheilley, adv. like one another, alike.
+neu-gholl-ry-cheilley, a. dissimilar.
+Most of these usages can be illustrated with examples from my corpus of over 1m words of Classical
+Manx (1700-1850). The corpus consists largely of works translated from English, and the parallel
+1 The -m- occurs also in Phillips’ translation (1610) of Psalm 15: veim y ghrí ‘from his heart’, where we see that
+it was not earlier restricted to y cheilley, though it is again before y = e ‘his’ in this phrase.
+Max Wheeler
+Cheilley
+2
+English passages below are nearly all the originals which the Manx attempts to render. Where the
+English is my own it is in ‘…’.
+Though in most cases y cheilley occurs as the object of a preposition, it is also found as a verbal object
+as in this first set of examples:
+1.	y cheilley: direct object of verb. ‘one another, each other’
+fraue dy chooilley olk; —fraue dy
+chooilley ghrogh-yannoo, jeh mee-chairys, jeh
+tranlaase, jeh drogh-ghellal, jeh molley y
+chielley, jeh maarlys, jeh anvea, jeh
+leighderagh, jeh bwishal son baase ayraghyn as
+moiraghyn, &c.
+Jeih loobyn as daeed ver oo ayns un churtan, as
+ver oo jeih loobyn as daeed ayns oirr y churtan,
+raad t’ad tayrn dy cheilley; dy vod ny loobyn
+greimmey y cheilley.
+As tra v’ad er jeet gys Ecbatane, haink ad gys
+thie Reguel, as veeit Sara ad: as lurg daue v’er
+n’oltaghey ’cheilley, chur ee lhee stiagh ad ’sy
+thie.
+As shen-y-fa shegin daue nish yn Jouyl as e
+Ainlyn, as Peccee deyrit goll-roo hene, y ve oc
+son sheshaghyn ayns torchagh, ta choud veih
+chymmey ’ghoaill ny dy gherjaghey y
+cheilley, dy vel ad ny s’laik gueeaghyn da
+cheilley nish ayns nyn dreihys va roie
+miolaghey y cheilley gys peccah.
+As hie Moses magh quail e ayr ’sy leigh? as rea
+eh biallys da, as phaag eh eh: as vrie ad
+mychione slaynt y cheilley: as hie ad stiagh ’sy
+chabbane.
+Tar, lhig dooin jeeaghyn y cheilley ’syn eddin.
+Nee ny arreyderyn ayd’s troggal seose nyn
+goraa; lesh yn un choraa nee ad kiaulleeaght:
+son hee ad y cheilley sooill ry sooill, tra ver y
+Chiarn lesh Zion dy valley reesht.
+Agh coyrlee-jee y cheilley gagh-laa
+Bannee-jee y cheilley lesh paag chasherick.
+Oltee-jee y cheilley lesh paag dy ghraih
+Lhig dooin er-y-fa shen geiyrt da ny reddyn ta
+jannoo son shee, as lioroo oddys shin
+niartaghey y cheilley ’sy chredjue.
+the root of all evil. The root of every
+evil, of injustice, of oppression, of
+extortion, of cheating one another, of
+thieving, of contention, of law-suits, of
+wishing for the death of parents, &c.
+Fifty loops shalt thou make in the one
+curtain, and fifty loops shalt thou make in
+the edge of the curtain that is in the
+coupling of the second; that the loops
+may take hold one of another.
+And when they were come to Ecbatane,
+they came to the house of Raguel, and
+Sara met them: and after they had saluted
+one another, she brought them into the
+house
+‘Therefore they must now have the Devil
+and his angels, and sinners damned like
+them, as companions in torment, who are
+so far from receiving pity or comforting
+one another, that they are now those who
+would curse one another in their
+desolation who previously tempted one
+another to sin.’
+And Moses went out to meet his father in
+law, and did obeisance, and kissed him;
+and they asked each other of their
+welfare; and they came into the tent.
+Come, let us look one another in the
+face.
+Thy watchmen shall lift up the voice;
+with the voice together shall they sing:
+for they shall see eye to eye [Manx: they
+shall see one another eye to eye], when
+the Lord shall bring again Zion
+But exhort one another daily
+Salute one another with an holy kiss.
+Greet ye one another with a kiss of
+charity
+Let us therefore follow after the things
+which make for peace, and things
+wherewith one may edify another.
+Max Wheeler
+Cheilley
+3
+Ny treig-jee y cheilley, agh lesh coardail son
+traa, dy vod caa ve eu son trostey as padjer; as
+dy heet cooidjagh reesht, nagh miolee yn
+drogh-spyrryd shiu son nyn neuheeltys.
+Agh my ta shiu lhottey as coyrt mow y
+cheilley, cur-jee twoaie nagh stroie-jee yn
+derrey yeh yn jeh elley.
+Defraud ye not one the other, [Do not
+forsake one another] except it be with
+consent for a time, that ye may give
+yourselves to fasting and prayer; and
+come together again, that Satan tempt
+you not for your incontinency.
+But if ye bite and devour [Manx: injure
+and destroy] one another, take heed that
+ye be not consumed one of another.
+In one somewhat similar case, y cheilley is strictly the subject of a verb:
+2.	y cheilley: verbal subject
+As lhie ee sheese ec e chassyn derrey’n
+voghrey; as ren ee girree my b’leayr da
+sleih y cheilley
+And she lay at his feet until the morning: and
+she rose up before one could know another.
+[Manx: before one another was discernible
+to people (i.e. before it was light enough to
+be able to recognize anyone)]
+Y cheilley may be used in the genitive (possessive) depending on a noun phrase: ‘one another’s, of
+one another’.
+3.	y cheilley: genitive
+Eisht dooyrt mee, Cha goym kiarail sodjey
+jeu: shen ta geddyn baase, lhig da goll gy-
+baase: as shen ta dy ve giarit jeh, lhig da ve
+giarit jeh; as lhig da’n chooid elley gee,
+dagh unnane feill y cheilley.
+Ymmyrk-jee erraghyn y cheilley, as myr
+shoh lhieen-jee yn leigh
+SON wheesh as dy vel M. as N. er choyrt
+nyn aigney dy-cheïley ayns poosey
+casherick, as er hoilshaghey shoh fenish
+Yee as y cheshaght shoh, as gys shen er
+choyrt as er n’ghialltaghey nyn mreearrey
+yn derrey yeh da’n jeh elley, as er
+hoilshaghey shoh liorish coyrt as goaill
+Fainey, as liorish goaill laueyn y chielley;
+Ta mish fockley magh dy nee dooinney as
+ben phoost ad cooidjagh, Ayns Ennym yn
+Ayr, as y Vac, as y Spyrryd Noo. Amen.
+lhisagh deiney as mraane poost ve dy feer
+vooar graihagh er y chielley, as streeu dy
+yannoo bioys y chielley maynrey ayns shoh
+Ren eh yn aarkey y scarrey, as lhig eh daue
+goll ny-hrooid: hug eh er ny ushtagh yn dy
+hassoo er mooin-y-cheilley [myr voall er
+dagh cheu.]
+Then said I, I will not feed you: that that
+dieth, let it die; and that that is to be cut off,
+let it be cut off; and let the rest eat every one
+the flesh of another.
+Bear ye one another's burdens, and so fulfil
+the law of Christ.
+FORASMUCH as M. and N. have consented
+together in holy wedlock, and have
+witnessed the same before God and this
+company, and thereto have given and
+pledged their troth either to other, and have
+declared the same by giving and receiving of
+a Ring, and by joining of hands [Manx: by
+taking one another’s hands]; I pronounce that
+they be man and wife together, In the Name
+of the Father, and of the Son, and of the Holy
+Ghost. Amen.
+Married men and women ought to be greatly
+loving to one another, and to strive to make
+one another’s life happy here below.
+He divided the sea, and let them go through:
+he made the waters to stand on an heap.
+[Manx: on top of one another] (as a wall on
+either side). [Er mooin = ‘mounted on’,
+‘piggy back’.]
+Max Wheeler
+Cheilley
+4
+Prepositional phrases with y cheilley
+4.	coair y cheilley ‘near one another’
+As haink eh [y pillar bodjallagh] eddyr camp
+ny Egyptianee as camp Israel: agh ve ny vodjal
+as dorraghys da ny Egyptianee, agh hug eh
+soilshey ’syn oie da ny Israeliteyn: myr shen
+nagh daink ad coair y cheilley er y slane oie.
+And it came between the camp of the
+Egyptians and the camp of Israel; and it
+was a cloud and darkness to them, but it
+gave light by night to these: so that the
+one came not near the other all the
+night.
+5.	da ’cheilley ‘for one another’. In the examples, this prepositional phrase is found with verbs
+that are construed with an indirect object with da: leih da ‘forgive’, cur da ‘give, send’.
+Gymmyrkey yn derrey yeh lesh y jeh elley,
+as leih da ’cheilley, my ta dooinney erbee
+as streeu echey rish fer elley
+As bee-jee dooie yn derrey yeh da’n jeh
+elley, meiygh-chreeagh, leigh da y
+cheilley.
+As bee cummaltee yn thallooin boggyssagh
+harrystoo, as bee ad gennal, as ver ad
+giootyn da ’cheilley.
+As shen-y-fa shegin daue nish yn Jouyl as e
+Ainlyn, as Peccee deyrit goll-roo hene, y ve
+oc son sheshaghyn ayns torchagh, ta choud
+veih chymmey ’ghoaill ny dy gherjaghey y
+cheilley, dy vel ad ny s’laik gueeaghyn da
+cheilley nish ayns nyn dreihys va roie
+miolaghey y cheilley gys peccah.
+Forbearing one another, and forgiving one
+another, if any man have a quarrel against
+any
+And be ye kind one to another, tenderhearted,
+forgiving one another.
+And they that dwell upon the earth shall
+rejoice over them, and make merry, and shall
+send gifts one to another.
+‘Therefore they must now have the Devil and
+his angels, and sinners damned like them, as
+companions in torment, who are so far from
+receiving pity or comforting one another, that
+they are now those who would curse one
+another in their desolation who previously
+tempted one another to sin.’
+6.	dy cheilley: the majority of the examples of y cheilley are found with the preposition dy. As a
+general rule, with dy cheilley, some motion or direction in space is implied, but there are
+exceptions, as indicated below.
+a.	Dy cheilley is used in many expressions of ‘gathering’, transitive or intransitive, the
+common idea being movement towards one another, or convergence in the same direction.
+Ny myr side tra t’ee lhiggit er mark, t’ee
+scarrey yn aer, ta chelleeragh cheet dy
+cheilley reesht, myr shen nagh vod
+dooinney ginsh cre’n raad hie ee ny
+hrooid:
+Cha vel traa erbee neu-chooie son carrey
+as sheshey dy heet dy cheilley; agh ny
+s’dooie na ad ny-neesht, ta ben rish e
+sheshey
+As tra v’ad er n’yannoo shoh chruinnee
+ad dy cheilley lheid yn earroo mooar dy
+eeastyn; dy row yn lieen oc brishey.
+Or like as when an arrow is shot at a mark,
+it parteth the air, which immediately
+cometh together again, so that a man
+cannot know where it went through
+A friend and companion never meet amiss
+[Manx: there is no time unsuitable for a
+friend and a companion to come
+together]: but above both is a wife with
+her husband
+And when they had this done, they
+inclosed [Manx: assembled together] a
+great multitude of fishes: and their net
+brake.
+Max Wheeler
+Cheilley
+5
+As kione bleeantyn liauyrey nee ad
+taaghey dy cheilley; son hig inneen ree
+yn jiass, gys ree yn twoaie, dy yannoo
+coardail
+Chaggle dy cheilley ooilley kynneeyn
+Yacob
+Traa dy arraghey claghyn, as traa son
+chymsaghey claghyn dy cheilley: traa dy
+ve graihagh, as traa dy haghney graih
+Tra honnick Yeesey dy row yn pobble
+ayns preis chionney dy cheilley, vaggyr
+eh er y spyrryd neughlen,
+Nee ny ashoonyn roie dy cheilley myr
+thooillaghyn ymmodee ushtaghyn: agh
+nee Jee ad y chastey, as nee ad chea
+foddey jeh, as bee ad er nyn imman myr
+coau ny sleityn roish y gheay, as myr
+floagyn roish y gheaychassee.
+Ta shiu nish toiggal meanal y text, ta mee
+er chur dy cheilley ny Scriptyryn shoh
+dy explaynal
+As ny-sodjey na shoh, er-yn-oyr dy row
+yn preachoor creeney, dynsee eh yn
+pobble dy imneagh ayns tushtey: dy
+jarroo hug eh tastey vie, as hir eh magh,
+as hug eh dy cheilley ymmodee raaghyn
+creeney.
+as my t’eh marran, ver ad nyn gooney
+dy cheilley dy choyrt fo-chosh eh
+As troggee eh seose mergey, as tayrnee
+eh dy cheilley eebyrtee Israel, as chaglee
+eh cooidjagh skeayltee Yudah veih kiare
+ardjyn yn aer.
+Bee-jee nyn dhost ayns my enish, O
+ellanyn; as lhig da’n pobble jannoo mie
+nyn gooish; lhig daue shassoo stiagh, as
+eisht loayrt; lhig dooin tayrn dy cheilley
+ayns briwnys.
+And in the end of years they shall join
+themselves together; [Manx: resort to
+one another] for the king's daughter of
+the south shall come to the king of the
+north to make an agreement
+Gather all the tribes of Jacob together
+A time to cast away stones, and a time to
+gather stones together; a time to
+embrace, and a time to refrain from
+embracing
+When Jesus saw that the people came
+running [Manx: thronging] together, he
+rebuked the foul spirit
+The nations shall rush [Manx: run
+together] like the rushing of many waters:
+but God shall rebuke them, and they shall
+flee far off, and shall be chased as the
+chaff of the mountains before the wind,
+and like a rolling thing before the
+whirlwind.
+Now you understand the meaning of the
+text that I put together [i.e. collected,
+assembled] these scriptures to explain
+And moreover, because the preacher was
+wise, he still taught the people knowledge;
+yea, he gave good heed, and sought out,
+and set in order [Manx: put together, i.e.
+assembled] many proverbs.
+and if he stumble, they will help [Manx:
+put their help together] to overthrow him
+And he shall set up an ensign for the
+nations, and shall assemble [Manx: draw
+together] the outcasts of Israel, and gather
+together the dispersed of Judah from the
+four corners of the earth.
+Keep silence before me, O islands; and let
+the people renew their strength: let them
+come near; then let them speak: let us
+come near [Manx: draw] together to
+judgment.
+b.	Dy cheilley is also used in the context of ‘joining two or more elements together’ as in the
+following examples, with binding, joining, weaving, sticking, etc. For ‘sticking together’,
+Max Wheeler
+Cheilley
+6
+as well as lhiantyn dy cheilley, we find lhiantyn er y cheilley, and lhiantyn ry cheilley, for
+which see examples below (§7, §14e).
+Myr nagh vod fuygh ta kianlt as juntit
+dy cheilley ayns buildal, v’er ny
+lhaggaghey lesh craa: myrgeddin yn
+cree t’er ny hickyraghey lesh coyrle
+vie, cha gow eh aggle ec traa erbee.
+Eisht dooyrt Delilah rish Samson, T’ou
+foast dy m’y volley, as ginsh breagyn
+dou: insh dou cre lesh oddys oo ve
+kianlt. As dooyrt eh r’ee, My nee oo
+rheynn folt my ching ayns shiaght
+skeogyn, as fee ad dy cheilley, as
+jannoo ad shickyr lesh kibbin ’sy
+gharmin [hed my niart voym].
+Hie ad hene as ooilley ny va bentyn
+roo sheese bio ayns yn ooig, as haink y
+thalloo dy-cheilley harrystoo: as ren ad
+cherraghtyn veih mastey’n pobble.
+Tra ta’n thalloo sponkit gys joan, as ny
+ceabyn lhiantyn creoi dy cheilley?
+As son wheesh as dy vaik oo yiarn
+kione y chray hallooin, nee ad seiy ad
+hene fud sluight deiney, agh cha jean
+ad lhiantyn dy cheilley, eer myr nagh
+vel yiarn taah rish cray.
+As timber girt and bound together in a
+building cannot be loosed with shaking: so
+the heart that is stablished by advised
+counsel shall fear at no time.
+And Delilah said unto Samson, Hitherto
+thou hast mocked me, and told me lies: tell
+me wherewith thou mightest be bound. And
+he said unto her, If thou weavest the seven
+locks of my head with the web [Manx: if
+you separate the hair of my head into seven
+skeins, and weave them together]. And she
+fastened it with the pin.
+They, and all that appertained to them, went
+down alive into the pit, and the earth closed
+[Manx: came together] upon them: and they
+perished from among the congregation.
+When the dust groweth into hardness, and
+the clods cleave fast together?
+And whereas thou sawest iron mixed with
+miry clay, they shall mingle themselves with
+the seed of men: but they shall not cleave
+one to another, even as iron is not mixed
+with clay.
+c.
+Dy cheilley is used when two parts of an object are folded towards one another, as in these
+examples:
+As ghow Elijah e chloagey, as ren eh filley
+eh dy cheilley, as woaill eh ny ushtagh yn,
+as y ad er nyn scarrey veih my cheilley; myr
+shen dy jagh ad ny-neesht harrish er thalloo
+chirrym.
+Ta’n ommydan filley e laueyn dy cheilley,
+as gee yn eill echey hene.
+va ben ayns shen seaghnit lesh spyrryd
+doghanagh rish hoght bleeaney jeig, as v’ee
+crybbit dy cheilley, as cha dod ee er aght
+erbee ee hene y yeeraghey.
+And Elijah took his mantle, and
+wrapped it together, and smote the
+waters, and they were divided hither
+and thither, so that they two went over
+on dry ground.
+The fool foldeth his hands together,
+and eateth his own flesh.
+there was a woman which had a spirit
+of infirmity eighteen years, and was
+bowed together, and could in no wise
+lift up herself.
+d.
+And ‘clapping one’s hands’ may use dy cheilley, though clapping is more often just
+bwoalley ny massyn ‘strike the palms’, without dy cheilley.
+Uss er-y-fa shen, vac y dooinney, jean
+phadeyrys, as bwoaill dty vassyn dy cheilley.
+Thou therefore, son of man, prophesy,
+and smite thine hands together.
+Max Wheeler
+Cheilley
+7
+e.	Whereas the sense of ‘communicating with one another’ typically requires ry cheilley, one
+common Biblical expression using dy cheilley in this context is cur nyn goyrle dy cheilley
+‘consult together, conspire’, literally, ‘put their counsel together’:
+Son tra ta cheet orroo caggey erbee ny paitt,
+ta ny saggyrtyn cur nyn goyrle dy cheilley,
+c’raad oddys ad ve follit maroosyn.
+Tra va mooinjer Vabylon er chlashtyn shen
+v’ad corree, as hug ad nyn goyrle dy-
+cheilley noi’n ree
+As myr ta sheshaghtyn dy roosteyryn lhie
+cooyl-chlea son dooinney, myr shen ta
+sheshaght ny saggyrtyn coyrt nyn goyrle dy
+cheilley, dy yannoo dunverys er y raad: son
+t’ad jannoo dy eajee.
+Tra va’n moghrey er jeet rish, hug ooilley ny
+ard-saggyrtyn as shanstyr yn phobble nyn
+goyrle dy cheilley, dy choyrt eh gy-baase.
+For when there cometh any war or
+plague upon them, the priests consult
+with themselves, where they may be
+hidden with them.
+When they of Babylon heard that, they
+took great indignation, and conspired
+against the king
+And as troops of robbers wait for a
+man, so the company of priests
+murder in the way by consent [Manx:
+conspire together to commit murder
+on the road]: for they commit
+lewdness.
+When the morning was come, all the
+chief priests and elders of the people
+took counsel against Jesus to put him
+to death
+f.	‘Charity’, or ‘love, to one another’ can be expressed with graih dy cheilley:
+dy vel y credjue eu cheet er ash ny smoo
+as ny smoo, as graih dagh unnane eu dy
+cheilley bishaghey
+As erskyn dy chooilley nhee lhig da
+graih jeean ve eu dy cheilley: son nee
+graih coodaghey ymmodee peccaghyn.
+because that your faith groweth
+exceedingly, and the charity of every one
+of you all toward each other aboundeth
+And above all things have fervent charity
+among yourselves: for charity shall cover
+the multitude of sins.
+g.	Finally, in not a few cases, dy cheilley can be used for ‘together’ without the elements either
+of reciprocity or of movement. This sense is otherwise expressed with lesh y cheilley (see
+§13 below). And ooilley dy cheilley is often used where the English has ‘all together’, or
+even ‘altogether’ (adverbial = ‘completely, utterly’), for which ooilley dy cheilley may not
+have been the most idiomatic rendering.
+Tra heeynys y Chiarn magh e laue, nee
+chammah yn er-coonee tuittym, as eshyn
+t’eh cooney lesh, as hed ad ooilley naardey
+dy cheilley.
+shen-y-fa hug eh er y chashtal as e voalley
+dy ghobberan; hie ad naardey dy cheilley.
+tra ta mee geamagh orroo, t’ad shassoo
+seose dy cheilley.
+nee ny ayraghyn as ny mec dy cheilley
+tuittym lioroo; nee’n naboo as e charrey
+cherraghtyn.
+When the Lord shall stretch out his hand,
+both he that helpeth shall fall, and he that
+is holpen shall fall down, and they all
+shall fail together.
+therefore he made the rampart and the
+wall to lament; they languished together.
+when I call unto them, they stand up
+together.
+the fathers and the sons together shall
+fall upon them; the neighbour and his
+friend shall perish.
+Max Wheeler
+Cheilley
+8
+Eisht gowee yn voidyn boggey ’sy
+daunsin, chammah deiney aegey as y
+chenndeeaght dy cheilley: son chyndaa-
+yms yn dobberan oc gys boggey, as nee’m
+ad y gherjaghey, as dy ghoaill boggey veih
+nyn drimshey
+As nee cummal ayns Judah hene, as ayns
+ooilley ny ard-valjyn dy cheilley, eirrinee,
+as bochillyn keyrragh.
+son t’adsyn myrgeddin er chur cooyl, as er
+roie er-chea dy cheilley
+hed Chemosh magh ayns cappeeys, marish
+e haggyrtyn as e phrinceyn dy cheilley.
+Son bee chammah yn jalloo grainnit as e
+ghrainneyder er nyn gerraghey dy
+cheilley.
+Nee yn moddey-oaldey baghey marish yn
+eayn, as nee yn leopard lhie sheese marish
+y vannan; yn lheiy, as y lion aeg, as y
+haagh beiyht dy cheilley; as nee paitchey
+ad y vochilley.
+As ooilley reeaghyn y twoaie, foddey as
+gerrit, ooilley dy cheilley, as ooilley
+reeriaghtyn y theihll, ta er eaghtyr y
+thallooin;
+Nish haink eh gy-kione, tra v’ad er
+chlashtyn ooilley ny goan, dy row aggle
+orroo ooilley dy cheilley, as dooyrt ad rish
+Baruch, Inshee mayd dy firrinagh da’n ree
+ooilley ny goan shoh.
+Chum ad shoh ooilley dy cheilley lesh un
+aigney ayns padjer as aghin, marish ny
+mraane, as Moirrey moir Yeesey, as e
+vraaraghyn.
+Cur-m-yner, ta shiu hene ooilley er vakin
+eh: cre’n-fa eisht ta shiu ooilley dy
+cheilley lesh cha beg dy hushtey?
+Ta aggle y Chiarn glen, as farraghtyn son
+dy bragh: ta briwnyssyn y Chiarn firrinagh
+as cairagh ooilley dy cheilley.
+Then shall the virgin rejoice in the dance,
+both young men and old together: for I
+will turn their mourning into joy, and
+will comfort them, and make them
+rejoice from their sorrow.
+And there shall dwell in Judah itself, and
+in all the cities thereof together,
+husbandmen, and they that go forth with
+flocks.
+for they also are turned back, and are fled
+away together
+Chemosh shall go forth into captivity
+with his priests and his princes together.
+For that which is made shall be punished
+together with him that made it. [Manx:
+both the graven image and the engraver
+shall be punished together]
+The wolf also shall dwell with the lamb,
+and the leopard shall lie down with the
+kid; and the calf and the young lion and
+the fatling together; and a little child
+shall lead them.
+And all the kings of the north, far and
+near, one with another, and all the
+kingdoms of the world, which are upon
+the face of the earth
+Now it came to pass, when they had
+heard all the words, they were afraid
+both one and other [Manx: that fear was
+on them all together], and said unto
+Baruch, We will surely tell the king of all
+these words.
+These all continued with one accord in
+prayer and supplication, with the women,
+and Mary the mother of Jesus, and with
+his brethren.
+Behold, all ye yourselves have seen it;
+why then are ye thus altogether [Manx:
+all together] vain?
+The fear of the Lord is clean, and
+endureth for ever: the judgements of the
+Lord are true, and righteous altogether.
+Max Wheeler
+Cheilley
+9
+7.	Er y cheilley ‘on one another’ is used in contexts where er ‘on’ is appropriate in its own right:
+As y naptin va mysh e chione, cha nee ny
+lhie marish ny aanrityn elley, agh fillit er-
+y cheilley ayns ynnyd er-lheh. [fillit dy
+cheilley could have been used here, see
+above.]
+Thousaneyn dy cheayrtyn t’ou er choyrt
+ny caarjyn as y sleih-mooinjerey ’smessey
+er-y-cheilley myr moddee; ny craueyn oc
+jeestyrnee ny feeacklyn oc snaggeraght
+er-y-cheilley as yn eill oc ooilley craa
+lesh keoie-id - eisht er ghreeasagh seose
+ad dys shuit-leigh dy vaarail nyn argid dy
+ommijagh er-y-cheilley ayns farg as
+eulys.
+graihagh er y-cheilley
+As my t’ou creck veg rish dty naboo, ny
+kionnaghey veih laue dty naboo; cha jean
+shiu tranlaase er y cheilley
+Eisht yeeagh ny ostyllyn er y cheilley
+ayns ourys quoi er v’eh cheet.
+Er shoh ren Hewnyn ny baljyn-cheerey, as
+cummaltee ny baljyn-foshlit, yn chiarroo
+laa yeig jeh’n vee Adar, laa son gennallys,
+as cuirraghyn, as ard fealley, as dy stowal
+giootyn er y cheilley.
+Ta e scaailey e voyrn, lhiantyn er y
+cheilley myr lesh seal shickyr.
+T’ad cha chion er y ch[e]illey, nagh vod
+yn aer sloo cheet eddyr ad.
+And the napkin, that was about his head,
+not lying with the linen clothes, but
+wrapped together in a place by itself.
+Thousands of times you have set the
+worst friends and relatives on each other
+like dogs; their bones creaking their teeth
+chattering together and their flesh all
+shaking with madness — then have
+incited them to law suits to spend their
+money foolishly on each other in anger
+and fury. Trial of John Barlecorn, tr.
+Chris Sheard
+loving one another
+And if thou sell ought unto thy
+neighbour, or buyest ought of thy
+neighbour’s hand, ye shall not oppress
+one another
+Then the disciples looked one on
+another, doubting of whom he spake.
+Therefore the Jews of the villages, that
+dwelt in the unwalled towns, made the
+fourteenth day of the month Adar a day
+of gladness and feasting, and a good day,
+and of sending portions one to another
+[Manx: of bestowing gifts on one
+another].
+His scales are his pride, shut up together
+[Manx: sticking on one another] as with
+a close seal. [Compare lhiantyn dy
+cheilley above]
+One is so near to another [Manx: They
+are so pressed on one another], that no
+air can come between them.
+8. As Cregeen explains, fo my cheilley is ‘subverting’
+cheilley ‘to subvert’:
+Ta dy chooilley reeriaght ta girree magh
+n’oi hene goll naardey: as ard-valley ny thie
+erbee ta girree-magh fo-my-cheilley, cha
+vod ad shassoo.
+Jeh ny reddyn shoh cur ad ayns
+cooinaghtyn, coyrt currym orroo kiongoyrt
+rish y Chiarn, nagh streeu ad mysh focklyn
+nagh vel gys veg yn ymmyd, agh dy choyrt
+sleih fo-my-cheilley.
+(lit. ‘underneath one another’); cur fo-my-
+Every kingdom divided against itself is
+brought to desolation; and every city or
+house divided against itself shall not
+stand: [‘rising up in subversion’]
+Of these things put them in
+remembrance, charging them before the
+Lord that they strive not about words to
+no profit, but to the subverting of the
+hearers.
+Max Wheeler
+Cheilley
+10
+Ny beeill oc sheign y yeigh, ta cur slane
+lughtyn-thie fo-my-cheilley, gynsaghey
+reddyn nagh lhisagh ad er graih drogh
+chosney.
+Whose mouths must be stopped, who
+subvert whole houses, teaching things
+which they ought not, for filthy lucre's
+sake.
+9.	Fud y cheilley, ‘mixed together’, ‘mingled with’, and, idiomatically, ‘in disarray, in confusion,
+disorganized’, is literally ‘through one another’, or ‘among one another’.
+Myr shoh va sniaghtey-garroo ayn, yn
+aile as y sniaghtey-garroo roie fud-y-
+cheilley feer atchimagh, cha row rieau
+y lheid ayns ooilley cheer Egypt
+neayr’s ve ny ashoon
+cha jean oo cuirr dty halloo lesh
+caghlaa rass fud-y-cheilley: cha jean
+oo ceau garmad dy linsee-woolsee.
+Son choud as t’ad cast fud-y-cheilley
+myr ny drineyn, as nyn geeayl voue,
+myr deiney meshtal, bee ad stroit-myr
+stubble slane creen.
+Nish tra va Enemessar marroo, ren
+Sennacherib e vac reill ayns e ynnyd; e
+chooishyn va cha fud-y-cheilley, nagh
+voddins goll gys Media
+ta e lught-thie as e chooid-heihlt fagit
+fud-y-chielley
+Myr ec margey my t'ou er n'eaishtagh
+rish
+Cowag y chaglym, agh cha bee ayd fys
+Cre un ockle ta fer gra rish fer elley,
+Agh thassane mooar ooilley fud-y-
+cheilley
+Honnick mee’n traa va’n diunid doo as
+feayn,
+Gyn aer, gyn aile, gyn thalloo as gyn
+keayn :
+Gyn soilshey neesht ; as foast v’ad
+ooilley ayn
+Myr dredge brenneeinagh, floagagh,
+fegooish kione ;
+Dagh nhee t’er lheh nish, eisht va fud-
+y-cheilley
+So there was hail, and fire mingled with the
+hail [Manx: the fire and the hail running
+through one another], very grievous, such
+as there was none like it in all the land of
+Egypt since it became a nation
+thou shalt not sow thy field with mingled
+seed: neither shall a garment mingled of
+linen and woollen come upon thee
+For while they be folden together as thorns,
+and while they are drunken as drunkards,
+they shall be devoured as stubble fully dry.
+Now when Enemessar was dead,
+Sennacherib his son reigned in his stead;
+whose estate was troubled [Manx: was so
+disorganized], that I could not go into Media
+his family and his affairs are neglected
+[Manx: are left in confusion]
+‘As at market if you have listened to
+a chattering crowd gathering, and you do not
+know
+what (one) word one person says to another
+but a great babble all in confusion’
+‘I saw the time when the depth was black
+and vast,
+without air, without fire, without earth and
+without sea,
+without light either; and still they were all
+there
+like dusty frozen sea mist, flaky, endless;
+each thing that is now separate, then was in
+confusion’
+10.	Harrish y cheilley ‘over one another’:
+As nee ad tuittym harrish y cheilley myr
+roish y chliwe, tra nagh vel fer erbee er
+nyn eiyrt’s: as cha bee veg y vree ayndiu
+dy hassoo roish nyn noidyn.
+And they shall fall one upon another, as
+it were before a sword, when none
+pursueth: and ye shall have no power to
+stand before your enemies.
+Max Wheeler
+Cheilley
+11
+11.	Three expressions involve jeh with y cheilley: goaill boggey jeh ‘rejoice in (someone), rejoice
+to meet (someone), greet (someone)’; goaill y kied jeh ‘take (one’s) leave of (someone)’, and
+briaght jeh ‘enquire of’:
+Myr shen deie eh er, as haink eh stiagh,
+as ghow ad boggey jeh my-cheilley
+As tra va shin er ghoaill nyn gied jeh
+[’]cheilley, ghow shin lhuingys; as
+hyndaa adsyn thie reesht.
+Myr shen tra v’ad ersooyl magh, scar
+ad veih my-cheilley, as chyndaa reesht
+haink ad gys yn un voayll; as lurg daue
+v’er vriaght jeh my-cheilley yn oyr,
+ghow ad rish nyn yeearree: eisht phoint
+ad traa ny-neesht cooidjagh, tra oddagh
+ad geddyn ee ny lomarcan.
+So he called him, and he came in, and they
+saluted one another.
+And when we had taken our leave one of
+another, we took ship; and they returned
+home again.
+So when they were gone out, they parted the
+one from the other, and turning back again
+they came to the same place; and after that
+they had asked one another the cause, they
+acknowledged their lust: then appointed
+they a time both together, when they might
+find her alone.
+12.	Kione y cheilley is an idiomatic expression ‘mixed together, combined’, maybe without the
+sense of ‘confusion, disorder’ present in fud-y-cheilley.
+hug eh lesh mysh keead punt dy vyrrh as dy
+aloes kione y cheilley
+Cha jean oo dty gharey-feeyney y chuirr
+lesh caghlaaghyn rass kione-y-cheilley;
+nagh bee dty rass t’ou er chuirr, as mess dty
+gharey-feeyney neufollan.
+Aer, ooir, aile, ushtey, nyn giare kione-y-
+cheilley
+and [he] brought a mixture of myrrh
+and aloes, about an hundred pound
+weight
+Thou shalt not sow thy vineyard with
+divers seeds: lest the fruit of thy seed
+which thou hast sown, and the fruit of
+thy vineyard, be defiled.
+‘air, earth, fire, water, the four of them
+together’
+13.	Lesh y cheilley is ‘together, in company with one another’:
+As dyllee ad dy cheilley ooilley
+shenndeeaght yn ard-valley, as roie
+yn aegid oc ooilley lesh-y-cheilley,
+as ny mraane oc, gys y co-
+chruinnaght
+Eisht ren ooilley yn pobble siyr lesh-
+y-cheilley, as huitt ad sheese lesh
+nyn eddinyn gys y thalloo
+Cre’n-fa ta ny ashoonyn cha
+eulyssagh girree-magh lesh y
+cheilley: as cre hon ta’n sleih goaill
+red ommijagh ayns nyn gione?
+Haink eh eer gy-kione, myr va ny
+trumpeteryn hellym lesh cayrnyn, as
+ny fir-chiaullee goll lesh y cheilley
+’syn un chiaul, ayns coyrt moylley as
+booise da’n Chiarn
+And they called together all the ancients of the
+city, and all their youth ran together, and their
+women, to the assembly
+Then all the people together hasted [Manx:
+hastened together], and fell down to the earth
+upon their faces
+Why do the nations so furiously rage together:
+and why do the peoples imagine a vain thing?
+It came even to pass, as the trumpeters and
+singers were as one, to make one sound to be
+heard [Manx: as the trumpeters were sounding
+with horns and the singers going together
+(with them) in the same song] in praising and
+thanking the Lord
+Max Wheeler
+Cheilley
+12
+Lhig da ny mee-chrauee tuittym
+lesh-y-cheilley ayns ny ribbaghyn oc
+hene: as lhig dooys dy bragh ad y
+haghney.
+nee’m my phaart dy jed my chree as
+my ghoan lesh y chielley.
+Let the ungodly fall into their own nets
+together: and let me ever escape them.
+I will endeavour that my words and heart shall
+go together.
+14.	A number of expressions involve ry cheilley; the common element of meaning seems to be
+‘facing one another’, or ‘confronting one another’, not generally implying movement.
+a.	As Cregeen explains, goll ry cheilley means ‘be like one another’, with the ‘be like’ element
+as in goll rish. A similar sense is to be observed in soylagh ry cheilley or cosoylagh ry
+cheilley ‘compare with one another’:
+As va’n raad kiongoyrt roo, goll-rish
+raad ny shamyryn, ta gys y twoaie,
+co-liauyr roosyn, as co-lhean roo, as
+v’ad er dy chooilley aght goll ry-
+cheilley, rere nyn gummey, as rere
+nyn ghorryssyn.
+As haink kiare beishtyn mooar seose
+veih yn aarkey, nagh row goll ry-
+cheilley.
+Son t’ee ny s’aalin na’n ghrian, as
+erskyn ooilley order ny rollageyn, as
+ny sollys na’n soilshey hene, tra t’ad
+er nyn soylagh ry-cheilley
+Dy feer hug ad ooashley da ny
+cretooryn s’eajee: son cosoylit ry-
+cheilley ta paart ny smeilley na paart
+elley.
+And the way before them was like the
+appearance of the chambers which were
+toward the north, as long as they, and as broad
+as they: and all their goings out were both
+[Manx: they were in every way similar]
+according to their fashions, and according to
+their doors.
+And four great beasts came up from the sea,
+diverse one from another [Manx: that were not
+like one another].
+For she is more beautiful than the sun, and
+above all the order of stars: being compared
+with the light, she is found before it [Manx:
+above all the order of the stars and of the
+brightness (more) than the light itself, when
+they are compared with one another]
+Yea, they worshipped those beasts also that are
+most hateful: for being compared together,
+some are worse than others.
+b.	Various kinds of communication, such as speaking, saying, arguing, lying, making an
+agreement, singing, roaring, reasoning, conversing —verbs that would also take the
+preposition rish for their regular indirect objects— use ry cheilley ‘to one another’.
+As dooyrt ad ry-cheilley, Tar-jee, lhig
+dooin breekyn y yannoo, as slane lostey
+ad
+As va aggle orroo, goaill yindys as gra
+ry-cheilley, Cre’n monney dy ghooinney
+eh shoh?
+Eisht hie ad son argane ry-cheilley, quoi
+jeu syrjey veagh.
+And they said one to another, Go to, let
+us make brick, and burn them thoroughly
+And they being afraid wondered, saying
+one to another, What manner of man is
+this?
+Then there arose a reasoning among
+them, which of them should be greatest.
+Max Wheeler
+Cheilley
+13
+Myrgeddin uss vac y dooinney ta cloan
+dty phobble kinjagh loayrt my-dty-
+chione, rish ny voallaghyn, as ayns
+porchyn nyn dhieyn, as loayrt ry-
+cheilley, dagh fer rish e vraar, gra, Tar-
+jee, guee-ym erriu, as clasht-jee cre ta’n
+goo ta cheet magh veih’n Chiarn.
+As bee creeaghyn y daa ree shoh soit er
+olk, as loayree ad breagyn ry-cheilley
+ec yn un voayrd
+ren ad conaant ry-cheilley
+nagh ren ad arraneyn y ghoaill ry-
+cheilley my-e-chione ’sy daunsin, gra, Ta
+Saul er varroo e housaneyn, as David e
+yeih thousaneyn?
+son v’ad er choardail ry-cheilley dy heet
+dy ghobberan mârish, as dy gherjaghey
+eh.
+Son dymmyrk ymmodee feanish foalsey
+n’oi, agh cha row yn eanish oc coardail
+ry-cheilley.
+Tar-jee nish, as lhig dooin pleadeil ry-
+cheilley, ta’n Chiarn dy ghraa. Ga dy
+beagh nyn beccaghyn myr scarleod, bee
+ad gial myr sniaghtey; ga dy vel ad jiarg
+myr crimson, bee ad myr yn ollan vane.
+lhig daue coyrle y ghoaill ry cheilley
+Nee ad garveigagh ry-cheilley myr
+lionyn: nee ad gullal myr quallianyn lion.
+As lhig dooin smooinaghtyn dy dowin
+ry-cheilley, dy ghreinnaghey gys graih,
+as gys obbraghyn mie:
+Ny gow-jee sproght goanlyssagh ry-
+cheilley, vraaraghyn, er-aggle dy bee
+shiu er nyn gheyrey: cur-my-ner ta’n
+briw shassoo ec y dorrys.
+As er-yn-oyr dy vel aigney-mie mastey
+caarjyn dy leah callit mannagh vel ad dy
+mennic jannoo sheshaght ry-chielley,
+H’em gys Jee gagh-laa
+Cha jean shiu geid, ny dellal dy
+molteyraght, ny ginsh breg ry cheilley
+Also, thou son of man, the children of thy
+people still are talking against thee by the
+walls and in the doors of the houses, and
+speak one to another, every one to his
+brother, saying, Come, I pray you, and
+hear what is the word that cometh forth
+from the Lord.
+And both of these kings’ hearts shall be to
+do mischief, and they shall speak lies
+[Manx: speak lies to one another] at one
+table
+and both of them made a covenant
+did they not sing one to another of him in
+dances, saying, Saul hath slain his
+thousands, and David his ten thousands?
+for they had made an appointment
+together to come to mourn with him and
+to comfort him.
+For many bare false witness against him,
+but their witness agreed not together.
+Come now, and let us reason together,
+saith the Lord: though your sins be as
+scarlet, they shall be as white as snow;
+though they be red like crimson, they shall
+be as wool.
+let them take counsel together
+They shall roar together [Manx: roar at
+one another] like lions: they shall yell as
+lions’ whelps.
+And let us consider one another [Manx:
+think deeply to one another] to provoke
+unto love and to good works
+Grudge not one against another, [Manx:
+Do not take spiteful hostility towards
+one another] brethren, lest ye be
+condemned: behold, the judge standeth
+before the door.
+And because love amongst friends is soon
+lost for want of conversing with one
+another [Manx: making companionship
+with one another], I will go to God daily
+Ye shall not steal, neither deal falsely,
+neither lie one to another
+Max Wheeler
+Cheilley
+14
+As hie Abimelech mac Jerubbaal gys Shechem, gys braaraghyn e vayrey as va taggloo oc ry-cheilley, as rish ooilley lught-thie ayr e voir,	And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them [Manx: they had conversation with one another], and with all the family of the house of his mother's father
+c.	Another context requiring ry cheilley is that involving contention: fighting one another,
+joining battle with one another, being at enmity with one another, going to law with one
+another.
+va daa ghooinney jeh ny Hebrewnee
+streeu ry-cheilley
+Tra ta deiney tuittym magh ry-
+cheilley, as my hig ben-heshey yn
+derrey yeh jeu eddyr ad, dy livrey e
+sheshey ass y laue echeysyn ta dy
+woalley eh, as lesh e laue gremmey
+eh ’sy ghoall:
+Bee e laue er ny yiarey j’ee, cha bee
+chymmey ec dty hooill urree.
+As dooyrt y Philistine, Ta mee cur-y-
+lane-fo armeeyn Israel y laa shoh:
+cur-jee dooinney hym, dy vod mayd
+caggey ry-cheilley.
+as shen myr ve er y chiaghtoo laa, dy
+jagh ad laue ry-cheilley: as varr
+cloan Israel jeh ny Syrianee keead
+thousane coshee ’syn un laa.
+As y laa cheddin va coardail er ny
+yannoo eddyr Pilate as Herod; son
+roie v’ad ayns noidys ry-cheilley.
+Nish er yn oyr shen ta son shickyrys
+foill nyn mast' eu, dy vel shiu goll
+gys y leigh ry-cheilley: nagh baare
+diu goaill aggair? nagh baare diu
+surranse molteyraght?
+Son choud’s va Dooinney biallagh
+gys Jee,
+Va dagh cretoor ry-cheilley still
+ayns shee.
+two men of the Hebrews strove together
+When men strive together one with another
+[Manx: fall out with each other], and the wife
+of the one draweth near for to deliver her
+husband out of the hand of him that smiteth
+him, and putteth forth her hand, and taketh him
+by the secrets [i.e. grabs his crotch]:
+Then thou shalt cut off her hand, thine eye
+shall not pity her.
+[Cregeen: goal, s. the fork of any thing
+between where the branches, prong, or legs
+branch out or diverge; e ghoayl, s. big fork, or
+divergement of the thighs]
+And the Philistine said, I defy the armies of
+Israel this day; give me a man, that we may
+fight together.
+And so it was, that in the seventh day the
+battle was joined: and the children of Israel
+slew of the Syrians an hundred thousand
+footmen in one day.
+And the same day Pilate and Herod were made
+friends together: for before they were at
+enmity between themselves.
+Now therefore there is utterly a fault among
+you, because ye go to law one with another.
+Why do ye not rather take wrong? why do ye
+not rather suffer yourselves to be defrauded?
+‘As long as Man was obedient to God,
+every creature was still at peace with one
+another.’
+Max Wheeler
+Cheilley
+15
+d.	There are a couple of other cases where ry cheilley parallels the use of the preposition rish;
+in the expression caardys ry cheilley ‘relationship with one another’ parallel to caardys rish
+‘relationship to, friendship with’; and in the sense ‘for, throughout’ a period of time:
+Nish tra smooinnee mee dy dowin er
+ny reddyn shoh rhym pene, as dy
+ghow mee ad gys my chree: dy vel
+creenaght as y vea dy bragh
+farraghtyn ayns caardys ry-cheilley
+As nee shiu combaasal yn ard-valley,
+ooilley ny deiney caggee ta shiu ayn,
+as goll un cheayrt mygeayrt y valley:
+myr shoh nee oo jannoo shey laa ry-
+cheilley.
+Now when I considered these things in
+myself, and pondered them in my heart, how
+that to be allied unto wisdom is immortality
+[Manx: that wisdom and eternal life are
+related to each other]
+And ye shall compass the city, all ye men of
+war, and go round about the city once. Thus
+shalt thou do six days [sc. one after the
+other, continuously].
+e.	Lastly, there are a few cases in which ry cheilley does not seem to be distinct in sense from
+lesh y cheilley, or dy cheilley ‘together’:
+Vraaraghyn, eiyr-jee ry-cheilley orrym’s,
+as cur-jee tastey dauesyn ta gimmeeaght
+myr shen, myr ta shinyn eu son sampleyr.
+Shen-y-fa ren Jee myrgeddin ad y livrey
+seose gys neu-ghlennid, trooid sayntyn
+nyn greeaghyn hene, dy vee-ooashlaghey
+nyn girp ry-cheilley
+O moylley-jee yn Chiarn mârym: as lhig
+dooin ard-voylley ’choyrt da’n Ennym
+echey ry-cheilley.
+T’ad sniemmit yn derrey yeh gys y jeh
+elley, t’ad lhiantyn ry-cheilley, nagh vod
+ad ve er ny scarrey
+T’ad ooilley lhiantyn ry-cheilley, as
+freayll ad-hene dy follit
+Brethren, be followers together of me,
+and mark them which walk so as ye have
+us for an ensample.
+Wherefore God also gave them up to
+uncleanness through the lusts of their
+own hearts, to dishonour their own
+bodies between themselves
+O praise the Lord with me: and let us
+magnify his Name together.
+They are joined one to another, they stick
+together, that they cannot be sundered.
+They hold all together, and keep
+themselves close
+15.	In just one case rish my cheilley seems to be used where we might expect ry cheilley, in a
+context of mutual communication:
+Q. Rish quoi t’ou credjal ta sheshaght
+ec Nooghyn?
+A. Rish Jee, as rish my cheilley.
+(Aght Giare, p.18)
+Q. With whom do you believe the Saints
+have communion?
+A. With God, and with one another.
+16.	Trooid y cheilley ‘through one another’:
+Banglaneyn aalin gaase ard er-nyn-skyn
+Feeit trooid-y-cheilley
+‘Beautiful boughs growing high above them
+woven through one another’
+Max Wheeler
+Cheilley
+16
+17.	Veih my cheilley is ‘apart, asunder, away from one another’, involving a sense of divergent
+movement, and thus opposite to dy cheilley. Frequent collocations are scarrey veih my cheilley
+‘separating from one another’, and rheynn veih my cheilley ‘dividing one from another’.
+Shimmey’n lught-thie t’ou er stroïe yn shee
+oc as nyn gherjagh, er-scarrey dooinney as
+ben phoost veih my cheilley
+nee ny saggyrtyn oc chea ersooyl, as
+scapail; agh adsyn ad-hene vees losht veih
+my-cheilley myr darragyn.
+Myr shen tra v’ad ersooyl magh, scar ad
+veih my-cheilley, as chyndaa reesht haink
+ad gys yn un voayll; as lurg daue v’er
+vriaght [j]eh my-cheilley yn oyr, ghow ad
+rish nyn yeearree: eisht phoint ad traa ny-
+neesht cooidjagh, tra oddagh ad geddyn ee
+ny lomarcan.
+As dooyrt ad, Tar-jee, lhig dooin ard-valley
+as toor y hroggal, e vullagh nee roshtyn gys
+niau; as lhig dooin ynnyd vaghee shickyr y
+yannoo dooin hene, nagh bee mayd skeaylt
+veih my cheilley er slane eaghtyr y
+thallooin
+tra nee yn baase shin y scarrey veih my
+cheilley
+Son ta goo Yee bioal, as breeoil, as ny
+s’geyrey na cliwe erbee dy ghaa foyr, roie
+trooid gys eer rheynn veih-my-cheilley yn
+annym as y spyrryd, as ny juntyn as y
+smuirr, as ronsaghey magh smooinaghtyn
+as kiarailyn y chree.
+Eisht vrish pobble Israel veih-my-cheilley
+ayns daa ayrn:
+As nee eh scoltey eh lesh e skianyn er, agh
+cha der eh ad veih my-cheilley
+As erreish dasyn myrgeddin v’er woalley
+ny ushtaghyn, rheynn ad veih-my-cheilley:
+as hie Elisha harrish.
+As cur-my-ner, va’n coodaghey va eddyr y
+chiamble as yn ynnyd casherick raipit veih-
+my-cheilley, veih’n vullagh gys y laare; as
+ren y thalloo craa, as ny creggyn scoltey.
+You have destroyed the peace and
+comfort of many families, have parted
+man and wife from each other
+their priests will flee away, and escape;
+but they themselves shall be burned
+asunder like beams
+So when they were gone out, they
+parted the one from the other, and
+turning back again they came to the
+same place; and after that they had
+asked one another the cause, they
+acknowledged their lust: then appointed
+they a time both together, when they
+might find her alone.
+And they said, Go to, let us build us a
+city and a tower, whose top may reach
+unto heaven; and let us make us a name,
+lest we be scattered abroad upon the
+face of the whole earth.
+when death shall separate us from each
+other here on earth
+For the word of God is quick, and
+powerful, and sharper than any
+twoedged sword, piercing even to the
+dividing asunder of soul and spirit, and
+of the joints and marrow, and is a
+discerner of the thoughts and intents of
+the heart.
+Then were the people of Israel divided
+into two parts [Manx: the people of
+Israel broke asunder in two parts]
+And he shall cleave it [sc. a fowl as a
+burnt-offering] with the wings thereof,
+but shall not divide it asunder
+and when he also had smitten the
+waters, they parted hither and thither:
+and Elisha went over.
+And, behold, the veil of the temple was
+rent in twain from the top to the
+bottom; and the earth did quake, and the
+rocks rent;
+Max Wheeler
+Cheilley
+17
+Er-y-fa dy row eh dy mennick er ny ve
+kianlt lesh yiarnyn as geulaghyn, as va ny
+geulaghyn er ny ve tayrnit veih-my-
+cheilley liorish, as ny yiarnyn brisht ayns
+peeshyn: as cha dod dooinney erbee eh y
+veeinaghey.
+Ta mish M. dy ghoaill uss N. son my ven
+phoost, dy ve aym as dy chummal veih’n
+laa shoh magh, son ny share, son ny
+smessey, son ny s’berchee, son ny
+s’boghtey, ayns chingys as ayns slaynt, dy
+chur graih dhyt as dy yannoo mooar jeed,
+derrey ver y baase shin veih my-chielley,
+cordail rish oardagh casherick Yee; as gys
+shoh ta mee coyrt dhyt my vreearrey.
+Dy jean y Chiarn arrey y reayll eddyr mish
+as uss, traa ta shin veih-my-chielley.
+Because that he had been often bound
+with fetters and chains, and the chains
+had been plucked asunder by him, and
+the fetters broken in pieces: neither
+could any man tame him.
+I M. take thee N. to my wedded wife, to
+have and to hold from this day forward,
+for better for worse, for richer for
+poorer, in sickness and in health, to love
+and to cherish, till death us do part
+[Manx: till death puts us apart from
+each other], according to God's holy
+ordinance; and thereto I plight thee my
+troth.
+The Lord watch between me and thee,
+when we are absent one from another.

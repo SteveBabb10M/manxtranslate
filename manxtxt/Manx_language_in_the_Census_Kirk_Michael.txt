@@ -1,0 +1,569 @@
+﻿Quoi adsyn va’n Ghaelg oc ec toshiaght yn eedoo cheead, ayns Skylley Vaayl?
+Who spoke Manx in Kirk Michael at the beginning of the 20th century?
+Max W. Wheeler
+May 2017
+There is some reporting of the census data recording speakers of Manx at the beginning of the
+20th century (1901 and 1911) in Broderick (1999: 41-44)1, and in Manx Notebook (2000)2.
+But the availability of the complete census records for 1901 and 1911, the first two censuses in
+which a language question was asked (‘Manx, English, or both?’), allows us to see just who
+spoke Manx (that is, was recorded as being able to do so) in those years. To give a flavour of
+what can be known, I have looked at the census forms for Kirk Michael for both years. No
+person was recorded as speaking Manx only, so the data reflect those recorded as being able to
+speak both Manx and English.
+Table 1. Manx in Kirk Michael parish 1911
+Manx and English	F	M	Total	“English” in 1901	%
+born 1812-21	0	0	0	0	
+1822-31	4	4	8	1	12.5
+1832-41	15	11	26	7	26.92
+1842-51	8	14	22	5	22.72
+1852-61	7	6	13	2	15.38
+1862-71	3	4	7	1	14.29
+1872-81	0	0	0	0	0
+1882-91	0	0	0	0	0
+1892-1901	2	0	2	1	50
+1902-11	0	0	0	0	0
+	39	39	78	17	21.79
+Total IoM pop.	Michael Manx % of total IoM pop.	Michael pop. % of total IoM
+34		
+408	1.9608	
+1883	1.3808	
+3579	0.6147	
+5058	0.2570	
+6371	0.1099	
+7170	0	
+7923	0	
+10173	0.0197	
+9417	0	
+52016	0.1500	1.6207
+Table 1 sets out the numbers of those recorded as Manx speakers, by sex and by decade age
+spans. In 1911, the recorded population of Kirk Michael was 843 persons, of whom 78 were
+Manx speakers, i.e. 9.25%. Note equal numbers of men and women, so there is no evidence of
+a gender bias in the retention or loss of Manx. The decline in Manx knowledge among younger
+persons is evident enough. Between 1840 and 1870 ever fewer parents were passing on the
+language to their children, and, to all intents and purposes, no children were acquiring Manx at
+home after 1870. I return to the two much younger speakers below. Manx knowledge was quite
+well spread out in the parish. In the 220 households of the parish, 56 had one or more Manx
+speakers, i.e. 25.45%; but most of these households had only one speaker, so the opportunities
+for using, or hearing, Manx in the home were very low.
+1 Broderick, George (1999) Language Death in the Isle of Man. Tübingen: Niemeyer.
+2 http://www.isle-of-man.com/manxnotebook/history/manks/census.htm
+1
+Though the figures for Manx speakers are broken down here by age cohorts, the figures for the
+whole of each cohort of the Kirk Michael population are not readily available. The right hand
+part of the table gives the total population figures for each age cohort in 1911 in the island as
+a whole.3 The number of Kirk Michael Manx speakers in each cohort is expressed as a
+proportion of this. The decline in proportion of Manx speakers by decade cohort, from those
+born in the 1820s onward, is striking enough, and would no doubt be very similar in the other
+parts of the island.
+A comparison of the two censuses reveals a striking anomaly. Of the 78 persons recorded as
+Manx speakers in 1911, 17 (21.79%) were recorded in the 1901 census as knowing English
+only. This is not a trivial discrepancy. How may we explain it? There are several logical
+possibilities:
+1)	Seventeen people in Kirk Michael acquired Manx between 1901 and 1911.
+2)	Those filling out the forms understood the language question differently at the two
+periods.
+3)	The different methods of collecting the census data on the two occasions led to different
+answers.
+4)	Some people concealed their knowledge of Manx in 1901, but were willing to
+acknowledge it in 1911.
+5)	Some people falsely claimed knowledge of Manx in 1911, when they had reported
+honest ignorance in 1901.
+These possible explanations are not mutually exclusive. I shall elaborate and review these
+possible reasons after relating what can be observed in the 1901 census.
+Appendix 1 gives the names and other census information of the individuals recorded as Manx
+speakers in Kirk Michael parish in 1911.
+Table 2. Manx in Kirk Michael parish 1901
+Manx and English Michael 1901	F	M	Total	“English” in 1911	“English” in 1911 %
+born 1802- 11	1	1	1		
+1812-21	6	5	11		
+1822-31	15	13	28		
+1832-41	24	15	39	2	5.12
+1842-51	12	16	28	3	10.71
+1852-61	4	10	14	5	35.71
+1862-71	4	6	10	3	30
+1872-81	2	0	2	1	50
+1882-91	0	0	0	0	
+1892-1901	0	0	0	0	
+Total	68	66	134	14	10.45
+3 Data from Census-1911. Islands in the British Seas. London: HMSO, 1913. Isle of Man: Table 8.
+4 Data from Census 1901. Islands in the British Seas. London: HMSO, 1903. Isle of Man: Table 18. Language
+Spoken.
+5 % of population 3 years old and over.
+Whole IoM Manx or Manx and English4		% of cohort pop.5
+born before 1837	1671	48.25
+born 1837-1857	2188	23.39
+born 1857-1877	659	4.52
+born 1877-1887	112	1.09
+born 1887-1901	27	0.20
+	4657	9.06
+2
+Table 2 (left) sets out the numbers of those recorded in 1901 as Manx speakers, by sex and by
+decade age spans, in the same way as Table 1. In 1901, out of a total of 928 persons in Kirk
+Michael parish, 134 were recorded as Manx speakers, or 14.43%. Again, there is no significant
+gender difference. The decline in Manx acquisition after about 1840 is marked, and, as in the
+1911 census, we see that virtually no one acquired Manx after 1870. Of the 216 households in
+Kirk Michael in 1901, 94 had one or more Manx speakers, i.e. 43.5%. Table 2 (right) gives the
+published cohort figures for the whole island.
+A comparison of individuals in the 1901 and 1911 censuses again reveals a significant anomaly.
+14 of the 134 Manx speakers in 1901 (10.45%) were recorded as English-only speakers in the
+1911 census. In considering possible explanations for the discrepancy, we may add another
+possibility to the list of five given above:
+6)	Fourteen people forgot what Manx they knew between 1901 and 1911.
+Appendix 2 gives the names and other census information of the individuals recorded as Manx
+speakers in Kirk Michael parish in 1901.
+How might one account for the discrepancies between individuals’ recorded Manx knowledge
+in the two censuses? I review the possible explanations one by one.
+1)	Seventeen people in Kirk Michael acquired Manx between 1901 and 1911.
+Given what is known about the decline of Manx (Jenner 1876; Broderick 1999)6, and the
+scarcity of opportunities for adult acquisition of Manx at the beginning of the 20th century,
+despite the development of what we may call antiquarian interest or the ‘Celtic revival’,
+acquisition of Manx by adults in Kirk Michael seems most unlikely. Most of those in question
+were over 50 years old.
+2)	Those filling out the forms understood the language question differently at the two
+periods.
+In principle, such an explanation might work. As far as I can ascertain, the 1901 form just
+has a column headed “Language Spoken (children under 3 years of age to be excluded)”. Was
+more specific guidance offered to the enumerators about what that meant? The 1911 form was
+a bit more explicit: “Language spoken. (1) If able to speak English only, write ‘English’. (2) If
+able to speak Manx only, write ‘Manx’. (3) If able to speak English and Manx, write ‘Both.’
+No entry to be made in this column for children under three years of age.” But the scope for
+misinterpreting either question doesn’t seem large, particularly as the discrepancy is not all in
+one direction, that is, similar numbers of people claimed Manx in 1901 but not 1911 as in 1911
+but not 1901.7
+6 Jenner, Henry (1876) The Manx language: its grammar, literature, and present state. Transactions of the
+Philological Society 1875 [16], 172-196.
+Broderick, George (1999) Language Death in the Isle of Man. Tübingen: Niemeyer.
+7 No commentary is provided to the tabular data in the 1901 census report, or in the 1911 report, which includes
+no data at all on the language question. There is a brief commentary in the 1921 census report, which states:
+“A question which was not dealt with in the 1911 Census Report, but which is in continuation of a similar
+enquiry made in 1901, asked in respect of each person aged 3 or over whether he or she was able to speak
+Manx, English, or both Manx and English.
+No definite rules were laid down as regards the degree of acquaintance with either language
+which would justify a person to claim or disclaim ability to speak it, and the replies may be expected to
+vary according to the attitude taken with regard to the assumed subject of the enquiry, e.g., as to whether
+it was intended to elucidate the extent of the habitual use of one or both languages or whether it was
+designed from a literary or educational standpoint.”
+3
+3)	The different methods of collecting the census data on the two occasions led to different
+answers.
+In 1901, as in all the previous censuses, the census data was collected by an enumerator (it
+must have been orally, sometimes, at least) and transferred to a fair copy schedule which is
+what was alone retained. Respondents will have been aware that their answers would be seen
+by a known individual, even if discretion was assured, so there may have been some inclination
+to avoid answers that might be accompanied by shame or embarrassment, of which ‘knowledge
+of Manx’ might have been one. In 1911, an individual form was completed by each
+householder; occasionally they were amended afterwards by the enumerator or processors of
+the data. This procedure might have favoured more honest answers. But, again, the fact that
+the discrepancy in Manx reporting is of the same order in each direction doesn’t favour the idea
+that the 1911 procedure elicited more honesty than the 1901 one.
+4)	Some people concealed their knowledge of Manx in 1901, but were willing to
+acknowledge it in 1911.
+5)	Some people falsely claimed knowledge of Manx in 1911, when they had reported
+honest ignorance in 1901.
+These two explanations are similar in principle —that some people changed their minds
+about whether they wished to acknowledge, or claim, knowledge of Manx; the difference is
+whether the ‘true’ answer is ‘knows Manx’, in which case there was concealment on one
+occasion but not the other, or ‘does not know Manx’, in which case there was a false claim on
+one occasion but not the other. In the cultural context of the time, and in rural Kirk Michael,
+probably concealment is more likely than over-claiming, and it may be that inconsistent
+concealment of the truth is the most likely account of the discrepancy. However, this
+‘explanation’ hardly goes beyond a reformulation, in different language, of the observed
+discrepancy. Of those who may have consistently (on both occasions) concealed their Manx
+knowledge, we have, of course, no evidence.
+6)	Fourteen people forgot what Manx they knew between 1901 and 1911.
+Explanation (6) is, perhaps, not inherently unlikely; that is, people who assented to
+knowledge of Manx in 1901, may, by 1911, having practised it little, if at all, in the meantime,
+have felt their knowledge of Manx was so limited as no longer to be worth recording. But then
+some entirely different explanation is required for those who claimed Manx in 1911 but not in
+1901. The anomalies remain thoroughly puzzling. One should at least investigate whether a
+similar phenomenon occurs in other parts of the island.
+1911 census results: If we add the 13 people in Kirk Michael who had Manx in 1901 but
+recorded only English in 1911, namely, Eliza Caine, Emily Caine, James Caine, John Charles
+Caine, Thomas Caine, Ann Cannell, Evan Cannell, William James Corlett, Eleanor Crowe,
+Mary Ann Curphey, Alfred Kelly, Anna Quayle, Catherine Quirk, the total for Manx speakers
+in 1911 rises to 91, or 10.79%.
+1901 census results: If we add the 12 people living in Kirk Michael in 1901 who had Manx in
+1911 but recorded only English in 1901, viz. Jane Caine, Ann Cannell, Thomas Cannell, Jane
+Clinton, Elisa Jane Cormode, Rebecca Cottier, William Cowley, William Ellison, John James
+Kaighin, Ann Killip, Isabella Kissack, Robert Quayle; the total for Manx speakers in Kirk
+Michael 1901 is 146, or 15.73%.
+Some stories
+In 1911 Isabella Browne (nee Christian), a widow aged 83, a Manx speaker, was
+residing at Ballalonna, Michael. She had grown up in Ballakeigh, Bride, a farmer’s daughter,
+4
+and had married John Mearns Browne, a farmer, in 1854. They had lived at Ballacottier,
+Andreas, and at Aust, Lezayre. By 1901 they were living at Gat-e-Whing, Andreas, where she
+and John Mearns Browne were recorded as English speakers. What brought her to Kirk
+Michael, where she had never lived before, in 1911? Well, in 1907 her husband had died, and
+was buried in Andreas. Their daughter Isabella Browne (1868-1946) had married, in 1895,
+John Hadden Corjeag, farmer and miller, the heir of Ballalonna farm, Michael, and of
+Kerrowcruin Mill, at the mouth of Glen Wyllin, now lost to the sea. So in 1911 Isabella
+Browne, was living with her daughter and son-in-law, Isabella and John Hadden Corjeag, at
+Ballalonna, together with John Hadden’s widowed father, William Henry Corjeag, John
+Hadden’s niece, Nora C. Moss, a teenage servant Amy Kneale, and a teenage cowman, James
+Quayle. Apart from Isabella Browne, William Henry Corjeag was the only Manx speaker. John
+Hadden, the Ballalonna heir, and Isabella Corjeag (nee Browne) had no children. In due course,
+Ballalonna passed to the Cannells, descendants of William Henry Corjeag’s sister Maria, who
+married William Cannell.
+The young Manx speakers in 1911.
+May Mc Knight, aged 17, a domestic servant, born Ramsey, was living with her uncle
+William Brew, Manx speaker, aged 67, and aunt Ellen Maria Brew (English) at White House
+Cottage, Kirk Michael village. William Brew, a farm horseman, was from Andreas, and Ellen
+Maria from Ballaugh. I haven’t found any more about May Mc Knight. At any rate, it is
+exceptional for her to have been acquiring Manx, in Ramsey, or anywhere on the island, in the
+1890s.
+Hilda Faragher, aged 15, a farmer’s daughter engaged in dairy work, was living with
+her parents, James and Jane Faragher, three older siblings, and a 2-year-old niece, at
+Kerrowglass. Her father was a farmer from Santon; her mother and the rest of the family were
+born in Malew. Only Hilda and her mother were Manx speakers. Ten years previously, the
+family had been at Ballavoddan, Malew, and only her mother had been recorded as Manx
+speaker. Exceptionally, Hilda appears to have acquired Manx from her mother, in Malew, in
+the 1890s, though her elder siblings had not.
+Daniel Henry Caine, baptized St Luke’s, Baldwin, 16 Feb. 1862, son of William and
+Ellen (or Eleanor, nee Corlett), grew up in Braddan, but by 1881 was living with his family at
+Eary, Michael, where his father farmed 130 acres. In 1901, he, his widowed mother (aged 83),
+and his older sister and brother, like him, unmarried, were all recorded as Manx speakers. It is
+likely that Eary was one of the few Manx-speaking households in Kirk Michael at this time.
+By 1911, his older brother James, married to Elizabeth, with their 5 children, had joined Daniel
+at Eary, though now Daniel was the only Manx speaker noted there. Danny Caine was among
+those last native speakers whose voices were recorded in the early 1950s (he died in 1952), by
+Yn Çheshaght Ghailckagh, and the only speaker from Kirk Michael. The Manx he remembered
+was limited and rather rusty; he probably hadn’t called it to mind for 50 years. Among the
+recordings of his Manx transcribed by Broderick (1984: 1.310-11) 8 are the following sayings:
+Jean shiu red ennagh dy nowmain thie.
+Gow kiarail jeh (sic) hene nagh bee shiu goit stiagh.
+Trog seose yn lhiannoo raad lhisagh oo (sic) goll, as tra bee eh shenn cha jean eh
+çhyndaa woish.
+Poosee son graih as obbyr son argid. Ny yeih, bee shickyr nagh cur graih raad nagh
+vel veg.
+8 Broderick, George (1984-86) A Handbook of Late Spoken Manx, 3 vols. Tübingen: Niemeyer.
+5
+William Killip, of Clyeen, 1901 and 1911, farmer, was the son of William Killip and Isabella
+Kegg, baptized in Ballaugh 16 Oct. 1834, and buried 22 Aug. 1922 in Kirk Michael, aged 88.
+In the 1841 census he is to be found at Ballakiney, Ballaugh, but by 1851 the family had moved
+to Clyeen, Michael, where William Killip Sr. farmed 34 acres. On 26 Aug 1861 William Killip
+Jr. had married Mary Ann Corlett, and they had a son, William E[dwin] C[orlett] Killip,
+baptized 7 Dec. 1862. In 1871, already widowed, William Jr. was farming 66 acres at
+Shalghaige, Michael, where he lived with his son, mother-in-law Ann Corlett, sister-in-law
+Christian Corlett, and with Louisa Crellin, general servant, and John B. Corlett, farm servant.
+By 1881 he was back at Clyeen, now farming 100 acres, living with his son, his widowed
+mother, and 3 servants. By 1891 he had remarried, to Ann Cannan, (of Peel, married 4 Nov.
+1882); they continued to live at Clyeen with his son William E C Killip, and a servant Elizabeth
+J C Cleator, who we know from the 1901 and 1911 censuses was a Manx speaker. The
+household was the same in 1901, where both Ann Killip and William E C are down as having
+only English. However, in 1911, with the same household, Ann Killip now admits to having
+Manx. William Killip of Clyeen was one of the Manx speakers visited by the Welsh linguist
+John Rhŷs (1841-1915) on several occasions between 1888 and 1891 in connexion with his
+studies of Manx pronunciation, as recorded in Rhŷs’s notebooks (Broderick 2015).9 Rhŷs made
+the following observation about William Killip’s Manx (Broderick 2015, note 331):
+“He [William Killip, Clyeen, Michael, b. 1833/34] does not understand it to make any
+difference of sense whether you say beg for veg for instance after [uʒag] (ushag), and
+he would talk of the sun as [e:] and not [i:] although he would call it y ghrian with the
+mutation for the feminine; but the sense of gender is almost gone in the Manx speakers
+of the present day as I am convinced by my talk with Mr. Killip who is one of the best
+readers I have heard of his language.”
+Another of those from whom Rhŷs collected Manx data was James Cannell (1816-1903), the
+parish clerk of Kirk Michael. Rhŷs records in his notebooks:
+“In the north I had daily lessons of the same kind from Mr. Cannell, clerk of Michael
+Church [...]” (1888) (Rhŷs 1895: vi). “During my stay in the north I read also with Mr.
+Cannell of Kirk Michael [...]”(1890) (Rhŷs 1895: vi). “I had readings also with Mr.
+Cannell [...] before leaving” (1892). “[...] I had read with [...] Mr. Cannell of Kirk
+Michael [...]” (1893) (Rhŷs 1895: vii) (Broderick: 2015: 24).
+In 1851, James Cannell, tailor, aged 35, was living near Ballarhenny, Michael, with his wife
+Ann (nee Caley), also 35, from Ballaugh, and with their four daughters Sarah (10)10, Elizabeth
+(7)11, Ann (4)12 and Isabella (1)13. By 1861, they had a son, Thomas, now aged (9)14, but Sarah,
+Elizabeth and Ann are not present (Sarah and Elizabeth in service elsewhere in the village). In
+1871, the only children at home, now at Rhencullen, are Thomas (19), blacksmith, and a
+daughter Eliza (16)15 who was not present at the 1861 census. In 1881, James has relinquished
+tailoring, and is now church clerk, and an agricultural labourer; all the children are gone. By
+1891 his occupation is recorded just as parish clerk, as also in 1901, when the language question
+registers James and Ann as Manx speakers. James died in 1903, and was buried in Kirk Michael
+churchyard on 22 Feb.
+9 Broderick, George (2015) John Rhŷs and his Manx Gaelic notebooks of his visits to the Isle of Man (1886-
+1893). Online at http://www.gaelg-hasht.16mb.com/tstoo/John%20Rhys%20I.pdf
+10 Bapt. 24 Mar 1841.
+11 Bapt. 31 Dec 1843.
+12 Bapt. 24 Sep 1846.
+13 Bapt. 27 May 1849, residing Ballafageen.
+14 Bapt. 11 Jan 1852.
+15 Bapt. 1 Oct 1854, residing Ballafageen; ? buried 12 Dec 1871.
+6
+In 1911, John Thomas Corkill, 48, farmer, of Cammall, Michael, completed the census form
+declaring himself, his wife Elizabeth A[nn, nee Kinvig], and three teenage children, John
+Kinvig, Annie and Bessie all as speakers of both Manx and English. The enumerator evidently
+concluded this was a mistake, and corrected to English in every case. However, comparison
+with the 1901 census implies that John Thomas himself, at least, should have been recorded as
+a Manx speaker, as he was in 1901, though then the other members of the family had English
+only. In 1901, the daughters’ full names are Emily Annie, and Kath. Bessie. In 1891, the young
+couple, not yet with a family, are farming at Kennaa, German; they had married in Peel on 27
+Nov 1889. In 1881, John Thomas, aged 18, was with his parents Edward and Elizabeth and six
+siblings, at Ballahimmin, German, where Edward Corkill farmed 137 acres, and similarly in
+1871, though the farm was smaller.
+The two youngest Manx speakers in Michael in 1901 are two women in their 20s, both living
+at Ballaleigh. Alma Quayle, 26, is the wife of John W[illiam] Quayle, 31, also a Manx speaker,
+as also are an older couple, William and Elizabeth Quayle, —John W’s parents, though the
+relationship is not spelt out.16 Their young Manx-speaking domestic servant is Christian [Ann]
+Caley, 24, of Ballaugh. Christian Ann is one of the nine children of John and Catherine Caley,
+farming in Ballaugh in 1891. In 1881 the family (smaller) is at Ballavolley, Ballaugh, near
+Ballacrye. She was baptized in Ballaugh on 7 Sep. 1877. She will have been one of the few
+acquiring Manx at home in the 1870s. We lose track of her after 1901. Alma Quayle was born
+Alma Christian; she was the daughter of Evan Christian and Anne Hampton, who lived at
+Ballamena, German, and was baptized in St John’s, Kirk German on 24 May 1874; she married
+John William Quayle in Peel on 14 Aug. 1894. By 1911 Alma Quayle was a widow with four
+children, farming at Ballamenagh, Michael. Now she is recorded as speaking English only, as
+are the children, unsurprisingly. But in 1901 you might well have heard Manx in the Quayle
+household, with five Manx speakers present.
+In the appendices extracted from the 1911 and 1901 censuses that follow, the order is that of
+the households as surveyed. If you wish to find a particular name or place, [Ctrl+F] will bring
+up a search box.
+16 John William Quayle, son of William and Elizabeth Quayle, of Ballaleigh, was baptized on 1 Aug. 1869 in Kirk
+Michael.
+7
+Appendix 1. Manx speakers in Kirk Michael, 1911
+Par.Distr and17 household	Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	In 1901
+15.01.01	Jane	Nelson	90	1821	Michael	Ballarhenny		KM 1901
+15.01.03	Catherine	Clarke	83	1828	Michael	Ballarhenny Beg		KM 1901
+15.01.04	Ann	Cannell	72	1839	Patrick	Kiondroghad		English in 1901
+15.01.06	Jeptha	Corlett	62	1849	Ballaugh	[Ballameanagh] Orrysdale	Farmer	1901 in Bishopscourt, Ballaugh
+15.01.06	Margaret Ann	Corlett	62	1849	Ballaugh	[Ballameanagh] Orrysdale		1901 in Bishopscourt, Ballaugh
+15.01.09	John	Callow	76	1835	Bride	Orrysdale	Retired Farmer	KM 1901
+15.01.12	Eleanor	Pickavance	65	1846	Michael	Orrysdale	Poultry Keeping	bu. K Michael 6/12/1922.In Windle, Lancs in 1891, ?= Ellen Pickavance, 52, (b. Windle), in St Helens 1901
+15.01.19	Eleanor	Kneen	76	1835	Michael	[Ballacooley]		1901 Balllameanagh
+15.01.19	William	Kneen	54	1857	Michael	[Ballacooley]	Farmer	KM 1901
+15.01.28	Thomas	Cannell	73	1838	Ballaugh	Rhencullin	Carpenter (house)	KM 1901
+15.01.28	Anne Jane	Cannell	52	1859	Michael	Rhencullin		KM 1901
+15.01.29	Alice	Caley	76	1835	Ballaugh	Ballarhenny Cottage	Private Means	KM 1901
+15.01.35	Thomas	Kewish	65	1846	Malew	White House Farm	Farmer	KM 1901
+15.02.009	William	Christian	90	1821	Andreas	Glen Wyllin	Retired Farmer	KM 1901
+15.02.010	William	Faragher	68	1843	Lezayre	Glen Wyllin Mill	Miller	KM 1901
+15.02.010	Jane	Faragher	67	1844	Michael	Glen Wyllin Mill		KM 1901
+15.02.013	Thomas	Caine	75	1836	Michael	Glen Wyllin	Agricultural Labourer	KM 1901
+15.02.014	Robert	Corlett	68	1843	Ballaugh	Glen Wyllin	Agricultural Labourer	1901 in Ballaugh
+15.02.014	Charlotte	Corlett	65	1846	Michael	Glen Wyllin		1901 in Ballaugh w. husband Robert
+15.02.024	William	Quayle	85	1826	Michael	Rose Lea Station Road	Private Means	KM 1901
+15.02.024	Eliza	Quayle	70	1841	German	Rose Lea Station		KM 1901
+Road
+17 15 = Kirk Michael; 01 = Orrysdale Quarter (35 households), 02 = Village Quarter (110 households), 03 = Middle Quarter (16 households), 04 = Mountain Quarter (31 households), 05 = West
+Quarter (31 households)
+8
+Appendix 1. Manx speakers in Kirk Michael, 1911
+Par.Distr and17 household	Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	In 1901
+15.02.027	William	Ellison	76	1835	Andreas	Ivy Dene Station Road	Retired Farmer	English in 1901, age 70 at Ballarhenny Beg, w. wife Ann J, nee Cannell
+15.02.031	Ann	Caine	70	1841	German	3 Station Road	Private Means	KM 1901
+15.02.033	Jane	Quayle	88	1823	Michael	5 Station Rd		KM 1901
+15.02.036	William	Moore	66	1845	Michael	Fuschia Cottage, Village	Farmer Grazier	KM 1901
+15.02.036	Anne	Moore	63	1848	Michael	Fuschia Cottage, Village		KM 1901
+15.02.046	Jane	Christory	74	1837	German	The Village	Private Means	?
+15.02.047	James	Kaighin	80	1831	Michael	The Village	Retired Engineer (shipbuilding)	age 65 in 1901
+15.02.051	Eleanor	Hannah	72	1839	Michael	The Village	Private Means	KM 1901
+15.02.061	Catherine	Comaish	70	1841	German	Church View, Village	Private Means	KM 1901
+15.02.062	Thomas	Corkill	66	1845	Lezayre	Church View, Village	Agricultural Labourer (horses)	KM 1901
+15.02.071	Robert	Quayle	67	1844	Michael	Ash Cottage	Labourer Dyker On Farm	English in 1901
+15.02.071	Annie	Quayle	60	1851	Jurby	Ash Cottage	Dressmaker	KM 1901
+15.02.092	John [James]	Kaighin	75	1836	Michael	The Village	Mason (labourer)	English in 1901, bu. K Michael 28/06/1917
+15.02.097	Philip	Teare	50	1861	Ballaugh	White House Cottage	Farm Labourer	KM 1901
+15.02.104	William	Brew	67	1844	Andreas	White House Cottages, The Village	Farm Labourer	KM 1901
+15.02.104	May	Mc Knight	17	1894	Ramsey	White House Cottages, The Village	Servant Domestic	?
+15.03.02	William	Killip	76	1835	Ballaugh	Cly-ene [Clyeen]	Farmer	KM 1901
+15.03.02	Ann	Killip	70	1841	Michael	Cly-ene		English in 1901
+15.03.02	Elizabeth [J C]	Cleator	49	1862	Ramsey	Cly-ene [Clyeen]	Gerneral Servant (domestic)	age 32 in 1901
+15.03.06	William	Kelly	70	1841	German	Ballakinnag	General Labourer	English in 1901, fisherman, on "Antoinette", Peel
+15.03.08	Thomas	Cannell	64	1847	Michael	Lhergy Vreck	Farmer	English in 1901
+15.03.11	Robert	Brew	60	1851	Andreas	Lhergy Vreck	Farm Labourer	KM 1901
+15.03.12	Isabella	Browne	83	1828	Bride	Ballalonna		English in 1901, Gat e Whing, Andreas
+15.03.12	William H	Corjeag	76	1835	Michael	Ballalonna	Retired Farmer	KM 1901
+15.03.15	John	Cowley	67	1844	Michael	Druidale	Farmer	KM 1901
+9
+Appendix 1. Manx speakers in Kirk Michael, 1911
+Par.Distr and17 household	Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	In 1901
+15.04.03	John Thomas	Corkill	48	1863	German	Cammal	Farmer	Head indicates Both (Manx and English) for whole family. Enumerator corrects to English for all. But in 1901 JTC alone is Both. Reinstated here.
+15.04.06	Margaret	Curphey	78	1833	German	Ballakilley		KM 1901
+15.04.07	Catherine Ann	Corlett	45	1866	Douglas	Ballacorlett		?
+15.04.14	Thomas Edward	Cormode	60	1851	Andreas	Shalghaige	Farmer	KM 1901
+15.04.14	Elisa Jane	Cormode	50	1861	Bride	Shalghaige		English in 1901
+15.04.24	Thomas	Moore	80	1831	Santon	Barregarrow	Retired Road Surveyor	KM 1901
+15.04.26	John	Crowe	78	1833	Bride	Sartfield	Assisting On Farm	? Age 60 in 1901, in Glentruan, Bride
+15.04.27	Ann	Quirk	59	1852	Michael	Sartfield		KM 1901
+15.04.27	Mary Jane	Quirk	52	1859	Michael	Sartfield		KM 1901
+15.04.27	Robert Charles	Quirk	49	1862	Michael	Sartfield	Farmer	KM 1901
+15.04.29	Daniel	Caine	49	1862	Michael	Earey	Farmer	b. Braddan in 1901 c
+15.04.30	Margaret Ann	Corrin	57	1854	Ballaugh	Little London		?
+15.04.30	Thomas	Corrin	57	1854	Rushen	Little London	Farmer	where in 1901? 1891 in Whitehouse cottage, Michael
+15.04.31	Thomas	Quirk	57	1854	Michael	Cronk Ny Fessag	Farmer	KM 1901
+15.04.31	Esther	Quirk	56	1855	Patrick	Cronk Ny Fessag		1901 = Sarah, b. 1857, Patrick, English
+15.05.03	Jane	Clinton	74	1837	Michael	Berk		English in 1901
+15.05.03	Rebecca	Cottier	73	1838	Michael	Berk		English in 1901
+15.05.06	Isabella	Kissick	61	1850	Rushen	Ballagawne		(=Kissack) English in 1901
+15.05.06	John James	Kissick	55	1856	Michael	Ballagawne	Farm Labourer	English in 1901, stoker on steamship
+15.05.11	Margaret	Garrett	78	1833	Ballaugh	Ballaleigh,	Private Means	KM 1901
+15.05.16	Joseph	Gorry	53	1858	Braddan	Ballaleigh	Farmer	where 1901?
+15.05.17	Ellen	Fayle	78	1833	German	Ballanea		KM 1901
+15.05.17	Thomas	Fayle	70	1841	Maghold	Ballanea	Farmer	KM 1901
+15.05.17	Jane	Caine	65	1846	Michael	Ballanea	Private Means	English in 1901
+15.05.18	William	Corlett	77	1834	Michael	Ballanea	Retired Farmer	KM 1901
+15.05.20	Louisa	Oates	77	1834	Andreas	Ballanea		1901 at Beach View, Windsor Mt, Ramsey, w. dau. Alice (Corlett)]
+10
+Appendix 1. Manx speakers in Kirk Michael, 1911
+Par.Distr	Given Name	Surname	Age	Est. and17	birth household	year	Place	Address	Occupation	In 1901 of birth
+15.05.20	William	Cowley	67	1844	Michael	Ballanea	Farmer	English in 1901
+15.05.22	[Catherine]	Sayle	49	1862	Lezayre	Ballacarnane Moar	Assistant	English in 1901, at Ravensdale, Ballaugh, with John J Sayle, butcher (business)
+15.05.26	John Thomas	Faragher	43	1868	Michael	Ballacarnane	Farm Labourer	?
+15.05.27	William D	Cannell	60	1851	German	Kerrowglass	Farmer	KM 1901
+15.05.28	Jane	Faragher	58	1853	Malew	Kerrow-glass	1901 in Ballavoddan, Malew
+15.05.28	Hilda	Faragher	15	1896	Malew	Kerrow-glass	Farmer's Daughter	English in 1901, in Ballavoddan, Malew, w. mother Jane, b. 1852 QV (dairy)
+11
+Appendix 2. Manx speakers in Kirk Michael, 1901
+Enum Distr.18 and Household No.		Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	After 1901
+1	2	Margaret	Corlett	70	1831	Michael	Ballyre House	Dressmaker (retired)	1911 15 Rosemount, Douglas
+1	4	Ann	Christian	80	1821	Michael	Myrtle Cottage	Retired dressmaker	?
+1	7	Elizabeth	Kaighin	53	1848	Michael	Village		bu. 25/02/1911
+1	8	Philip	Teare	42	1859	Ballaugh	Village	General farm labourer	KM 1911
+1	14	Robert	Kelly	91	1810	Michael	Shore Rd Cottage	Retired farmer	bu. 16/08/1904
+1	20	James	Lace	65	1836	Ballaugh	Village, near Whitehouse	Shoemaker	bu. 9/01/1907
+1	22	Thomas	Kewish	55	1846	Ballaugh	Whitehouse	Farmer's steward	KM 1911
+1	22	Eleanor	Kewish	54	1847	Patrick	Whitehouse		bu. 28/06/1909
+1	27	Eliza	Crellin	77	1824	Baldwin	Whitehouse	Farmer	bu. 3/12/1901
+1	33	William	Brew	56	1845	Andreas	Whitehouse cottages	Farm labourer houseman	KM 1911
+1	38	Jane	Nelson	78	1823	Michael	Ballarhenny	Living on own means	KM 1911
+1	38	William	Nelson	35	1866	Michael	Ballarhenny	Farmer	bu. 9/12/1905, Braddan
+1	40	Alfred	Kelly	42	1859	Greeba	Ballarhenny	Gardener domestic	English in 1911
+1	41	Thomas	Caley	71	1830	Ballaugh	Ballarhenny	Retired gardener domestic	bu. 27/01/1911
+1	41	Alice	Caley	65	1836	Ballaugh	Ballarhenny		KM 1911
+1	43	William	Clarke	76	1825	Michael	Ballarhenny Beg	Farmer	bu. 7/01/1903
+1	43	Catherine	Clarke	75	1826	Michael	Ballarhenny Beg		KM 1911
+1	44	Patrick	Cannell	72	1829	Michael	Kiondroghad	Farmer	bu. 9/04/1902
+1	46	Eleanor	Kneen	68	1833	Michael	Ballameanagh	Living on own means	KM 1911
+1	46	William	Kneen	44	1857	Michael	Ballameanagh	Farmer	KM 1911
+1	50	John	Callow	67	1834	Bride	Orrysdale	General labourer	KM 1911
+1	52	Robert	Curphey	60	1841	Andreas	Orrysdale	Farmer	?
+1	53	Kate	Boyde	53	1848	Ballaugh	Orrysdale	Housemaid	1911 Palm House, Ballaugh
+[Catherine]
+18 Enumeration districts: 1 = Orrysdale Quarter (69 households), 2 = Village or Middle Quarter (73 households), 3 = Mountain Quarter (36 households), 4 = West Quarter (38 households)
+12
+Appendix 2. Manx speakers in Kirk Michael, 1901
+Enum Distr.18 and Household No.		Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	After 1901
+1	53	Anne	Kissack	50	1851	Lezayre	Orrysdale	Cook	?
+1	57	William	Brew	52	1849	Ballaugh	Bishops Court	Gardener domestic	1911 Bishopscourt, Ballaugh, wid.
+1	57	Elizabeth	Brew	51	1850	Jurby	Bishops Court		bu. 25/02/1908
+1	67	Thomas	Cannell	63	1838	Ballaugh	Rhencullin	Joiner	KM 1911
+1	67	Ann J[ane]	Cannell	45	1856	Michael	Rhencullin		KM 1911
+1	68	Mary A	Gelling	74	1827	Michael	Ballajuckley	Formerly field worker and charwoman	bu. 22/03/1911
+2	1	William	Killip	67	1834	Ballaugh	Clyeen	Farmer	KM 1911
+2	1	Elizabeth J C	Cleator	32	1869	Ramsey	Clyeen	domestic servant	KM 1911
+2	4	Annie	Quayle	50	1851	Jurby	Cronk Urleigh		KM 1911
+2	10	William	Christian	80	1821	Andreas	Glen Wyllin	Retired farmer	KM 1911
+2	10	John C[harles]	Caine	43	1858	Michael	Glen Wyllin	Retired farmer	English in 1911
+2	10	Emily	Caine	38	1863	Andreas	Glen Wyllin		English in 1911
+2	15	Jane	Quayle	77	1824	Michael	Station Rd		KM 1911
+2	16	Esther	Callister	61	1840	Andreas	Station Rd	Living on own means	1911 at Ballawattleworth, Peel
+2	17	Ann	Caine	62	1839	German	Station Rd	Living on own means	KM 1911
+2	21	William	Corlett	69	1832	Michael	Station Rd	Living on own means	KM 1911
+2	22	William	Quayle	75	1826	Michael	Station Rd	Living on own means	KM 1911
+2	22	Eliza	Quayle	60	1841	German	Station Rd		KM 1911
+2	23	Elizabeth	Cannell	72	1829	German	Station Rd	Living on own means	bu. 30/04/1907
+2	23	Louisa	Cannell	32	1869	German	Station Rd		?
+2	25	Mary A[nn]	Moore	89	1812	Ballaugh	Station Rd		bu. 30/01/1910
+2	26	Esther	Arnold	67	1834	Michael	Village	Living on own means	? bu. Braddan 9/08/1905
+2	28	William	Murray	74	1827	German	Village	Cowman on farm	bu. 1/02/1906
+2	30	Eleanor	Hannah	62	1839	Michael	Village	Milliner	KM 1911
+2	32	Ann	Cannell	84	1817	Michael	Village		?
+13
+Appendix 2. Manx speakers in Kirk Michael, 1901
+Enum Distr.18 and Household No.		Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	After 1901
+2	32	James	Cannell	84	1817	Michael	Village	Parish clerk	bu. 22/02/1903
+2	35	James	Kaighin	65	1836	Michael	Village	Retired engineer	80 in 1911
+2	38	John	Sayle	64	1837	Ballaugh	Village	Ordinary farm labourer	bu. 7/11/1906
+2	38	Ann J[ane]	Sayle	60	1841	German	Village		bu. 10/01/1908
+2	39	Charles	Faragher	85	1816	German	Village	Formerly agricultural labourer	bu. 3/02/1902
+2	42	Elizabeth	Caine	76	1825	Michael	Village	Formerly domestic servant	bu. 8/01/1908
+2	44	Ann	Caine	77	1824	Michael	Village		bu. 14/10/1902
+2	46	Thomas	Corkill	56	1845	Lezayre	Village	Horseman on farm	KM 1911
+2	47	Eleanor	Crowe	62	1839	Michael	Village	Dressmaker	English 1911, same household
+2	49	Henry	Corlett	58	1843	Onchan	Church View	Ordinary agricultural labourer	?
+2	50	Isabella	Cannell	70	1831	Michael	Church View	Caretaker Board school	? Bu. 13/02/1907
+2	50	Ann	Cannell	67	1834	Michael	Church View	Living on own means	English in 1911
+2	54	William	Cannell	54	1847	Ballaugh	Church View	Grocer and rural constable	bu. 5/08/1908
+2	56	John J[ames]	Cannan	70	1831	Michael	Brighton Villa	Retired farmer	bu. 5/08/1903
+2	56	Jane	Quayle	65	1836	Michael	Brighton Villa	Living on own means	?
+2	57	John D[aniel]	Caine	53	1848	Michael	Railway Hotel	Hotel keeper	bu. 3/09/1902
+2	60	William	Moore	55	1846	Michael	Village	Platelayer on railway	KM 1911
+2	60	Annie	Moore	53	1848	Michael	Village		KM 1911
+2	66	Robert	Brew	50	1851	Andreas	Lhergyvreck	Farmer crofter	KM 1911
+2	67	John	Cowley	57	1844	Michael	Druidale	Farmer	KM 1911
+2	70	Joseph	Hampton	74	1827	Michael	Ballakinnag	Formerly agricultural labourer	bu. 8/04/1902
+2	72	William H	Corjeag	66	1835	Michael	Ballonna	Farmer	KM 1911
+3	1	Isabella	Christian	72	1829	Michael	Ballamenagh farmhouse	Farmer	? bu. German, 23/05/1902
+3	2	John	Corlett	52	1849	Michael	Cronk Dhoo	Farmer	1911 Ballachrink, W. Baldwin, Braddan
+farmhouse
+14
+Appendix 2. Manx speakers in Kirk Michael, 1901
+Enum Distr.18 and Household No.		Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	After 1901
+3	3	James	Clucas	49	1852	Patrick	Little London	Farmer	1911 Peveril Rd, Peel
+3	4	Ellenor	Caine	83	1818	Braddan	Earey Farm	Farmer	bu. 21/04/1903
+3	4	Ellenor	Caine	52	1849	Braddan	Earey Farm		bu. 12/01/1904
+3	4	James	Caine	42	1859	Braddan	Earey Farm		English in 1911, unlike bro. Daniel, Both, in both censuses
+3	4	Daniel	Caine	38	1863	Braddan	Earey Farm		KM 1911
+3	6	John	Quirk	52	1849	Michael	Sartfield	Farmer	bu. 27/10/1902
+3	6	Mary Jane	Quirk	42	1859	Michael	Sartfield		KM 1911
+3	6	Robert Charles	Quirk	39	1862	Michael	Sartfield		KM 1911
+3	7	Mary	Boyde	69	1832	Michael	Sartfield	Farmer	bu. 21/05/1903
+3	9	Catherine	Corkill	64	1837	Bride	Ballanea	Farmer	?
+3	11	Ellen	Fayle	68	1833	German	Ballanea		KM 1911
+3	11	Thomas	Fayle	60	1841	Maughold	Ballanea	Farmer	KM 1911
+3	12	Thomas	Quirk	48	1853	Michael	Cronk-ne-vesag	Farmer	KM 1911
+3	15	Isabella	Caine	85	1816	Malew	Ballamenagh	Grocer	bu. 21.11/1906
+3	16	Mary Ann	Curphey	54	1847	Ballaugh	Ballamenagh		English 1911
+3	17	Catherine	Kinvig	76	1825	Michael	Shalghaige	Retired farmer	bu. 25.08.1904
+3	17	Sarah Emily	Kinvig	34	1867	Michael	Shalghaige		English in 1911, w. brother at Kerrow-ne-glough, Greeba, German]
+3	18	Thomas	Cormode	49	1852	Andreas	Shalghaige	Farmer	KM 1911
+3	20	William James	Corlett	35	1866	Douglas	Shalghaige	Farmer	English in 1911. In 1901 he is b. Douglas, his wife Annie, German. In 1911, he is b. German, his wife Catherine Ann, b. Douglas
+3	26	Eliza	Caine	51	1850	Patrick	Cammall		English in 1911, Barregarrow
+3	26	Thomas	Caine	51	1850	Michael	Cammall	Farmer	English in 1911, Barregarrow
+3	27	John Thomas	Corkill	38	1863	German	Cammall	Farmer	(English 1911, but in hand of enumerator. J.T.C. puts Both for whole family. In 1901 only he is Both.)
+3	29	Ann	Moore	71	1830	Michael	Barregarrow		bu. 20/06/1905
+3	29	Thomas	Moore	70	1831	Santon	Barregarrow	Highway surveyor	KM 1911
+3	30	Catherine	Quirk	45	1856	Michael	Barregarrow	Living on own means	English in 1911
+15
+Appendix 2. Manx speakers in Kirk Michael, 1901
+Enum Distr.18 and Household No.		Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation	After 1901
+3	31	Ann	Quayle	73	1828	Santon	Ballacaine	Farmer	? bu. 15/05/1902
+3	34	Elizabeth	Sayle	65	1836	Andreas	Ballakilley		1911 Ballacaine, Jurby
+3	34	Thomas	Sayle	65	1836	Bride	Ballakilley	Farm labourer	1911 Ballacaine, Jurby
+3	35	Elizabeth	Joughin	69	1832	Michael	Ballacorlett		1911 Thurot Cottage, Bride
+3	35	Elleanor	Caine	60	1841	Michael	Ballacorlett	Living on own means	bu. 16/05/1902
+3	35	Ann Jane	Lace	50	1851	Ballaugh	Ballacorlett	Living on own means	?
+3	35	Annie	Quirk	49	1852	Michael	Ballacorlett	Housemaid	KM 1911
+4	6	Catherine	Faragher	92	1809	Marown	Glen Wyllin		bu. German, 25/12/1901
+4	6	William	Faragher	57	1844	Lezayre	Glen Wyllin	Miller	KM 1911
+4	6	Jane	Faragher	56	1845	Michael	Glen Wyllin		KM 1911
+4	7	Thomas	Caine	64	1837	Michael	Glen Wyllin	Horseman on farm	KM 1911
+4	8	Elizabeth	Dugdale	82	1819	Michael	Glen Wyllin		bu. 28/07/1912
+4	8	John	Dugdale	80	1821	Bride	Glen Wyllin	Living on own means	bu. 25/09/1905
+4	9	Ann	Cowley	67	1834	Michael	Glen Wyllin	Living on own means	bu. 16/02/1906
+4	11	James	Cowley	70	1831	Michael	Berk	Living on own means	bu. 13/05/1906
+4	11	Catherine	Cannell	67	1834	Rushen	Berk		bu. 10/04/1903
+4	11	John	Cannell	63	1838	Michael	Berk	Farmer	bu. 23/02/1906
+4	12	William	Cannell	83	1818	Michael	Berk	Living on own means	bu. 15/09/1901
+4	13	James	Curphey	72	1829	Andreas	Ballaleigh	Farmer	bu. 2/09/1910
+4	13	Margaret	Curphey	68	1833	German	Ballaleigh		KM 1911
+4	15	Robert	Christian	68	1833	German	Ballaleigh	Farm labourer	?
+4	17	Elizabeth	Quayle	68	1833	Kirk Braddan	Ballaleigh	Living on own means	bu. 4/09/1907
+4	17	William	Quayle	68	1833	Michael	Ballaleigh	Living on own means	bu. 3/02/1905
+4	18	John W[illiam]	Quayle	31	1870	Michael	Ballaleigh	Farmer	bu. 4/06/1902
+4	18	Alma	Quayle	26	1875	Michael	Ballaleigh		English in 1911
+16
+Appendix 2. Manx speakers in Kirk Michael, 1901
+Enum Distr.18 and Household No.		Given Name	Surname	Age	Est. birth year	Place of birth	Address	Occupation		After 1901
+4	18	Christian	Caley	24	1877	Ballaugh	Ballaleigh	General servant (domestic)	?	
+4	20	Margaret	Kelly	76	1825	Michael	Ballaleigh		bu. 5/05/1901	
+4	20	Matthias [Isaac]	Kelly	76	1825	German	Ballaleigh	Farmer	bu. 2/10/1904	
+4	22	Margaret	Garrett	67	1834	Ballaugh	Ballaleigh	Living on own means	KM 1911	
+4	28	Catherine	Comaish	60	1841	German	Glen Moar	Housekeeper	KM 1911	
+4	29	John	Kelly	53	1848	Michael	Glen Moar	Farmer	?	
+4	31	Hugh	Kaighin	79	1822	German	Kerrowglass	Retired farmer	bu. 15/10/1908	
+4	33	William D	Cannell	50	1851	German	Kerrowglass	Farmer	KM 1911	
+4	35	Charlotte	Callow	65	1836	Castletown	Ballcarnane Beg		?	
+4	36	Evan	Cannell	40	1861	Michael	Ballacarnane Beg	Cowman on farm	English in 1911	
+4	37	John	Cannell	72	1829	Michael	Ballacarnane Beg	Farmer	d. 1910	
+4	38	James	Kelly	49	1852	Marown	Ballacarnane Beg	Cowman on farm	?	
+17

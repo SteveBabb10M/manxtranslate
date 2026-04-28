@@ -1,0 +1,125 @@
+﻿Christopher Lewin
+No. 7 - October 2011
+A series of short articles on Manx Gaelic grammar, idiom,
+vocabulary and pronunciation.
+This month, some notes on stress and emphasis.
+Emphatic suffixes and pronouns
+These are ’s, ’s, -syn, (i)sh, -yn, -syn, according to person and number:
+my hie’s - MY house
+e vacsyn - HIS son
+y thie aym’s - MY house
+y thie echeysyn - HIS house
+Beem’s - I will be
+dooinyn - to US
+In late Manx, y thie aym’s etc. would be more common than my hie’s, but the point is
+that the use of the emphatic suffixes, wherever they occur, is very common. They are
+not in any way an optional extra; to sound natural they should be used copiously
+(though not totally indiscriminately, as we shall see). In English however, most of
+their function is taken by intonation, and you will hear learners applying this
+incorrectly to Manx.
+For example:
+T’eh cummal ayns y thie AYM (as cha nee thie elley) - He lives in MY house (and
+not another one)
+where emphasis is put on aym, but without the suffix ’s that would be expected. Ayns
+y thie AYM just sounds odd, but
+T’eh cummal ayns MY hie (cha nee e thie / y thie eck)
+with stress on my is just plain wrong. It is absolutely impossible and un-Gaelic to
+stress possessives like my, dty, and e, because they are clitics, or words which cannot
+be stressed and must be connected to a stressed word. Other such unstressable clitics
+include the definite article yn, and preverbal particles such as cha, nagh and dy.
+The use of suffixes instead of intonation is one of the most alien things about Gaelic
+to English speakers, because it simply doesn’t occur to us to do it that way. It took me
+a while to get my head round it. Even if you do use ’s and say my hie’s, there is still
+an urge from an English-speaking perspective to emphasize my with the voice,
+whereas my hie and my hie’s are both stressed on the second word and have about the
+same intonation—the emphasis is shown by the suffix.
+The personal pronouns mee, oo, eh, ee, shin, shiu, ad, and the prepositional forms
+aym, dou, rhyt… etc. are not actually unstressed forms, but it is odd to stress them
+emphatically, the forms mish, uss etc. should be used liberally.
+When there is contrast, emphatic forms are effectively obligatory:
+Shoh yn thie aym’s, as shen y thie ecksh1 - This is MY house, and that is HER house
+mish as eshyn - me and him (I and he)
+Though forms with hene can also be used:
+mee-hene as eh-hene
+However, there are certain circumstances where learners are wont to overuse the
+emphatic forms where they are not usual, or not obligatory:
+1.	relative clauses with pronouns:
+yn dooinney rish va mee loayrt - the man I was talking to
+is more common than
+2
+yn dooinney rishyn va mee loayrt2
+Examples:
+Cre vel screeuyn-scarree nyn moir, r’ee ta mee er scarrey - Where is the bill of your
+mother's divorcement, whom I have put away? (Isaiah 50:1)
+ny greeshyn orroo hie eh seose gys thie’n Chiarn - his ascent [the stairs] by which he
+went up into the house of the Lord (2 Chronicles 9:4)
+1 Note in passing that it is normal in Manx to repeat the noun, i.e. to say ‘my house and her house’,
+which is avoided in English, rather than ‘my house and her one / hers’. E.g. FRC p. 66 Ta e ailleil hene
+ec dy chooilley ghooinney, as she shoh my ailleil’s ‘Every Man has his Failing, and this is mine’.
+2 the like of which nevertheless does occur in the Bible and elsewhere, see Daniel 11:39, Amos 6:1
+2.	coordinate clauses with as
+honnick mee eh as eh çheet magh ass y cheeill - I saw him as / when he was coming
+out of church
+would be odd as …as eshyn çheet magh… because the emphatic could imply we were
+talking about to separate masculine individuals.
+Examples:
+Ny tra ta’n spyrryd dy eadaghey dy ghoaill eh, as eh geadaghey mysh e ven… Or
+when the spirit of jealousy cometh upon him, and he be jealous over his wife…
+(Numbers 5:30)
+As shen myr ve, as ee markiagh er yn assyl, myr haink ee sheese er lhiattee’n clieau…
+And it was so, as she rode on the ass, that she came down by the covert on the hill (1
+Samuel 25:20)
+quoi ren rieau cherraghtyn, as eh gyn-loght? - who ever perished, being innocent?
+(Job 4:7)
+3.	subject of the copula
+Usually in the non-emphatic form:
+She Manninagh mee - I am a Manxman
+rather than
+? She Manninagh mish
+Examples:
+She voalley mee, as ta my cheeaghyn myr tooryn - I am a wall, and my breasts like
+towers (Song of Solomon 8:10)
+Agh my she phadeyryn ad, as my ta goo yn Chiarn mâroo - But if they be prophets,
+and if the word of the Lord be with them (Jeremiah 27:18)
+Much of the use of emphatic suffixes depends on training your mind to think in Manx,
+rather than English. But with familiarity and awareness, you will soon get the hang of
+it and before long *Nee shoh yn thie ayd? (‘Is this YOUR house?’, where the enquiry
+is whether it is your house rather than someone else’s) will grate on you, and Nee
+shoh yn thie ayd’s? will sound natural.
+The clitic preverbal particles
+These particles are always unstressed and must be followed by a verb, which is why
+you cannot say *cha on its own to mean ‘not’ or ‘no’. The same applies to nagh.
+Which is why * Cre’n fa nagh? (‘Why not?’) is ungrammatical and should be
+avoided. It is impossible to say *Cre’n fa nagh? in Manx in just the same way as it is
+impossible to say *the on its own without a following noun in English (whereas this is
+permissible in some languages, such as German, where it means ‘the one’).
+Nagh needs a verb, so:
+A:	Vel oo goll magh noght? - Are you going out tonight?
+B:	Cha nel. - No. [=Am not.]
+A. Cre’n fa nagh vel? - Why not? [=Why are not?]
+A:	Cha dug mee feeyn da. - I didn’t give him wine.
+B:	Cre’n fa nagh dug? - Why not? [=Why not gave?]
+This is a different way of thinking from what English-speakers are used to, but with a
+little practice you come to feel nagh to be naked, as it were, or incomplete without a
+following verb. The same applies in other circumstances:
+A:	Cha daink mee thie riyr. - I didn’t come home last night.
+B:	Ta fys aym nagh daink. - I know that you didn’t [=that did not come].
+Other points
+It is impressed on learners that words like thalloo have stress on the first syllable, not
+the last, as might be expected from the spelling. Indeed, most words in Manx stressed
+on the first syllable, unless a later syllable has a long vowel ending in a consonant
+(more or less). So the genitive thallooin is stressed on the second syllable, but
+nominative thalloo on the first.
+Chamoo ‘neither’, on the other hand, is stressed on the second syllable, because it is
+really cha moo ‘no more’ with the unstressed particle cha followed by the
+comparative of mooar. The subordinate / relative form nagh moo, which occurs in
+Wilson’s sermons (pp. 61, 89), makes this clear. Perhaps it would be better if cha moo
+were so written as two words.
+Scadoo ‘shadow’ is also stressed on the second syllable (see stress marking in
+Cregeen and HLSM II p. 386 [skəˈdøu] TC) because it is originally scaa doo ‘black
+shadow’.
+Whilleen, according to Cregeen, is pronounced WHILLin, with stress on the first
+syllable resulting in shortening of the long vowel in the second syllable.
+Proverb of the Month:
+Ta mee er y vaarney veayl.
+I am on the bare gap, i.e., I am at the end of my tether. (Manx Proverbs and Sayings)

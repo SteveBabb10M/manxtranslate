@@ -1,0 +1,327 @@
+﻿Notes on spelling preferences and variation in the Manx Bible
+Max W. Wheeler
+January 2019
+The Bible is by far our most extensive repository of ‘standard’ Manx, of which orthography is a part. Some recent
+work on proof-reading the Bible text (and Apocryphal books) for Yn Vible Ghaelgagh online
+https://manx.global.bible/ has brought into focus exactly what this standard consists of. Though in a good number
+of cases there is variation in spelling, often this variation displays a strong preference. I record below as preferred
+spellings those which dominate over alternatives in a proportion of 2:1 or more.
+After that I list most of the words where the alternatives are more evenly matched.
+Preferred spellings
+Apostrophes and hyphens in verb forms:
+Future/Conditional Dependent n-, and Perfect n-: generally n’ preferred
+cha n’aag, nagh n’aase, mannagh n’eaisht, dy n’oshil, nagh n’eiyragh, cha n’ee-ym
+er n’aase, er n’ee, er n’yannoo, er n’oardaghey
+Past tense d-: generally no apostrophe, except d’ee ‘ate’
+daag, daarlee, daase, daggle, dansoor, daill, deaisht, deayshil, deearree, deeasee, dettyl, duillee,
+duirree, dyllee, dymmyrk
+NB j'immee x155 > dimmee x2
+Future -ym: variable hyphen, -ym preferred, and strongly after vowel, sceabym, cheb-ym, cha greidym, bishee-
+ym, brah-ym, brasnee-ym, chyndaa-ym, stroie-ym, lhiggym ~ lhig-ym
+Future -yms, generally with hyphen:
+aag-yms, brish-yms, cheb-yms, chyndaa-yms
+Future relative -ys, generally without hyphen, except after vowel:
+aagys, aarlys mayd, bwoaillys, obbys; but hee-ys, chyndaa-ys. chea-ys. chleiy-ys, ee-ys. eïe-ys, livrey-
+ys, lhie-ys
+Future -ee, with hyphen only after vowel: ceau-ee, stroie-ee, snaue-ee
+Plural imperative: -jee always with hyphen:
+aarlee-jee
+NB 1pl future mayd/maynin are always written as separate words.
+Emphatic -s with conjugated prepositions, generally with ’s: aym’s, ayd’s, aynym’s, aynyd’s, etc.
+Emphatic -s, 1sg fut. verb -yms, hee-ym, hee-yms; but in forms without y: ˈs: beem’s (but bee’m), etc., neem’s,
+nee’m,
+Prepositions:
+ass
+assym/assym’s, assyd/assyd’s, ass-jee, assdiu, assdoo
+harrish
+harrym, harryd, harrish, har’ee, harrin, harriu x2/harrishdiu x17/harrystiu x4, harroo x1
+(harroosyn x3)/harrishdoo x2/harrystoo x72
+jeh
+jee’m/jeem’s, jeed, j’ee/jeeish, jeh/jehsyn, j’in/j’inyn, j’iu/jiuish, jeu/jeusyn
+lesh
+lhiam, lhiat lesh, lh’ee/lh’eeish, lhien/lhienyn ~ lhianyn, lhieu/lhieuish, lhieu/lhieusyn; but
+predominantly s'liesh/by-liesh/my-liesh
+marish + Noun Phrase
+mârym/mârym’s, mayrt/mayrt’s, mârish/mârishyn ‘with him/it’, mâree, mârin, mêriu,
+mâroo/mâroosyn
+noi + Noun Phrase, or + ec
+m’oï, dt’oï, n’oï/n,oï-syn ‘against him/it’, n’oïee, nyn ’oï/nyn ’oï-syn
+rish
+rhym/rhym’s, rhyt/rhyt’s, rish/rishyn, r’ee/reeish, rooin/rooinyn, riu/riuish, roo/roosyn
+1
+roish
+roym, royd, roish/roishyn, ro-ee ~ rhymbee, roïn, reue/reueish ~ rhymbiu/rhymbiuish,
+roue/rouesyn ~ rhymboo
+Use of I': often in participles after a vowel - a or - e: charbait, imralt, Ihelt; but not always: craait, livrelt x18 ~
+livreit x10, fraueit; rarely after -o or -u: thus goit x157, sliennooit, roit, broit, stroit, soit; saauit,
+shleeuit, scruit
+The following words are generally written with ï:
+aïgh
+baïe
+beïll
+beïyn (see below)
+ben-reïn
+bleïn
+breïn
+broïd
+caïd
+cleïn
+eïe, v., eït
+eïlley (see below)
+eïn/heïn
+feaï-ny-cruinney
+feeaïh (see below)
+feïe, feïeys
+greïe, but greïnyn = greinyn
+greïney (see below)
+jeï/yeï
+jeïr/yeïr/yheïr in my yheïr, dy yheïr
+lheïe, but lheieder
+meïr/veïr
+oï: see Prepositions noi
+roïe
+schleï, but schleioil > schleïoil
+soïlley (see below)
+straïd (see below)
+voïd, voïn
+yoïn
+The following few words, with their inflected forms, are generally written with a circumflex:
+cômys
+êgin, er-êgin
+êginagh(ey)
+êrin
+fênaght(yn), fênee, fênit
+mârym (see Prepositions)
+ôney, ônid
+shêgin er
+Preferred spellings:
+’sy(n) > sy(n)
+beign > *begin
+beiyn strongly predominates in the Torah, beïyn elsewhere; veïyn > veiyn
+boallagh = bollagh > b’oallagh
+brack > breck ‘spotted’ in Genesis only.
+breg, sg., breagyn pl.
+cass, but NB kass son kass in Exo 21.24 in ‘Sooill son sooill, feeackle son feeackle, laue son laue, kass son kass’
+cayrn = ‘heap’ (spelt carn in Cregeen and Kelly); also cayrn = ‘trumpet’
+charbaït > charbaait
+chouyl: choll (Cregeen) choull (Kelly)
+chum > chumm
+chyndaït > chyndaait
+2
+coardail, v., n.; cordail rish prep.
+cre’n-fa x293 > cre’n fa x16
+cre’n-oyr x24 > cre’n oyr x12
+cre-erbee x 131 > cre erbee x 15
+cre-woad > cre woad
+croink ‘hills’ usually in the Bible, though cruink is to be found elsewhere.
+cuir = invite, quench; cuirr = sow, cast (net), chuir = invited, quenched; chuirr = sowed, cast (net)
+cur-my-ner (hug eh my-ner, etc)
+curnaght x40 > curnagh x 11
+da-eed > *daeed, three-feed, kiare-feed, queig-feed, shey-feed shiaght-feed, hoght-feed, nuy-feed
+doayrn/ghoayrn > *doarn/ghoarn, pl. duirn, but e ghurn, nyn ghurn
+dorrin > doirryn
+drilleen and drillin are variant forms, the latter generally more common.
+drogh-yantagh, drogh-yantee ‘evil-doer(s)’, but jeantee ‘doers’.
+dy cheilley > dy-cheilley
+eirinnagh, one -r-, two -n- is the predominant spelling.
+er-ash
+er-be > erbe
+er-dy, er-dyn
+er-dy-henney > er dy henney
+er-dy-rieau > er dy rieau
+er-gerrey > er gerrey
+er-jerrey > er jerrey
+er-mayrn > er mayrn
+er-nonney > er nonney
+er-rouyl > er rouyl
+er-shaghryn > er shaghryn
+er-y-fa
+er-yn-oyr
+failleish = Cregeen’s falleays ‘glimpse of light’; Pargys Caillit also f(e)alleise, faillease
+fey-ny-laa ~ fey-yn-laa
+fluigh > *fliugh
+foalley: generally, the Bible distinguishes foalley ‘of flesh’ from folley ‘of blood’.
+fo-chosh > fo chosh
+fooilliagh
+fuirriaght > fuirraght
+gerrit
+greïney > greiney, in proportion 2:1 in the Bible.
+greme n., but greim/greimm, ghreim/ghreimm, greimmey v.
+gyere x61 > geyre, geayr
+hee-ym x11 /hee-ymsx 2/hee’m x2 (B+A), hee, hee mayd, hee-ys x12 (B+A)
+Hew = Ew. John, Acts, favour Hew. Rom. favours Ew. But pl. is Hewnyn, exc. once Ewnyn in Rom.
+hie ee > hiee
+hrogh x9 > chrogh x3 ‘hung/hanged’ (NB chraisht for hraisht suggests /xr/ and /hr/ were pronounced the same)
+kied: In the Bible the spelling nyn gied is used only for ‘their permission’, and the somewhat anomalous nyn
+ghied for ‘their first’; nyn gied = ‘their first’, etc. in other texts.
+kione: Anomalous spelling nyn ghing (x59, for nyn ging x3 ‘their heads’) strongly preferred in the Bible.
+kymmagh: Cregeen takes kymmagh as a variant of kimmagh, but the senses (‘fool’ and ‘criminal’, respectively)
+of the two in Bible trans. seem different.
+layal > lail
+leayr: b’leayr, but cha lheear
+lhiasaghey, lhiassaghey: NB Cregeen makes a distinction between lhiasaghey ‘atone, ransom, amend’; and
+lhiassaghey ‘allege, assert (falsely)’. This distinction seems to be observed in the OT, in the verbal
+noun in part, but in the NT lhiassaghey is used for both, and in the OT lhiassee for ‘amend, repair’.
+lhoobey v. (x18) > loobey (x2); but loob n. predominantly in Bible. NB all occurrences of loob/loobyn n. (x 52)
+are in Exo.
+liooar: NB s ’Hoar (x 11) preferred spelling for s ’iiooar (x 1)
+lourane, but predominantly louraanagh, louraanys
+mooadys > mooads > mooad’s
+mooish: unique anomalous spelling for mysh ‘around’ at Gen. 31.42
+3
+naight > niaght
+nearey but naaragh(ey), naareydagh
+ny-neesht x78 > nyn-neesht x21
+ny-sodjey ‘furthermore’
+ny-yeih x410 > ny yeih x13
+ommydan
+ooil x207 > ooill x3; ooilaghey x64 > ooillaghey x18, ooilit x17 > ooillit x1, ooilyn x4 > ooillyn x1
+quail ‘to meet’, quaiyl ‘assembly, court’, quayl ‘quail’
+quoi-erbee x230 > quoi erbee x20
+r’ou i.e. row oo
+raït > raait
+ribbeh, less frequent spelling for ribbey n.
+roight trooid ‘run through’ (with a sword) seems to be the preferred spelling for this expression; roit ‘run’
+elsewhere
+ry-akin x43 > ry akin x5
+ry-cheilley x55 > ry cheilley x4
+ry-chlashtyn x2 > ry chlashtyn x 1
+ry-chosh
+ry-gheddyn x54 > ry gheddyn x8
+ry-heet x58 > ry heet x6
+ry-lhiattee x4 > ry lhiattee x 1
+s ’inshiley x 19 > s ’inshiilley x3 > s ’injilley x 1
+screeu n., scrieu v.
+scruit
+seyir and seiyr are both found for ‘carpenter’ sg. (4:1 in Bib and Apo); likewise both seyir and seiyr (10:3), + 1x
+sieyr, for ‘carpenters’ pl.
+shen-y-fa
+sheshaght-caggee: oddly, cheshaght-chaggee is strongly preferred x46 in the Bible to cheshaght-caggee x1, and
+likewise heshaght-chaggee x60 to heshaght-caggee x0; but sheshaght-caggee x72 is preferred to
+sheshaght-chaggee x2.
+sheshaght-flaunyss (sic), otherwise flaunys
+shlee ‘more’ (count)
+shliawn > shliawin; pl. shliawney, comp. shliawney
+skeilt > scelt
+sliee > *shliee
+sluggey but lhuggey
+smeyr = smeïr. sg. not distinct from pl. in Bible, though in Apoc. (Ecclus) smeyr sg., smeïr pl.
+soïlley, soïllee, hoïll > hoill, hoïlley > hoilley; soïlit > soilit, soillit
+soorit x46 > soorid x13
+taittin/daittin/haittin > daittyn/haittyn
+terriu > teirroo, therriu
+yiall x32 ‘promised’ > ghiall x3
+yiare- x197 > ghiare- x67
+yiat - x153 > ghiat - x11
+yien x20 > ghien x2
+yiennaghtyn x9 > ghiennaghtyn x3
+yientyn x9 > ghientyn x5
+Variation:
+baillin = baillhien = baill-lhien
+bailloo = baillhieu
+beiyn = beïyn
+bishagh, n. Generally the form bishagh ‘increase’ is used. But bishaght seems to be a real, rarer, alternative.
+blakey = blâkey
+blasht(yn) = blast(yn) = blayst(yn) = blaysht = blass
+but blaystal > blastal
+booa/vooa = boa/voa
+4
+bowaghyn = bow'ghyn = bowghyn
+braa = brâ
+breinaghey = breinnaghey
+breinid = breinnid
+brey = breh
+brilleen = brellein = brelleen = brellein
+brinneen = brennein = brenneein
+bwoirrinagh = bwoirrynagh
+by-liesh = by-lesh
+byrragh = birragh
+caarjys = caardys
+caghlaait = caghlaït
+cauaigey = cooagey
+chaggil = chaggle
+chiamble: pl. is chiambleyn or chiambyllyn.
+chied er ny ruggey in OT, chied-er-ny-ruggey in NT.
+chiu x12 = choo x7
+cleieet = cleight = cleiyht = cleiyt ‘dug’
+cleigh/chleigh = cleiy/chleiy
+cluinnee = clynnee = clinnee
+coar/choar = coayr/choayr
+conningyn = conninyn
+craie = cray
+crubbit = crybbit
+cur rish = cur-rish, proportions about even
+dangeyr – dangere, dangeyragh = dangeragh
+dewilys = dewlys
+dhatt = datt
+doarn = doayrn
+dossan = dhossan
+eilley = eïlley, about equally common; eïllit > eillit
+er e hon: er y hon-syn and er e hon-syn ‘for him’ are equally frequent. One cannot say the former is an error,
+though maybe less ‘standard’.
+farkiagh = farkiaght
+feeaih = feeaïh; pl. feeaïhee
+feeudagh, feeudys: the stem is variously feeud-, feud-, fud-.
+foddeeaght = foddiaght
+geinnagh = genniagh
+ghennal- = yennal-
+ghialdyn- = yialdyn-, but yiall x32 ‘promised’ > ghiall x3
+ghioot- x 16 = yioot- x15
+ghoin = ghowin, goin = goïn, 1 of each
+greeshyn = greeishyn
+heigh = heiy ‘gathered’
+hellym = helm ‘blow (trumpet)’
+jeeg = jeeig
+kainlere, cainlere in OT, cainleyr in NT; but cainle > kainle
+keeayl = keeayll
+NB gen. kione e cheiley (= cheilley in other texts. but 1 x coayl e cheïley in Apocrypha), kione nyn
+geiley
+keoi = keoïe = keoie
+lhiettrimmys = liettrimys = lhietrymys
+lhig-ym = lhiggym, and so with many other verbs that can have double consonants.
+loaghee x4 in 1Sam 6 = lughee
+lowance = lowanse
+loys/s’loys/by-loys x19 = lhoys/by-lhoys x13; NB *s’lhoys
+main-oie = mean-oie, but vean-oie
+mainshter = mainshtyr
+mee hene ~ mee-hene, oo hene ~ oo-hene, etc.
+mee-cheeayllid = mee-cheïlid = mee-cheilid
+5
+meein = meen
+meiley = meilley ‘bowl’
+meshtall- = meshteyll- = meshtyll- = meshtyr(ys)
+moee = mooee
+mortar = morter
+mucyn = muckyn
+nhegin = negin
+nhione = nione
+parteeas = paarteeas
+preis = preish
+pyshoonagh ~ pushoonagh: pyshoonagh is a more common spelling. Pushoonagh is preferred in Thomas
+Christian’s Pargys Caillt.
+reayllys = reaillys = freillys relative future of freayll
+reygyryn = reyggyryn = regyryn = reggyryn
+roosteen = roosteeyn
+sansheraght = sonsheragh
+sauee = saue-ee
+shirg- = shyrg-
+shoalteyr = shiolteyr
+shooyl: future stem either shooill or shooyl(l); shooyl-jee = shooill-jee
+shuin ~ dy hioonyn
+sleayd- = sleod-
+s'lhea = shlea
+slheeasid = slhe(e)ayst
+smalyn = smaylyn
+sooill: thooill = tooill
+straïd = straid, in proportion 65:37 including inflected forms.
+streeuaghyn = streeughyn
+taa = taah
+thack = tack
+thassane =tassane
+thorran = torran
+tobbyr = tubbyr. but tobbyr-oonlee, tubbyryn
+traashtit = traishtit
+whuaiyl = whaiyl
+yarragh = yiarragh
+yuilley = ghuilley
+6

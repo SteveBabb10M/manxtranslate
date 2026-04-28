@@ -1,0 +1,682 @@
+﻿Recovering lost elements from Cregeen’s Dictionary of the Manks Language
+Max W. Wheeler
+January 2018
+Archibald Cregeen’s Dictionary of the Manks Language of 1835 has been republished four
+times in the 20th and 21st centuries.1 In 1910 J. J. Kneen, on behalf of the Manx Language
+Society, edited a reprint, with a brief new preface, that reset the text. It included translations
+into English of Cregeen’s Manx proverbs, and an English-Manx index (Kneen 1910). In 1969
+Yn Cheshaght Ghailckagh published a photographic reprint of the 1835 edition, entitled
+Fockleyr ny Gaelgey chaglit liorish Archibald Cregeen, with a preface in Manx by R. L.
+Thomson (Thomson 1969). Then in 1984 Yn Cheshaght Ghailckagh published a photographic
+reprint of the 1910 edition, again entitled Fockleyr ny Gaelgey chaglit liorish Archibald
+Cregeen, without Kneen’s preface, but with a brief preface in English by R. L. Thomson
+(Thomson 1984). Finally, in 2015 I published online a reordering of Cregeen’s 1835
+Dictionary, with the entries grouped not strictly alphabetically, as previously, but with formally
+related items grouped under headwords; my edition was entitled Fockleyr Chregeen Aa-orderit
+(Wheeler 2015). It incorporated the texts, in Manx and English of the Biblical and other
+passages that Cregeen cited as illustrations of usage.
+All of these editions purported to reproduce the original text of the 1835 Dictionary. At the
+respective times of publication, the editors were evidently unaware that there was, in fact, more
+than one version of the ‘first edition’, and that the texts they had all chosen to reproduce were
+inferior to the ‘true’ first edition, that was dated 1835, but actually appeared in May 1837.2 In
+his preface to the 1969 reprint, Thomson says, ‘Tra hie eh er cur magh yn nah cheayrt dy
+moghey ’sy lhing shoh, va’n obbyr-phrental ooilley jeant ass y noa, as er y fa shen ghow ny
+fir-aarlee yn caa dy yannoo caghlaaghyn ayns y lioar raad erbee er lhieu dy row feme. Agh y
+cheayrt shoh ta’n lioar er ny cur magh er aght elley, trooid jalloo-phrental, as shen y fa ta shin
+er ngholl er ash gys y chied ockleyr, as ta ny t’ayd ayns dty laue ny yalloo firrinagh jeh’n lioar
+shen myr haink ee magh ec y toshiaght’ [When it was published for the second time early in
+the present century, all the typesetting was re-done, and thus the editors took the opportunity
+to make changes in the book wherever they thought necessary.3 But this time the book is
+published in a different way, through facsimile-printing, and for that reason we have returned
+to the first dictionary, and what you have in your hands is a true facsimile of the book as it was
+originally published.] And in his preface to Thomson (1984) he speaks of the 1910 edition
+‘now reproduced in facsimile as being slightly more correct and legible than the first edition.’
+Yet the fact that there was more than one variant of the ‘first’ edition was not a secret. In his
+Bibliotheca Monensis (Manx Society vol. VIII, 1861), under the heading ‘Archibald Cregeen,
+1 I am very grateful to Phil Kelly, Christopher Lewin, and Nicola Tooms for their help with bibliography at the
+start of this investigation.
+2 Advertisement in Mona’s Herald, 9 May 1837. I shall continue to refer to the first edition as the ‘1835 edition’
+since that is the date on the title page, which has itself been reproduced photographically or in facsimile in all the
+20th- and 21st-century editions.
+3 Thomson seems rather disingenuous here. Other than supplying translations of Cregeen’s proverbs, Kneen and
+his fellow editors made absolutely minimal changes to the text of the dictionary. They corrected some of the
+misprints, introduced as many more, reproducing most of the 1835 misprints unchanged.
+1
+1835. A Dictionary of the Manks Language’ (p. 126), William Harrison tells us ‘The Author
+of this Account [i.e. William Harrison himself] purchased the sheets left on hand, from which
+some Copies were afterwards made up; some little difference is observable, arising from the
+few sheets reprinted being in a larger type, when some few words were unavoidably omitted.’4
+These variant copies must have been made some time between 1842, when Harrison came to
+live in the Isle of Man, and 1861, when Bibliotheca Monensis was first published.
+William Cubbon (1865-1955), as an activist in The Manx Language Society, was one of those
+listed by J. J. Kneen in his preface as having assisted in the reedition of Cregeen’s dictionary
+in 1910. In 1922 he became Librarian of the Manx Museum, and Director of the Museum in
+1932. In the 2nd volume of his A Bibliographical Account of Works relating to the Isle of Man
+(1939), p. 818, he provides the following information about Cregeen’s Dictionary:
+‘The book is met with in two forms, variety A and variety B. The first and original
+is easily recognised by its having a list of subscribers at the end, and by being
+uniform in type throughout. Variety B is not only without the list, but is not
+complete as regards the vocabulary itself. The latter copies were made up by
+William Harrison, compiler of ‘Bibliotheca Monensis,’ from sheets purchased by
+him at the sale of Quiggin the printer’s stock.5 These sheets, however, were not
+complete, and the missing ones had to be supplied; for the reprint, type of the
+original size was not available, and an average of eight lines were dropped out,
+owing to the type used being larger. — G. W. Wood.
+‘Archdeacon Kewley adds the following: “In the last decade of the 19th century,
+William Watterson, farmer, moved to the house at Colby in which Archibald
+Cregeen had lived. Sometime after he settled in he told me that among old rubbish
+in the house there was a quantity of papers printed in the Manx language which he
+burned... From his description I was satisfied they were the sheets (one section)
+of the Manx dictionary which Mr Harrison had to get reprinted for the second
+edition.”6 28/5/27.’
+One of the copies of Cregeen’s 1835 Dictionary in the Manx Museum library (H.140/N7)
+contains the carbon copy of a letter, possibly from William Cubbon himself, to Rev. E[rnest]
+U[rmston] Savage (1879-1939), another of the group that had assisted J. J. Kneen in the
+preparation of the 1910 reprint. The letter reads as follows:
+‘P2/2/C
+16th September, 1938
+Dear Mr Savage,
+You are right about the curious differences in the printing of the Cregeen
+Dictionary. The sheets D (1) 21-24; H. 41-44; L. 53-8; W. 97-100; 2C. 121-124.
+From my experience as a printer,7 I feel sure the reason for the difference
+in type is that five sheets of four pp. were missing, all had to be reset. The printer
+whoever he was who had to print these sheets had not the Nonpareil type in which
+4 This information is repeated in the second edition of Bibliotheca Monensis (Harrison 1876: 144-145).
+5 This cannot, however, refer to the sale of the stock and business after Mrs. Quiggin’s death, which did not take
+place till 1863.
+6 Kewley must mean ‘sheets of the first edition A version that somehow had got separated from the remainder’;
+what did he mean by ‘one section’, though?
+7 If Cubbon is the author, he was joint owner of the Manx Sun between 1900 and 1912.
+2
+the bulk of the work had been done by Quiggin. He used the next in size larger
+which was called Minion.8 In order to bring the matter within the compass of 4 pp.
+William Harrison, the man responsible, had to eliminate several lines.
+The whole story is very interesting, and shows what an enthusiastic figure
+Harrison was. We owe him much, and I hope some day to write a brief biography
+of him for the journal.
+I am a bit ‘throng’, so I close with my expression of good wishes,
+dy firrinagh,
+Rev. E.U. Savage,
+Fell Close,
+Staveley,
+KENDAL’
+Following Cubbon, I refer to the complete version, including the subscribers’ list, of Cregeen’s
+1835 Dictionary as version A, using B to indicate any version with replacement pages. The
+sheets in question that were reprinted for B are bifolia, that is, sheets of paper folded once, to
+make two leaves, or four printed pages.9 All the signatures10 in A are bifolia, except the first,
+unnumbered, and third, C, which have 8 pages.11
+The abbreviation by Harrison’s printer in the reset pages often consists of shortening, or
+omitting, the conjugation information for verbs, such as, on p. 24, for ‘basht, v. baptize,
+christen’, where the abbreviated references to conjugation patterns ‘-ee, 80; -in, 83; -ins,
+84; -ym, 86; -yms, 87; -ys, 88’ are omitted. But several more interesting elements were excised
+also, such as, on the same page 24, the entry ‘beealeragh, v. babbling, talking too much’, the
+entries ‘bee’m, v. I will be; -s, id. em.’, ‘beggey, a. pl. little, small’, and, under the heading
+‘beill s. pl. mouths, the plural of beeal’, the Bible citation ‘Mat. xxi. 16’. A significant number
+of entries were omitted altogether, as were also a significant number of citations. One proverb
+was omitted, and was thus not picked up by subsequent collectors of Manx proverbs, s.v.
+chredj* or chredjys: “T’eh feer dunnal chredjys çhaghter balloo.” [It’s a very brave man who
+trusts a dumb messenger.] I give in Appendix 1 all the information, apart from the verb
+paradigm abbreviations, that is in the A text but was absent from Kneen (1910) and other
+subsequent editions. There are 74 entries that can be added or expanded by going back to the
+A version. My revised edition of Fockleyr Chregeen Aa-orderit, to be made available shortly,
+will, thus, restore all those elements of the superior print of the first edition that are not to be
+found in the 20th-century reprints, or in my 2015 text.
+Perhaps surprisingly, a considerable number of copies of Cregeen’s dictionary from libraries
+around the world have been scanned and are available to view online, for example, on Google
+Books or on archive.org. In connection with correcting and revising Wheeler (2015) I have
+8 Nonpareil equals 6 point and Minion equals 7 point.
+9 Each bifolium 251mm x 185mm.
+10 A signature, in book printing, is ‘a sheet of paper folded, or to be folded, into leaves forming a book, as
+distinguished by the letter, number, or symbol (or combination of these) placed by the printer at the foot of the
+recto of its first leaf’ (OED).
+11 There are two consecutive signatures ‘D’, which is why the author of the letter to Savage refers to ‘D(1)’ —in
+this paper D´, and two consecutive signatures ‘P’. In B3, the replacement signatures for D´, H, L and 2S have no
+distinguishing letters; the remaining two are indicated with W and 2S, as expected.
+3
+checked to see whether these copies are of the A or the B version. In fact, examination of them
+shows that there exists not just one B version, but at least three different B variants, and
+probably four. Not just five bifolia, as mentioned in the letter to Savage, but six were subject
+to replacement, not all in every copy, and not all with the same replacement. In all B version
+copies I have seen, signatures D´ (pp. 21-24), H (pp. 41-44), and 2C (pp. 121-124) display the
+same replacement pages. And the same replacements are evident in the text of Kneen (1910).
+In the case of the other three bifolia, the B copies differ. The variant I call B1 has new pages
+in signature L (pp. 53-56) and W (pp. 97-100), but the original pages (=A) in signature 2S (pp.
+181-184).12 It is clearly such a B1 variant that is mentioned in the letter to the Rev. E. U.
+Savage.13
+Another B variety (labelled here B2: see below for library sources) has the same new L pages
+as B1, but new pages in signature 2S (pp. 181-184). In signature W (pages 97-100), B2 has
+new pages that are notably different from the new pages in B1 (and from the originals in A).
+As well as inflectional information, and certain entries which are omitted or abbreviated in both
+B1 and B2 versions, a different selection has been made in each of the versions about which
+other entries to omit. Namely, B1 omits jeigh, s.m., jeighit, jerkal, v., jesheenagh, a., jiooldey,
+v., jummalid, jummaltagh, junt, s. m. and v., nyn jymmiltey, kaartey, v. carding, kainle,
+kartit, kayeeagh, keckit, keead¸ keeadoo, keeirey, keillit, kercheenagh, and kerreyder; B2
+omits jeidagh, jeidid or jeidys, jollysid, jooighid, karroo, keekeyder, kennip, and kestit.
+A third B variant (B3) has all the new pages of B1, plus the new 2S pages (181-184) of B2. It
+is a B3 variant that is reproduced photographically in Thomson (1969).
+The 1910 reprint (Kneen 1910), while clearly not reproducing the original A text, differs in
+content from all the B versions so far mentioned. It shares with B1-3 the material of the
+replacement pages of signatures D´, H, and 2C. For L, the full A text is reproduced (except that
+‘debejagh, s. 7. desperate. A low word.’ is omitted, doubtless by oversight). For W (pp. 97-
+100), the contents in Kneen (1910) differ from what is found in either B1 or B2 copies, though
+they are more similar to the latter. Finally, for signature 2S, Kneen (1910) again has different
+content than either A or B2. It is conceivable that the text of Kneen (1910) was derived from
+more than one source, though, if so, it is hard to imagine that the differences between the
+sources would not have been noticed and remarked upon. Or, if a proof reader were correcting
+from an A text, why do so thoroughly and (almost) consistently only in the L pages, only
+partially in the W and 2S pages, and not at all in signatures D´, H, or 2C? I infer, rather, that
+there was yet another B variant, B4, that Kneen had access to, with original A pages in signature
+L, and different replacement pages from other versions corresponding to signatures W and 2S.
+The differences in content between Kneen (1910), = B4, and B2 are set out in Appendix 2.
+12 It was a B1 variant —the copy in the Bodleian Library in Oxford— that I used to prepare my 2015 edition, not
+then being aware that there was more than one variant of the ‘first edition’.
+13 The Manx Museum Library copy in which the letter is now to be found is one from the library of George
+William Wood, presented to the Manx Museum 5 July 1923. But this volume cannot be the one the letter’s author
+examined. The text of the letter refers only to five replacement bifolia, indicating a B1 version, in which signature
+2S (pp. 181-184) is identical to the ‘true’ first edition A version. The copy from G. W. Wood’s library is the B2
+version, with 6 replacement bifolia, including signature 2S.
+4
+The differences between the variants of the ‘first edition’ are summarized in the following
+table.
+Table of differences between variants of the ‘first edition’
+Signature/pages	A original, complete	B1	B2	B3	B4 Source of 1910 reprint	No. of variant signatures
+D´	21-24		new	= B1	= B1	= B1	2
+H	41-44		new	= B1	= B1	= B1	2
+L	53-56		new	= B1	= B1	= A	2
+W	97-100		new	new, not = B1	= B1	new, more like B2 than B1	4
+2C	121-124		new	= B1	= B1	= B1	2
+2S	181-184		= A	new	= B2	new, not = B2	3
+Library copies of the several variants of Cregeen’s Dictionary:
+A	Manx Museum Library (H.140/N8), National Library of the Netherlands (4010 E
+45)14; Wellcome Library, British Library (1332.f.12).
+B1 Bodleian Library, Oxford (3192 e.2), Boston College Libraries.
+B2 Manx Museum Library (H.140/N7), National Library of Scotland (Cam.2.e.14) and
+(Blair.238), Bayerische Staatsbibliothek (1011800 L.rel.415)
+B3 Manx Museum Library (H.140/N6), University of California, Thomson (1969)
+reprint.
+Further historical information relating to the publication of Cregeen’s dictionary.
+On Tuesday 21 May, 1833, the following advertisement appeared in the Manks
+Advertiser. A very similar advertisement appeared the same day in the Manx Sun, with a little
+more detail of those receiving subscribers’ names, here added in [ ]:
+READY FOR THE PRESS,
+And to be Published as soon as a sufficient Number of Subscribers can be
+obtained,
+A DICTIONARY of the MANKS LANGUAGE, giving the corresponding Words
+or Meanings in English. The Work, it is hoped, will give general Satisfaction to all
+Classes, and to a Manksman that can read and knows but little English, will be a
+help to learn that language more extensively. The Author has, with great Assiduity
+and Labour for many Years past, from the best Researches and his own Knowledge
+of that ancient Language, gathered all the Manks Words he could find, given the
+Derivations of some of them, with such Proverbs and old Phrases as are peculiar to
+the language, which may render the Whole a truly interesting Work.
+14 This copy has an inscription showing it belonged to John Teare, of Glentramman, MHK, one of the subscribers
+to the first edition.
+5
+It is to be expected that every patriotic Manksman will be a Subscriber for
+a Volume which is not to exceed the Price of 5s. British, or 5s. 6d. in boards, to
+Subscribers.
+Subscribers' Names will he received by G[eorge] Jefferson, Duke Street,
+J. Quiggin, North Quay, and John Kinrade, [hatter,] Douglas ; Thomas Clucas,
+Rushen ; John Harrison, Arbory; John Kneale, Watchmaker, Castletown ; John
+Mylchreest [and Robert Quayle], Malew ; John Braid, Santon ; William Kelly,
+Marown ; [William Joughin, Braddan] ; Rev. Joseph Qualtrough, Lonan ; Thomas
+Fargher, Maughold ; John Looney and John Quilliam, Ramsey ; James T. Cregeen,
+Ballaugh ; R[ichard] Cowley, Coroner, German ; Henry Cubbon, Bretnee, and
+Andrew Joughyn, Jurby ; John Cain, Ballaskyr, Michael ; John Keown and John
+King, Peel ; and John Cottier, Patrick.
+May 21, 1833.
+In the Mona’s Herald of 27 December that year there appeared a political article in Manx, in
+which the characters Juan and Illiam discuss the meaning of popular ‘representation’ in the
+legislature; Juan laments the poor state of the dictionary he has available to him. At this point
+there is a footnote in English: ‘Juan may shortly avail himself of purchasing a new Dictionary,
+as we understand Mr. Cregeen is making arrangements for the publication of his forthcoming
+volume, —in which undertaking we heartily wish him success.’
+On Friday January 30th, 1835, an announcement in Mona’s Herald reads: ‘In the press and
+speedily will be published, A Dictionary of the Manks Language...’ with the description, and
+invitation to patriotic Manxmen, repeated from the earlier call for subscribers. Archibald
+Cregeen’s own Introduction, printed in the Dictionary, is dated ‘Kirk Arbory, 5th June, 1834.’
+The title page of the book bears the date 1835, but the first notice of actual publication appears
+in Mona’s Herald of Tuesday, May 9th, 1837: ‘THIS DAY IS PUBLISED (sic)—Price 6s. A
+Dictionary of the Manks Language ... by Archibald Cregeen’, with a similar announcement in
+the Manx Liberal on the following Saturday. This advertisement was repeated in the
+newspapers several times over the following months, so evidently ‘This day is published’ was
+not always to be taken literally, but the May 9th appearance is the first I have seen.
+The Dictionary as first published includes at the end an alphabetical list of the subscribers,15
+several of whom, including the booksellers, subscribed for more than one copy. Many of the
+great and good subscribed: the Lt. Governor John Ready, Bishop [William] Ward, the
+Deemsters John Christian and J. J Hayward, the Attorney General James Clarke, the Clerk of
+the Rolls John McHutchin, the High Bailiff of Castletown, John Kelly, the High Bailiff of
+Ramsey, F[rederick] Tellet, 9 MHKs and 23 ministers of religion, plus 19 advocates, 3
+surgeons, etc. In all, 317 individuals subscribed, for 418 copies. At 5s a copy (assuming that
+the extra cost of 6d, if incurred, covered the cost of binding), therefore, £104 10s. was raised,16
+which one might have supposed was enough to cover Quiggin’s costs as printer and publisher,
+and leave something by way of royalties for the author.
+15 The list of subscribers is reproduced here as Appendix 3.
+16 About £8,900 at 2005 prices, according to Webb, Dominic (13 February 2006). Inflation: the value of the pound
+1750–2005 (PDF) (Report). House of Commons Library. By the same calculation, the price of a bound copy to a
+subscriber, 5s. 6d., is equivalent to £23.45 at 2005 prices.
+6
+Nevertheless, later that year, a rather sad paragraph appeared in the ‘Local and Provincial’
+column of the Manx Liberal (26th August, 1837):
+‘We regret to learn, that the sale of Mr. Cregeen's estimable Manx Dictionary is
+not likely to remunerate him for the intense labour and research required to produce
+a volume of so much intrinsic merit. It was anticipated that a performance of such
+elaborate inquiry, calculated to preserve from oblivion a very ancient, and once
+almost universal language, would have met with extensive encouragement; for
+abstruse and valuable compositions of this nature rarely disappoint the expectations
+of their authors. It is hoped, therefore, that the admirers of Manx literature will yet
+evince their taste and patriotism by patronising the work in question, which reflects
+great credit on the ingenious compiler, while it is no less honourable to the erudition
+of the Island. We understand that the Venerable the Archdeacon has liberally
+subscribed for four copies, —a laudable example which we trust will be generally
+followed.’
+The author’s belief that ‘valuable compositions of this nature rarely disappoint the expectations
+of their authors’ was perhaps rather too sanguine, or maybe Cregeen himself had hoped to make
+his fortune, rather than merely to earn a modest return for his efforts, together with the respect
+and gratitude of fellow Manxmen, present and future.
+An anonymous review of Cregeen’s Dictionary was published in the Manx Liberal of 24th
+November, 1838, reprinted from the Lancashire Herald. It begins,
+‘This little volume, published in Douglas, in 1837, fell into our hands by
+accident. It is a useful contribution to etymological literature, so far as all dialects
+of Celtic are concerned.’
+Much of the review consists of quotations from the introduction and the body of the dictionary.
+But the author does take issue with Cregeen on several matters:
+‘...nor can we join in Mr Cregeen’s lamentations over the extinction of Manks,
+because a dialect of a people so situated, must in course, we might almost say of
+nature, be extinguished; but every person who cares about the history of language,
+which is only another word for the history of thought, must always feel interested
+in such books as this of Mr. Cregeen.
+We think he very often mistakes English or Scottish, or what is the parent
+of both, Saxon, and sometimes classical or ecclesiastical words for Celtic, aalican
+for halcyon, adultrinagh, adulterous, Agglish, the church, ansoor, answer, aspick,
+bishop, angaaish, anguish, &c. We have only looked over the frst pages for
+examples. In the very first page we find one droll enough, “aart-ny-paart, lot nor
+part” set down as Manks. It is the ordinary Scotch law phrase art-and part.17
+..
+Why does not Mr. Cregeen translate his Manks proverbs and other
+quotations? Who is bound to understand the following: —
+[The reviewer quotes the rhyme “Ollick ghennal as blein feer vie” that Cregeen
+gives s.v. Quaaltagh.]
+17 The author objects, then, not to certain of Cregeen’s etymologies, as well he might have done, but to the fact
+that he includes among his dictionary entries any borrowings at all into Manx from other languages.
+7
+Will some of our Manks readers favour us with a version of these
+rhymes?’
+A letter, by ‘A friend to the Manx people’, to the editor of the Manx Liberal 15th February,
+1840, —no. 5 in a series ‘Inattention to the spiritual wants of the Manx poor’— argues for the
+parish clergy to have themselves adequate knowledge of the Manx language, rather than to
+delegate Manx speaking to curates, even supposing competent curates could be found and
+afforded, which the writer doubts.
+‘Why should not this language be studied by every clergyman in the
+diocese who is at present ignorant of it? Why should not clergymen of this
+description instead of yielding their assent to the palpably erroneous assertion of a
+party who have, during many years, for reasons best known to themselves, and I
+really fear none of the purest, been representing the Manx language as on the point
+of becoming extinct, determine to make themselves masters of the native tongue?
+Let none of them be so deceived as for a moment to imagine that this would prove
+an impracticable, or even a difficult undertaking. There is not one individual
+amongst them who might not by spending a single hour every day in studying the
+Manx tongue, become in the course of a year able both to preach and to pray in
+Manx, and that just as well as many of the Clergy who are now regularly
+discharging these duties; nay, perhaps, even much better than some of them. This
+language is anything but copious. The excellent dictionary recently published by
+Archibald Cregeen is a very diminutive volume, and yet it not only contains all the
+Manx words now in use, but several which have become totally obsolete.
+Many of the Clergy who now constantly officiate in Manx, were at the
+time of their ordination, just as ignorant of this language as any stranger whatever
+can possibly be. A Clergyman who is accounted, and I believe justly, one of the
+best Manx scholars in the country, has assured me that the time during which he
+was employed in acquiring such an acquaintance with the native tongue as enabled
+him to read the Manx service and to deliver a Manx discourse, amounted only to
+six weeks. [... He recommends Kelly’s grammar ] Cregeen’s dictionary also
+which may be had from any of our booksellers would be found a very important
+auxiliary.’
+An article in the Manx Liberal of 23rd June 1849 reviews at length charitable work on the
+Island in the previous 18 years. Somewhat incongruously, the article concludes with the
+following paragraph:
+‘We shall close this article with Cregeen’s Manx Dictionary, and suggest a reprint
+with this difference, that the English type precede the Manx; as at present arranged
+the stranger is puzzled to find the word sought. There are besides many terms in
+common parlance, and expressive of existing objects omitted—as Tynwald—
+Taxiaxi—Key, singular of yn Chiare-as-Feed, the twenty-four Keys,—Deemster;18
+and so on. If these be of foreign root they are Manx by adoption, and part of a still
+living language; they therefore cannot be excluded with reason from the
+vocabulary.’
+I have not been able to identify the circumstances in which William Harrison came to acquire
+the unsold printed sheets of the Dictionary. Archibald Cregeen had died on 9th April, 1841.
+John Quiggin, the printer, died suddenly on 5th August, 1843, but his widow Mary Anna
+18 Cregeen’s dictionary in fact includes ‘briw, s. m. a judge, a deemster’.
+8
+Quiggin continued the business at 52 North Quay, for almost twenty years. Her death on 14th
+April, 1863, was reported in the Isle of Man Weekly Advertising Circular, of that day, p. 5; but
+the business was acquired from the executor in May of that year, and continued under the name
+of Quiggin & Glover, on the same premises. By that time, however, Harrison had already
+reported (1861) his acquisition of the remaining printed sheets of the Dictionary pages. By
+1849, second-hand copies of the dictionary were being advertised for sale at 2s. or 2s. 6d. Fifty
+years later, though, a writer complained that ‘Cregeen’s Dictionary cannot be procured under
+a guinea per copy’ (Isle of Man Examiner, 15th April 1899, p.4). By then, moves were afoot
+which would result in the 1910 reprint.
+9
+References.
+Cregeen, Archibald, 1835. A Dictionary of the Manks language, with the corresponding
+words or explanations in English: interspersed with many Gaelic proverbs; the parts
+of speech, the genders, and the accents of the Manks words are carefully marked;
+with some etymological observations never before published. Douglas: printed and
+published for the author by J. Quiggin, North-Quay; Whittaker, Treacher, and Arnot,
+London; Evans, Chegwin, and Hall, Liverpool. [191 pp. ‘A’ version, with list of
+subscribers, pp. 189-191.]
+Cubbon, William, 1933, 1939. A Bibliographical Account of works relating to the Isle of
+Man, with biographical memoranda and copious literary references. 2 vols. Oxford:
+Oxford University Press/Douglas: Manx Museum and Ancient Monuments Trustees.
+Harrison, William, c. 1850. A Dictionary of the Manks language ... by Archibald Cregeen
+[etc. as Cregeen, 1835. ‘B’ variants]. Douglas: Harrison?
+Harrison, William, 1861. Bibliotheca Monensis: A bibliographical account of works relating
+to the Isle of Man. Manx Society Publications, vol. VIII. Douglas, Isle of Man: Printed
+for the Manx Society.
+Harrison, William, 1876. Bibliotheca Monensis: A bibliographical account of works relating
+to the Isle of Man. New edition revised, corrected, and enlarged. Manx Society
+Publications, vol. XXIV. Douglas, Isle of Man: Printed for the Manx Society.
+Kneen, J. J. (pref. and ed.), 1910. Cregeen’s Manx Dictionary. Reprinted for the Manx
+Language Society. Douglas: reprinted and published by Brown & Sons Ltd, “The Isle
+of Man Times” office, Athol-street. [xxx + 247 pp.].
+Thomson, R. L. (pref.), 1969. Fockleyr ny Gaelgey chaglit liorish Archibald Cregeen (1774-
+1841). Nish er ny chur magh yn trass cheayrt ass lieh yn Cheshaght Ghailckagh as er
+ny yalloo-phrental liorish yn Scolar Press, Menston, Sostyn [Now published for the
+third time on behalf of Yn Cheshaght Ghailckagh and photographically printed by the
+Scolar Press, Menston [Yorkshire], England. 188 pp. Reprint of a ‘B3’ variant of
+Harrison (c. 1850)].
+Thomson, R. L. (pref.), 1984. Fockleyr ny Gaelgey chaglit liorish Archibald Cregeen (1774-
+1841). Nish er ny chur magh yn nah cheayrt ’sy chummey shoh ass lieh yn Cheshaght
+Ghailckagh as er ny yalloo-phrental liorish yn Moxon Press, Ilkley, Sostyn [Now
+published for the second time in this form on behalf of Yn Cheshaght Ghailckagh and
+photographically printed by the Moxon Press, Ilkley, [Yorkshire,] England. xxx +
+247pp. Reprint of Kneen (1910)].
+Wheeler, Max W. 2015. Fockleyr Chregeen Aa-orderit. Online at
+https://www.academia.edu/12154331/Fockleyr_Chregeen_aa-
+orderit_liorish_Max_W._Wheeler, and at https://gaelg-
+hasht.000webhostapp.com/fstoo/Creg%20Wheeler.pdf
+10
+Appendix 1. Table of elements missing from 20th-century re-editions of Cregeen’s
+dictionary, omitting details of inflection and some cross-references of minor interest.
+Sig.	pp.	Old entry	New entry	Restored information from 1835 A version text (Bible citations corrected in [ ].)
+D´	21-24	ashleyder		2 Chron. xx[x]ii[i]. 19.
+		aunlyn		Does it originate in our language from ooylyn? as arran as ooylyn (bread and apples).
+		awaneagh		a [rude ... uncivilized,] uneducated person.
+		bare, a.		(from by share)
+		barrant or barrantys		[assurance ... confidence], fidelity.
+			✓	beealeragh, v. babbling, talking too much
+			✓	bee’m, v. I will be; -s, id. em.
+			✓	beggey, a. pl. little, small.
+			✓	dy beign’s, v. if I were, em.
+		beill s. pl.		Mat. xxi. 16
+H	41-44	feer chraidoilagh		[craidoilagh] s. m. the mocker, the scoffer; pl. 71
+			✓	chraisht, v. did squeeze. This word ought to be written hraast; but as it occurs in Jud. vi. 38, I have inserted it; the radical is traast. T
+		e chraueeaght		[his ... holiness,] his piety, godliness.
+		yn chrea		[the creed,] the heads, or tenets of [faith or belief].
+		yn chredjue		[the faith,] credence, [or belief].
+		chredj* or chredjys		“T’eh feer dunnal chredjys çhaghter balloo.”
+		chrie or chraa		and Acts xiii. 5[1]
+		feer chronnal		[very plain,] obvious, manifest, evident, visible, conspicuous.
+		yn chrou* or chrow		1 Kings vii. 33; chrou*, v. <to> [did] shoe with iron.
+		feer chruin or chring		For the radical of this word see Psl. xcviii. 8. (round).
+		yn chruinney		[the globe, ball, sphere, orb,] &c., the earth as it is one.
+		yn chryss- soillee		Job xxxviii. 9.
+		yn chuinnag		[the flask, horn for snuff,] the snuff box.
+		feer churneeinagh		[very pettish, &c.;] very easily thrown down.
+		dy chur-ny-lieh		[impeach,] to accuse.
+		yn churragh		[the bog, fen, or marsh]y place.
+		y çhuyr		Gen. xxxiv. 31.
+		Chylloo		[...] as, carrick y Chylloo (the Chickens of the Calf Island).
+		çhyndaa		s. m. a turn; pl. -ghyn.
+		çhyrrys		[1] Sam. xvii. 28.
+		claddagh		[...] Clattagh therefore, would be a marshy place where rods, willows or rushes grow; in Ez. xlviii. 15, it is for suburbs; pl. 72 [claddeeyn].
+		claigin		[...] the cranium or brain pan; Psl. lxviii. 21.
+		clea		[...] roof of a house, &c.
+		cleayn or cleaynee		[entice ... seduce,] delude, inveigle.
+		cleayst		Luke iii. 17.
+		cleoyn19		
+19 In the 1910 reprint, by error, the head-word cleoyn is followed by the definition belonging to clep, but this error
+is absent from the B versions.
+11
+Sig.	pp.	Old entry	New entry	Restored information from 1835 A version text (Bible citations corrected in [ ].)
+		clet		[... it is also used for a piece of timber nailed on a larger piece to hinder anything from passing], and perhaps had its name from this, as a clet is a hinderance of the water or tide; pl. -tyn.
+		yn cluight		Acts xvii. 28.
+L	53-56		✓	debejagh, s. 7. desperate. A low word.
+W	97- 101		✓	jeidagh, a. See jeadagh.
+			✓	jeidid or jeidys. See jeadid.
+		jesheenagh		Deu. xxviii. 54.
+		jeshey		[right ... neat], nice.
+		jin or jinn*		... See also jean.
+		jir or jirr*		Mat. xvii. 20.
+			✓	jollyssid. See jollys
+			✓	jooighid. See jooid.
+			✓	karroo. See carroo.
+			✓	ke, pro. what. See cre.
+			✓	keekeyder, s. m. a peeper; pl. -yn.
+			✓	keer. See kere.
+			✓	keiyn, a. kind, delicate, &c.; Prov. xxix. 21.
+		dy keiyn		[L]am. iv. 5.
+		kere or khere		pl. -yn, or -nyn; Psalm xix. 10; v. comb.
+		kereit		or keret...
+			✓	keshit, 85. frothed, foamed.
+			✓	kesmadey, v. stepping pacing
+			✓	kestit, 85. cast, turned off.
+2C	121- 124	neu-imneays		[insolicitude; inanxiety,] unconcernedness.
+			✓	neu-scanshoil, a. disregardful.
+		neu-vyghinagh		[unmerciful, inclement,] illenient.
+			✓	neu-yarroodit, a. unforgotten.
+			✓	y n’hannag, s. the crow. F
+			✓	nonney, adv. else, or. See also er-nonney.
+2S	181- 184	e vullee		[a. d. (sic) his top or head;] Acts i. 18; pl—yn; his eminences.
+			✓	e waagh, s. his hare.
+			✓	wandrailyssyn, s. pl. wanderings.
+			✓	creoi wannallys, s. stiffneckedness, stubbornness. M
+			✓	warpit, pt. wrapped, bound.
+			✓	e wooad, s. his size, bigness. M
+			✓	feer wooar, a. very big, great or large. M
+			✓	yn wyllin, s. the mill or miln. M
+			✓	yeealleyder, s. m. a beater.
+			✓	ro yeeigit, a. too drained or ditched. J
+12
+Appendix 2.
+L	p. 53-56
+W	p. 97
+p. 98
+p. 100
+2S p. 181
+p. 182
+p. 183
+p. 184
+Differences between B4 (text of Kneen 1910) and B2 (pp. 53-56, 97-100, 181-
+184, of the first edition(s)).
+1910 reproduces version A text, except for the omission of ‘debejagh, s. 7. desperate. A low
+word.’.
+1910 includes ‘jesheeney v. ornamenting, embellishing.’ which is not in B1 or B2
+s.v. jesheenys includes ‘pl. -yn’
+1910 includes, s. v. jiulean, ‘pl. 71; Lev. xxv. 40 and Cant. viii. 11.’
+includes s.v. joarree ‘Neh. xii.26.’
+includes ‘juist, s. m. a wooden dish; pl. -yn.’
+1910 includes ‘kennip, s. f. hemp; pl. -yn.
+s.v. kereit includes ‘or keret’
+1910 includes ‘e vroonyn, s. his brinks or brows. B’
+includes ‘ro vuinnit, a. too reaped, shorn, pulled, &c. B’
+1910 s.v. dy vyngyraght, v. to pilfer or steal ‘petty things.’
+includes ‘yn weeder, s. the curser.’
+includes ‘ro weeit, a. too cursed.’
+has ‘whaal or whayll,’ rather than ‘whaal or whaale’ (B2)
+includes ‘whaaleyder, s. m. one who sews.’
+includes ‘whaalt, pt. sewed.’
+includes ‘yn wheig, s. the five; pl. -yn.’
+includes ‘yn whon, s. the stump.
+1910 includes ‘e woaiys, s. his detestableness.’
+includes ‘ro woailt, a. 42. [too] threshed or stri[c]ken.’
+includes ‘yn woirrynid, s. 42. the feminality.’
+includes ‘wooashlit, 85. worshipped.’
+includes ‘ro yaaghagh, a. too smoky. J’
+includes ‘ro yaaghit, a. too smoked. J’
+1910 includes ‘ro yeeaghit, a. too looked on or shown.’
+includes ‘ro yeean, a. too earnest, zealous or fervent. J’
+includes ‘yeeasteyr, s. m. a fisherman; pl. -yn.’
+13
+Appendix 3
+SUBSCRIBERS
+TO THE
+MANX AND ENGLISH DICTIONARY
+Anderson, Mr. Robert	Malew	Christian, J. Esq.	London
+Andrew, Mr.	Douglas	Christian, W. W., Esq.	Douglas
+Armstrong, Mr. James.	Castletown	Clague, Mr. James	Malew
+Atkinson, J. Esq	Chesterfield	Clague, Mr. Henry Clague, Mr. James	Arbory Rushen
+Bailey, Mr. Wm		Clague, Mr. William	Castletown
+Banks, John Esq.	Onchan	Clague, Mr. John	Arbory
+Bateman, Mr. Joseph	Castletown	Clague, Mr. William	Arbory
+Beedon, Mr. William	Castletown	Clarke, James, Esq., Attor.-General	
+Bell, Mr. Thomas.	Malew		Lancaster
+Bell, Mr. William	Douglas	Clarke, Mr. Ewan	Ramsey
+Bell, Mr. William	Rushen	Clarke, Rev. J. T.	St. Marks
+Bilton, Wm. H. Esq.	Cumberland	Clarke, Mr. Philip	Peel
+Bluett, John Courtney, Esq, (advocate)		Cleator, Mr. Thomas	Douglas
+	Douglas	Cleator, Mr. C.	Douglas
+Boscow, Mr. Nicholas	Douglas	Clucas, Mr. John, (2 copies)	Ballakilley
+Boyde, Mr. Thomas	Braddan	Clucas, Mr. Thomas, (4 copies)	Rushen
+Braid, Mr. John	Santon	Clucas, F. B., Esq., (advocate)	Ramsey
+Brew, Mr. William		Clucas, Mr. Thomas	Malew
+Brew, Mr. Thomas	Douglas	Clucas, D. Esq., (2 copies)	Douglas
+Brideson, Mr. James Henry	Liverpool	Coke, E. Evans, Esq. (2 copies)	Douglas
+Bridson, Mr. Thomas	Douglas	Coke, D. Ewes, Esq.	Crescent
+Bridson, Mr. John, (2 copies)	Ballavarvane	Colquitt, Mr. Stanley.	Castletown
+Bridson. Mr. William		Collister, Mr. John	Malew
+Bridson, Mr. Arthur		Comish, Mr. William	Arbory
+Bridson, Mr. Wm. (smith)	Ballasalla	Connell, Mrs. Margaret.	Mountgawne
+Bridson, Mr. Matthew	Arbory	Corkill, Mr. William	Douglas
+Bridson, Mr. Robert	Malew	Corlett, Thomas Arthur, Esq. (advocate)	
+Bridson, Paul, Esq	Douglas		Ramsey
+Brown, Rev. Robert	Braddan	Corlett, William, Esq.	Ballamoaney
+Burns, Lieutenant	Peel	Corran, Mr. W Corrin, Rev. W. (4 copies)	Ballameanagh Rushen
+Cain, Mr. John	Douglas	Corrin, Mr. Henry	Arbory
+Cain, Mr. Matthias	Marown	Costain, Mr. Edward	Colby
+Cain, Mr. John, (baker)	Castletown	Costain, Mr. John	Ballachroink
+Cain, Mr. William	Liverpool	Cottier, Mr. John.	Patrick
+Cain, Mt. John (joiner)	Castletown	Cowley, Mr. Thomas	Ballaleece
+Caley, Mr. P	Sulby	Cowley, Mr. Robert	Ballasalla
+Caley, Rev. Robt. L., B.A	Douglas	Cowley, Mr. William	Ballasalla
+Caley, Mr. J. L.	Douglas	Cowley, Mr. Richard.	German
+Callister, William, Esq, (2 copies)		Craigie, L. Esq.	Douglas
+	Ramsey	Craine, Rev. Edward	Onchan
+Campbell, Mr. John	Malew	Cregeen, Mr. Jonathan, (surgeon) Castletown	
+Cannell, Mr. John	Michael	Cregeen, Mr. James T.	Ballaugh
+Cannell. Rev. John	Douglas	Cregeen, Mr. Thomas.	Santon
+Cannell, Mr. Richard	Colby	Cregeen, Mr. William	Rushen
+Cannell, Mr. Thomas	Castletown	Crellin, Mr. John	Peel
+Canson. Mr. John	Marown	Crellin, John, C. Esq. (2 copies)	Castletown
+Carran, Thomas, Esq. (2 copies)	Peel	Cretney, Mr. James	Douglas
+Carrington, H. N., Esq. (advocate)		Crow, Mr. William	Peel
+	Douglas	Cubbon, Mr. John.	Ballanorris
+Chesterman, Mr. John	Castletown	Cubbon, Mr. Henry	Jurby
+Christian, John, Deemster, (2 copies)		Cubbon, Mr. Robert	Rushen
+	Milltown	Cubbon, Mr. Robert.	Douglas
+14
+Cubbon, Mr. William	Aberdeen	Gick, Mr. Edward	Castletown
+Curphey, Mr. Matthias	Braddan	Goldsmith, Mr: John	Douglas
+Curphey, Mr. Peter	Douglas	Grandin, Mr. J. S.	Douglas
+		Grant, Mr. Robert	German
+Damor, Thomas, Esq	Douglas	Grellier, James, Esq	Douglas
+Davidson, Mr	Glen-maie	Griffith, Mrs. Capt	St. Marks
+Davis, Mr. Henry	Douglas		
+Dawson, Matthew, Esq.	Bell Abbey,	Haining, Thomas Esq., (advocate)	
+	Arbory		Douglas
+Dawson, Mr. Joseph	Friary	Hales, Mr. James	Douglas
+Dinwoody, Mr. William, jun.	Castletown	Harrison, Rev. John E. (4 copies) Jurby	
+Dixon, Rev. Robert	King William's	Harrison, Richard Esq. (2 copies) Castletown	
+	College	Harrison, John Esq., (surgeon),	Douglas
+Dixon, Mr. William	Douglas	Harrison, Mr. John ;	Arbory
+Dodd, Mr. Joseph	Peel	Harrison, Mr. John	Arbory
+Drinkwater, Sir George	Kirby	Harrison. R. Esq.	Woodbourne
+Drinkwater, John, Esq.	Liverpool	Haslem, W. Esq.	Douglas
+Drury, Rev. William	Andreas	Heywood, J. J., Deemster, (2 copies)	
+Duff, Mr. Robert	Douglas		Douglas
+Duggan, Rev. William	Marown	Hibbert, Doctor	Edinburgh
+Duke, Mr. Richard	Arbory	Hill, Mr. Robert	Manchester'
+Duke, Mr. Henry	Rushen	Hinds, William Esq., H.K.	Crowville
+Duke, Mr. William	Arbory	Holmes, James Esq	Douglas
+Dumbell, George W. Esq. (advocate)		Howard, Rev. Thomas (Rector)	Ballaugh
+	Douglas	Hulme, Rev. Francis	Douglas
+Ecklin; John, Esq..	Ecklinville,	Jackson, Mrs	Wrexham
+	Ireland	Jeffcott, John M. Esq., (advocate) Castletown	
+Edwards, Thomas, Esq.	City Road,	Jefferson, Mr. Thomas	Malew
+	London	Jones, Joseph Rock, Esq	Castletown
+		Joughin, Mr. Andrew	Jurby
+Fargher, Thomas, Esq. (12 copies)		Joughin, Mr. William	Braddan
+	Ramsey	Joughin, Mr. James	Braddan
+Fargher, Mr. William.	Arbory		
+Farrell, Mr. James	Castletown	Karran, Mr. John	Castletown
+Farrant, William, Esq., H.K. (2 copies)	Jurby		Kaye, Mr. Robert	
+Fayle, Mr. T.	Ballalheanney	Kaye, Mr. James	Strang
+Fitzsimons, Mr. John, (2 copies	Castletown	Kayll, Arthur, Esq. (advocate)	Peel
+Forbes, Edward, Esq. (2 copies)	Douglas	Keggeen, Mr. Thomas	Rushen
+Forrester, Mr. W.	Douglas	Kellet, Henry Esq	Halifax
+Freeman, Rev. G. J.	Bride	Kelly, John Esq. (H.B.)	Castletown
+Frizelle, Edward, Esq., (advocate)	Peel		Kelly, Robert, Esq. (advocate)	Douglas
+		Kelly, Mr. John	German
+Garrett, I. jun.		Kelly, William, Esq	Douglas
+Garrett, Philip, Esq., H.K. (surgeon)		Kelly, Mr. John	Arbory
+	Douglas	Kennaugh, Mr. Charles	Douglas
+Gawne, Thomas, Esq., (advocate) Balachurry		Keown, Mr. John	Peel
+Gawne, Edward, Esq. H.K. (2 copies)		Keown, Mr. Edward	Castletown
+	Kentraugh	Kermode, Mr. John	Ballasalla
+Gawne. Edward M. Esq., H.K	Arbory	Kermode, Mr. William	
+Gell, Mr. William.	Patrick	Kermode, Mr. John	Castletown
+Gelling, Rev. James	Peel	Kermode, Mr. John	Rushen
+Gelling, F. L. Esq. (advocate), (2 cop.)		Kewin, Mr. William	Liverpool
+	Castletown	Kewley, Mr. James	London
+Gelling, J. D. Esq. (advocate)	Peel	Kewley, Mr. Thomas	Castletown
+Gelling, Mr. Thomas	Arbory	Kewley, Mr. Thomas (2 copies)	Douglas
+Gelling, Mr. Thomas	Douglas	Kewley, Mr. James	Castletown
+Gelling, Mr. James	Douglas	Kewley, Mr. Edward	Castletown
+Gelling, Mrs. Sage	Ballacosnahan	Kewley, Mr. Thomas	Liverpool
+Gick, Mr. John	Peel	Kewley, Mr. Robert	Arbory
+15
+Kewley, William Esq.	Douglas	Nelson, Rev, John (2 copies)	Bride
+Kewley, William Esq. (advocate) Douglas	Nelson, Rev. Daniel
+Kewley, Mr. William Killey, Mr. Edward Killey, Mr. Philip Killey, Mr. John	Castletown	Newton, Mr.	Cheshire Castletown	Norris, Mr. John	Castletown Douglas Lonan	Ormsby, Mr. Wm University College Oxford
+Kinley, William, Esq. (advocate) Peel	Oswald, H. R. Esq. (M. D.)	Douglas
+Kinley, Mr. Clave Kinley, Mr. John Kinrade. Mr. John Kinrade, Mr. John Kinrade, Mr. John Kinvig, Mr. Thomas Kneale, Mr. John	Santon Rushen	Parsons, Rev. G. S.	Castletown Douglas	Pearson, Mr.	Castletown Ballaugh	Petit, Louis Hayes Esq.	Lincoln Inn, Marown	London Castletown	Philpot, Rev. B., Archdeacon	Andreas Liverpool	Power, Thomas Esq.	Ballaclague
+Kneale, John Esq., H.K. (4 copies)	Preston, Mr. Thomas	Arbory
+Kneale, Mr. John Kneale, Mr. Hugh Kneen, Mr. Richard	Regaby Castletown	Qualtrough,	Rev. Edward	Peel Rushen	Qualtrough,	Mr. Edward	Rushen Rushen	Qualtrough,	Mr. Richard	Rushen Qualtrough, Mr. James	Rushen
+Lace, Miss Catherine E. (4 copies)	Qualtrough, Mr. William	Malew
+	Castletown	Quayle, Robert Esq. (2 copies)	Castletown
+Lamothe, F. S. Esq. (advocate), (2 copies)	Quayle, Mark H. Esq., (advocate) Douglas
+Lancaster, Mr. Thomas Lane, Mr. L. Leathart, William Davis Esq Lewin, Mr. Edward Lewis, David Esq.	Ramsey	Quayle, John Esq., H.K. (2 copies) Carlisle	Castletown Douglas	Quayle, Mr. Philip	Douglas London	Quayle;	Mr.	John.	Santon Marown	Quayle,	Mr.	Robert	Rushen Bunhill Row,	Quayle,	Mr.	John	Malew
+Lewthwaite, Mr. James	London	Quayle, Mr. George	Andreas Braddan	Quiggin, Mr. John (20 copies).	Douglas
+Llewellyn, John Esq., H.K. (2 copies)	Peel	Quiggin, Mr. W. C.	Douglas
+Lloyd, Mr. (chemist)	Liverpool	Quiggin, Mr. R.	Douglas
+Looney, Mr. Samuel M. (2 copies)	Quill, Mr. John	Arbory
+Lucas, John Esq., H.K. Lynah, Doctor	Castletown	Quine, Mr. John	Santon Knock Rushen	Quinney, Mr. William	Douglas Ramsey	Quirk, George Esq., W.B., R.G. (4 copies) Parville
+Mangnall, J. Esq Marsden, James Esq.	Bolton	Quirk, James, Esq., H.B. (2 copies) Malew	Douglas
+McHutchin, John Esq. (Clerk of the Rolls) (6	Quirk, Mr. Richard	Patrick
+copies) McIntosh, Mr. Wm McWilliam, A. Esq. Menzies, William Esq	Castletown	Quirk, Mr. Thomas	Patrick Calf of Man Radcliffe, Mr. John	Liverpool Fluyder-st.	Radcliffe, Mr. James	Arbory Westminster	Ready, John Lieut. Gov. (6 copies)
+Merryweather, Mr. H. Moore, John Esq. (2 copies) Moore, John James Esq Moore, James W. Esq	Ramsey	Castletown Douglas	Rogers, S.	Trinity College, Baljean	Dublin Castletown
+Moore, Philip W. Esq. (2 copies) Ballamoore	Skelley, Mr. Edward	Malew
+Moore, Thomas jun. Esq. Moore, Mr. John, (2 copies) Moore, Mr. John Moore, Mr. Robert Morrison, Mr Mylchreest, Mr. John Mylchreest, Mr. Thomas Mylrea, Mr. Basil	Malew	Stamp, Mr. John. Peel	Stephens, W. Esq., (advocate), (2 copies) Arbory	Douglas Santon	Stephens, J. C., Esq., (advocate)	Ramsey Douglas	Stowell, Rev. Hugh, (4 copies)	Ballaugh Malew	Stowell, Rev. J. S.	King William's Ballagarraghyn	College Peel Taggart, Mr. Paul	Arbory
+16
+Taylor, Mr. Thomas	Castletown	Walls and Fargher, (printers)
+Teare, John, Esq., H.K. (2 copies) Glentrammon		Ward, Lord Bishop, (6 copies)
+Teare, Mr. Daniel	Andreas	Ward, Rev. Francis
+Tellet, F. Esq., H.B. (2 copies)	Ramsey	Warren, Mr. R. (chemist)
+Thomas, Miss Louisa	Ballacosnahan	Watterson, Mr. Henry.
+Thomson, Mr. Samuel	Whitehaven	Wilks, James, Esq. (2 copies)
+Turnbull, Mr. Robert	Derbyhaven	Wilson, Rev. Edward
+Turnbull, Mr. William	Port-Le-Murry	Wood, Richard, Esq
+Underwood, Thos., Esq., M.D.	Castletown	Wood, Mr. James
+Woods, Mrs. (6 copies)
+Douglas
+Bishop’s Court
+Douglas
+Liverpool
+Colby
+Castletown
+King William's
+College
+Rushen
+Castletown
+Balladoole
+17

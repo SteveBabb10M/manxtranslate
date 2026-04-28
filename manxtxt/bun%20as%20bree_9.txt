@@ -1,0 +1,196 @@
+﻿Christopher Lewin
+No. 9 - Decmber 2011
+A series of short articles on Manx Gaelic grammar, idiom,
+vocabulary and pronunciation.
+Relatives
+This month we will look at various issues involving the relative form the verb and
+relative clauses.
+In all tenses apart from the future, the positive form of the relative is the same as the
+independent, but in the future these is a special form with lenition and ending in -ys.
+The negative in all tenses has nagh plus the dependent form of the verb:
+ta	nagh vel
+va	nagh row
+veagh	nagh beagh
+vees	nagh bee
+chaill
+chaillagh
+chaillys
+nagh chaill
+nagh gaillagh
+nagh gaill
+In English, relative clauses are introduced by relative pronouns who, which and that
+(e.g. the cat that sat on the mat). Subordinate clauses (e.g. I know that he is ill) can
+also be introduced by ‘that’. In Manx positive subordinate clauses of this kind are
+introduced by dy plus dependent. This can make for confusion: relatives and
+subordinates must be kept separate in Manx. For example,
+* paart dy reddyn dy noddagh oo jannoo er my hon - some things that you could do
+for me
+is ungrammatical. It should be, and can only be
+paart dy reddyn oddagh oo jannoo er my hon
+with the relative (here same as independent) form of the verb. In the negative, there
+can be no such confusion, for nagh is used in both relatives and subordinates.
+Another sources of confusion from English is the fact that, in some circumstances,
+both relative and subordinate clauses can appear without that.
+I know he’s coming
+the man you didn’t see
+But in Manx the relative or subordinate forms cannot be dropped:
+* Ta fys aym t’eh çheet is wrong (It must be, Ta fys aym dy vel eh çheet)
+* yn dooinney cha vaik oo is also wrong (It must be, yn dooinney nagh vaik oo)
+The generalizing relative
+A further source of confusion from Manx itself is that there is in fact a kind of relative
+clause which uses dy plus dependent verb. The dy in the ‘generalizing relative’ is,
+however, historically different from the dy of subordinate clauses. The generalizing
+relative dy is originally a prepositional element from jeh / dy ‘of’ (Irish dá), whereas
+the subordinate dy (earler Manx gy) is cognate with the Irish conjunction go.
+The generalizing relative is only used after erbee or veg ‘any’, or when the sense of
+‘any’ is understood. It is most familiar from expressions such as keayrt dy row ‘once
+upon a time’, laa dy row ‘one day’, dooinney dy row ‘a certain man’. The idea behind
+it is ‘out of those that…’, so dooinney erbee elley dy vel bio (Daniel 2:30) is ‘any
+other man out of those who are alive’ i.e. ‘any other man who is alive’.
+Examples of the generalizing relative:
+meerioose jeh nyn yoin er currym erbee dy vel fyss eu er - the wilful Neglect of any
+known Duty [any duty that you know] (FRC p. 62-3)
+Vel Jee erbee cheu-mooie jeem’s? dy firrinagh-focklagh, cha vel Jee erbee elley dy
+nhione dooys - Is there a God beside me? yea, there is no God; I know not any [that I
+know] (Isaiah 44:8)
+raad erbee dy vaik oo mie as jesh dhyt hene, gow dty chummal ayns shen - whither
+[wherever] it seemeth good and convenient for thee to go, thither go [dwell there]
+(Jeremiah 40:4)
+cha vel y folliaght shoh er ny hoilshaghey dooys, son veg y chreenaght dy vel aym’s
+erskyn dooinney erbee elley dy vel bio - this secret is not revealed to me for any
+wisdom that I have more than any living [that are alive] (Daniel 2:30)
+ard-valley ny balley erbee dy jed shiu stiagh ayn - into whatsoever city or town ye
+shall enter (Mian 10:11)
+Eisht cheayll mee noo loayrt, as dooyrt noo dy row rish yn noo shen ren loayrt - Then
+I heard one saint speaking, and another saint [a certain saint] said unto that certain
+saint [that saint] which spake (Daniel 8:13)
+va deiney dy row va jeant neughlen liorish bentyn rish corp dooinney marroo - there
+were certain men, who were defiled by [touching] the dead body of a man (Numbers
+9:6)
+Son va shin hene myrgeddin keayrt dy row mee-hushtagh, mee-viallagh, ayns
+marranys… - For we ourselves also were sometimes [once, at one time] foolish,
+disobedient, deceived… (Titus 3:3)
+O Chreenaght insh dooin! cha vel [dhyt] gyn-yss / nhee dy row rieau, dy bee, ny dy
+vel nish - O Wisdom tell us! nothing is unknown to you that ever was, that will be, or
+that is now (Pargys Caillit ll. 25-6)
+The most important thing to note is that relatives of the type dy vel are highly
+restricted in their use, and can never be used instead of ordinary relatives.
+Relative pronouns
+Generally there are no relative pronouns in Manx, the relative form of the verb being
+used instead. Ny is not a general relative pronoun; it means ‘what’ in the sense of ‘that
+which’.
+Ny ta scruit aym, te scruit - What I have written I have written [it is written] (John
+19:22)
+It is, however, used after ooilley when followed by a relative clause:
+ooilley ny ta son goll magh gys caggey ayns Israel - all that are able to go forth to war
+in Israel (Numbers 1:3)
+In imitation of English, the interrogative pronoun quoi ‘who’ is occasionally pressed
+into service as a relative pronoun, but this appears to be due to slavish translation and
+was never natural in the language. It should be avoided.
+One example will suffice:
+Son cha vel geill oc da cairys, ta’n Chiarn dy ghra; quoi ta stoyral seose berchys ayns
+nyn blaaseyn liorish tranlaase as roosteyrys - For they know not to do right, saith the
+Lord, who store up violence and robbery in their palaces (Amos 3:10)
+The complex and unfamiliar sentence structure has thrown the translator. A more
+normal Manx translation would be cha vel geill ocsyn da cairys, ta’n Chiarn dy ghra,
+ta stoyral seose…
+Relative clauses with prepositions
+In classical Manx the preposition agrees with the antecedent in number and gender,
+and can precede the relative verb, or come at the end of the clause, the form of the
+verb being the same in either case.
+yn guilley rish t’ee ayns graih
+yn guilley t’ee ayns graih rish - the boy she is in love with
+yn inneen r’ee t’eh ayns graih
+yn inneen t’eh ayns graih r’ee - the girl he is in love with
+ny guillyn roo t’ee ayns graih
+ny guillyn t’ee ayns graih roo - the boys she is in love with
+Examples:
+ny greeshyn orroo hie eh seose - his ascent [the stairs] by which he went up (2
+Chronicles 9:4)
+thieyn ayndoo nagh vel dooinney erbee cummal - in houses which no man inhabiteth
+[lives in] (Job 15:28)
+adsyn oc ta enney er - they that know him (Job 24:1)
+nyn moir, r’ee ta mee er scarrey? - your mother…whom I have put away [from whom
+I have separated] (Isaiah 50:1)
+moddee yollyssagh nagh vel dy bragh dy liooar oc - greedy dogs which can never
+have enough (Isaiah 56:11)
+ymmodee va drogh-spyrrydyn ayndoo - many that were possessed with devils [many
+in whom there were devils] (Matthew 8:16)
+With interrogatives there is a small number of prepositions (ec, ayns, gys) which can
+appear in their basic, unconjugated forms before the relative verb:
+cre gys nee’m dty hoylaghey - what thing shall I liken to thee (Lamentations 2:13)
+quoi gys hem mayd? - to whom shall we go? (John 6:68)
+Quoi ec ta fys? - Who knows?
+Quoi ec ta seaghyn? quoi ec ta trimshey? quoi ec ta anvea? quoi ec ta beealeraght?
+quoi ec ta lhottyn gyn oyr? quoi ec ta jirgid sooillyn? - Who hath woe? who hath
+sorrow? who hath contentions? who hath babbling? who hath wounds without cause?
+who hath redness of eyes? (Proverbs 23:29)
+cre ayns ta dty niart vooar lhie - wherein thy great strength lieth (Judges 16:15)
+Quoi ayns smoo ghoghe y ree taitnys dy hroggal gys ard-ooashley syrjey na mee
+hene? - To whom would the king delight to do honour more than to myself? (Esther
+6:6)
+The normal relative construction, that is, with conjugated prepositions, may also be
+used:
+quoi echey ta niart erbee…? - who hath any strength…? (Psalm 18:31)
+And this is compulsory if the preposition is at the end: one could say quoi ta niart
+erbee echey? but never *quoi ta niart erbee ec? Manx prepositions, unlike English
+ones (whatever the Latin-influenced teachings of pedants may say1), cannot appear on
+their own without a directly following complement. The pronominal element of
+prepositional pronouns (orroo etc.) fulfils this need, and since the prepositional
+pronouns are by their nature inflected for number and gender, agreement is
+necessitated between the antecedent and the preposition.
+In older Manx, and still in Irish and Scottish Gaelic, the dependent is used in relative
+clauses involving prepositions. Traces of this may be seen in the Traditionary Ballad:
+Quoi yn chied er ec row rieau ee - Who was the first who ever had her (v. 2)
+Mannanan Beg va mac y Leirr, / Shen yn chied er ec row rieau ee - Mannanan Beg
+who was the son of Leirr, that is the first one who ever had her (v. 3)
+Compare Scottish Gaelic:
+thàinig na h-uile gin do’n fheadhainn aig an robh an dà bhall dhubh air an aodann -
+all of those who had the two black patches on their face came (Popular Tales of the
+West Highlands p. 350)
+Parenthetic clauses
+Sentences of the following type are wont to confuse, and even the native writers
+sometimes display confusion:
+the man who I know is coming
+‘The man who is coming’ would be a straightforward relative: yn dooinney ta çheet.
+And ‘I know that the man is coming’ would be a straightforward subordinate Ta fys
+aym dy vel y dooinney çheet. But to say yn dooinney ta fys aym ta çheet seems to
+violate the rule that one cannot say *Ta fys aym ta… On the other hand, *yn dooinney
+ta fys aym dy vel çheet seems to fail because dy vel çheet has no subject. It is, in fact,
+yn dooinney ta fys aym ta çheet which is correct. Ta fys aym is a parenthetic
+(‘bracketed’) clause, inserted between the main clause and the relative clause:
+I know
+ta fys aym
+V
+yn dooinney.........ta çheet
+the man..............who is coming
+Examples:
+Shen va yn dhonney [dooinney] ta mee er glashtyn va reil[l] yn seihll ro[i]sh adam -
+That is the man I have heard ruled the world before Adam (Ned Beg 30)
+1 I mean that although some look down on preposition-stranding in sentences such as ‘What are you
+standing in? and prefer In what are you standing?, the former type are, and have for a very long time
+been, natural in English, whereas *Cre t’ou dty hassoo ayns? really would be ungrammatical. Note that
+the construction deemed more grammatical in English, is absolutely impossible in Manx. One can say
+Cre ayn(s) t’ou dty hassoo? or Cre t’ou dty hassoo ayn? but not *Ayns cre t’ou dty hassoo?.
+’Syn ynnyd shoh, (ta shiu gra vees treigit fegooish dooinney ny baagh - in this place,
+which ye say shall be desolate without man and without beast (Jeremiah 33:10)
+ny biljyn ta fys ayd nagh vel son beaghey - the trees which thou knowest that they be
+not trees for meat [the trees which thou knowest are not…] (Deuteronomy 20:20)
+quoi jeu ta shiu smooinaghtyn ta’n chooid share echey ’sy vea shoh? - which do you
+think has the better of it in this Life? (FRC p. 24)
+t’ad jannoo shen sheign fys vie ve oc hene ta mee-chairagh - they do what they must
+know to be [is] unjust (SW p. 111)
+There is some confusion in the following example:
+Agh quoi ta shiuish gra, dy vel mee? - But whom say ye that I am? (Matthew 16:15)
+Normally with quoi the (zero) copula would be used, e.g. Quoi oo? Quoi uss? so Quoi
+mee? But the copula would be odd in a parenthetic construction, especially since she
+does not seem to be much used in relatives, and the short form of the copula is only
+used with adjectives and fixed expressions. Scottish Gaelic has no such
+compunctions, the equivalent being cò tha sibhse ag ràdh as mi? (Mx. *quoi ta
+shiuish gra s’mee?).
+Because ta can be used for the copula in Manx, one would expect quoi ta shiuish gra
+ta mee? and this is what Phillips has:
+quei ta shuiss grá ta mi?
+Proverb of the Month:
+Cha nee yn wooa smoo eieys smoo vlieaunys - It is not the cow that cries the most
+that milks the most.

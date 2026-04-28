@@ -1,0 +1,250 @@
+﻿Is there ‘homorganic inhibition’ in Classical Manx? A corpus investigation
+R. W. K. Teare & Max W. Wheeler
+November 20171
+0. Introduction
+‘Homorganic inhibition’ in the Gaelic languages refers to the situation where expected lenition
+of a word-initial consonant fails when the final consonant of the preceding ‘trigger’ word has
+the same place of articulation. The cases usually focused on are those where a word-initial
+coronal obstruent /t, tj, d, dj, s, sj/ is preceded by a word also ending in a coronal (/t, tj, d, dj, s,
+sj, r, rj, l, lj, n, nj), though we can legitimately ask whether anything similar might be seen when
+a word-initial velar is preceded by a velar, or a word-initial labial, by a labial. (There is known
+to have been homorganic inhibition more generally in earlier periods of the Gaelic languages.)
+We consider the several grammatical contexts in which expected lenition might be inhibited,
+looking at evidence from our corpus of Classical Manx texts.2
+1.	Regular homorganic inhibition
+In certain specified cases in Manx, homorganic inhibition is clearly established. Any grammar
+will tell you that d-, j-, t-, çh-, s-, sh- do not mutate after un ‘one’, chied ‘first’, trass ‘third’,
+shenn ‘old’, feer ‘very’. Likewise, d-, j-, t-, çh- do not lenite where other consonants do after
+the singular definite article y/yn/’n, while here s- and sh- become t- and çh- in a leniting context.
+We do not explore further here the issue of variation in lenition after the definite article. The
+rule that coronal consonants do not lenite after un, chied, trass, shenn, and feer is, indeed,
+confirmed in our corpus;3 there are a few deviations, listed in the Table 1, which are worth
+remarking on.
+lenition	×	inhibition	×	
+un ghorrys	1	un dorrys	3	one door
+un yoarree	1	un joarree	0	one stranger
+un hreishteil	2	un treishteil	1	one hope
+un hooill	2	un sooill	1	one eye
+un heeloghe	1	un sheeloghe	4	one generation
+un heshaght	1	un sheshaght	2	one company
+un heshey4	1	un sheshey	0	one companion
+chied ghooinney	1	chied dooinney	5	first man
+chied heshey	1	chied sheshey	0	first companion
+trass heeloghe	2	trass sheeloghe	0	third generation
+shenn ghooinney	18	shenn dooinney	0	old man
+shenn gheiney	17	shenn deiney	0	old men
+Table 1. Unexpected lenition cases after un, chied, trass, shenn.
+1 We are most grateful to Christopher Lewin for his advice on this topic and his very helpful comments on a draft
+of this paper.
+2 Aght Giare...; Coyrle Sodjey; Book of Common Prayer 1765; Metrical Psalms 1777; Pargys Caillit 1796;
+Thomas Wilson, Sermons 1-12; Bible; Apocryphal Books; Yn Fer Rauee Creestee; Cregeen, Dictionary, Lewin:
+Manx prose texts in 19th-c. newspapers.
+3 NB in Scottish Gaelic, aon, a’ chiad, and seann are among the short list of items after which homorganic
+inhibition is regularly observed (Bauer, 2011, 198-202).
+4 Sheshey over-lenites: un heshey, chied heshey, ben-heshey/ben-heshee occur exclusively.
+Teare & Wheeler
+Homorganic inhibition in Classical Manx
+Among these examples in Table 1, apart from 13 occasional deviations, the frequent and
+invariable expressions shenn ghooinney and shenn gheiney stand out. It may be noted that quite
+widely in Classical Manx ghooinney and gheiney are found in various contexts where dooinney
+and deiney might be expected.5 In the corpus, there are no exceptions to the rule that coronals
+do not lenite after feer ‘very’.
+2.	Is there ‘homorganic inhibition’ of lenition after feminine singular nouns in
+Classical Manx?
+In the corpus, there is a considerable number of examples where a feminine singular noun
+ending in a coronal consonant is followed by either an adjective or a dependent noun whose
+radical form begins with a coronal obstruent (d-, j-, t-, çh-, s-, sh-). Table 2 sets out the statistics
+of observed lenition in this context. There does not seem to be a significant difference between
+dependent adjectives and dependent nouns. There is a difference in the way different initial
+consonants are treated, with j- and sh- being lenited in 63 per cent or more cases, while d-, t-,
+and s- are lenited in 38 per cent or fewer cases. That is, there is rather more ‘inhibition’ with
+d-, t-, and s- than with j- and sh-. To set this in context, Table 3 shows comparable statistics
+where feminine singular nouns ending in a velar consonant are followed by a homorganic velar-
+initial dependent. Here lenition occurs in 69 per cent of the cases, which is comparable to the
+proportions where homorganic initial j- and sh- are involved.6
+	Nf+A				Nf+N				Total after f.			
+7	Hom +len.	Hom –len	Hom total	Hom % len.	Hom +len.	Hom –len	Hom total	Hom % len.	Hom +len.	Hom –len	Hom total	Hom % len.
+d-	33	35	68	49	148	59	73	19	47	94	141	33
+j-	61	22	83	73	1	4	5		62	26	88	70
+t-	31	64	95	33	129	7	19	63	43	71	114	38
+s-	19	74	93	20	1	15	16	6	20	89	109	18
+sh-	0	4	4		17	6	23	74	17	10	27	63
+Totals	144	199	343	42	45	91	136	33	189	290	479	39
+Table 2. Lenition of adjective and noun dependents with homorganic coronal-initial
+consonants after feminine noun heads
+5 For example, in the genitive after masculine, or plural, head nouns, baas ghooinney erbee ‘any man’s death’
+(CS), goan ghooinney ‘words of man’ (TW), ymmyd ghooinney ‘the use of man’ (Ap), dow ghooinney erbee ‘any
+man’s ox’ (B), garey feeyney ghooinney elley ‘another man’s vineyard’ (B); goo gheiney ‘the word of men’ (TW),
+ayns shilley gheiney ‘in the sight of men’ (Ap, B), inneenyn gheiney ‘daughters of men’ (B), obbyr laueyn gheiney
+‘the work of men’s hands’ (B), folliaghtyn gheiney ‘the secrets of men’ (B), sharvaantyn gheiney ‘the servants of
+men’ (B), feanish gheiney ‘the witness of men’ (B).
+6 Much of the data on which these tables are based can be seen in the appendix of Max Wheeler’s paper ‘Survey
+of grammatical gender in Classical Manx’ (May 2017).
+7 There are too few cases of çh- words in homorganic leniting contexts to count here.
+8 Leaving aside cloan gheiney ‘children of men’, which occurs 48 times in the corpus, with 1 × cloan deiney. Once
+again gheiney occurs rather more often than might be expected. However, cases of ben ghooinney, cooid
+ghooinney, cooinsheanse ghooiney, craid gheiney, feill gheiney, obbyr gheiney, slatt gheiney, are included;
+alongside these ben dooinney, cooid dooinney, cooinsheanse dooiney, feill deiney are also attested.
+9 10 of these 12 are of the genitive of thalloo: hallooin, which predominantly occurs in this form, even when
+lenition would not be expected, such as after a masculine noun head, as in kione hallooin ‘promontory’, mess
+hallooin ‘fruit of the land’, room hallooin ‘space’. Diunid thallooin, and obbyr thallooin occur once each.
+2
+Teare & Wheeler
+Homorganic inhibition in Classical Manx
+	Nf+A				Nf+N				Total after f.			
+	Hom +len.	Hom –len.	Hom total	Hom %len.	Hom +len.	Hom –len.	Hom total	Hom % len.	Hom +len.	Hom –len.	Hom total	Hom % len.
+k-/g-	26	6	32	81	8	9	17	47	34	15	49	69
+Table 3. Lenition of adjective and noun dependents with homorganic velar-initial consonants
+after feminine noun heads
+However, in order to decide whether homorganicity is contributing significantly to deviation
+from the lenition rule, we need to compare, firstly, what happens when the same feminine
+nouns as provide the data in Table 2 are followed by lenitable consonants which are not
+homorganic. The results are in Table 4, row a. Here we see that lenition occurs in only 68 per
+cent of possible examples, a similar proportion to the incidence of lenition of homorganic
+velars, or of homorganic coronals where initial j- or sh- are involved. Secondly, we need to
+consider the proportion of lenition of initial coronals in dependents after feminine singular
+nouns which do not end in a homorganic coronal consonant. These results are given in Table
+4b, excluding the item jesh ‘right’ where the expression laue yesh ‘right hand’ is extremely
+frequent (and laue jesh is never found).10 The proportion of lenition of coronal initials after
+non-homorganic trigger words (43%) proves to be very similar to as the proportion of lenition
+of coronal initials after homorganic trigger words (39%). That is to say, for lenition of coronal-
+initial dependents after feminine nouns, the homorganicity or otherwise of a preceding word-
+final element is not relevant.
+	+len.	–len.	total	% len.
+a. Non-homorganic dependents of the f. noun triggers whose homorganic dependents are recorded in table 2	625	299	924	68
+b. Coronal-initial targets after non-homorganic f. noun triggers (excluding jesh: 197 examples of laue yesh)	59	78	137	43
+Table 4. Lenition of non-homorganic-initial dependents after feminine noun heads
+In Table 2, we have seen considerable differences between the lenition behaviour of different
+coronal consonants, with j- and sh- strongly favouring lenition, and d-, t- and s- disfavouring
+lenition. Though the proportion of lenition of coronal consonants overall is similar in the
+homorganic (Table 2) and the non-homorganic (Table 4b) contexts, we may investigate further
+whether the differences between the different consonants observed in the former context are
+mirrored in the latter. This we do in Table 5, where the data of Table 4b are similarly separated
+into the different coronal initials.
+10 In fact, the form jesh ‘right’ never occurs as an attributive adjective, but only yesh. We find it with masculine
+sg. nouns —lheayst yesh, pillar yesh—, and with plural nouns —nyn laueyn yesh, nyn gassyn yesh. Jesh
+‘convenient’ does occur attributively.
+3
+Teare & Wheeler
+Homorganic inhibition in Classical Manx
+	+len.	–len.	total	% len.
+d-	10	32	42	24
+j-	10	23	33	30
+t-/çh-	34	8	42	81
+s-	0	5	5	0
+sh-	5	10	15	33
+Total	59	78	137	43
+Table 5. Lenition of initial coronals in dependents after f. heads not ending in a homorganic
+consonant, cf. Table 4b.
+The results are rather different, however. Initial d- and s- resist lenition in both contexts, but
+whereas in the homorganic context j- and sh- favour lenition and t- resists it, in the non-
+homorganic context, the outcome for these consonants is the opposite. It is not clear to us what
+kind of explanation might be sought for this difference. Insofar as t- resists lenition in
+homorganic contexts more than elsewhere, we could say there is some confirmation of
+(residual) homorganic inhibition in dependents of feminine nouns in Classical Manx. But
+insofar as j- and sh- lenite in greater proportion in the homorganic context than elsewhere, we
+should have to count that as a tendency towards homorganic disinhibition.
+The database for Table 5 is quite sparse; there are relatively few nouns securely identifiable as
+feminine that do not end in a coronal consonant, and for which there is evidence from lenitable
+dependent adjectives or nouns. Within it there are several frequent collocations, such as cragh
+trome ‘great slaughter’ (×7), laue hoshtal ‘left hand’ (×21), laue dooinney ‘a man’s hand’
+(×11), çhengey yoarree ‘an unknown tongue’ (×9); these account for 48 of the total of 137
+examples. As mentioned above, the overall proportion, 43%, in Table 5 of lenition of coronals
+after non-coronal-final heads, is broadly in line with the 39% lenition of coronals in the
+homorganic contexts shown in Table 2.
+Conclusion: coronal-initial dependent words lenite in not more than 43% of cases on
+average after a feminine noun head, independently of whether the head ends in a
+homorganic coronal consonant or not.
+3.	Is there homorganic inhibition in the case of proper names in the genitive case,
+where lenition is the norm?
+Of proper names beginning with a coronal obstruent in the Bible + Apocrypha (i.e. names
+beginning in D-, J-, T-, S-, Sh-), those in T-, S-, Sh- never lenite in the genitive.11 NB, if they
+did, their lenited forms, in H-, would be hard to distinguish from the very many Biblical names
+that begin in radical H-.
+•	David, Damascus, Daniel, Dibon, and Diblaim (Ghibleam) lenite in the genitive in
+90% of cases after a homorganic consonant.
+•	There is a large number of Bible names in J- (including Jee, Jerusalem) that lenite,
+and they do so in the genitive in 96% of cases after a homorganic consonant. NB
+radical-initial Y- names are rare —only Yeesey ‘Jesus’ and Yuaase ‘Judas’.
+11 We detect one exception: Jos. 17.8 cheer Happuah ‘the land of Tappuah’. Thomase ‘Thomas’ lenites once in
+the vocative: Homase (John 20.29).
+4
+Teare & Wheeler
+Homorganic inhibition in Classical Manx
+4.	Is there coronal homorganic inhibition of lenition after a plural noun not ending
+in -yn?
+After a non-yn plural, lenition of a following dependent is possible. However, in this context,
+the occurrence or non-occurrence of lenition of a dependent is to a very large degree determined
+lexically, rather than phonologically. So, lenition (including of homorganic coronals where this
+is relevant) appears to be the rule after buird, cluig, croink, eayin, goair, moddee, and smeir; 12
+whereas non-lenition is the rule after cabbil, deiney, eeanlee, feeaihee, foawir, goan,13 kirp,
+mraane,14 spuitt, and nouns in -tee (cummaltee, reiltee, scammyltee, scapailtee, troailtee).
+There is variation after buill,15 kirree16 and mec.17 If we only looked at fir, we could believe
+the homorganic inhibition rule: 147 cases of lenition of a non-homorganic dependent;18 5 cases
+of non-lenition of a homorganic dependent; just one case of lenition of a homorganic
+dependent: fir-hie.19
+5.	Is there coronal homorganic inhibition after coronal-final prefixes?
+First, we need to establish whether, in fact, lenition is found in the case of labial- or velar-initial
+roots after a prefix ending in a coronal consonant. The corpus evidence shows that this is
+generally the case, though initial f- is only rarely lenited.20 In Table 6, the exceptions to lenition
+after coronal-final prefixes are indicated in bold. Where the same lexical stem is treated
+variably, we put the variants together, after the first in alphabetical order, and mark both
+variants in italic. We include in this list preposed modifiers that may be written with a hyphen,
+without taking a position on whether some of them, e.g. ard, might equally well be counted as
+preposed adjectives, as we have treated shenn above.
+Where coronal homorganic inhibition is in question, both lenition and non-lenition are found.
+But the choice between these outcomes is largely lexical. Thus, Wilson uses lenited an-yeeagh
+‘atheist’, and an-yeeys ‘atheism’ in his sermons; Cregeen gives anjee ‘atheist’, anjeeagh
+‘atheistical’, but these are not otherwise found in the corpus. Con-, far-, giare-, liass-, and
+moal- are found with lenition in homorganic initials. Mooar- is found with homorganic
+inhibition of lenition, but there are only two examples in the corpus, both with s- (and also one
+non-homorganic c-). With ard-, lenition largely depends on the root to which it is prefixed:
+note ard hreatoor (PC) ‘arch-traitor’ and ard-hranlaasagh/ard-hranlaasee ‘arch-tyrant’, ard
+yymmoose ‘great wrath’. We observe almost always ard-ghooinney and ard-gheiney, variation
+with ard sharvvant ~ ard harvaant, ard drogh-gheiney ~ ard ghrogh-gheiney, but otherwise
+ard induces homorganic inhibition: ard-saggyrt, ard traa, ard trostey, etc.
+12 buird chooney, buird chloaie ×4, cluig veggey ×2, croink gheinnee, croink veggey ×3, croink chasherick, eayin
+woirryn ×3, goair woirryn ×2, moddee valloo, moddee voghtey, moddee yiooghey, moddee yooh (Pargys Caillit,
+i.e. yoogh), moddee yollyssagh; smeiyr hroam, smeir ghreshagh.
+13 Except goan ghooinney ×1, goan gheiney ×2, goan vrynneragh ×1.
+14 Except mraane ghoaley, mraane vourey (Cregeen). There are single cases with non-lenition in dew beiyht,
+merriu deyrit, builg sheidee.
+15 buill hrome, but buill dorraghey.
+16 kirree chailjey, kirree vaney, kirree vooarey, kirree woirryn; but kirree cailjey ×4, kirree trome lesh eayin.
+17 mec gheiney ×3; but mec deiney ×1, mec joarreeyn, mec mee-chrauee, mec tribeyn elley.
+18 Including very frequent fir-chiaullee, fir-choonee, fir vaghee, fir vooinjerey.
+19 fir-çheerey ‘countrymen’ ×1, fir tashtee ‘treasurers’ ×2, fir traashtee ‘treaders’ ×1, fir thammag ‘bastards’ ×1;
+fir hie ‘householders’ ×1.
+20 ard-eallagh ‘chief people’, ard-endeilys ‘mighty protection’ ard-er ‘chief’ ×28.
+5
+Teare & Wheeler
+Homorganic inhibition in Classical Manx
+Prefix	_labial	_velar	_coronal
+an-	anvennick anmagh anvea anveagh anvio anvroie	an-Chreestee ×14 an-chreesteenyn ×8 an-creesteenyn ×2 an-chooie ×3 an-chredjuagh ×2 an-chredjuee ×4 an-chasherick- ×28 an-ghoo ×18 an-ghooagh an-ghiarey-chymmylt ×15 an-ghiarey-chymyltee	an-yeeagh ×3 anjeeagh (Cr.) an-yeeys ×5 anjee (Cr.) anjeeragh (Cr.)
+ard	ard-eallagh ard-endeilys ard-er ×28 ard fer-oik ard-fer-reill ×4 ard-fer-ynsee ard farrane ard-feailley ×3 ard-feaillaghyn ×6 ard-feeuit ard fir-oik ard-firrinys(yn) ard-foayr ×6 ard foayryn ard-foays(yn) ard-marragh ard-pheccah ard-phleayder ard-phooar ard-phrince ard-phryssoon ard-vainshtyr ard-valjyn ard-valley ard-vanglaneyn ard-vannaght ard-vasoonagh ard-vee-viallee ard-veiyht ard-verchee ard-verchys ard-vochilley ard-voggey ard-vollaght ard-volteyryn ard-vooaralagh ard-voylley ard-voyrnagh ard-vriw ard-vunlaa ard-vutler ard-vyghin	ard casherick ×4 ard-chasherick ×2 ard-casherickys ard-chaptan ard-chenjallys ard-cherraghey ard-chiannoortys ard-chiarail ard-chiarailys ard-chiaulleyder ard-kiaulleyderyn ard-chione ard-chlagh ard-chleragh ard-choraa ard-chreeagh ard-chreenaght ard-churmyn ard currymyn ard-churrym ard creaghyt ard-gharraghtee ard-ghennallys ard-gherjaghey ard-ghloyr ard-ghloyroil ard-ghoo ard-ghooagh ard-ghrayse ard-yiat ard-yioot ~ ard-ghioot	ard-danjere ard dooinney ×2 ard-ghooinney ×15 ard-dorrys ×2 ard-gheiney ×107 ard drogh-spyrryd ard ghrogh-spyrryd ard harvant (PC) ard-sharvaantyn ard-hranlaasagh ard-hranlaasee ×2 ard hreatoo(y)r ×4 (PC) ard-jaghin (Cr.) ard Jee ×2 ard-saaseyn ard-saggyrt(yn) (passim) ard-saggyrtys ard-shamyr ard-shamyrder ard shirveish ard-soiagh ard-soiaghey ard soilshean ard-sollys ard-sym ard traa ard tribe ard thie ard trostey ard-tushtey ard yymmoose
+6
+Teare & Wheeler
+Homorganic inhibition in Classical Manx
+Prefix	_labial	_velar	_coronal
+	ard-wannalagh ard-whuaiyl ard-wooinjer		
+con			con-ghorraghey con-ghorraghys con-ghorrid
+far	farvane far-ven far-vlaa far-voalley far-folt	far-charkyl far-chass far-chooish far-chloie far-chlashtyn	far-ghuillag
+giare		giare-chooat giare-cheeayllagh ×7 giare-cheaut	giare-heillagh ×2 giare-heihltagh ×4 giare-hooillagh
+kiare	kiare-filley	kiare-chassagh ×5 kiare-cassagh ×2 kiare-chorneilagh ×3 kiare corneilagh ×3	
+liass	liass-vraar liass-vac liass-voir		liass-yishig liass-huyr
+moal		moal-chreeagh moal-chredjuagh	moal-hushtagh
+mooar	mooar-volgagh	mooar-creeagh	mooar-soiaghey mooar-seaghnit
+myn		myn-chyrl	
+Table 6. Lenition after coronal-final prefixes
+6.	Conclusions
+There is coronal homorganic inhibition in Classical Manx after un, chied, trass, shenn and feer,
+as is well known. The only non-yn plural noun inducing lenition generally but homorganic
+inhibition in a dependent is fir ‘men’. We find also that there is coronal homorganic inhibition
+generally after the prefix ard-, with the exception of certain stems. In the other contexts
+investigated here, there is variation in lenition, in different proportions depending on the
+consonant and the context, but not consistently related to the ‘homorganicity’ of lenitable initial
+consonants. Note, in particular, that s- is especially resistant to lenition in these contexts.
+Reference
+Bauer, Michael, 2011. Blas na Gàidhlig. The practical guide to Gaelic pronunciation,
+Glasgow: Akerbeltz.
+7

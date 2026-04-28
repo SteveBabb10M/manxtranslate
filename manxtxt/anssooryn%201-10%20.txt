@@ -1,0 +1,651 @@
+﻿Unnid 1: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Ta mee skee	I am tired
+2 Vel oo feayr?	Are you cold?
+3 Cha nel ee çhing	She isn’t ill
+4 Nagh vel eh keoi?	Isn’t he crazy?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I am sick	Ta mee ching
+2 Are you tired?	Vel oo skee?
+3 She isn’t cold	Nagh vel ee feayr?
+4 Isn’t he drunk?	Nagh vel eh scooyrit?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Ta shin skee	We are tired
+2 Vel shiu keoi?	Are you (pl) crazy?
+3 Cha nel ad scooyrit	They are not drunk
+4 Nagh vel ad skee?	Aren’t they tired?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 We are fine	Ta shin braew
+2 Are you (pl) tired?	Vel shiu skee?
+3 They aren’t very good	Cha nel ad feer vie
+4 Aren’t you (pl) hot?	Nagh vel shiu çheh?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Quoi uss?	Who are you?
+2 Mish Juan	I am Juan
+3 Quoi shoh?	Who is this?
+4 Kys t’ou?	How are you?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 Who is this?	Quoi shoh?
+2 How are you?	Kys t’ou?
+3 How is Juan?	Kys ta Juan?
+4 I am Homer
+Mish Homer
+Unnid 2: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Ta mee roie	I am running
+2 Vel oo gobbragh?	Are you working?
+3 Cha nel ee shooyl	She isn’t walking
+4 Nagh vel eh gee?	Isn’t she eating?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I am drinking coffee	Ta mee giu caffee
+2 Are you playing?	Vel oo cloie?
+3 She isn’t learning	Nagh vel ee gynsaghey?
+4 Isn’t he living in Ramsey?	Nagh vel ee cummal ayns Rhumsaa?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Ta shin gobbragh ayns Colby	We are working in Colby
+2 Vel shiu roie?	Are you (pl) running?
+3 Cha nel ad cloie gamman	They are not playing a game
+4 Nagh vel ad gee peetsey?
+Aren’t they eating a pizza?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+Ta shin roie
+Vel shiu (pl) cummal ayns Purt ny h-Inshey?
+Cha nel ad cloie
+Nagh vel shiu (pl) gee?
+Ta mee roie, ta mee skee
+Vel oo giu? Vel oo çheh?
+Cha nel eh gee, t’eh çhing
+Nagh vel ee shooyl? Vel ee feayr?
+C’raad t’ou cummal?
+C’raad t’eh cummal?
+Quoi ta gee ayns Doolish?
+Cre / C’red t’ou jannoo?
+Cre t’eh cloie?
+1 We’re running
+2 Are you (pl) living in Peel?
+3 They aren’t playing
+4 Aren’t you (pl) eating?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I’m running, I’m tired
+2 Are you drinking? Are you hot?
+3 He isn’t eating, he’s sick
+4 Isn’t she walking? Is she cold?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Where do you live?
+2	Where does he work?
+3	Who eats in Douglas?
+4	What are you doing?
+5	What is he playing?
+Unnid 3: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Ta thie aym
+I have a house
+2 Vel gleashtan ayd?
+Do you have a car?
+3 Cha nel moddey echey
+He doesn’t have a dog
+4 Nagh vel kayt eck?
+Doesn’t she have a cat?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I have money
+2 Do you have Manx?
+3 He doesn’t have a woman
+4 Doesn’t she have a man?
+Ta argid aym
+Vel Gaelg ayd?
+Cha nel ben echey
+Nagh vel dooinney eck?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Ta moddey doo aym
+2 Vel kayt çhing ayd?
+3 Cha nel thie bane echey
+4 Nagh vel gleashtan jiarg eck?
+I have a black dog
+Do you have an ill cat?
+He doesn’t have a white house
+Doesn’t she have a red car?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 He’s got the cat
+2 Do you have the black dog?
+3 They don’t have the car
+4 Don’t they have the coffee?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 Do you have a red house?
+2 I’ve got the black car
+3 He hasn’t got a pizza
+4 Don’t they have a car?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Where is your car?
+2	Where is his dog?
+3	Where is the white house?
+4	Where is her cat?
+Ta’n kayt echey
+Vel yn moddey doo ayd?
+Cha nel yn gleashtan oc
+Nagh vel yn caffee oc?
+Vel thie jiarg ayd?
+Ta’n gleashtan doo aym
+Cha nel yn peetsey echey
+Nagh vel gleashtan oc?
+C’raad ta’n gleashtan ayd?
+C’raad ta’n moddey echey?
+C’raad ta’n thie bane?
+C’raad ta’n kayt eck?
+5 Where is their car?	C’raad ta’n gleashtan oc?
+Unnid 4: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Va mee çhing
+I was ill
+2 Row oo scooyrit?
+3 Cha row ee ayns Doolish
+4 Nagh row eh er y vaatey?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I was cold
+2 Were you hot?
+3 She wasn’t in Peel
+4 Isn’t he on the bus?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Va shin ayns Colby Jea
+2 Row shiu ec yn thie fillym Jesarn?
+3 Cha row ad ayns y ghleashtan Jea
+4 Nagh row ad ayns yn thie lhionney Jedoonee?
+Were you drunk?
+She wasn’t in Douglas?
+Wasn’t he on the boat?
+Va mee feayr
+Row oo çheh?
+Cha row ee ayns Purt ny h-Inshey
+Nagh vel eh er y varroose?
+We were in Colby yesterday
+Were you (pl) at the cinema on Saturday?
+They were not in the car yesterday
+Weren’t they in the pub on Sunday?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 We were ok on Monday
+Va shin braew Jelune
+2 Were you (pl) in Ramsey on Tuesday?
+Row shiu ayns Rhumsaa Jemayrt?
+3 They weren’t on the bus yesterday	Cha row ad er y varroose jea
+4 Weren’t you (pl) at the cinema on Friday? Nagh row shiu ec yn thie-fillym Jeheiney?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I was in the pub and I was drunk Va mee ayns yn thie-lhionney as va mee scooyrit
+2	They weren’t on the boat but they were sick Cha row ad er y vaatey agh v’ad
+çhing
+3	He wasn’t on the bus and he wasn’t in the car Cha row eh er y varroose as cha
+row eh ayns y gheashtan
+4 Jordan was in America, but she wasn’t hot
+Va Jordan ayns Maerica, agh
+cha row ee çheh
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Where were you?
+2	Where was Juan yesterday?
+3	Who was in Douglas?
+4	Who was in Peel on Saturday?
+5	Where was Ealish on Sunday?
+Unnid 5: Cur Baarle er ny raaghyn
+Put English on these sentences
+C’raad v’ou?
+C’raad va Juan jea?
+Quoi v’ayns Doolish?
+Va v’ayns Purt ny h-Inshey Jesarn?
+C’raad va Ealish Jedoonee?
+1 Ren mee roie
+I ran
+2 Ren oo gobbragh?
+Did you work?
+3 Cha ren ee gimman
+4 Nagh ren eh gee?
+She didn’t drive
+Didn’t he eat?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I drank coffee	Ren mee giu caffee
+2	Did you play the sax?	Ren oo cloie yn sax?
+3	She didn’t go out	Nagh ren ee goll magh?
+4	Isn’t he living in Ramsey?	Nagh vel eh cummal ayns Rhumsaa?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1
+Ren shin gobbragh ayns Colby
+We worked in Colby
+2
+Ren shiu jeeaghyn er filmyn?
+Did you watch (pl) the films?
+3
+Cha ren ad cloie gamman
+They didn’t play a game
+4
+Nagh ren ad gee peetsey?
+Didn’t they eat pizza?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 We ran to Douglas
+Ren shin roie dys Doolish
+2 Did you (pl) live in Peel?
+Ren shiu cummal ayns Purt ny h-Inshey?
+3 They didn’t play	Cha ren ad cloie
+4 Didn’t you (pl) eat?	Nagh ren shiu gee?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I ran, I was tired	Ren mee roie, va mee skee
+2 Did you drink? Were you hot?	Ren oo giiu? Row oo çheh?
+3 He didn’t eat and he wasn’t sick	Cha ren eh gee as cha row eh çhing
+4 Didn’t she walk? Wasn’t she cold?	Nagh ren ee shooyl? Nagh row ee feayr?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 Where did you live?	C’raad ren oo cummal?
+2 Where did he watch films?	C’raad ren eh jeeaghyn er ny filmyn?
+3 Who ate the dog?	Quoi ren gee yn moddey?
+4 What did you drink?	Cre ren oo giu?
+5 When did they play?	C’raad ren ad cloie?
+6 When did you go out?	Cuin ren oo goll magh?
+Unnid 6: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 S’mie lhiam caashey
+I like cheese
+2 Mie lhiat caffee?
+Do you like coffee?
+3	Cha mie lhee spollagyn
+4	Nagh mie lesh praaseyn?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I like apples
+2	Do you like eggs?
+3	He doesn’t like bananas
+4 Doesn’t she like pizza?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	S’mie lhien Doolish
+2	Mie lhiu Purt ny h-Inshey?
+3	Cha mie lhieu Crosby
+4	Nagh mie lhieu Purt Çhiarn?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	We like eating
+She doesn’t like chips
+Don’t you like potatoes?
+S’mie lhiam ooyllyn
+Mie lhiat oohyn?
+Cha mie lesh corranyn bwee
+Nagh mie lhee pizza?
+We like Douglas
+Do you (pl) like Peel?
+They don’t like Crosby
+Don’t they like Port Erin?
+S’mie lhien gee
+2 Do you (pl) like driving?
+Mie lhiu gimman?
+3 Do they like drinking?
+Mie lhieu giu?
+4 Do they like working in Ramsey?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I like drinking coffee in Java
+2	They don’t like learning in the house
+3	Does she like drinking water?
+4	Doesn’t she like eating red apples?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	What do you like eating?
+2	Where does he like drinking?
+3	Who likes walking home?
+4	What do they like drinking?
+5	Where do you like watching films?
+Mie lhieu gobbragh ayns Rhumsaa?
+S’mie lhiam giu caffee ayns Java
+Cha mie lhieu gynsagh ayns y thie
+Mie lhee giu ushtey?
+Nagh mie lhee gee ooyllyn jiarg?
+Cre s’mie lhiat gee?
+C’raad s’mie lesh giu?
+Quoi s’mie lesh shooyl dy valley?
+Cre s’mie lhieu giiu?
+C’raad s’mie lhiat jeeaghyn er filmyn?
+Unnid 7: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 She Manninagh mish / mee	I am a Manx person
+2 Nee Bretnagh uss / oo?
+Are you a Welsh person?
+3 Cha nee arraneagh ish / ee
+4 Nagh nee kiaulleyder eshyn / eh?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I am a Irishman (person)
+2	Are you a woman?
+3	He isn’t a drunkard
+4	Isn’t she a musician?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	She Manninee shinyn / shin
+2	Nee Sostnee shiush / shiu?
+3	Cha nee meshtalee adsyn / ad
+4	Nagh nee Albinagh Ewan?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 We are singers
+2 Are you (pl) Manx people?
+She isn’t a singer
+Isn’t he a musician?
+She Yernagh mish
+Nee ben uss?
+Cha nee meshtallagh eshyn
+Nagh nee kiaulleyder ish?
+They are Manx people
+Are you (pl) English
+They are not drunkards
+Is Ewan Scottish?
+She arranee shinyn
+Nee Manninnee shiu?
+3 They aren’t students
+Cha nee studeyryn adsyn
+4 Is Juan a farmer?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 She ooh t’ayn
+2 Nee yn moddey doo t’ayn?
+3 Cha nee kayt t’ayn
+4 Nagh nee yn thie ayd t’ayn?
+Nee eirinagh Juan?
+It’s an egg
+Is it the Moddey Doo?
+It isn’t a cat
+Isn’t it your house?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	It is a car
+2	Is it a man?
+3	It isn’t the blue car
+4	Isn’t it my apple?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 It’s an egg
+2 It’s a yellow egg
+3 It’s the egg
+She gleashtan t’ayn
+Nee dooinney t’ayn?
+Cha nee yn gleashtan gorrym t’ayn
+Nagh nee yn ooyl aym t’ayn?
+She ooh t’ayn
+She ooh bwee t’ayn
+She yn ooh t’ayn
+4 It’s my egg
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	Quoi eshyn?
+2	Quoi ish?
+3	Eshyn Elvis
+4	Ish Jill
+5	Cre eshyn?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Who are they?
+2	Who are we?
+3	Who is she?
+4	He’s Mark Cavendish?
+5	She’s Jonee
+Unnid 8: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	Beeym aarloo
+2	Bee oo scooyrit?
+She yn ooh aym t’ayn
+Who is he?
+Who is she?
+He is Elvis
+She is Jill
+What is it?
+Quoi adsyn?
+Quoi shinyn?
+Quoi ish?
+Eshyn Mark Cavendish
+Ish Jonee
+I will be ready
+Will you bee drunk?
+3 Cha bee ee ayns Doolish
+She will not be in Douglas
+4 Nagh bee eh er y vaatey?
+Will he not be on the boat?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I’ll be fast
+2	Will you be cold?
+3	She won’t be slow
+4	Won’t he be ready?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	Beemayd ayns Colby mairagh
+Beeym tappee
+Bee oo feayr?
+Cha bee ee moal
+Nagh bee eh aarloo?
+We will be in Colby tomorrow
+2 Bee shiu ec yn thie fillym yn çhiaghtin shoh? Will you (pl) be at the cinema this week?
+3 Cha bee ad ayns y ghleashtan aym	They will not be in my car
+4 Nagh bee Dollyn ayns yn thie lhionney Jedoonee? Won’t Dollyn be in the pub on
+Sunday?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 We’ll be there on Monday
+Beemayd ayns shen Jelune
+2 Will you (pl) be in Ramsey tomorrow?
+Bee shiu ayns Rhumsaa mairagh?
+3 They won’t be on the bus tomorrow
+Cha bee ad er y varroose mairagh
+4 Won’t you (pl) be late on Friday?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I was drunk yesterday and I’ll be ill
+2 He won’t be cold but he’ll be tired
+3 She won’t be here, she’ll be there
+4 You’ll be fine in her house
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Where will you be?
+2	Where will Juan be tomorrow?
+3	Who will be ready?
+4	Who will be there?
+5	When will the bus be here?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	Beeym er y varroose shen
+2 Mie lhiat yn ooh shoh?
+3 Vel oo geearree yn spollag shen?
+Nagh bee shiu anmagh Jeheiney?
+tomorrow Va mee scooyrit jea as beeym çhing
+mairagh
+Cha bee eh feayr agh bee eh skee
+Cha bee ee ayns shoh, bee ee ayns shen
+Bee oo braew ayns y thie eck
+Bee oo ayns shen?
+C’raad vees Juan Mairagh?
+Quoi vees aarloo?
+Quoi vees ayns shen?
+Cuin vees yn barroose ayns shoh?
+I will be on that bus
+Do you like that egg?
+Do you want that chip?
+4 Vel yn thie shen ayd?
+Is that your house?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I’ll be in this house
+2 Will you (pl) be on that boat?
+3 They won’t be in this car
+4 Won’t he be here?
+Beeym ayns y thie shoh
+Bee shiu er y vaatey shen?
+Cha bee ad ayns y gleashtan shoh?
+Nagh bee ad ayns shoh?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Do you like this cheese?
+2	When will that man be here?
+3	Where will that boat be?
+4	Do you want this potato?
+5	Does he have that money?
+Unnid 9: Cur Baarle er ny raaghyn
+Put English on these sentences
+1	Neeym smooinaghtyn
+2	Jean oo loayrt rish carrey?
+3	Cha jean ee mongey
+4	Nagh jean eh girree?
+Mie lhiat yn caashey shoh?
+Cuin vees yn dooinney shen ayns shoh?
+C’raad vees yn baatey shen?
+Vel oo geearree yn praase shoh?
+Vel yn argid shen echey?
+shoh:
+I’ll think
+Will you speak with a friend?
+She won’t smile
+Won’t he get up?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I’ll drink coffee in Java
+2 Will you play cammag?
+3 She won’t go out
+4 Won’t he listen to the radio?
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Neemayd gyllagh er Juan
+2 Jean shiu jeeaghyn er filmyn?
+3 Cha jean ad girree moghrey jiu
+4 Nagh jean ad smooinaghtyn?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 We’ll run to Douglas
+2 Will you (pl) listen?
+3 Will they drive?
+4 Won’t you (pl) speak to Juan?
+Neeym giu caffee ayns Java
+Jean oo cloie Cammag?
+Cha jean ee goll magh?
+Nagh jean eh geiashtagh rish yn Radio?
+We’ll call Juan
+Will you watch films?
+They will not get up this morning
+Won’t they think?
+Neemayd roie dys Doolish
+Jean shiu geaishtagh?
+Jean ad gimman?
+Nagh jean shiu loayrt rish Juan?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 I’ll drive, I’ll be tired	Neeym gimman, beeym skee
+2 Will you drink? Will you be drunk?	Jean oo gimman? Bee oo scooyrit?
+3 He’ll run, he won’t be hot	Nee eh roie, cha bee eh çheh
+4 Won’t she walk? Won’t she be cold?	Nagh jean ee shooyl? Nagh bee ee feayr?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1 Where will they go?	C’raad nee ad goll?
+2 Where will you (pl) speak?	C’raad nee oo loayrt?
+3 Who will get up at 7?	Quoi nee girree ec shiaght?
+4 What will she think?	Cre nee ee smooinaghtyn?
+5 When will you listen to the man?	Cuin nee oo geiashtagh rish yn dooinney?
+6 When will you shout at Tobm ?	Cuin nee oo gyllagh er Tom?
+Unnid 10: Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Er lhiam dy vel eh mongey	I reckon that he is smiling
+2 Er lhiam nagh vel ee skee	I reckon that she isn’t tired
+3 Er lhiam dy vel thie bane echey	I reckon that he has a white house
+4 Er lhiam nagh vel gleashtan tappee eck I reckon that she doesn’t have a quick car?
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I think that she is speaking
+2	I don’t think they are in Douglas
+3	I think that she has a dog
+4	I don’t think he has the money
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1	Foddee dy row ad er y varroose
+2	Foddee nagh row ee ayns shen
+3	Foddee dy ren eh girree ec 7
+4	Foddee nagh ren ad loayrt
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	Maybe we were late
+2	Maybe they weren’t here
+3	Maybe she shouted
+Er-lhiam dy vel ee loayrt
+Er-lhiam nagh vel ad ayns Doolish
+Er-lhiam dy vel moddey eck
+Er-lhiam nagh vel yn argid echey
+Perhaps they were on the bus
+Perhaps she wasn’t there
+Perhaps he got up at seven
+Perhaps they didn’t speak
+Foddee dy row ad anmagh
+Foddee nagh row ad ayns shoh
+Foddee dy ren ee gyllagh
+4	Maybe he didn’t listen
+Foddee nagh ren ad geaishtagh
+Cur Baarle er ny raaghyn shoh:
+Put Manx on these sentences
+1	S’liklee dy jean eh gimman
+2	S’liklee nagh jean ad shooyl
+3	S’liklee dy bee oo skee
+4	S’liklee nagh bee eh ayns shen
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	They will probably run to Ramsey
+2	I probably won’t learn Manx
+3	She will probably be late
+4	He probably won’t be fast
+It’s likely that he will drive
+It’s likely that they will walk
+It’s likely that they will be tired
+It’s likely that they will not be there
+Foddee dy jean ad roie dys Rhumsaa
+S’liklee nagh jeanym gynsagh Gaelg
+Foddee dy bee ee anmagh
+Foddee nagh bee eh tappee
+Cur Baarle er ny raaghyn shoh:
+Put English on these sentences
+1 Cre’n fa t’ou mongey?
+2 Er y fa dy mie lhiam mongey
+3 Cre’n fa t’ee loayrt?
+4 Er y fa dy nee ben ish
+Why are you smiling?
+because I like smiling
+Why is she speaking?
+because she is a woman
+Cur Baarle er ny raaghyn shoh:
+Put Manx on these sentences
+1	Why is he drunk?
+2	Because he is a musician
+3	Why did they go?
+4	Because they weren’t late
+Cur Gaelg er ny raaghyn shoh:
+Put Manx on these sentences
+1	I think I like this car
+2	She probably won’t eat that pizza
+3	Maybe he likes your hair
+4	Why will you go?
+C’ren fa t’eh scooyrit?
+er y fa dy nee kiaulleyder eh
+C’ren fa ren ad goll?
+er yn oyr dy row ad anmagh
+Er-lhiam dy mie lhiam yn gleashtan shoh
+S’liklee nagh jean ad gee yn peestsey shen
+Foddee dy mie lesh yn folt ayd
+C’ren fa nee oo goll?
+5 Because they will be on the boat er yn oyr dy bee ad er y vaatey

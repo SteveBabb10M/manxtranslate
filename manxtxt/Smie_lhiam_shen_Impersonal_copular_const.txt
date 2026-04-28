@@ -1,0 +1,734 @@
+﻿1
+S’mie lhiam shen: Impersonal copular constructions in Classical Manx
+Max W. Wheeler, Ramsey, January 2016
+This article continues the series in which I seek to expound the grammatical information to be
+found in Cregeen’s Dictionary of the Manks Language (1835). Previous articles have focused
+on inflectional morphology, but this one looks at a characteristic construction whose general
+pattern (see the example in the title) is:
+Copula verb	Adjective or Noun (predicate)	Preposition and its complement	Grammatical Subject NP or VP
+s’	mie	lhiam	shen
+is	good	with-me	that
+‘I like that’			
+I have included also a couple of unusual constructions that do not quite match this model: s’lesh
+‘owns’ (without adjectival or nominal predicate), and strooys ‘it seems to me’.
+Cregeen does not treat the impersonal copular construction thoroughly or comprehensively,
+and indeed some of what he says about examples of the pattern is unclear or misleading. Here
+I cite what is in Cregeen, comment on it, and include a range of examples from the Manx Bible
+(canonical books 1819), plus apocryphal books (Wisdom and Ecclesiasticus, 1773), and Five
+stories from the Old Testament Apocrypha in Manx Gaelic from Manx Museum Ms.1236A in
+the William Sayle Collection, transcribed and published by George Broderick for Yn Çheshaght
+Ghailckagh in 1979.
+In this construction, illustrated in the table above, the copula verb has two tenses: present:
+independent - s’ or sh-, dependent - initial consonant subject to Nasalization 3 or with n- or
+nh- (/nj/) before a vowel, (just as are future tense verbs), and past: by or b’. Occasionally we
+find my instead of s’ or by. The formal predicate follows, either a noun, such as egin ‘force’,
+or an adjective, such as mooar ‘great’. Certain items, apparently only those with radical f-, are
+lenited after s’, thus s’ + feer ‘true’→ sheer, s’ + feeagh ‘valuable, worth’ → sheeagh;1 other
+consonants are not affected, such as mie ‘good’ and mooar ‘great’. Lenition is found after by,
+thus, from doillee ‘difficult’ we have by ghoillee ‘it was difficult’. Only two prepositions are
+generally to be found in the third slot: da ‘to, for’, and lesh ‘with, by’. The grammatical subject
+follows the Prepositional Phrase: it may be a lexical noun phrase, or a sentential complement,
+most often a non-finite one.
+Under each heading I copy out first Cregeen’s information,2
+1.	AILL ‘pleasure’
+“sailly[m], p. I please; -s, id. em.
+cha naill or naillee, v. not wish; -agh; -in; -ins; -ym; -yms, 94. S
+my saillish or sallish, p. if he please; -in, id. em.
+my saillee, p. if she please; -ish, id. em.
+my saillin, p. if we please; -yn, id. em.
+my sailt, p. if thou please, if it please thee.
+1 And these items likewise have dependent forms without f-: neeagh, etc.
+2 Taken from my edition Fockleyr Chregeen aa-orderit (2015):
+https://www.academia.edu/12154331/Fockleyr_Chregeen_aa-orderit_liorish_Max_W._Wheeler
+2
+my silliu, p. p. if you please; -ish, id. em.
+cha naillish, p. he wishes not, or his will is not for; -in, id. em.
+cha nailllhien, p. we would not wish, &c. S
+cha nailliu. See nilliu. S
+nailt, p. wouldst thou wish or be pleased to be so? -s, id. em. S
+nilliu, p. will ye or you be pleased; -ish, id. em. S
+baill, v. would wish, or rather be, pleased, or willing.
+baillish, he would, &c.
+baillishin, he, &c.; id. em.
+baillee, she would, &c.
+bailleeish, she would or will, &., id. em.
+bailleu, they would, &c., be
+bailleuish, they would or will be, &c., id. em
+baillym, I would, &c.
+baillyms, I would; id. em. 161.
+baillmayd, we would wish, or rather, be pleased or willing. [The presence of -mayd
+here is anomalous, treating baill as a verb. Even so -mayd is expected in a future
+tense, not a past one.]
+baillhien, we, &c.
+baillhienyn, we, &c.; id. em.
+bailt, v. thou wouldst be pleased, wish, or be willing of; -s, id. em.
+bailliu, you or ye would, &c.
+bailloo. See bailliu.
+bailliuish, you or ye; id. em.
+my billiu, v. if you please or choose.
+my billiuish, v. if you please, &c., em.
+cre-saillym, <adv.> [pro.] what I please; -s, id.
+cre-sailt, <adv.> [pro.] what thou pleasest; -s, id.
+cre-silliu, <adv.> [pro.] what you please or what is your pleasure.”
+In this example the preposition lesh appears in contracted forms, attached to the root -aill-, thus
+*s’aill lhiam → saillym. The construction is often used when the object of the preposition lesh
+is a personal pronoun, but examples (1)-(10) below have lexical noun phrases as prepositional
+object. The grammatical subject of the construction may be a noun phrase, as in (11)-(16). Or
+the grammatical subject of -aill- may be sentential; in all the examples the sentential subject is
+non-finite. When the subject of the included sentence is the same as the prepositional object of
+lesh, it is not explicit; the verb appears either in the gerund, or with y and lenition in the
+‘included object’ construction’ (31)-(32). In (24)-(30) the verb phrase is understood, in a
+relative clause/indirect question. When in the sentential element the subject is distinct from the
+objet of lesh, we generally get: -aill- [Subject dy Verbal noun (lenited)...], but in (38) we see
+just: -aill- [mish goll] ‘wish me to go’.
+AILL
+(1)	Agh my saillish	But if any man seem to be Lit. ‘if it pleases any man to
+dooinney erbee ve	contentious, we have no be contentious.........’
+streeuagh, cha vel lheid such custom,
+y cliaghtey ain,
+3
+AILL
+(2)	dy baillish Jee dy	would God I had died for	Here optative with dy and beign’s er gheddyn	thee, O Absalom, my son,	Jee ‘God’ as the object of baase er dty hon, O	my son	lesh. The grammatical Absalom, my vac, my	subject is the finite vac!	complement clause dy beign’s er gheddyn baase ‘that I should have died’.
+(3)	As tra baillish Herod	And when Herod would	[SGerund (Subject = object of v’er choyrt lesh magh	have brought him forth	lesh)] eh
+(4)	my saillish Jee arrys y	if God peradventure will	[SObj y Verbal Noun chur daue gys goaill-	give them repentance to	(Subject = object of lesh)] rish yn irriney	the acknowledging of the truth
+(5)	foast t’ad er ny hyndaa	yet are they turned about mygeayrt lesh stiurey	with a very small helm, beg fardalagh, raad	whithersoever the saillish yn mainshter	governor listeth.
+(6)	My saillish y Chiarn,	If the Lord will
+(7)	tra baillish y Chiarn	when the Lord would take	[SObj y Verbal Noun Elijah y ghoaill seose	up Elijah into heaven by a	(Subject = object of lesh)] gys niau lesh	whirlwind geaychassee
+(8)	Son baillish dooinney	For vain m[a]n would be	[SGerund (Subject = object of donney ve coontit	wise, though man be born	lesh)] creeney, ga dy vel eh er	like a wild ass's colt. ny ruggey myr lhiy yn assyl fadane.
+(9)	cha baillish my phobble	my people would not	hear	[SGerund (Subject = object	of geaishtagh rish my	my voice: and Israel	lesh)] choraa: as cha baillish	would not obey me.	[SObj y Verbal Noun Israel biallys y choyrt	(Subject = object of lesh)] dou
+(10)	Da nagh baillish ny	To whom our fathers	[SGerund (Subject = object of ayraghyn ain, ve	would not obey	lesh)] biallagh
+(11)	son cha naillish feill	he will not have sodden vroie voïd, agh feill aw	flesh of thee, but raw
+(12)	Cha naill-lhie[n] yn	We will not have this man dooinney shoh dy reill	to reign over us harrin.
+(13)	Oural as chebbal cha	Sacrifice and offering bailt’s	thou wouldest not
+(14)	As nee oo baarail yn	And thou shalt bestow	cre erbee is the grammatical argid er cre-erbee dy	that money for	subject of nailt. nailt	whatsoever thy soul lusteth after
+4
+AILL
+(15)	Son y vie shen baillym, cha vel mee jannoo: agh yn olk nagh naillym, shen ta mee jannoo.	For the good that I would I do not: but the evil which I would not, that I do.	The NP subject y vie shen ‘that good’ appears here as the antecedent to a relative clause ‘that I would [do]’
+(16)	Nish ec y feailley shen va’n kiannoort cliaghtey feaysley daue pryssoonagh erbee dy bailloo	Now at that feast the governor was wont to release unto the people a prisoner, whom they would	As in (15) the NP subject pryssoonagh erbee of bailloo appears as the antecedent of a relative clause
+(17)	Agh my saill-lhieu gynsaghey nhee erbee, lhig daue fênaght jeh ny sheshaghyn oc ec y thie: son te neu-yesh da ben dy loayrt sy cheeill.	And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.	[SGerund (Subject = object of lesh)]
+(18)	agh my sailts goll stiagh ayns bea, freill ny annaghyn	but if thou wilt enter into life, keep the commandments.	[SGerund (Subject = object of lesh)]
+(19)	Nailts goll seose gys Jerusalem,	Wilt thou go up to Jerusalem	[SGerund (Subject = object of lesh)]
+(20)	As hug ree Solomon da ben-reïn Sheba ooilley’n yeearree eck, cre-erbee baill ee shirrey	And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked	[SGerund (Subject = object of lesh)]
+(21)	as myr shen t’eh dy chur lesh ad gys y phurt baïlliu ’ve ayn.	and so he bringeth them unto the haven where they would be.	[SGerund (Subject = object of lesh)]
+(22)	Baillin v’er lheihys Babylon	We would have healed Babylon	[SGerund (Subject = object of lesh)]
+(23)	baill-lhien v’er vriwnys eh cordail rish y leigh ain hene.	and [we] would have judged according to our law.	[SGerund (Subject = object of lesh)]
+(24)	ta mee er choyrt eh da quoi-erbee saillym	I have given it unto whom it seemed meet unto me	[...da quoi erbee saillym [coyrt eh da]]
+(25)	As mannagh bee taitnys ayd aynjee, nee oo lhiggey j'ee goll raad saill ee.	And it shall be, if thou have no delight in her, then thou shalt let her go whither she will	[...raad saill ee [goll]]
+(26)	as jeanjee roo myr sailliu hene:	and do ye to them as is good in your eyes	[...myr sailliu [jeannoo roo]
+(27)	lhig cre saïllish cheet orrym	let come on me what will	[lhig cre saillish çheet orrym [çheet orrym]]
+(28)	t’eh dy hyndaa ad raad saillish hene	he turneth it whithersoever he will	[...raad saillish hene [çhyndaa ad]]
+(29)	As nee shiu baarail eh raad erbee dy nailliu	And ye shall eat it in every place	[...raad erbee dy nailliu [baarail eh]]
+5
+AILL
+(30)	Son ta ny boghtyn eu	For ye have the poor with	[tra erbee dy nailliu [ve mie kinjagh mêriu, as tra	you always, and	roo]] erbee dy nailliu, foddee whensoever ye will ye shiu ve mie roo	may do them good:
+(31)	dy hoilshaghey cre	to know what was in thine [SObj y Verbal Noun v’ayns dty chree, baïlt’s	heart, whether thou	(Subject = object of lesh)] e annaghyn y reayll,	wouldest keep his mannagh baïlt.	commandments, or no.
+(32)	Bailt mish y varroo?	Wilt thou kill me?	[SObj y Verbal Noun (Subject = object of lesh)]
+(33)	Quoi jeh’n jees sailliu	Whether of the twain will	[SSubject dy Verbal Noun] mee dy eaysley diu?	ye that I release unto you?
+(34)	Saillym oo dy chur dou	I will that thou give me	as (33) nish hene er claare	by and by in a charger the kione Ean Bashtey	head of John the Baptist
+(35)	Nailt eisht shin dy gholl Wilt thou then that we go	as (33) as dy ghaartlian ass eh? and gather them up? But As dooyrt eshyn, Cha	he said, Nay naillym
+(36)	Cre bailt mee dy yannoo What wilt thou that I shall as (33) er dy hon?	do unto thee?
+(37)	As eshyn baillish Paul	Him would Paul have to	as (33) dy gholl magh marish,	go forth with him
+(38)	Nailt’s mish goll dy	Shall I go and call to thee	[SSubj Gerund] lit. ‘Do you gheddyn dhyt boandyr	a nurse of the Hebrew	wish me to go to get for jeh mraane ny	women?	you...?’] Hebrewnee?
+2.	CAIR da
+‘ought to’, ‘is right for X to’
+This construction is not mentioned by Cregeen.
+(1)	Eisht dansoor Peddyr as ny ostyllyn elley, Then Peter and the other apostles gra, S’cair dooin ve ny s’biallee da Jee	answered and said, We ought to obey na da deiney.	God rather than men.
+(2)	Eisht dooyrt Paul, Ta mee my hassoo ec Then said Paul, I stand at Caesar's stoyl-briwnys Cesar, raad s’cair dou ve judgment seat, where I ought to be er my vriwnys judged
+3.	COOIDSAVE ~ GOOIDSAVE lesh
+“s’gooidsave, a. more or most vouchsafe. [?] G
+s’cooidsave, v. may vouchsafe. See sgooid.
+my chooidsave, v. if vouchsafe. C”
+Or ‘be pleasing to’. As the past tense is by chooidsave, the spelling s’cooidsave makes more
+sense, though s’gooidsave is much more frequent in the Bible. The form gooidsave occurs in
+dependent contexts. NB also optative dy gooidsave ‘may it please’. When the grammatical
+subject of cooidsave is a sentential complement, and the subject of the sentential complement
+is the same as the prepositional object of lesh, the construction differs from that seen with
+6
+AILL. Whereas with AILL we have [AILL, lesh+Object, Gerund, etc.] here we have
+[COOIDSAVE, lesh+Object, dy Verbal Noun etc.] (4)-(12), except in (13a), where the VP is
+just ve graysoil, and (13b), (14) and (15) where we have an ‘included object’ construction with
+y: myghin y hoilshaghey ‘to show mercy’, mish y livrey ‘to deliver me’, eh y hoilshaghey ‘to
+reveal him’. Here we may also find a finite clause as sentential subject of COOIDSAVE (16)-
+(17), of which there was only one example with AILL (1. (2))
+COOIDSAVE
+(1)	clynnee eh nyn goraa, my s’cooidsave lesh he will hear our voice, if it please him.
+(2)	my s’cooidsave lesh y ree	if it seem good to the king
+(3)	As ta mee gra dy gooidsave lhieu, as t’ad	It hath pleased them verily; and their ayns lhiastynys daue	debtors they are.
+(4)	son dy scooidsave lesh y Chiarn dy yannoo because it hath pleased the Lord to shiu e phobble	make you his people.
+(5)	Cre vees jeant rish y dooinney,	What shall be done unto the man whom s’gooidsave lesh y ree dy hroggal gys y	the king delighteth to honour? stayd smoo dy ard-ooashley?
+(6)	Oh dy beagh my accan aym! as dy jinnagh	Oh that I might have my request; and Jee cur dou my vian! Eer dy gooidsave	that God would grant me the thing that I lesh Jee dy my stroie	long for, Even that it would please God to destroy me
+(7)	Agh tra by-chooidsave lesh Jee, ren mish y But when it pleased God, who reih veih brein my vayrey, as deie eh	separated me from my mother's womb, orrym liorish e ghrayse, Dy hoilshaghey e	and called me by his grace, To reveal Vac aynym’s	his Son in me
+(8)	Shen-y-fa ta shin myrgeddin dy kinjagh	Wherefore also we pray always for you, goaill padjer er nyn son eu, dy gooidsave	that our God would count you worthy lesh y Jee ain dy choontey shiu feeu jeh’n	of this calling eam shoh,
+(9)	cha jean ad scuirr, derrey s’gooidsave	and will not depart, till the most High lesh y Chiarn dy choyrt feaysley dauesyn	shall behold to judge righteously
+(10)	Shen-y-fa nish, dy gooidsave lhiat dy	Therefore now let it please thee to bless vannaghey thie dty harvaant	the house of thy servant
+(11)	shoh cronk Yee, ayn s’gooidsave lesh dy	this is God's hill, in the which it chummal	pleaseth him to dwell:
+(12)	Son s’gooidsave lhieusyn jeh Macedonia	For it hath pleased them of Macedonia as Achaia, dy yannoo chaglym ennagh	and Achaia to make a certain contribution
+(13)	a.	as beem’s graysoil dauesyn s’gooidsave	and [I] will be gracious to whom I will lhiam ve graysoil,	be gracious, b.	as nee’m myghin y hoilshaghey dauesyn	and will shew mercy on whom I will s’gooidsave lhiam myghin y hoilshaghey.	shew mercy.
+(14)	lhig da my vioys ve dy mooar soit jeh	so let my life be much set by in the eyes liorish y Chiarn, as dy gooidsave lesh mish	of the Lord, and let him deliver me out y livrey ass dy chooilley ghaue	of all tribulation
+(15)	eshyn da s’gooidsave lesh yn Mac eh y	he to whomsoever the Son will reveal hoilshaghey.	him.
+(16)	foddee dy gooidsave lesh Jee dy vod oo	peradventure it will please God thou gwee mollaght orroo er my hon veih shen	mayest curse me them from thence.
+7
+COOIDSAVE
+(17) Son s’cooidsave lesh yn Ayr, dy jinnagh	For it pleased the Father that in him
+slane towse y dooghys flaunyssagh	should all fulness dwell;
+cummal aynsyn;
+4.	COOIN lesh
+“s’cooin-lhesh, p. he remembers. C
+s’cooin-lhee, p. she remembers. C
+s’cooin-lhieu, p. they remember, and you or ye remember. C
+s’cooin-lhiam, p. I remember. C
+s’cooin-lhiat, p. thou rememberest. C
+s’cooin-lhien, p. we remember. C”
+There are no examples of this construction in the Manx Bible.
+5.	CUMMEY lesh
+“scummey, adv. what matter, no matter, would not matter.”
+choud as t’eh gra ayns e chree, cha vel	while he doth say in his heart, Tush, thou
+aggle orrym s’cummey lhiat’s, O Yee, er y God carest not for it?
+hon.
+6.	DOILLEE da, lesh
+s’doillee
+“by-ghoillee, adv. because of difficulty or hardness; Ex. xiii. 15: As haink eh gy-
+kione, tra dy by-ghoillee lesh Pharaoh yn raad y lhiggey dooin, dy ren y Chiarn stroie
+ooilley’n chied er ny ruggey ayns cheer Egypt, chammah yn chied er ny ruggey jeh
+dooinney as baagh. And it came to pass, when Pharaoh would hardly let us go, that
+the Lord slew all the firstborn in the land of Egypt, both the firstborn of man, and the
+firstborn of beast.”
+Cregeen’s gloss ‘because of difficulty or hardness’ is, I think, off the mark, inasmuch as he
+misses the fact that by here is just the past tense of the copula, while doillee, is, naturally, an
+adjective. From the few Biblical examples it is unclear whether there is any difference between
+s’doillee da and s’doillee lesh.
+DOILLEE
+(1)	s’doillee lesh dy hroggal eh gys e veeal.	it grieveth him to bring it again to his mouth
+(2)	S’doillee dhyt brebbal noi ny jilg (Acts 9.5)	it is hard for thee to kick against the pricks
+(3) S’doillee te dhyt dy vrebbal noi ny jilg it is hard for thee to kick against the pricks.
+(Acts 26.14)
+7.	EGIN da
+“shegin, v. (shyin) must, shall.
+cha nhegin, v. (sounded neign), must not. S
+beign da, v. that he must; Mat. xvi. 21: Veih yn traa shen magh ren Yeesey toshiaght
+dy hoilshaghey da e ostyllyn, kys dy beign da goll seose gys Jerusalem. From that
+time forth began Jesus to shew unto his disciples, how that he must go unto
+Jerusalem.”
+8
+Lit. ‘be necessary to’, ‘be obligatory to’. The sentential subject of EGIN is non-finite, with
+gerund (1)-(8), or with Direct Object+y+Verbal Noun, in the ‘included object’ construction
+(9)-(13). In (14) we see a gerund construction with a subject distinct from the prepositional
+object of da.
+EGIN
+(1)	son eisht beign diu dy jarroo goll ass y theihll	for then must ye needs go out of the world
+(2)	Dy beign dou goll dy baase mayrt, cha nobbin oo.	Though I should die with thee, yet will I not deny thee
+(3)	shegin diu ve currit dy baase.	ye shall die.
+(4)	Cha nhegin fys v’ec Jonathan er shoh	Let not Jonathan know this
+(5)	er-yn-oyr dy nhegin dou faagail eh da’n dooinney hig my lurg.	because I should leave it unto the man that shall be after me.
+(6)	Cha nhegin daue cummal ny sodjey ayns shen.	They shall no more sojourn there
+(7)	Son ta mee gra riu, Dy nhegin da shoh ny ta scruit, ve foast cooilleenit aynym’s,	For I say unto you, that this that is written must yet be accomplished in me
+(8)	Shegin dooys gobbraghey ny obbraghyn echeysyn t’er my choyrt,	I must work the works of him that sent me
+(9)	Shegin dhyt’s phadeyrys y yannoo reesht	Thou must prophesy again
+(10)	shegin dooinyn uss y ooashlaghey.	we must worship thee.
+(11)	cha beign daue nyn gurrym y aagail	they might not depart from their service
+(12)	Nagh beign da Creest ny reddyn shoh y hurranse?	Ought not Christ to have suffered these things?
+(13)	Vel oo er yarrood ny saraghyn hug dt'ayr dhyt, dy beign dhyt ben y phoosey jeh dty chynney hene?	Dost thou not remember the precepts which thy father gave thee, that thou shouldest marry a wife of thine own kindred?
+(14)	Shegin da myrgeddin goo mie ve echey vouesyn	Moreover he must have a good report of them. [Is this lit. ‘it is necessary to him (for) a good report to be at him’, or ‘it is necessary to a good report to be at him’? The positioning of myrgeddin makes the latter unlikely.
+(15)	Ta’n garey-feeyney va lhiam’s kiongoyrt rhym: shegin da thousane ve ayd’s, O Solomon	My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand [lit. it is necessary to a thousand to be at
+you...’]
+8.	ERREE da
+“erree, a. latter end of, become of, end of.
+s’erree, a. how end, become of, meaneth; Acts, ii. 12: As v’ad ooilley fo atchim as
+imnea, gra yn derrey yeh rish y jeh elley, Cre s’erree da shoh? And they were all
+amazed, and were in doubt, saying one to another, What meaneth this?;
+befallen, how will the end be; Deu. xxix. 28: As d’astyr y Chiarn ad ass y cheer oc
+ayns e arg, as ayns e chorree, as ayns e yymmoose vooar, as hilg eh magh ad gys
+9
+cheer elley, myr s’erree daue jiu. And the Lord rooted them out of their land in anger,
+and in wrath, and in great indignation, and cast them into another land, as it is this
+day. E”
+Though Cregeen labels erree an adjective, it might as well, or better, be seen as a noun
+‘outcome’, ‘consequence’, etc.
+Eshyn er-y-fa shen ta mee treishteil dy Him therefore I hope to send presently, so soon
+chur hiuish dy gerrit, cha leah as nee’m as I shall see how it will go with me.
+fakin cre s’erree dou
+FEEAGH see s.v. FEEU
+9.	FEER da
+“sheer [or sheeir], d. true, sure, or about to; as, sheer loayrt er nyn son (about or sure
+to speak for us). Litany.
+beeir, adv. as, my beeir da (if what he says be true or to be heeded); the preterit or
+past tense of sheeir.”
+Lhig dooin eh y cherraghey lesh baase	Let us condemn him with a shameful death:
+scammyltagh: son my sheer da hene bee	for by his own saying he shall be respected.
+soiaghey jeant jeh
+Son aynsyn ta shin bio, as bioyr, as baghey; For in him we live, and move, and have our
+myr sheer da paart jeh ny bardoonee eu	being; as certain also of your own poets
+hene ta gra, Son ta shinyn neesht jeh’n	have said, For we are also his offspring.
+cluight echeysyn
+10.	FEEU da
+“sheeu, s. is worth, worthy.
+cha n’eeu, a. not worth, worthless; <Job, xviii. 12> [Cregeen’s citation belongs to:
+neeu, a. reduced to want, undone; Job, xviii. 12: Nee'n niart echey goll neeu, as bee
+toyrt-mow chion ec e lhiattee. His strength shall be hungerbitten, and destruction shall
+be ready at his side.]. F
+beeau, (from by-fieau) worth, would be worth; syn. with beeagh.”
+as cre sheeu dooys ve bio?	and why should I live? [Lit. ‘what is it
+worth to me to be alive?’]
+11.	FEEAGH da, (one example of lesh)
+“s’feeagh, a. of how much value or worth, comp. and sup. F
+sheeagh, a. is worth; in value.
+cha neeagh, s. not worth, good for nothing. See also cha neeu. This word is written
+nieeagh (would wash), Jer. xiii. 10: Bee yn pobble mee-chrauee shoh, ta gobbal dy
+eaishtagh rish my ghoan, ta gimmeeaght ayns roonid nyn gree hene, as geiyrt er
+jeeghyn elley dy hirveish ad, as dy chur ooashley daue, bee ad eer myr y cryss shoh,
+nagh nieeagh veg. This evil people, which refuse to hear my words, which walk in the
+imagination of their heart, and walk after other gods, to serve them, and to worship
+them, shall even be as this girdle, which is good for nothing. F
+beeagh, v. would be worth.” [or ‘was worth’]
+10
+Sheeu and sheeagh seem to be the same in meaning, though sheeagh is much more widely
+attested. The first group of examples below (1)-(9) illustrates sheeagh with no complement,
+that is, as ‘is worth’, not specifying to whom. The last example (14) is the sole one with sheeagh
+lesh.
+FEEAGH
+(1)	son wheesh dy argid as sheeagh eh ver eh dou eh	for as much money as it is worth he shall give it me
+(2)	sheeagh y magher kiare cheead shekel dy argid	the land is worth four hundred shekels of silver
+(3)	ver eh yn wheiggoo ayrn jeh ny sheeagh eh lesh	he shall add thereto the fifth part thereof [lit. ‘he shall bring the fifth part of what it is worth’]
+(4)	agh nish sheeagh uss jeih thousaneyn j’inyn:	but now thou art worth ten thousand of us
+(5)	verym dhyt ny sheeagh eh ayns argid	I will give thee the worth of it in money
+(6)	Ta ben sheeoil as dooie gioot veih’n Chiarn: as s’mooar sheeagh yn aigney bwaagh-beasagh!	A silent and loving woman is a gift of the Lord; and there is nothing so much worth as a mind well instructed.
+(7)	cre sheeagh e niee?	what availeth his washing?
+(8)	As ghow eh crown y ree oc jeh e chione, (beeagh talent dy airh)	And he took their king's crown from off his head, the weight whereof was a talent of gold
+(9)	as cur-my-ner, va’n cryss loau, cha beeagh eh veg	and, behold, the girdle was marred, it was profitable for nothing
+(10)	cre sheeagh dou yn eiraght shoh?	what profit shall this birthright do to me?
+(11)	cre sheeagh dou my vioys?	what good shall my life do me?
+(12)	Cre sheeagh eh, my vraaraghyn, da dooinney dy ghra dy vel credjue echey, as nagh vel obbraghyn echey	What doth it profit, my brethren, though a man say he hath faith, and have not works? [lit. ‘what is it worth... to a man to say that he has faith...’?]
+(13)	Cre sheeagh berchys da’n dooinney nagh lhig e chree da ymmyd y yannoo jeh;	Riches are not comely for a niggard [lit. ‘of what value is wealth to a man whose heart does not let him make use of it?’]
+(14)	As cha beeagh lesh e laueyn y choyrt er Mordecai ny-lomarcan	And he thought scorn to lay hands on Mordecai alone
+12.	IONE da
+“shione, v. do or doth know.
+cha nhione or nione, v. know not. Prov. Share yn olk shione dooin, na yn olk nagh
+nhione dooin. [Better the evil that we know than the evil which we know not.] S
+bione, v. knew, did know, the past tense of shione.”
+It is conceivable that the root of IONE is the same as yioin or yoin ‘knowing, knowledge’,
+mentioned below, which occurs in a different construction, but is included here in casethere
+may be a more than superficial connexion. The grammatical subject of IONE is often a noun
+phrase, as in (1)-(12) below; the knowledge may be carnal, as in (13). Or the grammatical
+subject is an indirect question (14)-(17).
+11
+IONE
+(1)	my shione dhyt deiney erbee aghtal ny mast’ oc	if thou knowest any men of activity among them
+(2)	Agh shione dooys dty oayll, as dty gholl magh, as dty heet stiagh, as dty eulys m’oï.	But I know thy abode, and thy going out, and thy coming in, and thy rage against me.
+(3)	As reesht dob eh lesh loo, Cha nione dou yn dooinney	And again he denied with an oath, I do not know the man.
+(4)	Ny-yeih cha nione diuish eh; agh shione dooys eh: as dy n’yiarrin nagh nione dou eh, veign my vreagerey goll riuish: agh shione dooys eh, as ta mee freayll yn raa echey.	Yet ye have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
+(5)	Cha nhione dou oo.	I have not seen thee. [lit. ‘Thou art not known to me.’]
+(6)	as nagh nhione diu ny cowraghyn oc?	and do ye not know their tokens?
+(7)	Pobble nagh nhione dooys: nee m’y hirveish.	A people whom I have not known: shall serve me.
+(8)	as shione da’n ghrian yn traa dy lhie	and the sun knoweth his going down
+(9)	Shione da’n dow yn er s’liesh eh	The ox knoweth his owner
+(10)	Lhig dooin geiyrt da jeeghyn elley (nagh bione dhyt) as lhig dooin shirveish ad.	Let us go after other gods, which thou hast not known, and let us serve them;
+(11)	Shoh myr ren Samuel roish my bione da yn Chiarn	Now Samuel did not yet know the Lord [lit. ‘thus did Samuel before the Lord was known to him’]
+(12)	dy jarroo ga dy bione dooin Creest ayns yn eill, foast cha nhione dooin eh myr shoh ny-sodjey.	yea, though we have known Christ after the flesh, yet now henceforth know we him no more.
+(13)	As bione da Adam Eve e ven, as ren ee giennaghtyn, as dymmyrk ee Cain	And Adam knew Eve his wife; and she conceived, and bare Cain
+(14)	shione dou cre t’oc ayns nyn smooinaghtyn dy yannoo	I know their imagination which they go about [lit. ‘I know what is at them in their thoughts to do’]
+(15)	Son shione da cre jeh ta shin jeant	For he knoweth whereof we are made
+(16)	cha nhione daue cre roish t’ad dy snapperal	they know not at what they stumble
+(17)	As dreggyr eh mee, as dooyrt eh, Nagh nhione dhyt, cre t’er ny hoiggal lioroo shoh? As dooyrt mee, Cha nhione, my hiarn.	And he answered me and said, Knowest thou not what these be? And I said, No, my lord.
+yioin
+“nyn yioïn or yioyn, s. their, &c. knowing or knowledge; Isa. lvii. 9: Hie oo gys y ree
+lesh dty ooillyn millish as lesh ymmodee dty spiceyn costal, as hug oo dty haghteryn
+foddey ’sy yioyn, as ren oo ginjillaghey oo hene dy jarroo gys joan ny hooirey. And
+thou wentest to the king with ointment, and didst increase thy perfumes, and didst
+12
+send thy messengers far off, and didst debase thyself even unto hell;
+their, &c. purpose; Acts, xxvii. 13: As feaysley lesh geay meeley jiass sheiltyn dy row
+oc nish nyn yioïn, hiauill ad ry lhiattee Crete. And when the south wind blew softly,
+supposing that they had obtained their purpose, loosing thence, they sailed close by
+Crete.
+jeh yioïn, adv. knowingly.
+yoin. See yioyn; Pro. xxiv. 28: Ny bee feanish noi dty naboo jeh dty yoïn, as ny jean
+foalsaght lesh dty veillyn. Be not a witness against thy neighbour without cause; and
+deceive not with thy lips.”
+I believe Cregeen mixes up two unrelated (or only distantly related) words here. One is yioyn,
+used in the expression foddey ’sy yioyn ‘far off, far away, in the distance’; it seems doubtful
+that this has anything to do with ‘knowledge’ or ‘purpose’. The other word is yioin or yoin,
+which is used in the expression jeh+Possessive+yioin ‘with (one’s) knowledge, consciously,
+deliberately; wilfully’. The use of yioin in Acts, xxvii. 13 cited above by Cregeen seems a bit
+different: sheiltyn dy row oc nish nyn yioin ‘supposing that they had obtained their purpose’,
+but fits if the focal sense of yioin is ‘purpose’, so jeh e yioin is ‘on purpose, purposely’. The
+examples are all of e yioin ‘his purpose’ or nyn yioin ‘their purpose’ where mutation is
+expected. The base could be *jioin or *gioin.
+YIOYN
+ta ooilley dty chummaltee ayns geulaghyn all that are found in thee are bound
+dy cheilley, t’ad er-chea foddey ’sy yioyn together, which have fled from far
+YIOIN
+Son va’n cretoor er ny injillaghey gys fardail, cha nee jeh e yioin, agh kyndagh rishyn ren eh y injillaghey.	For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope.
+Son my nee mayd peccah jeh nyn yoin, lurg dooin v’er gheddyn toiggal jeh’n irriney, cha vel nyn gour oural arragh son peccaghyn	For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins
+As my ta sleih ny cheerey jeh nyn yoin follaghey nyn sooillyn veih’n dooinney,	And if the people of the land do any ways hide their eyes from the man
+Dy vod eshyn ta marroo persoon erbee trooid taghyrt, as cha nee jeh e yoin, cosney huc:	That the slayer that killeth any person unawares and unwittingly may flee thither
+As lhig-jee myrgeddin da lane-dhurn nish as reesht tuittym jeh nyn yoin er e son,	And let fall also some of the handfuls of purpose for her,
+Nee dooinney keeayllagh smooinaghtyn er hene: agh cha bee yn dooinney quaagh mooarlagh dauntit lesh aggle, eer tra t’eh er n’yannoo er e yoïn hene.	A man of counsel will be considerate; but a strange and proud man is not daunted with fear, even when of himself he hath done without counsel. [NB a different construction here, with er e yoin hene corresponding to ‘without counsel’.]
+13
+13.	LAIK lesh
+“s’liack, v. do or doth like. L
+by-liack or by-laik, adv. See also bliack, 167. did or didst like; Gen. xlviii. 17: As tra
+honnick Joseph, dy dug e ayr e laue yesh er kione Ephraim, cha by-laik lesh eh. And
+when Joseph saw that his father laid his right hand upon the head of Ephraim, it
+displeased him.
+b[’]liack, v. did or didst like.”
+We find my instead of by in one example (3).
+LAIK		
+(1)	honnick Esau nagh by-laik lesh Isaac e ayr inneenyn Chanaan	Esau seeing that the daughters of Canaan pleased not Isaac his father
+(2)	Fow dou ee, son s’laik lhiam ee dy mie.	Get her for me; for she pleaseth me well.
+(3)	As hie eh sheese dy loayrt rish y ven; as my-laik lesh Samson ee dy mie	And he went down, and talked with the woman; and she pleased Samson well
+(4)	tar as dell roo myr share s’liack lhiat	come and deal with them as seemeth good unto thee
+14.	LEAYR da, lesh
+“leayr or lheear, a. clear, evident.
+[s’leayr], v. seeing, perceiving. See Remarks 167 and 168. [i.e. dependent leayr, past
+tense bleayr]
+b[’]leayr, v. saw clearly, did see.”
+Thus s’leayr da (or lesh) = ‘is visible to’. One example only of lesh (8).
+LEAYR		
+(1)	Nish va sooillyn Israel moal lesh eash, myr shen nagh bleayr da dy mie	Now the eyes of Israel were dim for age, so that he could not see.
+(2)	As cha bleayr yn derrey yeh yn jeh elley	They saw not one another [for ‘da’n jeh elley’?]
+(3)	as ren ee girree my b’leayr da sleih y cheilley	and she rose up before one could know another
+(4)	as cha lheear dooin foast cre vees mayd	and it doth not yet appear what we shall be
+(5)	as yeeagh deiney yn ard-valley geiyrt urree, derrey v’ee ersooyl sheese jeh’n clieau, as derrey v’ee er n’gholl shaghey’n coan, as nagh bleayr daue ee ny sodjey.	and the men of the city looked after her, until she was gone down the mountain, and till she had passed the valley, and could see her no more.
+(6)	Son cha vod shiu geddyn magh diunid cree dooinney, chamoo s’lheear diu ny reddyn t’eh dy smooinaghtyn	For ye cannot find the depth of the heart of man, neither can ye perceive the things that he thinketh
+14
+LEAYR
+(7)	ta dorryssyn y gharey jeight, nagh	the garden doors are shut, that no man can
+lheear da dooinney erbee shin,	see us,
+(8)	Agh cha b’leayr lesh Ahijah ee, son But Ahijah could not see; for his eyes were
+va e hooillyn er hassoo ’sy chione,	set by reason of his age.
+kyndagh rish e eash
+15.	LESH
+“s’l[ie]sh or s’lesh, v. belonging to, owning, owneth, &c. L
+b[’]lesh or by-liesh, s. m. ownership.
+by-liesh, adv. belonging to, owner or owners of.
+by-lesh, his, belonging to him; -yn, id. em; Obadiah, 14: Chamoo lhisagh oo
+v’er hassoo ’syn aa-gherrit, dy yiarey jeh adsyn by leshyn ren scapail; chamoo
+lhisagh oo v’er livrey seose adsyn by-leshyn va er-mayrn ’sy laa seaghnagh Neither
+shouldest thou have stood in the crossway, to cut off those of his that did escape;
+neither shouldest thou have delivered up those of his that did remain in the day of
+distress.
+b[’]leshin, v. belonging to him.
+by-lhieu, adv. belonging to them.”
+This construction differs from the remainder in this article in that the copula directly governs
+the preposition lesh. The item possessed is the subject of the copula s’, and the possessor is the
+object of lesh. In the Bible there are only 3rd person examples, singular and plural. We find
+sometimes my instead of s’ (9)-(10).
+LESH
+(1)	Liorish y dooinney s’lesh ad shoh, ta mish torragh	By the man, whose these are, am I with child
+(2)	Er yn aght cheddin nee ny Hewnyn ec Jerusalem kiangley yn dooinney s’lesh yn cryss shoh	So shall the Jews at Jerusalem bind the man that owneth this girdle
+(3)	Son hass liorym’s noght ainle Yee, quoi s’lesh mee, as eh ta mee dy hirveish.	For there stood by me this night the angel of God, whose I am, and whom I serve.
+(4)	as bee mayd scammylt as oltooan dauesyn ooilley s'lhieu shin	and we shall be an offence and a reproach to all them that possess us
+(5)	Nee drogh annym stroie eshyn by-lesh eh	A wicked soul shall destroy him that hath it
+(6)	Ta olk vooar ta mee er vakin fo’n ghrian, eer berchys freilt gys yn assee ocsyn by-lhieu ad.	There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.
+(7)	Shione da’n dow yn er s’liesh eh	The ox knoweth his owner
+(8)	Nee’n dooinney s’liesh yn ooig lhiasaghey er y hon, as ver eh argid dasyn by-liesh ad, as bee’n baagh marroo echey hene.	The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.
+(9)	As my vees eh callit [trooid lhag- chiarail,] shegin da eisht lhiasaghey y yannoo dasyn my-liesh eh.	And if it be stolen from him, he shall make restitution unto the owner thereof.
+15
+LESH
+(10) As my nee dooinney cooid erbee y
+eeasaght veih e naboo, as my hig assee
+er, ny my yiow eh baase, gyn y dooinney
+my-liesh eh ve kionfenish; nee eh, son
+shickyrys, jannoo mie eh.
+And if a man borrow ought of his
+neighbour, and it be hurt, or die, the owner
+thereof being not with it, he shall surely
+make it good.
+16.	LHIASS da
+“s’liass, v. need, needeth, needs, &c. L
+shlaiss, adv. needs.
+lhiass, adv. needs; 2 Tim. ii. 15: Bee uss imneagh dy phrowal oo hene firrinagh gys
+Jee, obbree nagh lhiass nearey ’ghoaill, rheynn dy kiart yn goo dy ynrickys. Study to
+shew thyself approved unto God, a workman that needeth not to be ashamed, rightly
+dividing the word of truth.
+liass, adv. See lhiass. S
+lhias dou, adv. need I[?]”.
+The grammatical subject seems always to be sentential, with a gerund (1)-(7), or
+object+y+verbal noun (‘included object’ construction) (8). That is, the construction is not used
+for needing a thing, which is e.g. ta feme aym er red ennagh ‘I need something’.
+LHIASS
+(1)	My ta Jee er lhie e laue orrym, cre	Why do ye persecute me as God? [lit. ‘if s’liass diuish?	God has laid his hand on me, why need you (do so)?’]
+(2)	As dooyrt y ree rish Absalom, Cha	And the king said to Absalom, Nay, my lhiass, my vac, ny lhig dooin ooilley	son, let us not all now go goll nish
+(3)	Cha lhiass dhyt loayrt ny sodjey	Why speakest thou any more of thy mychione dty chooishyn.	matters? [lit. ‘it is not necessary for you to speak further...’]
+(4)	Cha lhiass daue goll roue.	They need not depart.
+(5)	cha lhiass dou scrieu hiu	it is superfluous for me to write to you
+(6)	Agh cha lhiass dou boggyssagh veg	It is not expedient for me doubtless to sodjey	glory [lit. ‘it is not necessary for me to boast any further’]
+(7)	Son veueish hie feiyr goo Yn Chiarn	For from you sounded out the word of the magh, cha nee ny lomarcan ayns	Lord, not only in Macedonia and Achaia, Macedonia as Achaia; agh myrgeddin	but also in every place your faith to ayns dy chooilley voayl ta’n credjue	Godward is spread abroad; so that we need euish ayns Jee er ny skeayley dy lhean;	not to speak any thing. [lit. ‘... so that we myr shen nagh lhiass dooin cheet	do not need to repeat it.’] harrish.
+(8)	Cha lhiass da dooinney erbee gra, Cre	A man need not to say, What is this? ta shoh?
+(9)	Lhiass dooin ny-sodjey shin hene y	Do we begin again to commend voylley?	ourselves? [lit. ‘do we need to praise ourselves any further?’]
+16
+17.	LHIG
+“’slhig, v. and let or permit. L
+cha b[’]lhig, v. 167. will not let or permit.
+cha b[’]lhigagh, v. would, &c. not let, &c.”
+There are no Bible examples of the copular construction Cregeen appears to be alluding to,
+though it looks as if he may be confusing two possible constructions: cha lhig ‘will not let’, in
+which lhig is the dependent future of the regular verb lhiggey ‘allow, let’ and cha lhigagh
+‘would not let’ has the dependent conditional of lhiggey, on the one hand, and cha b’lhig, a
+copular construction, which would mean ‘was not permitted, would not be permitted’. The
+verbal cha lhig, cha lhigagh, etc. is widely attested in the Bible.
+18.	LHOYS da
+s’lhoys
+“cha lhoys, v. dare not. <S>
+loys dhyt, p. darest thou.
+b’loys, v. durst, darest.
+by-loys, v. 167. durst or darest. See b’loys.
+my v[’]loys, v. if darest or durst. B”
+Cregeen omits to mention the positive present tense form of this construction, though it is well
+attested.
+LHOYS
+(1)	heeyn eh eh-hene myr lion; as myr shenn lion; quoi s’loys y ghoostey eh?	he couched as a lion, and as an old lion; who shall rouse him up? [lit. ‘Who dares rouse him?’, though one might expect s’loys da, as in the next example.]
+(2)	Quoi s’loys da dorryssyn e veeal y osley?	Who can open the doors of his face? [lit. ‘Who dares open the doors of his lip?’]
+(3)	Kys s’loys dou arg Yee ’ghoaill thie hym?	How shall I bring the ark of God home to me? [lit. ‘How dare I bring the ark...?’]
+(4)	Lhie dty laue er my s’loys dhyt	Lay thine hand upon him [lit. ‘Lay thy hand on him if thou darest’.]
+(5)	as quoi s’loys da m’y ghreinnaghey?	and who will appoint me the time? [lit. ‘Who dares incite me?’]
+(6)	ayns cre-erbee s’loys da dooinney erbee ve dunnal... s’loys dooys ve dunnal myrgeddin.	whereinsoever any is bold ... I am bold also.
+(7)	Kys by-lhoys da dellal rish y chuyr ain, myr rish streebagh?	Should he deal with our sister as with an harlot?
+(8)	As cha by-lhoys da fockle d’ansoor y choyrt da Abner, son v’eh ayns aggle roish	And he could not answer Abner a word again, because he feared him. [lit. ‘he dared not give a word of answer to Abner...’]
+(9)	haink daa ghooinney va drogh- spyrrydyn ayndoo magh ny whail, veih mastey ny hoiaghyn, as cha keoi shen v’ad, nagh by-lhoys da dooinney erbee goaill yn raad shen	there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way
+(10)	Agh cha hoig ad yn raa shen, as cha by- lhoys daue fenaghtyn jeh	But they understood not that saying, and were afraid to ask him
+17
+LHOYS
+(11)	Lhoys da fer erbee eu, as cooish echey noi fer elley, goll gys y leigh fenish y vooinjer neuchairagh, as cha nee fenish ny nooghyn?	Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
+(12)	Son cha lhoys dooin jannoo shin hene jeh’n earroo ocsyn	For we dare not make ourselves of the number
+(13)	As huitt aggle as creau orroo, myr shen nagh row dooinney erbee by-loys da uirraght ayns shilley da e naboo	And fear and trembling fell upon them, so that there was no man that durst abide in the sight of his neighbour
+(14)	son raad t’ou dty yoarree cha by-loys dhyt fosley dty veeal.	for where thou art a stranger, thou darest not open thy mouth [NB by-loys with present sense here.]
+(15)	cha by-loys da’n derrey yeh e heaghyn y hoilshaghey da’n jeh elley	yet durst not one shew another his grief.
+(16)	cha by-loys dou my smooinaghtyn y hoilshaghey.	[I] durst not shew you mine opinion
+(17)	myr shen nagh by-loys da beisht erbee shassoo roish	so that no beasts might stand before him,
+19.	LIOOAR da
+“s[’]lioar or s[’]liooar, adv. hardly enough, enough, what sufficeth; John, xiv. 8:
+Dooyrt Philip rish, Hiarn, jeeagh dooin yn Ayr, as s’lioar dooin eh. Philip saith unto
+him, Lord, shew us the Father, and it sufficeth us.
+by-lioar or by[-]liooar, adv. 1[67], would be enough. See also blioar.
+b[’]lioar, v. it would, &c. be enough.”
+There are no Bible examples of the past tense of this construction.
+LIOOAR
+(1) As dreggyr Yeesey, as dooyrt eh, Slioar	And Jesus answered and said, Suffer ye thus far.
+shoh hene	
+(2) s’liooar eh, ta’n oor er jeet	it is enough, the hour is come
+(3) ’Slioar dhyt; ny loayr rhym arragh	Let it suffice thee; speak no more unto me
+jeh’n chooish shoh	of this matter.
+(4) Nagh ’slioar dooin peccah Pheor?	Is the iniquity of Peor too little for us? [One would expect rather Nagh lioar here.]
+(5) Daue shoh hug y stroieder raad, myr	Unto these the destroyer gave place, and
+v’eh ’syn ammys oc: son s’lioar ve daue	was afraid of them: for it was enough that
+agh blass jeh e yymmoose y gheddyn.	they only tasted of the wrath.
+20.	MERG da
+“smerg, in. wo, a denunciation of calamity.”
+Probably the sense entails that MERG occurs in present independent only.
+MERG
+(1)	S’merg dooinyn! son ta shin spooillit	Woe unto us! for we are spoiled
+(2)	S’merg daue; son t’ad er n’immeeaght	Woe unto them! for they have gone in the
+ayns raad Cain,	way of Cain
+18
+MERG
+(3)	Smerg dooys! cre’n erree hig orrym Woe is me! for I am undone [lit. ‘woe unto
+me! what outcome will come on me?]
+(4)	Smerg jeeish ta beishtagh as neu-	Woe to her that is filthy and polluted
+ghlen
+21.	MIAN lesh
+s’mian
+“by-vian, v. would fain; Luke, xv. 16: As by-vian lesh e volg y lhieeney lesh ny
+bleaystyn va ny muckyn dy ee: as cha row dooinney erbee hug cooney da. And he
+would fain have filled his belly with the husks that the swine did eat: and no man gave
+unto him.”
+S’mian lesh lit. = ‘it is desire with him’. There are no further Bible examples.
+22.	MIE lesh
+SHARE lesh, da
+“cha çhare-lhiam, I would not rather. S. [Something odd here. We expect cha bare
+lhiam.]
+nagh nhare, a. is it not better or best. S
+bare, a. best, the <future> [past] of share.
+ny bare, better.
+bare da, best for him.
+bare dasyn, best for him, em.
+bare j’ee, best for her.
+bare j’eeish, best for her, em.
+bare daue, best for them.
+bare dauesyn, best for them, em.
+bare dou, best for me.
+bare dooys, best for me, em.
+bare dooin, best for us.
+bare dooinyn, best for us, em.
+bare dhyt, best for thee.
+bare dhyts, best for thee, em.
+bare diu, best for you or ye.
+bare diuish, best for you, em.
+bare lesh, he would rather.
+bare leshyn, he would rather, em.
+bare lhee, she would rather.
+bare lheeish, she would rather, em.
+bare lhieu, they would rather.
+bare lhieusyn <or lhieuish>, they, &c., would rather, em.
+bare lhiam, I would rather; Prov. “Cha row rieau bare-lhiam jeant magh.” I
+would rather was never satisfied.
+bare lhiams, I would rather, em.
+bare lhiat, thou wouldst rather.
+bare lhiats, thou wouldst rather, em.
+bare [lhieuish, you] &c., would rather, em.
+bare lhien, we would rather.
+bare lhienyn, we would rather, em.”
+19
+Cregeen does not mention explicitly the s’mie lesh construction, but only the comparative
+version share lesh ‘prefers’ and share da ‘is better for’. There are a number of different
+constructions for the sentential subjects of MIE/SHARE, as commented on below.
+MIE
+(1)	Jean myr s’mie lhiat.	Do whatsoever seemeth good unto thee	
+(2)	Ta’n sleih cairal fakin shoh, as s’mie lhieu eh	The righteous see it, and are glad	Subject is a noun phrase (pronoun eh)
+(3)	Share lhiam myghin na oural	I will have mercy, and not sacrifice,	Subject is a noun phrase
+(4)	Agh immee-jee shiuish, as ynsee-jee cre ta dy ve toiggit liorish y raa shoh, S’bare lhiam myghin na oural:	But go ye and learn what that meaneth, I will have mercy, and not sacrifice: [Typo for Share lhiam..., cf. above example?]	Subject is a noun phrase
+(5)	myr shen dy ren eh jeh reesht saagh elley, myr s’mie lesh hene dy yannoo eh.	so he made it again another vessel, as seemed good to the potter to make it	Subject is VP with dy+ verbal noun (understood subject = object of lesh)
+(6)	As s’mie lhiam er y choontey euish, nagh row mee ayns shen	And I am glad for your sakes that I was not there	Subject is finite clause nagh row...
+(7)	Bare lhiam my chummal ve marish lion as dragon, na dy reayll thie marish drogh-ven	I had rather dwell with a lion and a dragon, than to keep house with a wicked woman	Subject is a non- finite clause containing Subject + gerund, etc.
+(8)	ver ad shoh lhieu fys hooin, cre’n raad share dooin goll seose,	bring us word again by what way we must go up, and into what cities we shall come	Subject is a VP with gerund (understood subject = object of da)
+(9)	share diu roie hucsyn ta creck, as kionnaghey diu hene.	but go ye rather to them that sell, and buy for yourselves.	as (8)
+(10)	Cre share dou jannoo?	What shall I do?	as (8)
+(11)	cre<e> share dhyt dy ve dty haggyrt da thie un dooinney, ny dy ve dty haggyrt da tribe as kynney ayns Israel?	is it better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel?	Subject is VP with dy+ verbal noun (understood subject = object of da)
+(12)	son veagh eh ny bare dooin dy hirveish ny Egyptianee, ny dooin dy gheddyn baase ’syn aasagh.	For it had been better for us to serve the Egyptians, than that we should die in the wilderness.	as (11)
+(13)	Nagh foddey bare dooin, dy beagh y pobble jiu er n’ee dy arryltagh jeh spooilley nyn noidyn t’ad er ghoaill?	How much more, if haply the people had eaten freely to day of the spoil of their enemies which they found?	as (11)
+20
+MIE
+(14) bare da clagh wyllin dy ve
+croghit mysh e wannal, as eh
+dy ve tilgit ayns y cheayn.
+it is better for him that a
+millstone were hanged about
+his neck, and he were cast
+into the sea. [lit. it would be
+better for him a millstone to
+be hung round his neck...’]
+Subject is a non-
+finite clause
+containing Subject +
+dy + verbal noun,
+etc.
+23.	MOOAR lesh
+“cha mooar lesh, v. he careth not on account of size; -yn, id. em.
+cha mooar lh’ee, adv. she careth not, &c.; -ish, id. em.
+cha mooar lhiam, adv. I care not, &c.; -s, id. em.
+cha by-vooar, adv. careth not, careth not because of its bigness, size, or
+greatness; Isa. xxxiii. 8: …t’eh er vrishey yn conaant, t’eh er hoiaghey beg jeh ny ard-
+valjyn, cha by-vooar lesh dooinney erbee. …he hath broken the covenant, he hath
+despised the cities, he regardeth no man.”
+One might infer from Cregeen that mooar lesh is only used in the negative, but this is not the
+case. Essentially s’mooar lhiam is ‘I care about’, ‘is important to me’, and thus cha mooar
+lhiam ‘I do not care about’, ‘is not important to me’. When what is cared or not cared about is
+nominal, one suspects that the more genuine construction is as in (1) with the nominal yn olk
+as the grammatical subject. The examples (2) and (3) with son look to be influenced by the
+English idiom ‘care for’ that they translate. In (4) the grammatical subject is a non-finite VP
+with dy + verbal noun, etc.
+MOOAR
+(1)	son s’mooar lhiam yn olk ta mee hannah er choyrt erriu.	for I repent me of the evil that I have done unto you.
+(2)	Nish cha mooar lhiam son nhee erbee, my vac, neayrys ta mee er choayll uss, soilshey my hooillyn.	Now I care for nothing, my son, since I have let thee go, the light of mine eyes.
+(3)	Ta fer-ny-failley chea, er-y-fa dy nee fer- failt eh, as nagh mooar-lesh son ny kirree	The hireling fleeth, because he is an hireling, and careth not for the sheep.
+(4)	Ta’n dooinney cairal goaill seose cooish yn ymmyrchagh: agh s’mooar lesh y drogh-ghooinney dy hoiggal eh.	The righteous considereth the cause of the poor: but the wicked regardeth not to know it.
+24.	narra noain dhyt, adv. may it not otherwise be known to thee, or may it inevitably, of
+necessity, or fate come on or to thee. [= Nara noain dhyt, Nara’n yioin dhyt, Nar row
+noauyn dhyt.]
+In this construction, narra is for nar row ‘let it not be’. Cregeen’s glosses and the spelling
+with ’n yioin suggest that he connected this idiom with yioin ‘knowledge’, ‘purpose’ (see
+here under IONE). Can this be right?
+my t’ad marroo, immee uss royd geiyrt	if they be dead, go thy ways after them, let
+orroo, narra noain dooin dy bragh ’akin	us never see of thee either son or daughter.
+jeed edyr mac ny inneen.
+21
+25.	STROOYS
+“stroos or strooys, it appears so, (perhaps from streeu, strife); there has been a strife
+in me how it is, and it is so settled by me that it will or shall be as I say; the emphatic
+of stroohene.
+stroohene, p. it appears to me or myself, I am persuaded in myself, I imagine or
+suppose, methinks.”
+This idiom has only first person singular present tense forms. It may not contain copula s’.
+As nish, vraaraghyn, strooys dy nee trooid And now, brethren, I wot that through
+mee-hushtey ren shiu eh, myr ren myrgeddin ignorance ye did it, as did also your rulers.
+ny firreill eu.
+26.	TAITTIN lesh
+s’taittin
+“by-haittyn, adv. because of pleasure or delight, to pleasure or delight in.
+my haittym, v. if I will have pleasure &c. in; -s, id. em. T
+my haittin, v. if I would have pleasure or delight. T
+cha daittyn lhiam, v. I had not pleasure or delight. T”
+It seems that Cregeen took the -in in my haittin as the 1sg conditional suffix, hence his gloss
+‘if I would have pleasure’, but in the examples my is generally not the conditional particle, and
+haittin is just an alternative spelling for haittyn. His “my haittym” (future) seems constructed
+on this presuppostion, but it is not attested in the Bible. He does not mention the present tense
+form s’taittin (or s’taittyn), which is attested, though curiously several of the cases of by haittin/
+by haittyn clearly have present meaning despite their form ((13), (15), (17)). Note present
+dependent form daittin; and several cases of my-haittin = s’taittin, daittin, or by-haittin. The
+grammatical subject of TAITTIN is nearly always a noun phrase, but in (16)-(17) we have a
+non-finite VP with a gerund and in (18) a finite clause.
+TAITTIN
+(1)	My s’taittin lhieu eh, as dy bee eh aigney’n Chiarn nyn Yee, lhig dooin fys y choyrt magh	If it seem good unto you, and that it be of the Lord our God, let us send abroad
+(2)	my-haittin lhiat shen, gow eh	if thou wilt take that, take it: [Conditional my here? If so, why not my s’taittin as in the example above?]
+(3)	myr shen ta dooinney ayns laue e er- croo, dy yannoo rish myr s’taittin lesh hene.	so man is in the hand of him that made him, to render to them as liketh him best.
+(4)	Tra ta dooinney er phoosey ben, as my te myr shen nagh my-haittyn lesh ee, er-yn-oyr dy vel eh er gheddyn neu-ghlennid ennagh aynjee:	When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her:
+(5)	As mannagh my-haittyn lesh y dooinney stierree ee,	And if the latter husband hate her
+(6)	As by-haittyn lesh y cheshaght y raa shoh	And the saying pleased the whole multitude
+22
+TAITTIN
+(7)	As er-y-fa dy dug eh tastey by- haittyn lesh ny Hewnyn shen, hie eh ny sodjey er e hoshiaght dy ghoaill Peddyr neesht.	And because he saw it pleased the Jews, he proceeded further to take Peter also. [One might expect ...dug eh tastey dy by-haittyn lesh ny Hewnyn shen... ‘he noticed that it pleased...’]
+(8)	As mannagh daittyn lesh e mainshtyr ee, ta er n’yannoo ee e cho- lhiabbagh, eisht lhig j’ee ve feayshlit	If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed
+(9)	As by-haittyn lesh Holofernes as ooilley e harvaantyn ny goan shoh	And these words pleased Holofernes and all his servants,
+(10)	As my-haittin lhiam dy mie yn raa shoh	And the saying pleased me well
+(11)	As cheayll ooilley’n pobble shoh, as by-haittin lhieu eh	And all the people took notice of it, and it pleased them
+(12)	As haink Hiram magh veih Tyre dy akin ny ard-valjyn va Solomon er choyrt da, as cha by-haittin lesh ad	And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.
+(13)	son shoh by-haittin lhieu, O shiuish chloan Israel, ta’n Chiarn Jee dy ghra	for this liketh you, O ye children of Israel, saith the Lord God.
+(14)	ghow shiu myr reih shen nagh by- haittin lhiam	[you] did choose that wherein I delighted not.
+(15)	Eshyn by-haittin lesh glennid cree, son ynrickys e veillyn bee yn ree ny charrey da.	He that loveth pureness of heart, for the grace of his lips the king shall be his friend.
+(16)	My s’taittin lhiat goll marym gys Babylon, tar royd,	If it seem good unto thee to come with me into Babylon, come
+(17)	agh mannagh by-haittin lhiat goll mârym gys Babylon, jean dty aigney hene	but if it seem ill unto thee to come with me into Babylon, forbear
+(18)	As my-haittin lesh y ree, as ooilley’n pobble dy beagh eh myr shen.	And the thing pleased the king and all the congregation [lit. ‘it pleased the king and all
+the people that it should be so’]
+27.	TREIH lesh, da
+Cregeen makes no mention of this construction, beyond the simple “s’treih, a. how miserable,
+wretched, forlorn, pitiful, dismal, pale; comp. and sup. T.” S’treih lhiam ‘I am sorry’, s’treih
+dou ‘woe unto me’.
+s’treih lhieu dy akin ee ’sy joan	it pitieth them to see her in the dust
+S’treih dasyn ta streeu rish e Er-croo!	Woe unto him that striveth with his Maker!
+28.	TRIMSHEY lesh
+s’trimshey
+“by-hrimshey, adv. for or because of sorrow or sadness.”
+As above, Cregeen is misled by thinking by = ‘because of’ here, rather than the past tense of
+the copula she / s’.
+23
+As by-hrimshey lesh y ree:	And the king was sorry:
+29.	URRYS da, lesh
+surrys
+“surrys-enn, adv. allowed to be well known. [??]
+nurrys
+cha nurrys, adv. need not be surprised.
+cha nyrrys, v. not wonder. Y
+burrys
+b[’]urrys-enn, adv. See baashiagh-enn. [‘easy to know or well known.’]
+cha burrys lhiam da jannoo eh, 161. I am not surprised at his doing it.
+cha vurrys lhiam da. See radical burrys. B”
+Bee er dty hwoaie roish sooill ghaaney, cha Watch over an impudent eye: and marvel
+n’yrrys jee tayrn scammylt ort.	not if she trespass against thee.
+30.	YNNEY lesh
+“shynney, v. do or doth like or love.
+cha nhynney, v. like not, do not like. S
+bynney, s. did prefer, or hold in estimation, had fondness for, did like; the past time
+of shynney.”
+The grammatical subject of this construction is nearly always a noun phrase; an exception in
+example (17) where it is a non-finite VP with dy + verbal noun.
+YNNEY
+(1)	Gow nish dty vac, eer dty ynrican vac Isaac, eh shynney lhiat	Take now thy son, thine only son Isaac, whom thou lovest,
+(2)	as neem’s jeu bee blaystal son dty ayr lheid as shynney lesh.	and I will make them savoury meat for thy father, such as he loveth
+(3)	Shynney lhiam my vainshtyr, my ven, as my chloan;	I love my master, my wife, and my children
+(4)	son t’ou er gheddyn foayr ayns my hilley’s, as shynney lhiam dt' ennym	for thou hast found grace in my sight, and I know thee by name
+(5)	Son quoi-erbee shynney lesh y Chiarn, t’eh dy smaghtaghey	For whom the Lord loveth he correcteth
+(6)	Shynney lhiam adsyn shynney lhieu mee	I love them that love me;
+(7)	Dy choyrt cooid vie ayns eiraght dauesyn shynney lhiam, as ny tashtaghyn oc y lhieeney.	That I may cause those that love me to inherit substance; and I will fill their treasures. NB
+(8)	shynney lesh sleih mie oo	the upright love thee
+(9)	Vaik shiu eshyn shynney lesh m’annym?	Saw ye him whom my soul loveth?
+(10)	Eshyn ta sparail e chlat, cha nhynney lesh e vac	He that spareth his rod hateth his son
+(11)	Quoi erbee nagh vel jannoo cairys, cha vel eh jeh Jee, ny foast eshyn nagh nhynney lesh e vraar.	Whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
+(12)	Ta fys ain dy vel shin caghlaait veih baase gys bea, er-yn-oyr dy nhynney	We know that we have passed from death unto life, because we love the brethren. He
+24
+YNNEY
+	lhien ny braaraghyn: eshyn nagh nhynney lesh e vraar, t’eh tannaghtyn ayns baase.	that loveth not his brother abideth in death.
+(13)	As bynney lesh Isaac Esau, son dy d’ee eh jeh’n feieys v’eh dy hayrtyn: agh bynney lesh Rebekah Jacob.	And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob.
+(14)	Agh bynney lesh Solomon ymmodee mraane joarree	But king Solomon loved many strange women
+(15)	Nish va ny lhie er oghrish Yeesey, fer jeh e ostyllyn bynney lesh	Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved
+(16)	er e ghraih vooar liorish bynney lesh shin	for his great love wherewith he loved us
+(17)	Shoh myr bynney lhieu dy rouail mygeayrt	Thus have they loved to wander

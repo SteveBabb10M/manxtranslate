@@ -1,0 +1,606 @@
+﻿Manx Gaelic inflection, 1. Noun plurals
+Manx Gaelic inflection, 1. Noun plurals
+Of the grammatical works on Manx Gaelic, it is A. Cregeen’s A
+Dictionary of the Manks Language that provides by far the most detail
+of inflectional morphology. And it was prepared at a time when Manx
+was a living community language with a large number of native
+speakers. In this series of studies, I attempt to extract from the
+dictionary1 Cregeen’s contribution to a descriptive grammar of
+‘Classical Manx’ —the language of written texts of the period 1700-
+1830. The information on plural inflections that follows in this first
+section is derived from Cregeen’s Dictionary, as are the meanings
+given. Where Cregeen mentions alternative inflections, I have added
+some information about usage in the Manx Bible. The classification
+of the inflectional patterns, however, is my own.
+Most nouns in Manx Gaelic make their plural by adding a suffix.
+Nearly all the plural suffixes end in -yn (with a couple of words in -in)
+—these are class 1 below. The subclasses of class 1 are those in which
+some additional element intervenes between the stem and -yn: thus
+class lai -ghyn, class la2 -aghyn, class lb -dyn or-jyn, class lei -nyn,
+class lc2 -inyn, class lc3 -eynyn, class Idl -tyn or -tqhyn, class
+ld2 -teeyn, class ld3 -teenyn, class lei -eeyn, class le2 -eenyn, class
+If -in. The only other plural suffix (class 2) is -ee. Mostly the suffixes
+are simply added to the singular stem, but in a few cases a final
+unstressed syllable may be lost before the plural suffix. Final
+unstressed syllables that may be lost are -ey
+(lol), -ee, -agh, -in, -ing, -aght: these elements that are absent in the
+plural could well be interpreted as nominative singular suffixes.2
+1 See Wheeler, Max W. 2015. Fockleyr Chregeen aa-orderit,
+https://www.academia.edu/12154331/Fockleyr_Chregeen_aa-
+orderit liorish Max W. Wheeler
+Max Wheeler, April 2015
+1
+There are a very few examples of the loss in the plural of the
+endings -ag, and -at (probably best seen as involving irregular stem
+alternation). Of these endings that are are omitted in the plural, -ey is
+always lost (except in oltey —> olteynyn ‘member), and -agh is
+generally lost: -agh —> -ee; -ee and -in tend to be retained in the plural
+suffixes -eeyn and -inyn respectively (which are also found after other
+kinds of stems); -aght is retained before the default plural suffix -yn.
+In a few irregular cases plural suffixation is accompanied by some
+change in the stem.
+Classes 3-5 are of plurals without suffixation. Class 3 consists of
+nouns which in the plural replace a broad final consonant with a
+slender one (e.g. cabbyl —> cabbil ‘horse’) or occasionally the reverse
+(koir —> koiyr ‘box’). Class 4 consists of nouns in which the stem
+vowel is raised/fronted in the plural; the following consonant
+generally becomes slender (if it was not already). There are some 60
+nouns of class 4 in Cregeen. In the section below, nouns of class 4 are
+grouped according to the vowel of the singular stem and how it
+changes in the plural. Class 5 consists of nouns with a wholly
+irregular, suppletive or indeclinable plural —four members in
+Cregeen.
+Three classes maybe called ‘default’ classes —very common patterns
+that are to be assumed unless an alternative is explicitly mentioned.
+The first default class is class 1, plurals in -yn, which is the commonest
+suffix, and which can be found with nouns whose stems end in any
+possible way. The second is class la2 -aghyn, which is the default
+plural for nouns ending in -ey (e.g. caggey —> caggaghyn ‘war’); this
+2 Note that -ee is also a noun plural suffix; but flaiee ‘imp, imps’ may be the sole
+example of the same suffix used in both functions (syncretism of number).
+Manx Gaelic inflection, 1. Noun plurals
+Max Wheeler, April 2015
+2
+class includes many gerunds/verbal nouns. The third default class is
+class 2, where singular -agh is replaced by -ee in the plural; this class
+includes many agent nouns such as cummaltagh → cummaltee
+‘inhabitant’.
+In Table 1 the noun plural inflection classes are related to the
+phonological form of the stems that display them.
+	1 : plural suffixes ending in -yn (or -in)													2	3	4	5
+ending	1	1a1	1a2		1b	1c1	1c2	1c3			1d1	1d2	1d3			1e1	1e2		1f				
+	-yn	-ghyn	-aghyn	-d/jyn	-nyn	-inyn	-eynyn	-tyn	-teeyn	-teenyn	-eeyn	-eenyn	-in	-ee	C~Cj	Int	Misc.
+-C	z		z	4	z	z	(1)	1	z	3	4	(1)		2	z	z	4
+#C0V	z	z	z		z			1					2	3		1	
+σC0V	z													1		z	
+σC0-ey	z		z	3			1	1			z			4			
+σC0-ee	(→1e1)		2					3			z	2		1			
+σC0-agh	(→1a2)		z								z			z			
+σC0-in	(→1c2)			2		z		1			z						
+σC0-ing	+										2						
+σC0-aght	+										3						
+σC0-ag	+		1								1						
+σC0-at	+													1			
+Table 1. Noun plural classes according to word endings.
+z = more than four examples in
+Cregeen. Highlighted z corresponds
+to default classes whose members are
+not exhaustively listed below.
+-C: words ending in a consonant,
+C0V: monosyllables ending in a vowel,
+σC0V: polysyllables ending in an
+unstressed vowel,
+σC0-: polysyllables ending in..
+Int: internal stem vowel change.
+Class 1 -yn includes some examples with orthographic changes in the
+plural. For example, final -s is usually doubled, e.g. slattys →
+slattyssyn ‘statute’. Sonorants /l, m, n, r/ which are syllabic in the
+singular (variously spelt) become consonantal before -yn in the plural,
+such as fockle → focklyn, feeackle → feeacklyn ‘tooth’, moggyl →
+mogglyn ‘mesh’, ennym → enmyn ‘name’. Class 1 includes many of
+the nouns that end in a stressed vowel (mostly monosyllables), though
+Manx Gaelic inflection, 1. Noun plurals
+others are in classes lai, la2, Idl, If, 2 and 4. The ones that are in
+class 1 are listed here.
+Class 1, stressed vowel-final stem:
+craue —> craueyn ‘bone’,
+criy —> criyyn (also class la2 criyaghyn) ‘gallows’,
+crou —> crouyn ‘horseshoe’,
+faaue —>faaueyn ‘hint’,
+feh^fehyn ‘tendon’,
+feiy —>feiyyn (or class lai feighyn) ‘fathom’,
+fraue —> fraueyn ‘root’,
+gah —> gahyn ‘sting’,
+gaue —> gaueyn ‘hazard’,
+gleih^ gleihyn ‘handful of corn’,
+gloo —> glooyn ‘warp’,
+graih —>■ graihyn ‘love’,
+greie —> greieyn (or class lai greighyn) ‘tool’,
+imnea —> imneayn (or class lai imneaghyn) ‘anxiety’,
+jurnaa —> jurnaayn (Bib3 xO, or class lai jurnaaghyn Bib
+x6) ‘journey’,
+musthaa —> musthaayn ‘tumult’,
+oaie —> oaieyn ‘face’,
+ooh —> oohyn ‘egg’,
+screau —> screauyn ‘kiln last’,
+sneih —> sneihyn ‘vexation’,
+staa —> staayn ‘hedge-making team of three’,
+straue^ straueyn ‘straw’,
+stroo —> strooyn ‘current’,
+teigh —> teighyn ‘hatchet’,
+traa —> traayn (Bib xO, or class lai traaghyn Bib x24)
+‘time’,
+3 Bib = Manx Bible.
+Max Wheeler, April 2015
+3
+traie —> traieyn ‘shore’,
+trie —> trieyn ‘sole of foot’,
+troo —> trooyn (or class lai trooghyn) ‘envy’ (27).
+Words that end in unstressed /-a/ (-ey) are typically in class la2, pl.
+in -aghyn.
+Unusually, -ey words in class 1 are: baatey —> baatyn ‘boat’,
+beealerey —> beealeryn ‘babbler’,
+bitqhey —> bitchyn ‘bitch’,
+bochilley —> bochillyn ‘herder’,
+breagerey —> breageryn ‘liar’,
+broatqhey —> broatqhyn ‘a quantity of yarn or thread wound
+on a spindle without a spool’,
+guilley —> guillyn ‘boy’,
+kerraghey —> kerraghyn ‘punishment’,
+Ihuddyrey —> Ihuddyryn ‘mangier’,
+maidjey —> maidjyn ‘stick’,
+orraghey —> orraghyn ‘shot’,
+paitqhey —>paitqhyn ‘child’,
+palqhey —>palqhyn (or class la2palqhaghyn) ‘plenty’,
+soylaghey —> soylaghyn ‘comparison’ (14).
+Words ending in other unstressed vowels fall into class 1 by default,
+such as qhymlee —> qhymleeyn ‘chimney’, earroo —> earrooyn
+‘number’, shelliu —> shelliuyn ‘salve’, &c.; the exceptions are
+mentioned below (in class la2, class Idl, and class 2).
+A few nouns of class 1 display stem variation. These are:
+baagh —> beiyn ‘animal’,
+bannish —> banjyn ‘wedding’,
+crackan —> craitnyn (Bib x 13, also reg. crackanyn Bib xO)
+‘skin’,
+Manx Gaelic inflection, 1. Noun plurals
+ingin (Bib. has sg.yngyn) —> yngnyn ‘nail, hoof,
+saagh —> siyn ‘vessel’;
+in raad —> raaidyn the variation is orthographic only.
+Class lai, plurals in -ghyn, consists exclusively of nouns ending in a
+stressed final vowel (nearly all monosyllables). It is the preferred class
+for such nouns. NB -e, -h are usually dropped in spelling before -ghyn;
+there are a few other spelling changes.
+Nouns of class lai:
+aae —> aaghyn ‘arch, ford’,
+bhow —> bhowghyn ‘bow’,
+blaa —> blaaghyn ‘flower’,
+bleih —> bleighyn ‘halfling’,
+broo —> brooghyn ‘bruise’,
+clou —> cloughyn ‘pair of tongs’,
+crea —> creaghyn ‘creed’,
+crou —> croughyn ‘felloe’,
+crouw —> crouwghyn ‘bunch growing on one stem’,
+dreih —> dreighyn ‘wretch’,
+feiy —> feighyn (also class 1 feiyyn) ‘fathom’,
+geay —> geayghyn ‘wind’,
+ghaw —> ghawghyn ‘creek’,
+gloo —> glooghyn (also class 1 glooyn) ‘warp’,
+greie —> greighyn (also class 1 greieyn) ‘tool’,
+griu —> griughyn ‘loot, stolen goods’,
+groo —> grooghyn ‘curd’,
+imnea —> imneaghyn (also class 1 imneayn) ‘anxiety’,
+jee —> jeeghyn (also class la2 jeeaghyn, both very frequent in
+Bib) ‘god’,
+jurnaa —> jurnaaghyn (Bib x6, also class 1 jurnaayn)
+‘journey’,
+key —> keyghyn ‘quay’,
+Max Wheeler, April 2015
+4
+key —> keyghyn ‘cream’,
+laa —> laghyn ‘day’,
+lieh —> liehghyn ‘half,
+loo —> looghyn ‘oath’,
+mee —> meeghyn ‘month’,
+nhee —> nheeghyn (Bib x33, also class la2 nheeaghyn)
+‘thing’,
+niau —> niaughyn ‘heaven’,
+noo —> nooghyn ‘saint’,
+oaie —> oaieghyn (Bib xO, or class la2 oaiaghyn Bib x26)
+‘grave’,
+oe —> oeghyn ‘grandchild’,
+oie —> oieghyn ‘night’,
+ooh —> ooghyn ‘udder’,
+raa —> raaghyn ‘saying’,
+ree —> reeghyn (also class la2 reeaghyn) ‘king’,
+reih —> reighyn ‘choice’,
+rio —> rioghyn ‘frost’,
+roa —> roaghyn ‘row’,
+roo —> rooghyn ‘ruff,
+shee —> sheeghyn ‘peace’,
+shey —> sheyghyn ‘six’,
+shleiy —> shleiyghyn ‘spear’,
+skah —> skahghyn ‘ear mark’,
+skah —> skahghyn ‘shedding wind’,
+skeiy —> skeiyghyn ‘faggof,
+soo —> sooghyn ‘juice’,
+speiy —> speiyghyn ‘hoe’,
+spreih —> spreighyn ‘sprinkle’,
+stoo —> stooghyn ‘stuff,
+strah —> strahghyn ‘plain’,
+tey —> teyghyn ‘tea’,
+Manx Gaelic inflection, 1. Noun plurals
+thoo —> thooghyn ‘thatch’,
+thow —> thowghyn ‘a line used to tie the buoy to the net in
+fishing’,
+traa —> traaghyn (Bib x24, also class 1 traayn) ‘time’,
+troo —> trooghyn (also class 1 trooyn) ‘envy’ (55).
+Class la2, plurals in -aghyn, is, as mentioned previously, the default
+class for the many nouns ending in unstressed -ey (well over 200 items
+in Cregeen). It also contains some nouns ending in stressed final
+vowels (most of which fall in lai).
+There are a few nouns ending in -agh which add -yn, as in class 1;
+these may perhaps better be seen as -agh —> -aghyn, class la2. (Most
+nouns in -agh fall in class 2 -ee, and a few in class lei -eeyn.)
+Class la2 nouns in -agh —> -aghyn:
+qhiollagh —> qhiollaghyn ‘hearth’,
+claasagh —> claasaghyn ‘harp’,
+coodagh —> coodaghyn ‘covering’,
+famlagh ~ famyragh —> famlaghyn ~ famyraghyn ‘seaweed’,
+giucklagh —>■ giucklaghyn ‘broom’,
+imbagh —> imbaghyn ‘season’,
+keeagh keeaghyn ‘breast’
+miolagh —> miolaghyn ‘temptation’,
+niurinagh —> niurinaghyn ‘inhabitant of hell’,
+oardagh —> oardaghyn ‘order’,
+peegagh —>peegaghyn ‘skate, thornback’,
+screeagh —> screeaghyn ‘screech’
+shaslagh —> shaslaghyn ‘bent grass’
+ynsagh —>■ ynsaghyn ‘kearnung, doctrine’ (14).
+Class la2 nouns ending in stressed final vowels:
+baie —> baieaghyn ‘bay’,
+cree —> creeagahyn ‘heart’,
+criy —> criy aghyn (also class 1 criyyn) ‘ gallows’,
+Max Wheeler, April 2015
+5
+gaih —> gaiaghyn ~ gaihaghyn ‘toy’,
+Jee —>Jeeaghyn (also class lai Jeeghyn) ‘god’,
+leigh —> leighaghyn ‘law’,
+Ihiy —> Ihiyaghyn (also class lei Ihiynyn) ‘colt’,
+meih —> meihaghyn ‘scale, balance’,
+nhee —> nheeaghyn (also class lai nheeghyn) ‘thing’,
+oaie —> oaiaghyn ‘grave’ (Bib x26, also class lai oaieghyri),
+py^pyaghyn ‘pie’,
+ree —> reeaghyn (Bib passim),
+roih —> roihaghyn ‘arm’ (13).
+Class la2 also contains a fair number of nouns with stems ending in
+consonants. Several end in -r, including many family relationships.
+Class la2 nouns ending in consonant: -r:
+ayr —> ayraghyn ‘father’,
+braar —> braaraghyn ‘brother’,
+qheer —> qheeraghyn ‘land’,
+glare —> glaraghyn ‘language’,
+gloyr -> gloyraghyn ‘glory’,
+moir —> moiraghyn ‘mother’,
+mooir —> mooiraghyn ‘sea’,
+mooirqhoor —> mooirchooraghyn ‘wreck’,
+obbyr —> obbraghyn ‘work’,
+oor —> ooraghyn (also class 1 ooryn) ‘hour’,
+pooar —>pooaraghyn ‘power’,
+shuyr —> shayraghyn (with stem vowel change) ‘sister’,
+spoar —> spoaraghyn ‘space’ (13).
+Other consonants:
+bing —> bingaghyn ‘jury’,
+pinn —>pinnaghyn ‘peg’,
+skynn —> skynnaghyn (also class 1 skynnyn Bib x5) ‘knife’.
+Manx Gaelic inflection, 1. Noun plurals
+Cregeen also gives class la2 plurals for dolt ‘ward, adopted child’,
+feysht ‘ question’, freayn ‘overflow’, sheid ‘blow, puff, strull ‘rinse’,
+teaum ‘spill’, —> doltaghyn, etc., but it seems likely these are properly
+the plurals of the related or synonymous nouns doltey, feyshtey,
+freayney, sheidey, strulley and teaumey.
+Other class la2:
+Ihiabbee —> Ihiabbaghyn (Bib x8) ‘bed’,
+Ihiattee —> Ihiattaghyn (Bib xO, or class lei Ihiatteeyn Bib
+x20) ‘side’;
+scrobbag —> scrobbaghyn (Bib xl) ‘gizzard’.
+Class lb, plurals in broad -dyn or slender -jyn, contains no more than
+9 nouns altogether, in three ‘rare’ types.
+Classlb:
+ard —> ardjyn ‘height’,
+foill —>foiljyn ‘fault’,
+keyll —> keyljyn ‘wood, forest’,
+oayll —> oayldyn ‘haunt’;
+bailey —> baljyn ‘town’,
+billey —> biljyn ‘tree’,
+carrey —> caarjyn ‘friend’;
+mwyllin —> mwyljin ‘mill’,
+uillin —> uiljyn ‘elbow’.
+Likewise, class lei in -nyn consists of no more than 10 nouns, several
+with alternative inflections.
+Class lei nouns:
+bayr —> bayrnyn (also class 1 bayryn) ‘road’,
+brhv —> briwnyn ‘judge’,
+cliwe —> cliwenyn ‘sword’,
+craiu —> craiunyn ‘crowbar’,
+Max Wheeler, April 2015
+6
+gaaue —> gaauenyn ‘smith’,
+greme —> gremenyn (also class 1) ‘bite, bit’,
+Ihiy —> Ihiynyn (Bib x2, also class la2 Ihiyaghyn) ‘colt’,
+mie —> mienyn ‘virtue’,
+saaue —> saauenyn (also class 1 saaueyn, Bib x4) ‘saw’,
+snaie —> snaienyn ‘thread’,
+taaue —> taauenyn ‘retch’.
+There is but a handful of nouns in class lc2 -inyn, most with regular
+class 1 alternatives.
+Class lc2:
+broogh —> brooinyn (with stem change) ‘brink, verge’,
+dreeym —> dreeyminyn (also class 1 dreeymyn) ‘back’,
+Jeeig —> Jeeiginyn (also class 1 Jeeigyn, Bib x4) ‘ditch’,
+Jough —>Joughinyn (also class 1 Joughyn) ‘drink’,
+rass —> rassinyn (also class 1 rassyn, Bib xl) ‘seed’,
+traagh —> traaghinyn (also class 1 traaghyn) ‘hay’.
+See also under lei cuishlin, drillin, pishin, shiaghtin.
+Class lc3:
+Jaagh —> jaagheynyn (also class 1 Jaaghyn) ‘smoke’,
+oltey —> olteynyn ‘member (of a society)’.
+Class Idl:
+blein —> bleeantyn ‘year’ (with stem change of vowel and
+slender —> broad consonant);
+slieau —> sleityn [tf] ‘mountain’;
+Iheiney —> Iheintyn [tf] ‘shirt’ ;
+bwoaillee —> bwoailtqhyn ‘sheepfold’,
+Iheeannee —> Iheeantyn ‘meadow’,
+moanee —> moaintyn ‘turbary’ (also class lei moaneeyri)',
+geaylin —> geayltyn [tf] ‘shoulder’.
+Manx Gaelic inflection, 1. Noun plurals
+Class ld2 in -teeyn, contains a handful of nouns with stems ending
+in /n/, plus one ending in slender /IV:
+Class ld2:
+glion —>■ glionteeyn ‘glen’,
+lieen —> lieenteeyn (also class ld3 -teenyn, Bib x8) ‘linen,
+net’,
+oarn —> oarnteeyn ‘barley’,
+raane —> raanteeyn (also class ld3 -teenyn, Bib x5) ‘surety’,
+raun —> raunteeyn (also class 1 raunyn, Bib xl) ‘seal’,
+streean —> streeanteeyn (also class 1 streeanyn, Bib x3)
+‘bridle’,
+stroin —> strointeeyn ‘nose’ (also class 1, stroanyn, with stem
+change, Bib x9 ‘noses’ and ‘nostrils’);
+maail —> maailteeyn (also class 1 maailyn) ‘rent’ (8).
+Cregeen gives kerrinyn as the plural both of kerrin ‘square’
+and of kerroo ‘quarter’; in the latter case it is quite irregular
+— unstressed final -oo is not otherwise lost in plurals. Other
+sources give kerrooyn (class 1) as the plural of kerroo.
+Class ld3, in -teenyn:
+keeill —> kialteenyn (with stem change of vowel and
+slender—>broad consonant),
+lieen —> lieenteenyn ‘linen, net’ (also class ld2 lieenteeyn,
+and lieenyn LSM),
+raane —> raanteenyn (Bib x5, also class ld2 raanteeyn Bib
+xO) ‘surety’.
+Class lei, plurals in -eeyn, largely consists of nouns where an
+unstressed final syllables is deleted before the suffix. For nouns
+4	In the Bible attaghyn is used only for ‘crowns’ (x7) while atteeyn is used for
+both ‘crowns’ (x4) and ‘column capitals’ (xll).
+Max Wheeler, April 2015
+7
+ending in -agh, class lei is the next preferred pattern after the default
+class 2 (-agh —> -ee).
+Class lei, -ey —> -eeyn:
+attey —> atteeyn (also class la2 attaghyn) ‘crown, capital’,4
+bunney —> bunneeyn ‘sheaf,
+kynney —> kynneeyn ‘kindred’,
+losserey —> lossreeyn ‘herb’ (with elision of medial syllable),
+moghrey —> moghreeyn ‘morning’,
+troagyrey —> troagyreeyn ‘trudger’ (6).
+Class lei, -agh —> -eeyn:
+cagliagh —> cagleeyn (NB -i- elided; Bib x 6, also class la2
+cagliaghyn, Bib x8) ‘boundary’,
+claddagh —> claddeeyn ‘riverbank’,
+colbagh —> colbeeyn ‘heifer’,
+connysagh —> connyseeyn ‘teaser’,
+coonlagh —> coonleeyn ‘straw’,
+curragh —> curreeyn ‘bog’,
+cruinlagh —> cruinleeyn ‘orbit’,
+eaddagh —> eaddeeyn ‘clothes, garment’,
+geinnagh —> geinneeyn ‘sand’,
+gounagh —> gouneeyn ‘a cow is so called, strictly speaking,
+on being a quarter of a year done calving’,
+ingagh —> ingeeyn ‘train of nets’,
+Joanlagh —>Joanleeyn ‘drizzle’,
+keynnagh —> keynneeyn ‘moss’,
+Ihargagh —> Ihargeeyn ‘downward slope’,
+mullagh —> mulleeyn ‘top’,
+oarlagh —> oarleeyn ‘inch’,
+queeylagh —> queeleeyn ‘band, binding’,
+Manx Gaelic inflection, 1. Noun plurals
+rhennagh —> rhenneeyn ‘fern’,
+rimlagh —> rimleeyn ‘fishing line’,
+scoarnagh —> scoarneeyn ‘throat’,
+scudlagh —> scudleeyn ‘luggage’,
+skyrtlagh —> skyrtleeyn ‘lapful’,
+smooirlagh —> smooirleeyn ‘debris, fragment’,
+streebagh —> streebeeyn ‘prostitute’,
+taarnagh —> taarneeyn ‘thunder’,
+tarragh —> tarreeyn ‘girth’,
+tullagh —> tulleeyn ‘instant’,
+ughtagh —> ughteeyn ‘upward slope’ (28).
+Class lei, -in —> -eeyn:
+cuishlin —> cuishleeyn (also class lc2 cuishlinyn, Bib xl)
+‘vein’,
+drillin —> drilleeyn (also class lc2 drillinyn) ‘spark’,
+glashtin —> glashteeyn ‘goblin’,
+murlhin —> murlheeyn ‘hamper’,
+perkyn —>perkeeyn ‘porpoise’,
+pishin —>pisheeyn (also class lc2pishinyn) ‘kitten’,
+shiaghtin —> shiaghteeyn (Bib xO, or class lc2 shiaghtinyn
+Bib xl4),
+skerin —> skereeyn ‘splice’,
+skillin —> skilleyn ‘shilling’,
+puiddihn (sic) —>puiddeeyn ‘pudding’,
+synnin —> synneeyn ‘a tug or thong, from the middle of the
+small swingletree to the end of the large one, in which
+irons are now used’.
+5	Thus -iagh generally becomes -ee, as in maarliagh —> maarlee ‘thief, markiagh
+—> markee ‘rider’. Note feeagh —> fiee (Bib xl) or fee ‘raven’, mwaagh —> mwaaee
+‘hare’.
+Max Wheeler, April 2015
+8
+Other class lei:
+annym —> anmeeyn (Bib xO, also class le2 anmeenyn) ‘soul’,
+bleb —> blebeeyn (also class 1 blebyn) ‘fool’,
+daunse —> daunseeyn ‘dance’,
+laair —> laaireeyn ‘mare’;
+conning —> conneeyn (also class 1 conningyn Bib xl)
+‘rabbit’,
+far ling —> farleeyn ‘farthing’;
+curnaght —> curneeyn ‘wheat’,
+glasseraght —> glassereeyn ‘herbage, vegetation’,
+shesheraght —> sheshereeyn ‘plough team’;
+crammag —> crummeeyn (with stem change) ‘snail’.
+Class le2, plural in -eenym
+annym —> anmeenyn (Bib x34, or anmeeyn Bib xO) ‘soul’;
+Creestee —> Creesteenyn ‘Christian’,
+Jaghee —>jagheenyn ‘tithe’.
+Class If, plural in -in
+clea —> clein (Bib x2, also cleain, cleaiyn) ‘harrow, etc.’,
+coo —> coyin (with stem change of vowel) ‘hound’.
+The majority of the members of class 2, plurals in -ee, consists of
+nouns with the frequent nominal ending -aght which is often a
+derivational suffix (as in Manninagh, person from Mannin, pl.
+Manninee, scaipailtagh ‘fugitive’, from scaipail ‘slip out’, pl.
+scaipailtee). There are occasional oddities of spelling.5 The remaining
+members of class 2 display infrequent patterns (see below).
+Other class 2:
+lugh —> lughee ‘mouse’,
+Manx Gaelic inflection, 1. Noun plurals
+eean —> eeanlee ‘fowl’ (NB inserted/I/);
+cleiy —> cleiyee ‘hedge’,
+guiy —> guoiee ‘goose’,
+Iheiy —> Iheiyee ‘calf;
+keyrrey —> kirree (with stem change of vowel) ‘sheep’,
+ollay —> ollee ‘swan’,
+moddey —> moddee ‘dog’,
+urley —> urlee ‘eagle’;
+feeaih —> feeaihee6 ‘deer’,
+flaiee —> flaiee ‘imp’ (NB pl. = sg.);
+pieanat^ pieanee (also class 1 pieanatyn) ‘magpie’ (12).
+Noun classes 3, 4 and 5 make their plurals by means of stem changes,
+without suffixes. In class 3 generally a final consonant which is broad
+is replaced by the corresponding slender consonant in the plural. In
+two cases the reverse is observed, to judge from the spelling, at least.7
+Class 3, sg. broad C —> pl. slender C:
+beeal —> beill ‘mouth’,
+cabbyl —> cabbil ‘horse’,
+caabyl —> caabil ‘cable’,
+carbyd —> carbid (also class 1 carbydyn) ‘bier’,
+carkyl ~ kiarkyl —> carkil ~ kiarkil (also class 1 kiarkylyri)
+‘circle’,
+criggyl “* criggil (also class 1 criggylyn) ‘cripple’,
+cubby I —> cubbil ‘couple’,
+eayn —> eayin ‘lamb’,
+eean —> ein ‘chick’,
+farbyl —> farbil ‘tail’,
+farkyl —> farkil ‘lid’,
+6 Cregeen says that the plural offeeaTh is spelt feeaihee, although plural and singular
+are pronounced the same; the Manx Bible uses feeaih or feeaTh for both singular and
+plural, feeaihee for plural.
+Max Wheeler, April 2015
+9
+foawr —> foawir ‘giant’,
+goayr —> goair ‘goat’,
+groudle —>■ groudil ‘crowder’ (i.e. ‘fiddler’),
+Jouyl —> Jouyil ‘devil’,
+kern-riaghyl —> kern-riaghil ‘square’,
+kirbyl —> kirbil ‘lunch’,
+m°ggyl moggil (or class 1 mogglyn) ‘mesh’,
+punt —>puint ‘pound’,
+purt —>puirt (also class 1) ‘harbour’,
+sambyl —> sambil ‘sample’,
+shiaull —> shiauihll ‘sail’,
+staabyl —> staabil ‘stable’ (23);
+sg. slender C —> pl. broad C
+koir —> koiyr ‘box’,
+seyir —> sieyr ‘carpenter’8 (2).
+Class 4, plural by stem vowel change, plus slender consonant,
+indicated e.g. by orthographic -i- (60)
+/a/ —> /e/ mac —> mec ‘son’
+convayrt —> conveyrt ‘carcase’
+dow —> dew ‘ox’
+Ihiannoo —> Ihiennoo ‘child’
+main —> meir ‘linger’
+marroo —> merriu ‘dead person’
+sack —> seick ‘sack’
+smair —> smeir ‘berry’
+sparroo —> sperriu ‘sparrow’
+7 The pronunciation of sieyr ‘carpenters’ and koiyr ‘boxes’ is not attested in LSM.
+8 The Manx Bible has, for ‘carpenters’, sieyr once, seiyr once, and seyir, identical
+with the singular, seven times.
+Manx Gaelic inflection, 1. Noun plurals
+sthowyr —> sthewir ‘staff
+tarroo —> teirroo ~ terriu ‘bull’
+/a/ —> /i/ ark —> irk ‘young pig’
+brack —> brick ‘mackerel, trout’
+gass —> gish ‘stem’
+glack —> glick ‘hollow of the hand’
+glass —> glish ‘lock’
+kayt —> kiyt ‘cat’
+kiap —> kip ‘block’
+lagg —> ligg ‘hollow’
+leac —> Ihic ‘slate’
+stalk —> sthilk ‘stalk’
+car —> kyr ‘twist’
+cayr —> khyr ‘knot in timber’
+baair —> bhir ‘crop’
+/a/—> /ui/ bart —> buirht ‘burden’
+clag —> cluig ‘bell, clock’
+mart —> muirt ‘beef
+Id —> /i/ fer —> fir ‘man, one’
+bher —> bhir ‘spit’
+edd —> idd ‘nesf, ‘haf
+erroo —> irroo ‘ploughman’
+beark —> birk ‘corn’
+lol —> /i/ block —> blick ‘block’
+corp —> kirp ‘body’
+cronk —> crink ‘hill’
+gob —> gib ‘beak’
+Jolg —> Jilg ‘thorn, kniting needle’
+kione —> king ‘head, end’
+Max Wheeler, April 2015
+10
+sock —> sick ‘ploughshare’
+stott —> sthitt ‘bullock’
+/o/ —> /ui/ blod —> blhuid ‘blade’
+boayl —> buill ‘ball’
+boayl —> buill ‘place’
+boayrd —> buird ‘table’
+bock —> buick ‘gelding’
+bolg —> builg ‘belly’
+bwoid —> bwhid ‘penis’
+croan —> cruin ‘mast’
+cront —> cruint ‘knot’
+doarn —> duirn ‘fist’
+long —> luirg ‘staff
+mohlt —> muihlt ‘wether’
+oik —> uilk ‘evil’
+poht —> pooiyt (Bib x9) ~ puyt ~ poiyt ‘pof
+poyll —> puill ‘pool’
+spoht —> spuit (or class 1) ‘spot’
+stoyl —> stuill ‘seat’
+fowl —> tuill ‘hole’
+poinht —>pouint ‘leather lace’
+/u/ —> /e:/ dooiney —> deiney ‘man’
+Class 5, wholly irregular, suppletive or syncretic plurals:
+goo —> goan ‘word’ (irregular),
+gauin —> gouney ‘young bovine (between calf and heifer)’
+(irregular —no other example of -ey ending in noun
+plurals);
+ben —> mraane ‘woman’ (suppletive);
+Manx Gaelic inflection, 1. Noun plurals
+Max Wheeler, April 2015
+11
+jeir → jeïr ‘tear’ (syncretic —plural difference merely
+orthographic).9
+9 Given the observations made above, we should doubtless add to the nouns with
+base (syncretic) plurals: feeaih ‘deer’, flaiee ‘imp(s)’, and seyir ‘carpenter(s)’.

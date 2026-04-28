@@ -1,0 +1,111 @@
+﻿Christopher Lewin
+No. 14 - May-June 2012
+A Guide to Resources
+Many resources for studying the native Manx language are available, including
+several on the internet, but some of them are not widely known. Here is a guide to the
+most important. The links are valid at time of writing, but may change.
+Manx Language Project - Manx Heritage Foundation
+http://www.mannin.info/MHF/
+This extremely important website includes the whole of the Manx Bible (1819/1979
+edition) and a dictionary containing Kelly and some of Cregeen.
+The Bible is fully searchable, including for phrases and mutated forms, and includes
+the English King James version side by side with the Manx text.
+The dictionary is also searchable, but only from Manx into English.
+Although extremely useful, there are a few glitches. There are a number of typos in
+the Bible, and occasionally more serious mistakes, though in an undertaking of this
+size that is hardly to be avoided and they do not seriously impede the user if handled
+with care. Also you cannot search for words of three letters or less, or anything
+including apostrophes.
+The dictionary crashes if you try to look at the entries for words with çh in them.
+Ynsee Gaelg
+http://www.learnmanx.com/
+The Manx Heritage Foundation’s ‘Learn Manx’ website contains a number of
+resources.
+To get round some of the deficiencies of the online Bible discussed above, a PDF of
+the whole Bible with the English version is available here, under ‘News’ and then
+‘Stories’. ‘The Bible in Manx Gaelic’ is one of many titles which can be clicked on on
+this page. Searching in this version is less sophisticated than in the Manx Language
+Project site, but you can search for short words and words with apostrophes, and also
+some of the errors have been corrected here.
+A searchable PDF version of Coyrle Sodjeh, Bishop Wilson’s catechism of 1707 and
+the first book printed in Manx, is available on this page as well. It was done by myself
+and is in standardized spelling. Only the Manx text is included. Another interesting
+item is ‘the Trial of John Barlecorn’, transcribed by Chris Sheard from a manuscript
+by J. T. Clarke. The same page also contains a large number of contemporary texts,
+including my own translation of Voltaire’s Candide.
+On the page ‘Skeet’, back-issues of Bun as Bree are available, as well as my bilingual
+articles in the Isle of Man Examiner, issues of Gaelg Vio and other news items. Under
+‘Multimedia’ and ‘Recordings Archive’, there are many interesting recordings,
+including Ned Maddrell, and past episodes of Manx Radio and the BBC’s
+programmes Jamys Jeheiney and Traa dy Liooar.
+Google Books
+http://books.google.co.uk
+The internet search company Google has a project to make freely available out of
+print and obscure books in electronic format by scanning volumes in libraries around
+the world. A number of Manx volumes are available, scanned from copies held in
+places such as the Bodleian Library in Oxford. By careful to search for the titles of the
+books with the dates, for many other editions are available, most of them not
+containing Manx.
+These include:
+Sharmaneyn. Lioar 1 by Thomas Wilson 1783.
+22 sermons by Bishop Wilson, translated into Manx and published in 1783. The
+sermons run to some four hundred pages of Manx prose and are written in generally
+good Manx, and contain many words and idioms not found or rarely found elsewhere,
+as well as colloquialisms. A linguistic commentary of one of these sermons (no. 10)
+by myself has been published in the journal Scottish Gaelic Studies 28 pp. 175-210.
+The original English versions of the sermons are also available from Google Books, in
+vol. 1 (1-8, 9, 10, 15, 16, 19, 20, 24), vol. 2 (26, 31, 37, 38), vol. 3 (58, 71, 74) and
+vol. 4 (76).
+A short and plain instruction for the better understanding of the Lord’s supper by
+Thomas Wilson 1777.
+This is a bilingual edition of another of Bishop Wilson’s books, again written in good
+Manx prose.
+The Book of common prayer, tr. into Manx 1777.
+Includes a collection of metrical psalms and a couple of hymns.
+Lioar dy hymnyn: as arraneyn spyrrydoil, chyndait gys Gailck, veih Lioaryn Wesley
+as Watts 1799.
+Manx methodist hymn book, containing a large number of hymns, moslty translated
+to a high standard.
+Aght giare dy heet gys Tushtey as Toiggal jeh’n chredjue Chreestee ayns daa ayrn by
+John Clague 1814.
+Another catechism, written in good idiomatic Manx, most notable for the large
+number of traditional names for religious festivals. The original English version is
+also available, as ‘An Introduction to the knowledge of the Christian religion in two
+parts’ by H Crossman, but incorrectly referenced as ‘Brossman’ in Google.
+A practical grammar of the antient Gaelic: or language of the Isle of Man, Volume 2,
+by John Kelly
+John Kelly’s pioneering grammar.
+The Manx Bible and Cregeen’s dictionary are also available on Google Books.
+Archive.org
+Moore/Rhys edition of Phillip’s (c. 1610) translation of the Book of Common Prayer
+This is the earliest body of Manx prose in existence. The two volumes are available;
+search for the following identifier codes:
+Vol. 1: cu31924093598203
+Vol. 2: cu31924093598211
+Volume 1 contains the orders for the services through the year and the readings for
+them, while volume 2 contains the psalms and Rhys’s Outlines of the Phonology of
+Manx Gaelic.
+Skeealyn Aesop: a Selection of Aesops Fables: Translated Into Manx-Gaelic,
+Together with a Few Poems (1901).
+These fables were translated by Edward Faragher (Ned Beg Hom Ruy).
+Identifier: skeealynaesopas00farqgoog
+Bun as Bree
+This may be the last Bun as Bree for a while, as I have a number of other projects and
+have run short of ideas for topics! But please get in touch if there is any particular
+subject that you think should be covered, and I will endeavour to deal with them in
+the future.
+Manx magazine
+It is hoped that a magazine in Manx will soon be established, to come out once or
+twice a year. This is to provide an outlet for shorter pieces of writing in Manx, mostly
+factual, though stories and verse would also be welcomed. If you would like to
+contribute please contact myself or James O’Meara (who will be the editors), or the
+Manx Language Officer Adrian Cain. Essays, articles and stories between 500 and
+5000 words (basically write as much or as little as you feel comfortable with) are
+sought, and hopefully this will get off the ground in the autumn (2012). If you are not
+fully confident writing in Manx, do not be deterred, for we will go over what you
+have written and help you. Alternatively, write in English and we would be happy to
+translate it into Manx.
+Proverbs:
+Share goll dy lhie fegooish shibber na girree ayns lhiastynys. - Better to go to bed
+without supper than to get up in debt.
+Foddee yn moddey s’jerree tayrtyn y mwaagh. - The last dog may catch the hare.

@@ -1,0 +1,330 @@
+﻿Bun as Bree 3
+© Christopher Lewin 2011
+Christopher Lewin
+No. 3 - June 2011
+A series of short articles on Manx Gaelic grammar, idiom, vocabulary
+and pronunciation.
+Waiting
+Fuirraghtyn rish is probably what you learned as the Manx equivalent of ‘wait for’.
+However, there are several different words and expressions meaning ‘wait’ in Manx, with
+subtly different histories and meanings. We will explore them here.
+The two standard ways of saying ‘wait for someone / something’ in the Manx Bible are the
+verbs farkiagh (stem farkee or fark) and fieau (only as a verbal noun1) with the prepositions
+er or son. Er is more common; son is possibly due to English influence2. Rish never occurs
+with these two verbs (in contrast to Scottish Gaelic, where feitheamh ri is common alongside
+air and airson).
+Fieau is only used meaing to wait for someone or something. Farkiagh is mostly used with
+this meaning, sometimes meaning more generally ‘wait, stay, tarry’. This is the usual sense
+of fuirraghtyn: it is used dozens of times in the Bible, but only twice (with son) can it be
+construed as meaning ‘waiting for someone’, in Exodus 24:14 and 1 Corinthians 11:33.
+Fuirraghtyn rish never appears in the Bible.
+These words thus overlap in sense, but in summary we can say of Classical Manx that fieau
+er (/son) and farkiagh er (/son) are the normal ways of expressing ‘wait for’. Fuirraghtyn
+son is a possible occasional alternative. Farkiagh and fuirraghtyn can mean ‘stay’ or ‘tarry’
+in a place, whether you are waiting for something in particular or not.
+1 Like ceau from caith-caitheamh, there seems to be no trace of the separate stem feith of feitheamh: the -eamh
+of the verb-noun ending has fused with the stem to make a monosyllable. In the case of ceau, this new
+monosyllabic fused form has replaced the stem, e.g. cha geau ‘will not throw’ (Joel 2:10) representing cha
+gcaitheamh for historic cha gcaith, contemporary ScG. cha chaith. Contrast shass-shassoo (seas-seasamh)
+where stem and ending remain distinct because of the consonant. Unlike ceau, where inflected tenses are amply
+attested (past cheau, future ceauee, cha geau, dy geau-ym), fieau seems only to be attested as a verbal noun so
+far as I know—no *dieau, cha vieau etc., so in the absense of evidence to the contrary it is probably best to
+treat it as defective and inflect it periphrastically with jannoo (ren mee fieau etc.).
+2 Especially since the earlier translation in Phillips prayer book has several instances of farkiagh er where the
+later Bible has farkiagh son, e.g. Psalm 71:9, Romans 8:23, 1 Corinthians 1:7, though erson appears even in
+Phillips in Luke 23:51.
+1
+Bun as Bree 3
+© Christopher Lewin 2011
+Here are a few examples of these three verbs:
+1.	Fieau (Ir, ScG. feitheamh):
+Choud as v’ad fieau er y dooinney poosee, huitt ad ooilley er saveenagh as cadley - While
+the bridegroom tarried [while they were waiting for the bridegroom], they all slumbered and
+slept (Matthew 25:5)
+Ayndoo shoh va nyn lhie ymmodee dy leih dourinagh, doail, baccee, shirgeydee, as v’ad
+fieau er gleashaght yn ushtey - In these lay a great multitude of impotent folk, of blind, halt,
+withered, waiting for the moving of the water (John 5:3)
+As haink eh gy-kione, tra va Yeesey er jeet back, dy ghow yn pobble lane boggey jeh: son
+v’ad ooilley fieau er - And it came to pass, that, when Jesus was returned, the people gladly
+received him: for they were all waiting for him (Luke 8:40)
+As va’n pobble fieau son Zacharias, as yindys orroo dy row eh cumrail choud ayns y
+chiamble - The people waited for Zacharias, and marvelled that he tarried so long in the
+temple (Luke 1:21)
+ny frassyn er y faiyr, nagh vel lurg aigney dooinney, ny fieau son mec deiney - the showers
+upon the grass, that tarrieth not for man, nor waiteth for the sons of men (Micah 5:7)
+Fieau er can also mean ‘wait on’ in the sense of ‘attend to, serve’:
+Bee ee er ny choyrt lh’ee gys y ree ayns garmad dy obbyr snaidey: hig ny moidynyn ta fieau
+urree ayns dty enish - She shall be brought unto the King in raiment of needle-work: the
+virgins that be her fellows [wait on her] shall bear her company, and shall be brought unto
+thee (Psalms 45:15)
+A useful phrase with fieau is fieau er caa, ‘wait for an opportunity’:
+va jees jeh shamyrderyn y ree…fieau er caa dy stroie ree Ahasuerus - two of the king’s
+chamberlains…sought to lay hands on [were waiting for an opportunity to destroy] the king
+Ahasuerus (Esther 2:21)
+As v’eh fieau er caa dy vrah eh - And he sought how he might conveniently betray him [he
+was waiting for an opportunity to betray him] (Mark 14:11)
+2.	Farkiagh(t) (Ir. faircsin):
+Son ta’n ashlish foast son traa ry-heet, agh ec y jerrey nee eh loayrt, as cha nee ayns fardail:
+ga dy vel eh lhiggey shaghey, fark er, son hig eh son shickyrys, cha jean eh cumrail - For
+the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it
+tarry, wait for it; because it will surely come, it will not tarry (Habakkuk 2:3)
+Cre’n-fa ta shin nyn soie ayns shoh farkiagh er y baase? - Why sit we here until we die
+[waiting for death]? (2 Kings 7:3)
+va troailtee Sheba farkiaght orroo - the companies of Sheba waited for them (Job 6:19)
+2
+Bun as Bree 3
+© Christopher Lewin 2011
+Fark-jee er-y-fa shen, vraaraghyn, derrey cheet y Chiarn. Cur-my-ner, ta’n eirinnagh
+farkiagh son mess berchagh y thallooin, as t’eh farkiagh foddey er y hon - Be patient
+therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the
+precious fruit of the earth, and hath long patience for it [waits a long time for it] (James 5:7)
+Myr shoh jimmee yn phadeyr roish, as ren eh farkiagh son y ree er y raad, as ren eh eh-hene
+gyn-yss da liorish coodagh e eddin - So the prophet departed, and waited for the king by the
+way, and disguised himself with ashes upon his face (1 Kings 20:38)
+Without a preposition:
+As lurg dhyt farkiagh three laa, eisht hed oo sheese dy tappee, as hig oo gys yn ynnyd raad
+v’ou follit roïe tra va’n chooish ayns laue, as nee oo fuirriaght liorish y chlagh Ezel - And
+when thou hast stayed three days, then thou shalt go down quickly, and come to the place
+where thou didst hide thyself when the business was in hand, and shalt remain by the stone
+Ezel (1 Samuel 20:19)
+jean-jee farkiagh, shass-jee raad ta shiu, as cur-jee my-ner saualtys y Chiarn mêriu - set
+yourselves, stand ye still, and see the salvation of the Lord with you (2 Chronicles 20:17)
+Farkiagh appears in the idiom lhie farkiagh ‘lying in wait’, which is synonymous, and may
+be combined, with lhie cooyl-chlea. It may be followed by er or son:
+dy vel my vac er ghreinnaghey my harvaant m’oï, dy lhie farkiagh er my vioys - that my
+son hath stirred up my servant against me, to lie in wait [on my life] (1 Samuel 22:8)
+t’adsyn ta lhie farkiaght son m’annym, coyrt nyn goyrle dy cheilley - they that lay wait for
+my soul take their counsel together (Psalm 71:9)
+lhie ad farkiagh dy feagh er e hon fud-ny-hoie ec giat yn ard-valley - [they] laid wait for
+him all night in the gate of the city, and were quiet all the night (Judges 16:2)
+lhie eh farkiagh ayns y vagher - [he]laid wait in the field (Judges 9:43)
+As mannagh vel dooinney lhie farkiagh cooyl-chlea dy varroo fer elley, agh dy nee Jee t’er
+leeideil eh ny raad; neem’s eisht boayl y phointeil dhyt dasyn dy roie er-chea huggey - And
+if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place
+whither he shall flee (Exodus 21:13)
+3.	Fuirr(i)aght(yn). This verb very frequently occurs, without a preposition, in a sense
+similar to farkiagh above. It means ‘wait, stay, abide, remain, tarry’, regardless of whether
+one is waiting FOR something in particular. Its connotations are fairly concrete, of staying in
+a geographical location (cf. ScG. fuireach which often means ‘live, dwell’—the Manx would
+seem to imply less permanence / duration than the Scottish). The predominantly concrete
+connotation of fuirraghtyn contrasts with the more abstract sense of tannaghtyn, ‘remain or
+continue in a state or action’.
+3
+Bun as Bree 3
+© Christopher Lewin 2011
+Raad erbee dy jed shiu stiagh ayns thie, fuirree-jee ayn derrey aagys shiu yn ynnyd shen - In
+what place soever ye enter into an house, there abide till ye depart from that place (Mark
+6:10)
+As deïe Jonathan lurg y yuilley, Jean siyr, dy tappee, ny fuirree - And Jonathan cried after
+the lad, Make speed, haste, stay not (1 Samuel 20:38)
+Trog ort, gow yn lhiannoo as e voir, cosne royd gys Egypt, as fuirree ayns shen derrey ver-
+yms fys hood - Arise, and take the young child and his mother, and flee into Egypt, and be
+[stay] thou there until I bring thee word (Matthew 2:13)
+Dooyrt Yeesey rish, My she m’aigney’s eh eshyn dy uirriaght derrey hig-ym, cre ta shen
+dhyt’s? Eiyr uss orrym’s - Jesus saith unto him, If I will that he tarry till I come, what is that
+to thee? follow thou me (John 21:22)
+Cur-my-ner, yinnin eisht cosney roym foddey jeh: as fuirraght ayns yn aasagh - Lo, then
+would I get me away far off: and remain in the wilderness (Psalms 55:7)
+There are a couple of examples in the Bible of fuirraghtyn with a preposition, but it is not
+rish:
+Shen-y-fa, my vraaraghyn, tra ta shiu cheet cooidjagh dy ee, fuirree-jee yn derrey yeh son y
+jeh elley - Wherefore, my brethren, when ye come together to eat, tarry one for another (1
+Corinthians 11:33)
+Fuirree-jee ayns shoh er nyn son, derrey hig mayd hiu reesht - Tarry ye here for us, until
+we come again unto you (Exodus 24:14)
+An idiom involving either fuirraghtyn or farkiagh is fark ort! / fuirree ort! equivalent to
+English ‘hold on! hang on! wait a moment! wait there!’. It is a prepositional reflexive verb,
+in which the prepositional part agrees with the subject, like cur lhiat, troggal ort, cosney
+royd etc. but is only found in the imperative.
+Eisht dooyrt ee, Fark ort, my inneen, derrey hee mayd kys hed y chooish: son cha bee fea er
+y dooinney derrey vees eh er y laa shoh er chooilleeney e yialdyn - Then said she, Sit still,
+my daughter, until thou know how the matter will fall: for the man will not be in rest, until
+he have finished the thing this day (Ruth 3:18)
+Caïd nagh bee jerrey er nyn ghoan? fuirree-jee erriu, as ny lurg shen nee mayd loayrt -
+How long will it be ere ye make an end of words? mark, and afterwards we will speak (Job
+18:2)
+fuirree ort - wait! (Thomas Christian, Handbook of Late Spoken Manx p. 180)
+Kelly in his Grammar also gives Agh fuirree ort as an conjunction ‘yet, but still’,
+presumably referring to the idea of saying ‘hold on, wait a moment’ to signal a change of
+thought or topic in a conversation.
+4
+Bun as Bree 3
+© Christopher Lewin 2011
+Late Spoken Manx:
+In the recordings of Late Spoken Manx, the patterns of usage of the three verbs are basically
+the same as in the Bible. In Broderick’s Handbook of Late Spoken Manx dictionary, only
+fieau (with preposition er, son, or, perhaps abnormally, da) is used for ‘wait for’: farkiagh
+has only one example, fuirraghtyn several, and they have a similar usage to what is found the
+Bible. They do not appear with prepositions (although the reflexive idiom fuirree ort is
+recorded, see above).
+All the following examples are from the Handbook:
+1.	fieau
+ta mee fieau ort - I am waiting for you (JW)
+ta mee fieau son echey - I’m waiting for him (JW)
+neeym’s fieau dhyt’s - I will wait for you (HK)
+2.	farkiagh
+my nee oo fark aynshoh marym’s - if you stay here with me (NM)
+3.	fuirraghtyn
+cha ren eh fuirraght feer foddey ayn - he didn’t stay very long there (JK)
+t’ad goll dy fuirraght ayns Rhymsaa - they’re going to stay in Ramsey (NM)
+cha row ad fuirraght un vinnid - they didn’t wait one minute (JK)
+foddee dy bee ad fuirraghtyn gaa ny tree laghyn - perhaps they will stay two or three days
+(HB)
+fuirree, bwa, yiowym’s oo foast - wait, boy, I’ll get you yet (TT)
+ny fuirree aynshoh - don’t wait / stay here (TC)
+Fuirraghtyn rish
+Fuirraghtyn rish seems to be conspicuous by its absence from the Bible and the corpus of
+native speech. It is attested, though, in Early and archaic Manx:
+In Phillips prayer book:
+Furrigi anayn rish anayn elle (Fuirree-jee unnane rish unnane elley) - tarry one for another
+(Thursday before Easter, 1 Corinthians 11:33)
+In Pargys Caillit:
+ayns shen va Chaos myr ree freayll e chooyrt,
+as e choonceil ghoo trooid-[y]-cheilley loayrt;
+cha row fockle fuirragh’ rish fockle elley,
+as ayns y dooid cha row ad fakin shilley
+-	there Chaos as a king kept his court, / and spoke his black counsel confusedly; / no
+word waited for another word, / and in the darkness they did not see a sight (Pargys Caillit,
+Thomson ed., ll. 2640-3, my literal translation)
+5
+Bun as Bree 3
+© Christopher Lewin 2011
+Agh cur ansoor gys shen ny hirr mee ort;
+cha veeu lhiam fuirraght’ arragh rhyt dy loayrt.
+-	But give an answer to that which I asked you; / I deign not to wait anymore for you
+to speak (ibid. ll. 2694-5)
+Foast cha duirree’n sp’ryd rish yn giat y ghoaill
+agh, myr v’eh maarliagh, harrish lheim eh’n voall’;
+-	Still the spirit did not wait [for] to take the gate / but, as he was a thief, he jumped
+over the wall (ibid. ll. 3226-7)
+On this evidence, it would appear that fuirraghtyn rish is an archaic form; however, I have
+found one example of it in a Late Manx text, in the story Saggyrt as ny Shellanyn written
+down by Edward Faragher:
+agh cha jeanagh eh furriagh rish piagh erbee gys hooar eh gys y hie dy ghoaill ny shellanyn
+as y chroosyn3 - He didn’t wait for anybody till he got to his house to take the bees out of his
+trousers (‘Manx Stories and Reminiscences of Ned Beg Hom Ruy’, George Broderick ed., p.
+160)
+This may suggest that fuirraghtyn rish was still in natural use in the Late Manx of the
+nineteenth century, but since this is apparently a traditional tale, the use of furriagh rish may
+well be an archaism passed down in the oral transmission of the story.
+How then do we explain the preponderance of fuirraghtyn rish in revived Manx and the
+disappearance of fieau and farkiagh?
+Goodwin’s First Lessons gives fuirraght in its vocabulary (§28), but gives no indication of
+how to say ‘wait for’. As far as I can see there is only one translation exercise with this verb,
+ny jean fuirraght ec y dorrys; jeigh yn dorrys, where fuirraghtyn is used appropriately in its
+usual Classical and Late Manx sense. Fieau and farkiaght are not mentioned anywhere in the
+book. Thus anyone in the last one hundred and ten years who learnt Manx using this book,
+excellent though it generally is, would not have learnt systematically how to say ‘wait for’,
+and any exposure to fieau and farkiaght would probably be accidental, by encountering them
+in the Bible, or possibly from native speakers.
+J. J. Kneen has the following entry for ‘wait’ in his English-Manx Dictionary (first published
+in 1938):
+wait, fuirree (furree) 13. Wait for me, fuirree rhym.
+Again farkiagh and fieau do not get a look-in (although fieauder is given in the next entry
+for ‘waiter’), and the example gives rish definitively as the preposition that goes with the
+verb, without any alternatives. Probably Kneen was influenced by the other languages,
+which sometimes use ri (or le in Irish, where rish and lesh have fallen together), and by the
+use of fuirraghtyn rish in the archaic texts. It is clear that Kneen believed in going back to
+earlier, in his view purer forms of the language; compare how he tries to shoehorn Manx
+nouns into Irish declensions in his grammar.
+3 agh cha jinnagh eh fuirragh rish peiagh erbee gys hooar eh gys e hie dy ghoaill ny shellanyn ass e hroosyn
+6
+Bun as Bree 3
+© Christopher Lewin 2011
+By the time of Gell’s Conversational Manx in 1954 fuirraghtyn rish had apparently become
+orthodoxy, and in Lesson 7 we find the following:
+9. Dy jarroo ta, jean oo fuirraght rhym?
+9. Indeed yes, will you wait for me?
+And the notes state authoritatively:
+7. Note the preposition ‘da’ with verb ‘insh’.
+9. Similarly, ‘rish’ with verb ‘fuirraght’.
+From these beginnings, this distortion of the language in favour of an obscure archaism,
+along with the forgetting of the expected usual forms, appears to have spread far and wide.
+Fargher’s dictionary does give fieau and farkiaght, but they would appear to little known and
+little used nonetheless.
+What are we to say to all this? It seems fieau er and farkiagh er ‘should’ be the standard
+expressions for ‘wait for’ taught to learners; fuirraghtyn rish is strictly speaking correct, but
+archaic: we don’t go around using other Phillips forms such as gy vel, gy mie, ta mee credjue
+(for credjal) etc., so why should we say fuirraghtyn rish? Even if the evidence from Ned Beg
+is taken into account, and the possibility admitted that fuirraghtyn rish remained current in
+speech but evaded attestation, it is probably safe to say that fuirraghtyn rish should not by
+rights be the default form.
+In actuality fuirraghtyn rish has become so prevalent that it would probably be undesirable
+and counterproductive to try to get rid of it; it is certainly not outright ‘wrong’, and I am
+aware that this sort of thing is open to the charge of nitpicking. There is some merit in the
+argument that languages change and this should just be accepted; sometimes errors and
+misunderstandings gain the upper hand and become the received norm, even in languages in
+a natural state. However, it certainly cannot be a bad thing for those who are interested to
+know the facts, and have the free choice to use the other forms if they wish. It would also be
+a great shame for farkiagh and fieau to fade away and be forgotten, since they are not
+strange, obscure, old-fashioned forms from the Bible; they were used by the likes of Ned
+Maddrell!
+Other words related to the sense of ‘waiting’
+As noted above, while fuirraghtyn means ‘wait, stay, remain’ in a mostly concrete sense,
+tannaghtyn (in Phillips fannaghtyn) tends to be more abstract, and to imply greater duration:
+Ayns e wannal ta niart tannaghtyn - In his neck remaineth strength (Job 41:22)
+dy vod gloyr tannaghtyn ayns y cheer ain - that glory may dwell in our land (Psalm 85:9)
+dy vod mad tannaghtyn dy yanoo shen gys jerrey nyn seihll - that…we may continue to do
+so unto our lives end (Plain and Short Directions and Prayers, p. 18)
+Nee yn sluight echey tannaghtyn son dy bragh - His seed shall continue for ever (Psalm
+89:35)
+7
+Bun as Bree 3
+© Christopher Lewin 2011
+Farraghtyn is ‘last, endure’:
+Son cha vel e chorree farraghtyn agh meekey sooilley, as ayns y foayr echey ta bea: foddee
+trimshey farraghtyn son oie, agh ta boggey cheet ’sy voghrey - For his wrath endureth but
+the twinkling of an eye, and in his pleasure is life: heaviness may endure for a night, but joy
+cometh in the morning (Psalm 30:5)
+Cumrail as an intransitive verb means ‘wait, tarry, linger, dawdle, procrastinate’; in the latter
+senses it is synonymous with lhiggey shaghey:
+Son ta’n ashlish foast son traa ry-heet, agh ec y jerrey nee eh loayrt, as cha nee ayns fardail:
+ga dy vel eh lhiggey shaghey, fark er, son hig eh son shickyrys, cha jean eh cumrail - For
+the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it
+tarry, wait for it; because it will surely come, it will not tarry (Habakkuk 2:3)
+As va’n pobble fieau son Zacharias, as yindys orroo dy row eh cumrail choud ayns y
+chiamble - And the people waited for Zacharias, and marvelled that he tarried so long in the
+temple (Luke 1:21)
+As choud as v’eh cumrail, haare ny ainlyn greme er e laue, as er laue e ven, as e ghaa inneen
+- And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and
+upon the hand of his two daughters (Genesis 19:16)
+Soie-jee seose yn mergey lesh Zion: reue-jee, ny jean-jee cumrail - Set up the standard
+toward Zion: retire [go forth], stay not (Jeremiah 4:6)
+As a transitive verb, cumrail means ‘hold up, delay, hinder’:
+Cre’n-oyr ta’n fainagh echey fuirriaght choud? cre ta cumrail queeylyn e ainagh? - Why is
+his chariot so long in coming? why tarry the wheels of his chariots? (Judges 5:28)
+Ny jean-jee m’y chumrail, fakin dy vel y Chiarn er choyrt speedeil mie da my chooish -
+Hinder me not, seeing the Lord hath prospered my way (Genesis 24:56)
+Jerkal rish ‘expect’:
+As ghow eh tastey jeu, jerkal rish red ennagh y gheddyn voue - And he gave heed unto
+them, expecting to receive something of them (Acts 3:5)
+Jeeaghyn son ‘look (out) for’:
+ta shin jeeaghyn son livrey-ys, agh cha vel eh cheet - we look for judgment [deliverance],
+but there is none (Isaiah 59:11)
+The following diagram illustrates the various words and idoms, and how their senses
+overlap:
+8
+Bun as Bree 3
+© Christopher Lewin 2011
+Waiting, staying, continuing, enduring, expecting
+- words and expressions in Manx
+Cha row dy niart oc
+This was raised at the recent Forum ny Gaelgey. The following idiom appears twice in the
+Bible:
+cha row fort ayndoo dy yannoo shickyr yn chroan; cha row dy niart ayndoo dy skeayley yn
+shiaull - they could not well strengthen their mast, they could not spread the sail (Isaiah
+33:23)
+Cuir-jee magh yn lieen er y cheu-yesh jeh’n lhong, as bee eh eu. Eisht chuir ad: as nish cha
+row dy niart oc yn lieen y ghoaill stiagh va lhied y thummyd eeast ayn - And he said unto
+them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and
+now they were not able to draw it for the multitude of fishes (John 21:6)
+This is probably dy as in jeh ‘of’, so ‘they did not have of strength to take in the net > they
+did not have enough strength…’. This idiom is common in Gaelic, where it can be used with
+any noun, but it appears to have been fossilized in Manx with niart. Compare Scottish
+Gaelic:
+chan eil de dh’airgead anns an t-saoghal a phàigheadh gus na h-Eileanan a dhìon bhon
+Chuain - there is not enough money in the world to pay for protecting the Islands from the
+Ocean (The Scotsman, 31 July 2005)
+Proverb of the month:
+Eaisht lesh daa chleaysh eisht jean briwnys. - Listen with two ears then make judgement.
+9

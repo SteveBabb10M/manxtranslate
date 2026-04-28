@@ -1,0 +1,743 @@
+﻿Relative future tense in Manx main clauses
+1
+Relative future tense in main clauses in Manx Gaelic
+Max W. Wheeler
+November 2016
+Eshyn ghuirrys skeilley hayrrys skeilley.
+He who hatches harm catches harm.
+The Manx relative future tense occurs not only in future relative clauses (whence its name), but also in
+other contexts, such as some adverbial subordinate clauses, e.g. after raad ‘where’, tra ‘when’, my ‘if’,
+and in certain main clauses, as, for example, Shen-y-raad vees keayney as snaggeraght feeacklyn,
+‘There shall be weeping and gnashing of teeth’ (Luke 13.28). Of course, positive affirmative future
+main clauses normally require the independent future tense. The objective of this study is to investigate
+in what contexts the relative future tense may be used in main clauses in Classical Manx. With that
+overall focus in mind, I also discuss and illustrate the use of the relative future in subordinate clauses,
+other than relative clauses themselves, about which I say little. I seek to establish in what contexts the
+relative future is required, in what contexts it is excluded, and in what contexts its use is variable.1 The
+bulk of the exemplification involves the future tense of ve ‘be’; there are 1001 cases of the forms vee’m,
+veem’s, vees or vees mayd, the relative future paradigms of ve, in the Manx Bible, alongside well over
+3000 of the independent and dependent future tense of ve (bee’m, beem’s, bee, bee mayd).
+First, a reminder of the Manx future tense inflectional paradigm, using the example clashtyn ‘to hear’,
+which has the advantage (over ve ‘be’, for example) that the independent, dependent, and relative future
+paradigms are distinct.2 When the verb stem begins with a mutatable consonant, as in this example, the
+independent future takes the radical, the dependent future takes Nasalization, and the relative future
+takes Lenition 1.
+	Independent future	Dependent future	Relative future
+1sg	clynnym	glynnym	chlynnym
+2sg	clynnee oo	glyn oo	chlynnys oo
+3sg	clynnee (eh/ee)	glyn (eh/ee)	chlynnys (eh/ee)
+1pl	clynmayd	glynmayd	chlynnysmayd
+2pl	clynnee shiu	glyn shiu	chlynnys shiu
+3pl	clynnee (ad)	glyn (ad)	chlynnys (ad)
+There is a small number of verbs, with irregular paradigms, that lack a distinct relative future: (cur
+‘give’, ‘send’, ‘put’; çheet ‘come’; feddyn ~ geddyn ‘find’, ‘get’; goll ‘go’; jannoo ‘do’).3 These verbs
+use their independent future forms in all the contexts, mentioned here, that otherwise call for the relative
+future.
+1 I am very grateful to Melanie Green for discussion of some of the issues raised in this paper, and for bringing
+to my attention the paper in which she and a colleague investigate a similar phenomenon: Melanie Green &
+Chris H. Reintges, ‘Syntactic conditions on special inflection: evidence from Hausa and Coptic Egyptian’, Lingua
+166 (2015), 127-154.
+2 Alternative forms based on the root cluinn- are slightly less common in the Manx Bible.
+3 For fakin some sources give a relative future paradigm without -ys: aikym, aikmayd, aik, but I have not found
+these attested in texts. In Classical Manx hee’m ~ heem’s ‘I shall see’ and hee mayd ‘we shall see’ are used (same
+as independent future: tra hee’m ‘when I see’, derrey hee mayd ‘until we see’), together with heeys in the other
+persons (tra heeys eh oo ‘when he seeth thee’), though hee (= independent) is more frequent there. From çheet,
+there is a unique example of higgys ‘will come’: mish y Chiarn nee freggyrt eshyn higgys, cordail rish earroo y
+yallooyn. ‘I the Lord will answer him that cometh according to the multitude of his idols’ (Ez. 14.4).
+Relative future tense in Manx main clauses
+2
+The verb fod- ‘can’ also has three paradigms (3SG independent foddee, 3sg dependent vod ~ nod, 3sg
+relative oddys) which are ‘future’ in form, but present in meaning. Fod- has no semantically future
+tense. Though the syntax of its relative form is parallel to that of the future relative considered in this
+paper, I have not included it here.
+1.	Dependent future after cha, dy, nagh, mannagh, and in alternative questions
+After the negative particle cha ‘not’, after the complementizers dy ‘that’, nagh ‘that…not’ (likewise ga
+dy ‘although’, ga nagh ‘although … not’), and mannagh ‘unless’, and in alternative (yes/no) questions,
+forms from the future dependent paradigm are used; in these contexts, the relative future is
+ungrammatical.
+2.	Contexts in which the relative future may be found
+The uses of the relative future may be classified into two classes. First there is the use of the relative
+future in positive subordinate clauses —adverbial clauses, broadly speaking, including temporal and
+conditional clauses. This use is discussed in §§ 3 and 4. The uses of the relative future in the other set
+share the property of occurring in constructions where there is a syntactic ‘gap’: a syntactic unit is
+‘moved’, or missing, from its position in canonical word order.4 Manx canonical word order is Verb-
+Subject-Object(s)-Adjunct(s) (VSO), or, when a verb is constructed with an auxiliary, Auxiliary-
+Subject-Verb-Object(s)-Adjunct(s) (AuxSVO). These uses are described in §§ 5-13. Whether these two
+classes of uses were originally one is a moot point.
+3.	Relative future after raad, tra, derrey, my, roish my, myr
+The relative paradigm of the future tense is required in a positive clause after the subordinating
+conjunctions raad ‘where’, tra ‘when’, derrey ‘until’, my ‘if’, and roish my ‘before’. It is plausible that
+the constructions with raad (cf. raad ‘way, direction’) and tra (cf. traa ‘time’) were originally
+themselves relative clauses: ‘(the) way (that)…’, ‘(the) time (that)…’. Derrey, my and myr do not lend
+themselves to this kind of historical account, though. Beside 109 instances of tra vees in the Manx Bible
+there is just one of tra bee’m, which I take to be an error.5 My ‘if’ is never followed by
+dependent/independent bee- forms of ve ‘be’.6 However, alongside five examples of roish my vee-, there
+are, in fact, two of roish my bee-.7 The subordinating conjunction myr ‘as’ also takes the relative future,
+as does a related idiomatic construction with ‘copular’ shoh or shen: shoh myr… ‘this is how…’, shen
+myr… ‘that is how…’. Beside 48 Bible examples of shoh/shen myr with relative future
+vees/vee’m/veem’s, there is just one with shen myr bee. When the subordinate clause is negative, raad
+4 Green & Reintges (2015) draw attention to a number of languages, of which Hausa is one, in which ‘special
+inflection’ on a verb corresponds with a syntactic gap in ‘operator-variable’ constructions. The parallels with
+Manx are quite striking.
+5 my nee oo m’y akin tra bee’m er my ghoaill void, bee eh myr shen dhyt; agh mannagh vaik oo mee, cha bee eh
+myr shen ‘if thou see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so’ (2 Ki.
+2.10).
+6 There are 99 Bible examples of my vee- ‘if shall be’.
+7 Son roish my bee tushtey ec y lhiannoo dy eam, My ayr, as my voir, bee berchys Ghamascus as spooilley Samaria
+goit ersooyl roish ree Assyria, ‘For before the child shall have knowledge to cry, My father, and my mother, the
+riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria’ (Isa. 8.4); Shir cre
+nee’m er dty hon roish my bee’m goit ersooyl void., ‘Ask what I shall do for thee, before I be taken away from
+thee’ (2 Ki. 2.9). Note that the second of these cases is in the verse preceding that in which we see an anomalous
+case of tra bee’m, cited in the preceding note.
+Relative future tense in Manx main clauses
+3
+nagh, tra nagh, derrey nagh, tra nagh, mannagh, myr nagh are used, followed by dependent forms.
+There seems not to be a negative pattern corresponding to roish my.
+The use of the relative future in these contexts, together with those discussed in §4 below, resembles
+the use of the subjunctive mood in Romance languages, in subordinate clauses with future time
+reference, such as temporal clauses with ‘when’, and relative clauses with unspecific Cregeen (Introduction §88)8 uses the term ‘subjunctive mood’ in discussing -ys forms as		antecedents. used after my
+‘if’, but does not pursue this characterizatio	n any further.	
+Tra scuirrys y laue dy choyrt, scuirrys	When the hand ceases to give, the mouth	Cregeen,
+yn veeal dy voylley.	ceases to praise.	s.v. scuirr
+Lhig da ny saggyrtyn y hroggal eh, dy chooilley ghooinney jeh e ainjys, dy cherraghey brishaghyn y thie, raad erbee vees failleil ry gheddyn	Let the priests take it to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach shall be found	2 Ki. 12.5
+Ayns ollish dty vaaish nee oo gee dty arran, derrey chyndaays oo gys yn ooir	In the sweat of thy face shalt thou eat bread, till thou return unto the ground	Gen. 3.19
+my vee’m er my hilgey sheese, nee adsyn ta dy my heaghney boggey ’ghoaill jeh	if I be cast down, they that trouble me will rejoice at it	Ps. 13.4
+O ymmyrk lhiam son tammylt beg, dy voddym my niart y gheddyn reesht: roish my vaagym9 yn seihll shoh, as nagh bee’m arragh er my akin	O spare me a little, that I may recover my strength: before I go hence [Manx: before I leave this world], and be no more seen	Ps. 39.15
+Agh va myrgeddin phadeyryn foalsey mastey’n pobble; eer myr vees fir-ynsee foalsey ny mast’ euish	But there were false prophets also among the people, even as there shall be false teachers among you	2 Peter 2.1
+as myr vees dty laghyn, myr shen bee dty niart	and as thy days, so shall thy strength be	Deut. 33.25
+As myr vees shiu goll, jean-jee preacheil, gra, Ta reeriaght niau er- gerrey	And as ye go, preach, saying, The kingdom of heaven is at hand	Mat. 10.7
+as hem’s er my hoshiaght ass my aash, cordail myr vees y maase ta goll roym	and I will lead on softly, according as the cattle that goeth before me	Gen. 33.14
+as my nee dooinney erbee aggair daue, shoh myr vees eh er ny choyrt dy baase	and if any man will hurt them, he must in this manner be killed [Manx: this is how he shall be put to death]	Rev. 11.5
+Agh shoh myr choardys mayd riu	But in this will we consent unto you	Gen. 34.15
+cordail rish shen ny v’er ny loayrt, Shen myr vees dty luight	according to that which was spoken, So shall thy seed be	Rom. 4.18
+myr va mee marish Moses, shen myr	as I was with Moses, so I will be with thee Jos. 1.5
+bee’m mayrts
+4.	Relative future in correlative constructions, after cha Adj/Adv as, choud as ~
+choud’s; lheid as, wheesh as, whilleen as
+The relative future paradigm is required in a subordinate clause correlative construction with as (not =
+as ‘and’): cha Adj/Adv as ‘as Adj/Adv as’ (e.g. cha dooie as ‘as kind as’, cha leah as ~ cha leah’s ‘as
+8 Archibald Cregeen, A Dictionary of the Manx Language, Douglas: Quiggin, etc., 1835; and Max W. Wheeler,
+Fockleyr Chregeen aa-orderit, 2015, online at
+www.academia.edu/12154331/Fockleyr_Chregeen_aa-orderit_liorish_Max_W._Wheeler
+9 One would expect rather aagym as relative future, vaagym as dependent future; the form aagym’s occurs in
+Neh. 6.3, cited below. In the other persons it is aagys, not *vaagys.
+Relative future tense in Manx main clauses
+4
+soon as’), choud as ~ choud’s ‘as long as’, ‘while’, ‘as far as’, lheid as ‘such as’, wheesh as ‘as much
+as’,10 whilleen as ‘as many as’.
+As eisht nee oo toiggal cre erbee cha biallagh as vees oo dauesyn ta er dy skyn, cre erbee yn aigney mie hoilshys oo dauesyn ta corrym rhyt, ny cre erbee cha dooie as vees oo dauesyn ta fo’d, ayd hene smoo vees vondeish liorish	And then you will find, that be you never so obedient to your Betters, never so civil to your Equals, never so kind to your Inferiours, no Man will profit by it more than yourself	Coyrle Sodjey, p.104
+Cre cha doillee as vees eh dauesyn ta berchys oc dy gholl stiagh ayns reeriaght Yee!	How hardly shall they that have riches enter into the kingdom of God!	Mark 10.23
+Cha leah’s hoilshys y laa nee mayd eh y varroo	In the morning, when it is day, we shall kill him. [Manx: As soon as day lightens…]	Jud. 16.2
+Shen-y-fa ta mish myrgeddin er eeasagh [sic] eh da’n Chiarn; choud’s vees eh bio bee eh eeasit da’n Chiarn	Therefore also I have lent him to the Lord; as long as he liveth he shall be lent to the Lord	1 Sam. 1.28
+cre’n-fa veagh yn obbyr ny-haaue, choud as aagym’s eh, dy choyrt meeiteil diuish?	why should the work cease, whilst I leave it, and come down to you?	Neh. 6.3
+As ard-valley erbee dy jed shiu stiagh ayn, as ad dy oltaghey nyn mea, ee-jee lheid as vees soit reue	And into whatsoever city ye enter, and they receive you, eat such things as are set before you	Luke 10.8
+As nee mayd giarey fuygh ayns Lebanon, wheesh as vees feme ayd er	And we will cut wood out of Lebanon, as much as thou shalt need	2 Chron. 2.16
+Son ta’n gialdyn diuish as da nyn gloan, as dauesyn ooilley ta foddey jeh, dy jarroo da whilleen as vees er nyn eam liorish nyn Jiarn Jee	For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call [Manx: indeed to as many as shall be called by…]	Acts 2.39
+5.	Relative future in relative clauses
+Manx positive relative clauses are bare relatives, constructed using the gap strategy; that is to say, the
+relative structure is indicated neither by a relative pronoun like English which or who, nor by a
+complementizer like English that.11 With tenses other than the future, Manx uses independent forms of
+verbs in relative clauses. That is, only the future tense has a specially inflected relative form. Negative
+relative clauses are introduced by the negative complementizer nagh ‘that … not’, which is followed
+by dependent forms. A handful of examples of future relative clauses follow; more are to be seen in
+passing in the examples presented in the following sections. The location of the ‘gap’, or missing
+argument from the canonical structure, is indicated here with [e].
+adsyn sniessey da hoieys	[e] nyn gamp (subject	those that encamp by him [Manx:	Num.
+gap)	they nearest to him (that) shall set	2.27
+their camp]
+Agh eshyn loayrys [e] dy	mollaghtagh noi yn	But he that shall blaspheme against	Mark
+Spyrryd Noo, cha bee dy	bragh leih ny chour,	agh the Holy Ghost hath never	3.29
+t’eh ayns dangeyr coayl-anmey dy bragh	forgiveness, but is in danger of
+farraghtyn (subject gap)	eternal damnation
+10 But not the idiom ayns wheesh as ~ son wheesh as ‘inasmuch as’, which is followed by dy/nagh and dependent
+forms.
+11 For further information on the typology of relative clauses, see the Wikipedia article Relative clause
+(https://en.wikipedia.org/wiki/Relative_clause), or the article on relatives in the World Atlas of Language
+Structures Online (wals.info/chapter/122).
+Relative future tense in Manx main clauses
+5
+Ad shoh ny slattyssyn as ny briwnyssyn, vees shiu imneagh dy chooilleeney [e] ayns y cheer ta’n Chiarn Jee dty ayraghyn ry-hoi coyrt dhyt, dy ghoaill possession jeh, ooilley ny laghyn vees shiu bio [e] er y thalloo (direct object gap) (adjective complement gap)	These are the statutes and	Deut. judgments, which ye shall observe to 12.1 do in the land, which the Lord God of thy fathers giveth thee to possess it, all the days that ye live upon the earth
+eisht hig eh gy-kione, dy bee adsyn aagys shiu [e] er-mayrn, son gah ayns nyn sooillyn, as jilg ayns nyn lhiattee (direct object gap)	then it shall come to pass, that those	Num. which ye let remain of them shall be	33.55 pricks in your eyes, and thorns in your sides
+agh smerg da’n dooinney shen liorish vees Mac y dooinney er ny vrah [e]: s’mie veagh eh son y dooinney shen mannagh row eh rieau er jeet er y theihll (prepositional object gap, with the preposition ‘fronted’)	but woe unto that man by whom the	Mat. Son of man is betrayed! it had been	26.24 good for that man if he had not been born
+The only relative pronoun of Manx is the free relative ny ‘that which, what’ (also shen ny); it is also
+followed by the relative future tense.12
+Son heill paart, er-yn-oyr dy nee ec Yuaase va’n sporran, dy row Yeesey er ghra rish, Kionnee ny vees mayd feme cour y feailley: ny eh dy chur jeirk da ny boghtyn	For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor	John 13.29
+er y laa er-giyn neesht bee ny vees er-mayrn jeh er ny ee	on the morrow also the remainder of it shall be eaten [Manx: on the day following, that which shall be remaining of it shall be eaten]	Lev. 7.16
+Shoh ny vees eu veih my laue’s, nee shiu lhie sheese ayns trimshey	This shall ye have of mine hand; ye shall lie down in sorrow [Manx: lit. It is this what will be at you from my hand…]	Isa. 50.11
+Nee mad geamagh huggey son ny vees shin ny ymmyrts, as nee shin ny ver eh dooin y ghoaill dy booisal	We shall call upon Him for what we want, and thankfully receive what he is pleased to send. [NB ver ‘shall send’ here is the future independent form of cur, a verb which has no distinct relative future paradigm]	Wilson, Plain and Short Directions,13 p.17
+As mannagh vel shiu er ve firrinagh ayns ny ta lesh dooinney elley, quoi ver diu ny vees lhieu hene?	And if ye have not been faithful in that which is another man's, who shall give you that which is your own?	Luke 16.12
+6.	Relative future after interrogative words: caïd, cre, (c’raad, cre hon), cre’n
+(cre ny), cre’n-fa, cuin, kys, quoi
+The relative form of the future tense is required in positive questions with interrogative words: caïd
+‘how long?’, ‘whither?’, cre ‘what?’, (c’raad ~ cre raad ‘where?’, cre hon ‘why?’, cre whilleen ‘how
+many?’, cre wheesh ‘how great?’), cre’n ‘what (+NSG)?’, ‘which (+NSG)?’ cre ny ‘what (+NPL)?’,
+‘which (+NPL)?’, cre’n-fa ‘why?’, cuin ‘when?’, kys ‘how?’, quoi ‘who?’, and with the two of these
+items that are used in free relative constructions, with erbee ‘ever’: cre erbee ‘whatever’, quoi erbee
+12 Myr ‘as’ might also be considered a free relative pronoun in the example Myr hagherys y lot, vees yn eiraght
+er ny rheynn, edyr ny smoo, ny ny sloo ‘According to the lot shall the possession thereof be divided between
+many and few’ [Manx: As the lot shall happen … ] (Num. 26.56).
+13 Appendix to Coyrle Sodjey.
+Relative future tense in Manx main clauses
+6
+‘whoever’.14 The structure of indirect questions is not different from that of direct questions. The
+interrogative word is located before the verb of its clause, leaving a gap ([e]) where a non-interrogative
+constituent would canonically be located.
+Caïd vees oo myr shoh er-meshtey [e]? cur voïd y feeyn (temporal adjunct)	How long wilt thou be drunken? put away thy wine from thee	1 Sam. 1.15
+cha lheear dooin foast cre vees mayd [e] (nominal predicate)	it doth not yet appear what we shall be	1 John 3.2
+cre vees yn goaill stiagh oc [e] reesht, agh bioys veih ny merriu? (nominal predicate)	what shall the receiving of them be, but life from the dead?	Rom. 11.5
+Son my t’ad jannoo ny reddyn shoh rish y billey oor, cre vees [e] er ny yannoo rish y billey creen? (passive subject)	For if they do these things in a green tree, what shall be done in the dry?	Luke 23.31
+As ny bee-jee seaghnit mysh cre ee-ys, ny cre iu-ys shiu [e] (direct object)	And seek not ye what ye shall eat, or what ye shall drink	Luke 12.29
+Cre’n cosney vees [e] aym, my ta mee seyr veih my pheccah? (subject)	What profit shall I have, if I be cleansed from my sin?	Job. 35.3
+Cre’n-fa vees eh er ny stroie [e]? cre’n foill t’eh er n’yannoo? (causal adjunct)	Wherefore shall he be slain? what hath he done?	1 Sam. 20.32
+Cre’n-fa roieys oo [e], my vac, fakin nagh vel naight erbee sodjey ayd? (causal adjunct)	Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?	2 Sam. 18.22
+Caïd nee oo cadley, O chadleyder, cuin irrys oo ass dty chadley [e]? (temporal adjunct)	How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?	Prov. 6.9
+lhig da’n dooinney dy Yee ren uss y choyrt cheet reesht hooin, as gynsaghey dooin kys hroggys mayd y lhiannoo vees er ny ruggey [e] (manner adjunct)	let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born [Manx: teach us how we shall raise the child that shall be born]	Jud. 13.8
+Cur-my-ner, cha hass daa ree roish; kys eisht hassys shinyn [e]? (manner adjunct)	Behold, two kings stood not before him: how then shall we stand?	2 Ki. 10.4
+quoi vees [e] bio tra nee Jee shoh ’yannoo? (subject)	who shall live when God doeth this?	Num. 24.23
+Quoi ghoys [e] er dy ghra, Cre hon t’ou er n’yannoo shoh? (subject)	Who shall then say, Wherefore hast thou done so? [Manx: Who shall presume to say…?]	2 Sam. 16.10
+Lhig dou foayr y gheddyn ’sy chilley eu; as cre erbee hirrys shiu [e] orrym, verym diu (direct object)	Let me find grace in your eyes, and what ye shall say unto me I will give [Manx: whatever you shall require of me, I shall give to you]	Gen. 34.11
+Quoi erbee lhieys [e] marish baagh, bee eh, son shickyrys, er ny choyrt gy baase (subject)	Whosoever lieth with a beast shall surely be put to death	Ex. 22.19
+quoi-erbee ee-ys [e] yn arran shoh, as iu-ys [e] y cappan shoh jeh’n Chiarn dy neu-feeu, bee eh oolee jeh corp as fuill	whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord	1 Cor. 11.27
+y Chiarn (subject)
+14 There is one example of raad erbee ‘wherever’ with relative future cited just above; but more usually raad
+erbee ‘wherever’ is constructed with dy ‘that’ + dependent forms: raad erbee dy bee my hiarn y ree, lhig eh ve
+ayns baase ny bioys, dy feer, ayns shen myrgeddin vees dty harvaant ‘in what place my lord the king shall be,
+whether in death or life, even there also will thy servant be (2 Sam. 15.21). Similarly, tra erbee ‘whenever’.
+Relative future tense in Manx main clauses
+7
+There are a couple of anomalous occurrences in the Bible of bee where vees is expected after an
+interrogative word. Each is paralleled by a very similar passage with vees. NB cre theihll y(n) raad
+‘wheresoever’ is an idiom. I take it that bee in these two examples is an error.
+Son dooyrt oo, Cre’n vondeish bee eh [e] dhyt? (nominal predicate)	For thou saidst, What advantage will it be unto thee?	Job 35.5
+Son cre’n vondeish vees [e] ec dooinney my chosnys eh yn seihll ooilley, as e annym hene y choayl? (subject)	For what shall it profit a man, if he shall gain the whole world, and lose his own soul?	Mark 8.36
+Dy firrinagh ta mee gra riu, Cre theihll yn raad bee yn sushtal shoh er ny phreacheil [e], dy bee shoh t’eesh er n’yannoo, er ny imraa ayns cooinaghtyn jeeish (locative adjunct)	Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her	Mark 14.9
+Dy firrinagh ta mee gra riu, Cre theihll y raad vees yn sushtal shoh er ny phreacheil [e], dy bee shoh myrgeddin ta’n ven shoh er n’yannoo, er ny imraa ayns cooinaghtyn j’ee (locative adjunct)	Verily I say unto you, Wheresoever this gospel shall be preached in the whole world, there shall also this, that this woman hath done, be told for a memorial of her	Mat. 26.13
+7.	After an extraposed (focus) argument phrase
+When a constituent argument is ‘moved’ to a preverbal position in a main clause, and focused, leaving
+a gap in the canonical pattern of word order, the main clause future tense verb is in the relative form. In
+the examples that follow, the focussed argument is underlined, and the site of the gap is indicated with
+[e]. The examples are grouped as follows:
+(a)	focussed subject Noun Phrases with lexical nouns
+(b)	focussed subject NPs with pronouns
+(c)	focussed pronoun direct object
+(d)	nominal predicates of ve ‘be’
+(e)	adjective predicates of ve
+(f)	adverbial predicates
+(g)	prepositional phrase predicates
+(h)	various kinds of focussed PP complements.
+a Dooinney neesht ny ben, ta cur-rish obbeeys, ny buitcheraght, vees [e] dy feer er nyn goyrt gy-baase; bee ad er nyn glaghey: bee’n uill oc orroo hene	A man also or woman that hath a	Lev. familiar spirit, or that is a wizard, shall	20.27 surely be put to death: they shall stone them with stones: their blood shall be upon them
+Bee nyn gloan myrgeddin er ny vransey ayns peeshyn roish nyn sooillyn; nyn dhieyn vees [e] spooillit, as ny mraane oc goit er-êgin	Their children also shall be dashed to	Isa. 13.16 pieces before their eyes; their houses shall be spoiled, and their wives ravished
+Son cha nee adsyn ta clashtyn y leigh ta seyr fenish Yee, agh jeantee yn leigh vees [e] er ny heyrey	For not the hearers of the law are just	Rom. before God, but the doers of the law	2.13 shall be justified
+Yn cronney casherick shen nee shiu soiaghey magh son y Chiarn, vees [e] queig thousaneyn as feed ayns lhiurid, as jeih thousaneyn ayns lheead	The oblation that ye shall offer unto the	Ez. 48.9 Lord shall be of five and twenty thousand in length, and of ten thousand in breadth
+boggey dy bragh farraghtyn vees [e] nyn gour	everlasting joy shall be unto them	Isa. 61.7
+Relative future tense in Manx main clauses
+8
+agh ree vees [e] ain harrin	but a king shall reign over us [Manx: but a king shall be at us over us]	1 Sam. 12.12
+as dagh nhee t’er ny hebbal ayns Israel vees [e] lhieusyn	and every dedicated thing in Israel shall be theirs	Ez. 44.29
+Immee gys Media my vac, son ta mish dy- shickyr credjal ny reddyn shen loayr y phadeyr Jonas mychione Nineve, dy bee eh er ny hilgey bun-ry-skyn; as son tammylt dy bee ny smoo dy hee ayns Media; as dy bee nyn mraaraghyn skeaylt fud y theihll veih'n cheer vie shen: as bee Jerusalem ny hraa[r]tys, as thie Yee t’ayn vees [e] er ny lostey, as vees [e] ny hraartys son tammylt	Go into Media my son, for I surely believe those things which Jonas the prophet spake of Nineve, that it shall be overthrown; and that for a time peace shall rather be in Media; and that our brethren shall lie scattered in the earth from that good land: and Jerusalem shall be desolate, and the house of God in it shall be burned, and shall be desolate for a time	Tobit 14.4
+b As my ta mish liorish Beelzebub castey drogh-spyrrydyn, quoi liorish ta nyn mooinjer hene dy chastey ad? adsyn er-y- fa shen vees [e] ny briwnyn eu	And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges	Mat 12.27
+As adsyn sniessey da hoieys nyn gamp, vees [e] tribe Asher	And those that encamp by him shall be the tribe of Asher	Num. 2.27
+Adsyn myrgeddin ta gobbragh ayns lieen keyl, as lheid as ta fee obbyr jeebinagh, vees [e] er ny choyrt mow	Moreover they that work in fine flax, and they that weave networks, shall be confounded	Isa. 19.9
+As ta’n seihll goll shaghey, as y taynt ain huggey: agh eshyn ta jannoo aigney Yee, vees [e] er-mayrn son dy bragh	And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever	1 John 2.17
+Eshyn lhieys marish moddee, irrys eh [sic] marish jarganyn15	He who lies with dogs will rise with fleas	Cregeen, s.v. irr
+Eshyn ghuirrys skeilley hayrrys [e] skeilley	He who hatches harm catches harm	Cregeen, s.v. tayr
+Eshyn ghuirrys skeeallyn hayrrys [e] skeeallyn	He who hatches tales shall be caught by tales	Wood, Proverbs
+c son hed oo hucsyn ooilley ver-ym oo er chaghteraght, as cre-erbee ver-yms er dty churrym, shen loayrys oo [e]	for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.	Jer. 1.7
+son cha loayr eh jeh hene, agh cre-erbee nee eh y chlashtyn, shen loayrys eh [e]; as soilshee eh diu reddyn ta ry-heet	for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come	John 16.13
+d Israel vees dty ennym [e]	Israel shall be thy name	1 Ki. 18.31
+Cubit vees e lhiurid [e], as cubit e lheead	A cubit shall be the length thereof, and a cubit the breadth thereof;	Ex. 30.2
+As noidyn dooinney vees adsyn jeh’n lught-thie echey hene [e]	And a man's foes shall be they of his own household	Mat. 10.36
+as joan vees beaghey yn ardnieu [e]	and dust shall be the serpent's meat	Isa. 65.25
+15 The structure of this proverb seems to combine elements of two different patterns: the focus structure, by
+which we would expect eshyn lhieys marish moddee irrys marish jarganyn (cf. eshyn ghuirrys skeilley hayrrys
+skeilley), and the topicalization structure, which would give eshyn lhieys marish moddee, irree eh marish
+jarganyn (cf. eshyn yiow skeilley, yiow eh craid ‘He who receives harm shall receive mockery’).
+Relative future tense in Manx main clauses
+9
+e Nee eh ny anmeenyn oc y livrey veih foalsaght as aggair: as deyr vees yn uill oc [e] ayns e hilley	He shall deliver their souls from falsehood and wrong: and dear shall their blood be in his sight	Ps. 72.14
+Nee’n Ree boggey ’ghoaill ayns dty niart, O Hiarn: feer yennal vees eh [e] jeh dty haualtys	The King shall rejoice in thy strength, O Lord: exceeding glad shall he be of thy salvation	Ps. 21.1
+mish dty endeilagh, as mooar erskyn towse vees dty leagh [e]	I am thy shield, and thy exceeding great reward [Manx: I (am) thy defender, and great above measure thy reward shall be]	Gen. 15.1
+Bannit vees eshyn ghoys dty chloan: as hilgys ad noi ny claghyn [e]	Blessed shall he be that taketh thy children: and throweth them against the stones	Ps. 137.9
+f. My-yiass vees cowrey-caggee champ Reuben [e], cordail rish nyn sheshaghtyn-caggee	On the south side shall be the standard of the camp of Reuben according to their armies	Num. 2.10
+Son raad ta nyn merchys, shen y raad vees y cree eu [e] myrgeddin	For where your treasure is, there will your heart be also	Luke 12.34
+g As ayns y laa shen, hed ushtaghyn bio magh veih Jerusalem: yn derrey lieh jeu gys y cheayn har, as y lieh elley jeu gys y cheayn heear: ’sy tourey as ’sy yeurey vees shoh [e]	And it shall be in that day, that living waters shall go out from Jerusalem; half of them toward the former sea, and half of them toward the hinder sea: in summer and in winter shall it be	Zec. 14.8
+son ec y traa pointit vees y jerrey er [e]	for at the time appointed the end shall be	Dan. 8.19
+veih’n aasagh, as Lebanon, veih’n awin, awin Euphrates, choud as yn aarkey sodjey magh, vees nyn gagliagh [e]	from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be	Deut. 11.24
+Tra heidys Avril bing e chayrn, ’Sy theihll vees palchey traagh as oarn [e]	When April shall shrilly blow his horn, In the world will be plenty of hay and barley	Wood, Proverbs 190
+Lhieuish vees dy chooilley ynnyd ver shiu boyn nyn goshey er [e]	Every place whereon the soles of your feet shall tread shall be yours	Deut. 11.24
+er yn un chlagh cheddin vees shiaght sooillyn [e]	upon one stone shall be seven eyes	Zec. 3.9
+Eer er yn aght cheddin vees eh [e] er y laa vees yn Mac dooinney er ny hoilshaghey	Even thus shall it be in the day when the Son of man is revealed	Luke 17.30
+Son myr va Jonas ny chowrey da ny Nineviteyn, er yn aght cheddin neesht vees Mac y dooinney [e] da’n cheeloghe shoh	For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation	Luke 11.30
+cordail rish tribeyn nyn ayraghyn, vees nyn eiraght	according to the tribes of your fathers ye shall inherit	Num. 33.54
+dy jarroo, myr voalley ta aarloo dy huittym vees shiu [e], as myr cleiy brisht	yea, as a tottering wall shall ye be, and like a broken hedge	Ps. 62.3
+h Son ta mee gra riu, Da dy chooilley unnane ta echey, vees er ny choyrt [e], as eshyn nagh vel echey, bee shen hene ny ta echey er ny ghoaill veih	For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.	Luke 19.26
+As ny chour ocsyn, eer cour ny saggyrtyn vees yn cronney casherick shoh [e]	And for them, even for the priests, shall be this holy oblation	Ez. 48.10
+Relative future tense in Manx main clauses
+10
+Son da quoi erbee ta mooarane er ny	For unto whomsoever much is given, of Luke
+choyrt, ersyn vees mooarane er ny hirrey him shall be much required	12.48
+[e]
+lioroo shen vees ee goit [e]	from thence she shall be taken [Manx, By them…]	Jer. 50.9
+Ayns yn ynnyd smoo casherick nee oo baarail eh; nee dy chooilley ghooinney jiu gee eh: dhyt’s vees eh er ny chasherickey [e]	In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee	Num. 18.10
+T’ou uss, O Yee, er ny voylley ayns Sion: as dhyts vees y breearrey er ny chooilleeney [e] ayns Jerusalem	Thou, O God, art praised in Sion: and unto thee shall the vow be performed in Jerusalem	Ps. 65.1
+ren preacheil roish nish yn sushtal gy Abraham, gra, Aynyd’s vees dy chooilley ashoon er ny vannaghey [e]	[it] preached before the gospel unto Abraham, saying, In thee shall all nations be blessed	Gal. 3.8
+Eshyn ta credjal aynym’s, myr ta’n scriptyr er ghra, Ass y chree echeysyn roie-ys strooanyn dy ushtey bio [e]	He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water	John 7.38
+The focus constructions mentioned above, with constituent gaps and relative future verb forms, need to
+be distinguished from a frequent pattern in which the main clause contains an anaphoric expression co-
+referring to an extraposed, topicalized, NP. In this ‘doubled’ NP construction (with no gap) the
+independent future form is normal.
+As yn saggyrt ta chebbal oural-losht son dooinney erbee, bee crackan yn oural- losht, t’eh dy hebbal, lesh hene	And the priest that offereth any man's burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered.	Lev. 7.8
+Eshyn t’er n’yannoo dewlys er fuill	A man that doeth violence to the blood of	Prov.
+dooinney erbee, bee eh eiyrit dy baase; ny lhig da dooinney erbee lhiettal eh [Many cases of eshyn ta …, bee eh …]	any person shall flee to the pit; let no man stay him.	28.17
+yn dooinney t’er n’yannoo yn aggair shoh bee eh son shickyrys er ny choyrt gy- baase	the man that hath done this thing shall surely die	2 Sam. 12.5
+Yn giat shoh bee eh dooint, cha bee eh er ny osley, as cha jed dooinney erbee stiagh er	This gate shall be shut, it shall not be opened, and no man shall enter in by it;	Ez. 44.2
+Quoi-erbee iu-ys jeh’n ushtey shoh bee eh paagh reesht	Whosoever drinketh of this water shall thirst again	John 4.13
+Adsyn ta faagit ny-yeï, bee ad oanluckit ayns baase; as cha jean e vraane-treoghe dobberan	Those that remain of him shall be buried in death: and his widows shall not weep	Job. 27.15
+Agh y phadeyr ghoys er dy loayrt fockle ayns m’ennym’s, nagh vel mish er harey da dy loayrt, ny loayrys ayns ennym jeeghyn joarree, bee eer y phadeyr shen er ny stroie	But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die	Deut. 18.20
+Cre-erbee vennys rish yn eill echey, bee shen casherick	Whatsoever shall touch the flesh thereof shall be holy	Lev. 6.27
+Agh y saagh craie, ve [sc. v’eh] broit ayn, bee shen er ny vrishey	But the earthen vessel wherein it is sodden shall be broken	Lev. 6.28
+Relative future tense in Manx main clauses
+11
+Although the general pattern with focused complements is that in which the relative future is used, there
+are also several examples of focused complements with bee where vees might be expected. In the last
+two below, though, it is plausible to interpret the Manx construction as paratactic — the ‘focussed
+element’ is an incomplete sentence fragment.
+Son ta mee gra riu, Da dy chooilley unnane ta echey, vees er ny choyrt, as eshyn nagh vel echey, bee shen hene ny ta echey er ny ghoaill veih [e] (the focussed element is the object of the preposition veih, remaining in situ)	For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.	Luke 19.26
+lheid as ta shinyn ayns goan liorish screeuyn, tra nagh vel shin kionfenish, lheid cheddin bee mayd [e] ayns jannoo, tra vees shin kionfenish (focused predicate of ve)	such as we are in word by letters when we are absent, such will we be also in deed when we are present.	2 Cor. 10.11
+Uss my harvaant, O Israel, aynyd’s beem’s er my ghloyraghey [e] (focussed PP in relative clause, or paratactic construction: ‘Thou art my servant; in thee I will be glorified’. But in either case veem’s might be expected.)	Thou art my servant, O Israel, in whom I will be glorified	Isa. 49.3
+Jeh shoh bee cour y chabbane-agglish queig cheead ayns lhiurid [e], as queig cheead ayns lheead (PP complement of NP)	Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth [‘this’ = an offering of land of 25,000 x 10,000 cubits]	Ez. 45.2
+agh eshyn ta’n Chiarn, as y pobble shoh, as ooilley deiney Israel, dy reih, marishyn beem’s [e], as leshyn neem’s shassoo (PP predicate)	but whom the Lord, and this people, and all the men of Israel, choose, his will I be, and with him will I abide.	2 Sam. 16.18
+Da mooarane ver oo ny smoo dy eiraght, as dauesyn sloo ayns earroo, ver oo ny sloo dy eiraght: da dagh tribe bee e eiraght er ny choyrt [e], cordail rish nyn earroo (PP indirect object)	To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him	Num. 26.54
+dy chooilley ghooinney ee-ys mess soor y villey-feeyney, bee e eeacklyn er-jeid (plausibly a paratactic construction, as is the English original; not quite = ‘of every man that eateth the sour grape, the teeth [e] shall be set on edge’)	every man that eateth the sour grape, his teeth shall be set on edge	Jer. 31.30
+agh eh ta shaghney saynt, bee e laghyn foddey-beayn (parataxis?)	but he that hateth covetousness shall prolong his days [Manx: he that repudiates covetounsness, his days shall be long-lasting]	Pov. 28.16
+8.	After na
+The than-clause of a comparative construction (after na ‘than’) requires the relative paradigm in the
+future. These comparative constructions likewise often have a constituent gap. However, in the third
+example here, two complete clauses are compared: ‘rather [we relinquish everything] than [we lose
+the favour of God]’.16
+16 Or perhaps, with a gap, more literally, ‘we relinquish everything [at an] earlier [time] than [the time that] we
+lose the favour of God [at [e]]’.
+Relative future tense in Manx main clauses
+12
+Agh ta mee gra riu, dy bee kerraghey sassey er ny choyrt er thalloo Sodom ec laa ny briwnys, na vees [e] ort’s.	But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee [Manx: …that an easier punishment shall be put on the land of Sodom … than shall be (put) on thee]	Mat. 11.24
+Agh bee kerraghey s’eddrym er ny choyrt er Tyre as Sidon ec y vriwnys, na vees [e] er ny choyrt erriuish	But it shall be more tolerable for Tyre and Sidon at the judgment, than for you [Manx: but a lighter punishment will be put on Tyre and Sidon at the judgment than will be put on you]	Luke 10.14
+Myr shen dy scarr mad rish ooilley, ny sleaih na chaillys mad Foayr Yee, ayn ta shin coontey nyn maynrys harrish ooilley dy lhie	Therefore that we relinquish everything rather than that we lose the favour of God, in which we reckon our happiness to lie above all	Yn Fer- rauee Creestee, p. 45
+9.	Relative future after copula she XP, nee XP
+The relative future is required in cleft constructions where a focussed element is introduced by the
+copula she (dependent nee) ‘it is X (that)…’.17 The following clause is formally subordinate, and might
+well be seen as a relative clause, which would itself justify the presence of the relative future paradigm,
+though the focussing construction itself leaves a gap where the focussed constituent would be in a
+canonical main clause. Observe that this construction is often used in the Manx Bible where the English
+original has no cleft construction. The focussed element is most often a noun, but may be a quantifier
+(e.g. beggan ‘little, few’), a prepositional phrase (son ny assylyn ‘for the asses’, ayd’s ‘at you’), a
+pronoun (mish ‘me’, uss ‘thee’), or an adverbial expression (shen myr ‘thus’).
+agh she dooinney vees oo, as cha nee Jee ’sy laue echeysyn ta dy stroie oo (nominal predicate)	but thou shalt be a man, and no God, in the hand of him that slayeth thee [Manx: it is a man (that) thou shalt be, and it is not a God…]	Ez. 28.9
+Agh my yiow dooinney ayns y vagher ben aeg nasht, as goaill ee er-êgin as lhie mâree, eisht she’n dooinney ny- lomarcan, ren lhie mâree, vees er ny choyrt gy-baase (passive subject)	But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die [Manx: then it is the man alone (that) lay with her (who) shall be put to death]	Deut. 22.25
+Nee olk vees er ny chooilleeney son mie? (subject)	Shall evil be recompensed for good? [Manx: Is it evil (that) will be recompensed for good?]	Jer. 18.20
+as nee’m ad y vishaghey, as cha nee beggan vees ad (quantifier predicate)	and I will multiply them, and they shall not be few [Manx:… and it is not few they shall be]	Jer. 30.19
+as she yn Chiarn ynrycan syrjey vees ’sy laa cheddin (subject)	the Lord alone shall be exalted in that day [Manx: it is the Lord alone highest shall be in the same day]	Isa. 2.17
+As quoi ec ta fys nee dooinney creeney, ny ommydan vees eh? (nominal predicate)	And who knoweth whether he shall be a wise man or a fool? [Manx: who knows (whether) it is a wise man or a fool (that) he shall be?]	Ecc. 2.19
+Tar, as lhig dooin goll thie; er-aggle nagh nee son ny assylyn vees m’ayr imneagh, agh er ny son ain hene (prepositional phrase complement of adjectival phrase imneagh)	Come, and let us return; lest my father leave caring for the asses, and take thought for us [Manx: lest it is not for the asses (that) my father shall be concerned, but for ourselves]	1 Sam. 9.5
+nee mish vees nyn leeideilagh? (subject)	shall I be your head? [Manx: is it I (who) shall be your leader?]	Jud. 11.9
+17 For further information on cleft constructions see Wikipedia: cleft sentence.
+Relative future tense in Manx main clauses
+13
+nee ayd’s vees yn ard reill harrin? (PP complement)	shalt thou indeed have dominion over us? [Manx: is it thine shall be the rule over us?]	Gen. 37.8
+Agh my she son cooilleeney breearrey, ny son oural-arryltagh vees y chebbal echey, bee shen er ny ee er y laa cheddin (PP complement)	But if the sacrifice of his offering be a vow, or a voluntary offering, it shall be eaten the same day that he offereth his sacrifice [Manx: if it is for fulfilling a vow, or as a voluntary offering (that) his sacrifice shall be, that shall be eaten on the same day]	Lev. 7.16
+As my she dy eeanlee vees e oural- losht, son chebbal gys y Chiarn (PP predicate)	And if the burnt sacrifice for his offering to the Lord be of fowls [Manx: if it is of fowls (that) his burnt offering shall be to the Lord]	Lev. 1.14
+Cha nee shen myr vees eh (PP predicate)	Not so [Manx: It is not as-that (that) it shall be]	Ex. 10.11
+cha nee uss vees yn fer syrjey (subject)	thou shalt not excel [Manx: it is not thou (who) shall be the highest one]	Gen. 49.4
+10. After shoh, shen, mish, etc.
+In a related construction to that in §9, when the focussed element is a demonstrative (shoh ‘this’, shen
+‘that’) or an emphatic personal pronoun (mish ‘me’, uss ‘thee’, etc.), the independent copula she is
+omitted,18 but the relative form is again required in the future tense.
+As shoh vees yn kerraghey, lesh nee yn Chiarn bwoalley ooilley’n pobble, t’er chaggey noi Jerusalem (subject)	And this shall be the plague wherewith the Lord	Zec. will smite all the people that have fought against	14.12 Jerusalem [Manx: it is this (that) shall be the punishment…]
+Shoh vees leagh nyn moyrn, er-yn- oyr dy vel ad er oltooaney, as er voggyssagh ad-hene noi pobble Chiarn ny flaunyssee (pronominal predicate)	This shall they have for their pride, because they	Zep. have reproached and magnified themselves against 2.10 the people of the Lord of hosts [Manx: it is this (that) shall be the reward of their pride…]
+as shen vees y cronney casherick, as bee cabbane-agglish y chiamble ayns y vean echey (subject)	and it shall be the holy oblation; and the sanctuary	Ez. of the house shall be in the midst thereof [Manx: it	48.21 is that (that) shall be the holy portion…]
+As mish y Chiarn vees yn Jee ocsyn (subject)	And I the Lord will be their God	Ez. 34.24
+Ish smoo treih vees jeh ny reeriaghtyn, chamoo nee ish soiaghey seose ee hene arragh harrish ny ashoonyn (subject)	It shall be the basest of the kingdoms; neither shall Ez. it exalt itself any more above the nations [Manx: It 29.15 is she (that) shall be the most abject of the kingdoms…NB smoo treih itself would require vees.]
+eshyn vees y leeideilagh ain gys laa nyn maaish (subject)	he shall be our guide unto death	Ps. 48.13
+11.	After s’mooar, s’booisal, s’maynrey, s’eunyssagh, s’agglagh, etc; smoo;
+sloo, syrjey, etc.
+When an adjective (or adverb), whether positive or comparative, is focussed with the copula, here in
+the prefixed form s(’), likewise the relative future is required. There is a gap in the canonical adjective
+18 But the dependent copula nee is retained: see Nee mish vees...? ‘Is it I who will be…?’ in the example from
+Jud. 11.9 in §9 just above; and Neu-hickyr myr ushtey cha nee uss vees yn fer syrjey ‘Unstable as water, thou
+shalt not excel’ (Gen. 49.4).
+Relative future tense in Manx main clauses
+14
+or adverb position. The English lacks a corresponding idiom, though in some cases a similar effect is
+created by inverting subject and predicate adjective, as in ‘happy are ye’. Manx quantifiers smoo ‘more’
+and sloo ‘less’ are formally comparative adjectives, ‘greater’ and ‘smaller, fewer’, respectively.
+Correlative comparatives fit in here also: my smoo …, my sloo … ‘the more…’, ‘the less …’.
+Agh cur-jee graih da nyn noidyn, as jean-jee mie, as eeasee-jee, fegooish jerkal rish veg y gheddyn reesht: as s’mooar vees nyn leagh [e]	But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great [Manx: it is great shall be your reward]	Luke 6.35
+nee eh gyllagh, as s’agglagh vees e choraa [e]	he shall cry, yea, roar [Manx: he shall cry, and it is terrible shall be his voice]	Isa. 42.13
+Ah treih! son s’mooar seaghnagh vees y laa shen [e]	Alas! for that day is great, so that none is like it [Manx: it is greatly troublesome shall be that day…]	Jer. 30.7
+s’moal vees nyn moggey [e] jeh nyn droar, kyndagh rish jymmoose hrome y Chiarn	and they shall be ashamed of your revenues because of the fierce anger of the Lord [Manx: it is poor shall be their joy…]	Jer. 12.13
+Son s’eunyssagh vees eh [e] dhyt, dy reayll ad mayrt	For it is a pleasant thing if thou keep them within thee	Prov. 22.18
+Son choud as va shin ayns stayd dy noidys, my va shin coardit rish Jee liorish baase e Vac: foddey smoo, myr ta shin nish goit stiagh gys shee, vees mayd er nyn sauail [e] liorish e vioys	For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life	Rom. 5.10
+My ta fys eu er ny reddyn shoh, s’maynrey vees shiu [e] my nee shiu ad y yannoo	If ye know these things, happy are ye if ye do them.	John 13.27
+son eshyn sloo ta nyn mast’ eu ooilley, eshyn syrjey vees [e] [e]	for he that is least among you all, the same shall be great	Luke 9.48
+Ny share loshtys daa vrasnag [e] na unnane	Two faggots will burn better than one. [Manx: it is better (that) two faggots will burn…]	Wood, Proverbs
+Cha nee yn wooa smoo eieys [e] smoo vlieaunys [e]	It is not the cow that calls most that gives the most milk	Cregeen, s.v. eie
+Eshyn smoo hayrys [e], smoo vees [e] echey	He who catches most shall have most	Cregeen, s.v. mooar (smoo)
+Cordail rish earroo ny bleeantyn	According to the multitude of years thou shalt	Lev. 25.16
+ta royd, wheesh shen smoo vees y	increase the price thereof, and according to the
+phrice [e], as my sloo ta ny bleeantyn [e], my sloo vees y phrice [e]	fewness of years thou shalt diminish the price of it [Manx: In accord with the number of the years that are before you, so much shall the price be greater, and the fewer are the years, the less shall be the price]
+Relative future tense in Manx main clauses
+15
+12.	After chamoo
+Chamoo ‘neither, nor’ contains a comparative form moo = smoo ‘more’; like smoo it takes the relative
+future in the clause it heads. Beside 60 Bible examples of chamoo vee’m/veem’s/vees there is just one
+of chamoo bee — an error?19
+Cha bee ad accryssagh arragh, chamoo vees ad arragh paagh, chamoo huittys niart ny greïney orroo, ny chiass loshtee erbee	They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat	Rev. 7.16
+Son cha beem’s dy kinjagh streeu, chamoo vee’m dy kinjagh corree	For I will not contend for ever, neither will I be always wroth	Isa. 57.16
+chamoo veem’s ny-sodjey mêriu mannagh stroie shiu yn er custey shen veih ny vud eu.	neither will I be with you any more, except ye destroy the accursed from among you.	Josh 7.12
+chamoo my vees y derrey lieh j’inyn giarit jeh vees soiaghey jeant j’in	neither if half of us die, will they care for us	2 Sam. 18.3
+cha nione dooys y Chiarn, chamoo lhigyms y raad da Israel	know not the Lord, neither will I let Israel go	Ex. 5.2
+My ver oo argid er eeasaght da veg jeh my phobble, ta fo boghtynid mayrt, cha jig oo ro hionn er, chamoo hroggys oo thack jeh	If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury	Ex. 22.25
+Cha jeb oo fuill my oural-caisht lesh arran soorit; chamoo bee meeaylys my oural er- mayrn derrey’n voghrey	Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning	Ex. 23.18
+13.	Variable usage after preverbal adjuncts
+The relative future may mark not only a preverbal argument (with a corresponding gap in a canonical
+argument position), as considered above §§ 6-12, but also a preverbal adjunct, whether a verb phrase-
+oriented one20 (closely associated with the VP itself) or a clause-oriented one. Though in neither case
+is there an argument gap, a preverbal VP-oriented adjunct might be felt to display non-canonical word
+order, rather more than a clause-oriented one, and thence more strongly favour the use of the relative
+future by analogy. I consider first some adjuncts where VP-orientation seems a more likely
+interpretation.
+19 The forms chamoo bee, chamoo bee-jee are, naturally, found where bee is imperative, for example: Bee dunnal
+as creeoil; ny bee aggle ort, chamoo bee mettey ‘Be strong and of a good courage; be not afraid, neither be thou
+dismayed’ (Josh.1.9).
+20 ‘VP-oriented adjuncts denote modifications of the details of the predicate of a clause: if the predication
+corresponds semantically to a type of action, adjuncts of these types tend to specify aspects such as the way in
+which the action was carried out, the time it took, the degree to which it was carried out, or the order in which
+it was done relative to other actions.’ ‘Clause-oriented adjuncts represent modifications of the applicability of
+the clause content. That is, their semantic effect is to characterise how the propositional content of the clause
+relates to the world or the context: the sphere of discourse within which it holds (domain), the array of possible
+situations within which it is true (modality), the extent to which its obtaining is a good or a bad thing (evaluation),
+or the attitude the speaker has towards its obtaining (speech act-related).’ (Rodney Huddleston & Geoffrey K.
+Pullum, The Cambridge Grammar of the English Language, Cambridge: Cambridge University Press, 2002, p.
+576).
+Relative future tense in Manx main clauses
+16
+Preverbal VP-oriented adjunct phrases with relative future
+PP	Ayns y theihll vees seaghyn eu: agh bee-jee dy yien mie, ta mish er gheddyn barriaght er y theihll.	In the world ye shall have tribulation: but be of good cheer; I have overcome the world.	John 16.33
+PP+PP	Son veih irree-ny-greïney, eer gys y lhie echey vees my ennym ooasle mastey ny ashoonee	For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles	Malachi 1.11
+PP	As kiongoyrt rish vees dy chooilley ashoon er nyn jaglym; as scarree eh ad veih-my-cheilley, myr ta bochilley scarrey eddyr e chirree as ny goair	And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats	Mat. 25.32
+PP	rere e chooid vees e lhiasaghey, as cha bee soylley echey jeh	according to his substance shall the restitution be, and he shall not rejoice therein	Job 20.18
+PP+PP	Er yn aght shoh lesh niart breeoil vees yn ard-valley mooar shen Babylon er ny hilgey sheese, as cha bee ee arragh ry-gheddyn.	Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.	Rev. 18.21
+PP	Ayns y traa shen vees gioot er ny hebbal gys Chiarn ny flaunyssee	In that time shall the present be brought unto the Lord of hosts	Isa. 18.7
+PP	’sy vadran vees ree Israel dy bollagh giarit jeh	in a morning shall the king of Israel utterly be cut off	Hos. 10.15
+AdvP	raad ta’n leoie deayrtit magh, vees eh er ny lostey.	where the ashes are poured out shall he be burnt	Lev. 4.12
+AdvNP	As shiaght meeaghyn vees thie Israel dy oanluckey ad, dy vod ad yn thalloo y ghlenney	And seven months shall the house of Israel be burying of them, that they may cleanse the land.	Ez. 39.12
+AdvNP	Uss ommydan, yn oie noght vees dty annym er ny ghoaill void: quoi lesh eisht vees yn chooid shen t’ou uss er jaglym?	Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?	Luke 12.20
+AdvNP	Eisht dooyrt yn ainle rish, Vel oo er yarrood ny saraghyn hug dt'ayr dhyt, dy beign dhyt ben y phoosey jeh dty chynney hene? er-y-fa shen eaisht rhym, O my vraar; son bee-ish er ny coyrt dhyts son ben; as nagh jean uss scansh jeh'n spyrryd olk; son yn oie t'ayn noght vees ee er ny coyrt dhyts ayns poosey.	Then the angel said unto him, Dost thou not remember the precepts which thy father gave thee, that thou shouldest marry a wife of thine own kindred? wherefore hear me, O my brother; for she shall be given thee to wife; and make thou no reckoning of the evil spirit; for this same night shall she be given thee in marriage	Tobit 6.15
+AdvP	Myr hagherys y lot, vees yn eiraght er ny rheynn, edyr ny smoo, ny ny sloo [Myr a free relative pronoun?]	According to the lot shall the possession thereof be divided between many and few [Manx: As the lot shall	Num. 26.56
+happen … ]
+Relative future tense in Manx main clauses
+17
+However, similar preverbal adjuncts may be found with the independent future. I do not think there is
+any syntactic or semantic difference between these examples and those just mentioned with the relative
+future; that is, I conclude that Classical usage is variable in this regard.
+Preverbal VP-oriented PP adjuncts with independent future
+shen-y-fa veih’n traa shoh magh bee oo seaghnit lesh caggey?	therefore from henceforth thou shalt have wars.	2 Chron. 16.9
+Mairagh mysh y traa shoh, bee towse dy reih flooyr er ny chreck son shekel, as daa howse dy oarn son shekel, ayns giat Samaria	To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria.	2 Ki. 7.1
+Er y laa ta dty voallaghyn dy ve troggit, er y laa cheddin bee yn slattys er ny scughey foddey voïd	In the day that thy walls are to be built, in that day shall the decree be far removed	Micah 7.11
+as er y laa er-giyn neesht bee ny vees er-	and on the morrow also the remainder of it	Lev. 7.16
+mayrn jeh er ny ee	shall be eaten:	
+kiongoyrt rish ooilley’n pobble bee’m er my ghloyraghey	before all the people I will be glorified	Lev. 10.3
+lesh my veeal beem’s dy bragh soilshaghey dt’irriney	with my mouth will I ever be shewing thy truth	Ps. 89.1
+as bwoaillee eh yn thalloo lesh slatt e veeal, as lesh ennal e veillyn stroie-ee eh ny mee-chrauee	and he shall smite the earth: with the rod of his mouth, and with the breath of his lips shall he slay the wicked	Isa. 11.4
+veih dty enish bee’m er my eiyrt	from thy face shall I be hid	Gen. 4.14
+There are certain clause-oriented preverbal adjuncts after which the relative future is excluded in main
+clauses, namely: dy firrinagh ‘truly’, dy jarroo ‘yea’, myrgeddin ‘also’, ny-yeih ‘yet’, shen-y-fa
+‘therefore’,21 shickyr ‘surely’.
+But after many apparently clause-oriented adjuncts other than those just mentioned, Classical usage is
+variable. Of course, to some extent, whether an adjunct is VP-oriented or clause-oriented is a matter of
+interpretation, but in a good number of examples like those that follow no semantic distinction is
+detectable between those with a relative future and those with an independent future.
+Variation in usage is found after the following preverbal adjuncts: ayns shoh ‘here’, ayns shen ‘there’;
+ayns y laa shen ~ ’sy laa shen ‘(on) that day’; eisht ‘then’; foast ‘yet’; liorish shoh, ‘hereby’, lurg shen
+‘after that’; mairagh ‘tomorrow’, myr shoh ‘thus’, myr shen ‘thus’; nish ‘now’; shoh y raad ~ shoh’n
+raad ‘here’; shen-y-raad ‘there’; shen-y-traa ‘then’. The range of variation in tense forms of ve ‘be’
+after these adjuncts in the Manx Bible is set out in the following table.
+21 One anomalous Bible example with a relative future after shen-y-fa: Son ta’n Chiarn dty Yee gimmeeaght ayns
+mean dty champ, dy livrey oo, as dy chur dty noidyn fo-chosh royd: shen-y-fa vees dty champ casherick, nagh
+vaik eh red erbee neu-ghlen aynid, as chyndaa ersooyl voïd. ‘For the Lord thy God walketh in the midst of thy
+camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see
+no unclean thing in thee, and turn away from thee’ (Deut. 23.14).
+Relative future tense in Manx main clauses
+18
+Relative future and independent future of ve
+after preverbal adjuncts in the Manx Bible
+		Relative future vee-	Independent future bee-	Relative future %
+connective	foast ‘yet’	2	6	25
+	liorish shoh ‘hereby’	1	7	13
+	myr shoh ‘thus’	10	8	56
+	myr shen ‘thus’	14	33	30
+locative	ayns shoh ‘here’	1	0	100
+	ayns shen ‘there’	10	2	83
+	shoh y raad ~ shoh’n raad ‘here’	2	0	100
+	shen-y-raad ‘there’	11	6	65
+temporal	ayns y laa shen ~ ’sy laa shen ‘(on) that day’	8	5	62
+	eisht ‘then’	13	98	12
+	lurg shen ‘after that’	2	2	50
+	mairagh ‘tomorrow’	3	2	60
+	nish ‘now’	1	6	14
+	shen-y-traa ‘then’	3	0	100
+	Total	81	175	32
+Included in the above totals are such preverbal adjuncts followed by myrgeddin ‘also’, neesht ‘also’,
+e.g. myr shen myrgeddin ‘thus also’. In the totals the overall predominance of the independent future is
+largely due to its predominance after eisht ‘then’, which is a very frequent item. Leaving eisht aside,
+after the preverbal adjuncts in question the relative and the independent futures are about equally
+frequent (47:53), though individual adjunct items display stronger preferences for one or the other. Note
+that the locative adjuncts appear to favour the relative future more than the connective or temporal
+adjuncts.
+In the examples that follow, comparable passages are placed together: R = relative future, I =
+independent future.
+Preverbal adjuncts with variable usage
+ayns shen R	Irree, as immee gys Damascus, as ayns shen vees inshit dhyt mychione dy chooilley nhee ta kiarit dhyt dy yannoo	Arise, and go into Damascus; and there it shall be told thee of all things which are appointed forthee to do	Acts 22.10
+	son shickyrys, raad erbee dy bee my hiarn y ree, lhig eh ve ayns baase ny bioys, dy feer, ayns shen myrgeddin vees dty harvaant. [VP- oriented adjunct, focused]	surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be	2 Sam. 15.21
+ayns shen I	As hig eh gy-kione, raad ve er ny ghra roo, Cha nee shiuish my phobble; ayns shen bee ad er nyn enmys cloan y Jee bio [VP-oriented adjunct, focused: should favour vees]	And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God	Rom. 9.26
+ayns y laa shen R	Ayns y laa shen vees altar da’n Chiarn ayns mean cheer Egypt	In that day shall there be an altar to the Lord in the midst of the land of Egypt	Isa. 19.19
+Relative future tense in Manx main clauses
+19
+Preverbal adjuncts with variable usage
+	’sy laa shen vees un Chiarn, as yn ennym echey unnane	in that day shall there be one Lord, and his name one	Zec. 14.9
+ayns y laa shen I	Sy laa shen bee yn arrane shoh er ny ghoaill ayns cheer Yudah	In that day shall this song be sung in the land of Judah;	Isa. 26.1
+	Sy laa shen bee yn Chiarn son attey dy ghloyr	In that day shall the Lord of hosts be for a crown of glory	Isa. 28.5
+	As ayns y laa shen bee farrane er ny osley da thie Ghavid	In that day there shall be a fountain opened to the house of David	Zec. 13.1
+eisht R	As nee oo clashtyn cre t’ad dy ghra; as eisht vees dty laueyn er dyn niartaghey dy gholl sheese noi’n sheshaght-chaggee shoh	And thou shalt hear what they say; and afterward shall thine hands be strengthened to go down unto the host	Jud. 7.11
+	Tra vees y corp neu-ghlen shoh eisht coamrit lesh glennid, as y corp marvaanagh shoh lesh y vea dy bragh beayn, eisht vees cooilleenit yn raa shen ta scruit, Ta baase sluggit seose ayns barriaght	So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.	1 Cor. 15.54
+	Agh lhig da dy chooilley ghooinney e obbyr hene y phrowal, as eisht vees echey oyr boggey ayn hene ny lomarcan, as cha nee ayns fer elley	But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another	Gal. 6.4
+	Son hig y Chiarn neose veih niau lesh eam ard, lesh coraa yn ard- ainle, as lesh cayrn Yee: as nee ny merriu ayns Creest girree hoshiaght. Eisht vees shinyn ta bio, as er- mayrn, goit seose cooidjagh mâroosyn ayns ny bodjallyn, dy gholl quail y Chiarn ayns yn aer	For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.	1 Thes. 4.16-17
+	agh eshyn ta nish lhiettal, [nee eh lhiettal] derrey vees eh goit ass y raad As eisht vees y fer peccoil shen er ny hoilshaghey	only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed	2 Thes. 2.7-8
+	myr shen my oddys dooinney coontey joan ny hooirey, eisht vees dty luight’s myrgeddin er nyn earroo.	so that if a man can number the dust of the earth, then shall thy seed also be numbered	Gen. 13.16
+	As my nee uss shoh nyn gooish y vrah, eisht vees shinyn feayshlit veih’n loo hug oo orrin y ghoaill	And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear	Jos. 2.20
+	as my vees ooilley yn thalloo mygeayrt-y-mysh chirrym, eisht vees shickyrys aym dy jean uss sauail Israel liorish my laue’s	and if the dew be on the fleece only, and it be dry upon all the earth beside, then shall I know that thou wilt save Israel by mine hand,	Jud. 6.37
+eisht I	Eisht beem’s nyn’oï eu eer ayns dewlys	Then I will walk contrary unto you also in fury;	Lev. 26.27
+	Eisht bee’n dooinney seyr veih’n aggair, agh nee’n ven shoh gymmyrkey yn vee-chairys eck	Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity	Num. 5.31
+Relative future tense in Manx main clauses
+20
+Preverbal adjuncts with variable usage
+	Eisht eeckee yn dooinney ren lhie mâree, jeih shekelyn as daeed dy argid da ayr y ven aeg,	Then the man that lay with her shall give unto the damsel's father fifty shekels of silver	Deut. 22.29
+	Eisht bee my chorree er ny vrasnaghey nyn ’oï ’sy laa shen	Then my anger shall be kindled against them in that day,	Deut 31.17
+	Eisht bee my hooillyn foshlit, as my chlashtyn foayroil gys y phadjer vees jeant ’syn ynnyd shoh	Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place	2 Chron. 7.15
+foast R	Ga dy vel shiu er ve ny lhie mastey ny pooiyt, foast vees shiu myr skianyn calmane: ta coodit lesh skianyn argid, as ny feejagyn eck gollrish airh	Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold	Ps. 68.13 (AV)22
+	as cha jean roihaghyn y jiass shassoo n’oï, chamoo e reih deiney, ny foast vees veg y niart dy chur eddin da	and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand	Dan. 11.15
+foast I	agh cha jig eh lhieu: son foast bee jerrey er ec y traa cooie	but it shall not prosper: for yet the end shall be at the time appointed	Dan. 11.27
+	foast bee e eash shey feed bleïn	yet his days shall be an hundred and twenty years	Gen. 6.3
+	Foast bee oo er dty hilgey sheese gys niurin, gys lhiatteeyn yn oaie	Yet thou shalt be brought down to hell, to the sides of the pit.	Isa. 14.15
+	Foast bee jeelym messyn-feeyney faagit ayn, myr craa yn villey-olive	Yet gleaning grapes shall be left in it, as the shaking of an olive tree	Isa. 17.6
+	Ga nagh vel Israel er ny haglym, foast beem’s gloyroil syns shilley yn Chiarn	Though Israel be not gathered, yet shall I be glorious in the eyes of the Lord	Isa. 49.5
+	Foast bee ad shirveishee ayns my ynnyd-casherick	Yet they shall be ministers in my sanctuary	Ez. 44.11
+liorish shoh R	Liorish shoh vees fys ec dy chooilley ghooinney dy vel shiu gynsaghey voym’s, my vees shiu graihagh yn derrey yeh er y jeh elley.	By this shall all men know that ye are my disciples, if ye have love one to another	John 13.35
+liorish shoh I	Liorish shoh bee shi[u] er ny phrowal	Hereby ye shall be proved	Gen. 42.15
+lurg shen R	Agh my t’ee er ny lheihys jeh’n roie-folley eck, eisht nee ish coontey jee hene shiaght laa, as ny lurg shen vees ee glen	But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean	Lev. 15.28
+	Gow cooilleeney son cloan Israel er ny Midianiteyn: lurg shen vees oo er dty haglym gys dty phobble	Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people	Num. 31.2
+lurg shen I	As soie-ym seose reesht dty vriwnyn myr ec y toshiaght, as dty ir- choyrlee myr ’sy chenn earish: lurg shen bee oo er dty enmys, Yn ard- valley dy chairys	And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness	Isa. 1.26
+22 The Manx clearly follows the Authorized Version Psalms text here, rather than the Book of Common Prayer
+Psalms, as is more usual.
+Relative future tense in Manx main clauses
+21
+Preverbal adjuncts with variable usage
+	as lurg shen bee cummaltee ayn reesht, myr ayns y chenn earish	and afterward it shall be inhabited, as in the days of old	Jer. 46.26
+mairagh R	Cur-my-ner, mairagh vees feailley’n eayst-noa	Behold, to morrow is the new moon	1 Sam 20.5
+mairagh I	Mannagh gow kiarail jeh dty vioys noght, mairagh bee oo er dty varroo.	If thou save not thy life to night, to morrow thou shalt be slain	1 Sam. 19.11
+myr shen R	Brishey son brishey, sooill son sooill, feeackle son feeackle: myr t’eh er choyrt lheamys er dooinney, myr shen vees eh cooilleenit er hene	Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again	Lev. 24.20
+	Trog-jee mee seose, as tilg-jee mee magh ’sy cheayn; myr shen vees y keayn kiune diuish: son ta fys aym dy nee by-chyndagh rhym’s ta’n sterrym mooar shoh er jeet erriu	Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you	Jon. 1.12
+myr shen I	myr shen bee’m sauchey veih my noidyn	so shall I be saved from mine enemies	2 Sam. 22.4
+	myr shen bee’m seyr, as gyn loght veih’n peccah trome	so shall I be undefiled, and innocent from the great offence	Ps. 19.13
+nish R	Nish ta briwnys y theihll shoh: nish vees prince y theihll shoh er ny hilgey magh	Now is the judgment of this world: now shall the prince of this world be cast out	John 12.31
+nish I	O ree, myr ta mee er ve sharvaant dt’ayrey derrey nish, myr shen nish beem’s dty harvaant’s myrgeddin	O king; as I have been thy father's servant hitherto, so will I now also be thy servant	2 Sam. 15.34
+	Nish nee’m girree, ta’n Chiarn dy ghra; nish bee’m er my yrjaghey; nish neem’s mee hene y hroggal seose	Now will I rise, saith the Lord; now will I be exalted; now will I lift up myself	Isa. 33.10
+	Ta Israel sluggit seose: nish bee ad mastey ny ashoonee myr saagh gynymmyd	Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure.	Hos. 8.8
+	ver my hooillyn my-ner ee: nish bee ee stampit sheese myr laagh ny straidey	mine eyes shall behold her: now shall she be trodden down as the mire of the streets	Mic 7.10
+shoh yn raad R	as shoh y raad vees dty honnyn moyrnagh er nyn lhiettal	and here shall thy proud waves be stayed	Job 38.11
+	Shoh’n raad vee’m ec fea, son dy bragh	This shall be my rest for ever	Ps. 132.15
+shen-y- raad R	Shen-y-raad vees keayney as snaggeraght feeacklyn	There shall be weeping and gnashing of teeth	Luke 13.28
+	Raad erbee dy vel yn convayrt, shen-y-raad vees ny urlee er nyn jaglym cooidjagh.	Wheresoever the body is, thither will the eagles be gathered together	Luke 17.37
+shen-y- raad I	Son cre-erbee yn raad vees yn convayrt, shen y raad bee ny urlee er nyn jaglym cooidjagh. NB the same sense as in the preceding example with vees.	For wheresoever the carcase is, there will the eagles be gathered together	Mat. 24.28
+Relative future tense in Manx main clauses
+22
+Preverbal adjuncts with variable usage
+Raad yioys [oo] baase, yioym’s baase, as shen y raad bee’m oanluckit		Where thou diest, will I die, and there will I be buried:	Ruth 1.17
+	as hig oo gys Babylon, as ayns shen	and thou shalt come to Babylon,	Jer.
+	yiow baase, as shen y raad bee oo er dty oanluckey	and there thou shalt die, and shalt be buried there	20.6
+	myr shoh neem’s shiu y haglym	so will I gather you in mine anger	Ez.
+	ayns my yymmoose, as ayns my eulys, as faagym shiu ayns shen, as shen y raad bee shiu lheït	and in my fury, and I will leave you there, and melt you.	22.20
+shen y	Shen y traa vees oural Yudah as	Then shall the offering of Judah	Mal.
+traa R	Yerusalem eunyssagh gys y Chiarn, myr ayns y chenn earish, as myr ayns ny bleeantyn foddey er-dy- henney	and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years	3.4
+	Tra hig Mac y dooinney ayns e	When the Son of man shall come in	Mat.
+	ghloyr, as ooilley e ainleyn casherick mârish, shen y traa hoieys eh er stoyl-reeoil e ghloyr	his glory, and all the holy angels with him, then shall he sit upon the throne of his glory	25.31
+Other preverbal clause-oriented adjuncts are also to be found with independent future bee. The parallel
+examples below with Numeral + laa ‘day’ followed by either bee or vees suggest that here too what we
+observe is simply variable usage. Of fifteen cases of ‘on the Xth day, …’ in the Bible, ten occur with
+bee, and five with vees.
+PP	Rish shiaght laa bee arran gyn soorit er ny ee	Unleavened bread shall be eaten seven days	Ex. 13.7
+	cf. As er y wheiggoo laa yeig jeh’n vee shoh, ta’n feailley: shiaght laa vees arran gyn soorit er ny ee	And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten	Num. 28.17
+PP	Nee oo er yn aght cheddin rish dty ghew, as rish dty chirree; rish shiaght laa bee eh er e voir, er yn hoghtoo laa ver oo dooys eh	Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me	Ex. 22.30
+PP	Son veih shoh magh bee queig ayns un thie noi-ry-hoi, three noi jees, as jees noi three	For from henceforth there shall be five in one house divided, three against two, and two against three	Luke 12.52
+PP	Er-yn-oyr shoh, bee’m dauesyn myr lion [The sole example of er-yn-oyr shoh bee- or vee-]	Therefore I will be unto them as a lion:	Hos. 13.7
+PP	Er y laa cheddin bee eh er ny vaarail?	On the same day it shall be eaten up	Lev. 22.30
+PP	lhig ish ve yn ven, t’ou er phointeil da dty harvaant Isaac; as liorish shen bee fys aym, dy vel oo er hoilshaghey kenjallys da my vainshtyr	let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master	Gen. 24.14
+AdvNP	As er y chied laa bee chaglym- cooidjagh casherick	And in the first day there shall be an holy convocation,	Ex. 12.16
+	cf. Er y chied laa, vees eu meeiteil casherick	In the first day ye shall have an holy convocation	Lev. 23.7
+Relative future tense in Manx main clauses
+23
+AdvNP as y trass laa bee’m er my ghloyraghey	and the third day I shall be perfected	Luke 13.32
+cf. Son shiaght laa nee oo gee arran gyn soorit, as er y chiaghtoo laa vees feailley gys y Chiarn	Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the Lord	Ex. 13.6
+Adv	Bee ny fraueyn echey fioghit veih	His roots shall be dried up beneath,	Job
+heese, as heose bee e vanglane er ny yiarey jeh	and above shall his branch be cut off	18.16
+14.	Contexts where the relative future is excluded
+As mentioned above §13, there are certain preverbal adjuncts after which the relative future is never
+found: dy firrinagh ‘truly’, dy jarroo ‘yea’, myrgeddin ‘also’, ny-yeih ‘yet’, shen-y-fa ‘therefore’,
+shickyr ‘surely’. Moreover, the relative future is not used in main clauses without an introductory
+conjunction or in main clauses after a coordinating conjunction: as ‘and’, agh ‘but’, ny ‘or’, son ‘for’.
+Relative (subordinate) clauses, though, in which the relative future may appear, may themselves be
+joined with as (and see above §4 on as ‘as’ in correlative constructions).
+Mish eh, eer mish y Chiarn va er-dy- I the Lord, the first, and with the last; I am he	Isa.
+rieau, as vees dy bragh.	[Manx: I am he, even I am the Lord (who) was for	41.4
+ever and (who) will be for ever]
+T’ou uss cairagh, O Hiarn, ta, as va,	Thou art righteous, O Lord, which art, and wast,	Rev.
+as vees, er-yn-oyr dy vel oo myr shoh	and shalt be, because thou hast judged thus	16.5
+er vriwnys
+irree-jee ny-neesht seose as guee-jee	rise up both of you, and pray to God which is	Tobit
+gys Jee ta myghinagh, as vees	merciful, who will have pity on you, and save	you	6.17
+chymmey echey erriu, as sauee eh	[Manx: to God who is merciful and who will have
+shiu	pity on you…]
+Nevertheless, there is a handful of examples in Classical Manx where a relative future verb appears in
+a main clause either initially, or after a coordinating conjunction. The cases I have identified are listed
+below. Ee-ys ‘will eat’ in Jer. 5.17 and Zec. 11.16, and irree-ys in Dan. 17.24, can be justified as being
+preferred over the expected independent future forms ee-ee and irree-ee, for the reasons Cregeen
+mentions (see footnote 23). Note that two consonant-initial verbs whose initial would normally show
+Lenition 1 in the relative future, fail to do so when relative future is used in place of the independent
+future, as here. That is, we observe brishys ‘will break’ (not vrishys; three examples), and soie-ys ‘will
+set’ (not hoie-ys). By contrast, vees ‘will be’ always occurs mutated (not *bees). The explanation of this
+anomalous use of the relative future in main clauses awaits further research.
+Anomalous relative future in a main clause
+Agh shass-jee shiuish fo scadoo Heshbon,
+as cur-jee nyn marrant er; son brishys
+aile magh ass Heshbon, as lossey ass
+mean Sihon, ver naardey folt Voab, as
+brishys mwannal ny mooaralee
+They that fled stood under the shadow Jer. 48.45
+of Heshbon because of the force: but a
+fire shall come forth out of Heshbon,
+and a flame from the midst of Sihon,
+and shall devour the corner of Moab,
+and the crown of the head of the
+tumultuous ones
+Brishys accyrys trooid boallaghyn cloaie Hunger will break through stone walls Cregeen,
+Proverb s.v.
+clagh
+Relative future tense in Manx main clauses
+24
+Anomalous relative future in a main clause
+Ta’n bolg-side oc oaie foshlit, t’ad ooilley
+nyn gheiney trean.
+As ee-ys23 ad seose yn troar ayd, as dty
+arran va kiarit son beaghey dty vec as dty
+inneenyn: nee ad gee seose dty hioltaneyn
+kirree as ollagh
+Son cur-my-ner, trog-yms seose bochilley
+ayns y cheer, nagh jean jeeaghyn lurg ny
+[kirree] cailjey, chamoo shirrey son yn
+eayn, ny lheihys adsyn ta doghanit, ny
+gymmyrkey lesh shen ta er-troggloo: agh
+ee-ys eh feill ny roauyree, as raipee eh ny
+yngnyn oc ayns peeshyn
+Cordail rish earroo ny laghyn, ayndoo va
+shiu scrial yn cheer, ta shen, da-eed laa
+(dagh laa son bleïn) nee shiu gymmyrkey
+yn meeammys eu, eer da-eed bleïn, as
+ennys shiu oyr caghlaa my chonaant
+Smerg da ny ashoonyn ta girree seose noi
+my chynney; gowee yn Chiarn Ooilley-
+niartal cooilleeney orroo ayns laa yn
+vriwnys, liorish aile as beishteigyn y
+choyrt ’syn eill oc; as ennys adsyn ad, as
+vees ad dobberan son dy bragh
+Their quiver is as an open sepulchre, Jer. 5.17
+they are all mighty men.
+And they shall eat up thine harvest,
+and thy bread, which thy sons and thy
+daughters should eat: they shall eat up
+thy flocks and thine herds
+For, lo, I will raise up a shepherd in	Zec. 11.16
+the land, which shall not visit those
+that be cut off, neither shall seek the
+young one, nor heal that that is broken,
+nor feed that that standeth still: but he
+shall eat the flesh of the fat, and tear
+their claws in pieces
+After the number of the days in which Num. 14.34
+ye searched the land, even forty days,
+each day for a year, shall ye bear your
+iniquities, even forty years, and ye
+shall know my breach of promise
+Woe to the nations that rise up against Judith 16.17
+my kindred! the Lord Almighty will
+take vengeance of them in the day of
+judgment, in putting fire and worms in
+their flesh; and they shall feel them,
+and weep for ever.
+Er y laa shen bee dty veeal er ny osley huggeysyn t’er scapail, as loayrys oo, as cha bee oo ny-sodjey balloo	In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb	Ez. 24.27
+Roieys post quail post, as chaghter quail chaghter, lesh naight gys ree Vabylon, dy vel yn ard-valley echey goit ec y derrey chione	One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at one end	Jer. 51.31
+Ny loayr ayns clashtyn yn ommydan: son soie-ys eh beg jeh creenaght dty ocklyn.	Speak not in the ears of a fool: for he will despise [Manx: ‘set little on’] the wisdom of thy words	Prov. 23.9
+Stroie-ys y Chiarn thie ny mooaralee: agh nee eh niartaghey cagliagh y ven-treoghe	The Lord will destroy the house of the proud: but he will establish the border of the widow	Prov. 15.25
+23 A. Cregeen, A Dictionary of the Manx Language, (Douglas: Quiggin, etc., 1835), Introduction §88, on -ys: ‘This
+syllable, added to a verb, should always be employed where two or more words that are sounded alike happen
+together; as ee ee ee (she will eat). When these occur, we generally say ee ys ee (she shall or will eat).’ There are
+no examples of ee-ee ‘will eat’ in the digital texts available to me. The example just below of irree-ys (Dan. 7.24)
+used as an independent future is in accord with Cregeen’s principle.
+Relative future tense in Manx main clauses
+25
+Anomalous relative future in a main clause
+Shoh myr dooyrt eh, Bee yn chiarroo
+veisht yn chiarroo reeriaght er y thalloo,
+[n]agh24 bee casley rish reeriaght erbee
+elley as stroie-ys eh yn slane seihll, as nee
+eh stampey sheese eh, as brishey eh ayns
+peeshyn.
+As ny jeih eairkyn ass y reeriaght shoh,
+t’ad jeih reeaghyn nee troggal: as irree-ys
+fer elley ny lurg oc; as cha bee eh goll-
+rish yn chied eallagh, as ver eh fo-chosh
+three reeaghyn
+As ver shiu enney orroo nagh nee jeeghyn
+erbee ad liorish yn gorrym-jiarg sollys ta
+gaase loau orroo: as vees adsyn ad-hene
+mow fy yerrey, as bee ad scammylt ayns y
+cheer
+Thus he said, The fourth beast shall be
+the fourth kingdom upon earth, which
+shall be diverse from all kingdoms,
+and shall devour the whole earth, and
+shall tread it down, and break it in
+pieces.
+And the ten horns out of this kingdom
+are ten kings that shall arise: and
+another shall rise after them; and he
+shall be diverse from the first, and he
+shall subdue three kings
+And ye shall know them to be no gods
+by the bright purple that rotteth upon
+them: and they themselves afterward
+shall be eaten, and shall be a reproach
+in the country
+Dan. 7.23
+Dan. 7.24
+Let. Jer.
+71/72
+As dooyrt Judith, Cha n’ee[-ym] jeh shen
+er aggle dy bee eh oyr peccah; agh vees
+farral er ny yannoo dou jeh ny reddyn ta
+mee er choyrt lhiam
+And Judith said, I will not eat thereof, Judith 12.2
+lest there be an offence: but provision
+shall be made for me of the things that
+I have brought
+24 The sense of the English, and the grammar of the Manx, show that agh here is an error for nagh. That being
+so, as stroie-ys might be expected, beginning a positive relative clause (with rel. fut.), conjoined with the
+preceding negative relative clause; but then the subject pronoun eh is superfluous.

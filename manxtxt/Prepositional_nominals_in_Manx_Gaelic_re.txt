@@ -1,0 +1,1184 @@
+﻿Prepositional nominals in Manx Gaelic
+Max W. Wheeler
+October 2016, revised November 2017
+Alongside true prepositions, such as fo ‘under’, lesh ‘with’, that are inflected with suffixes expressing
+personal pronoun objects (foym ‘under me’, lhiam ‘with me’, etc.), Manx has a number of expressions
+with broadly prepositional meaning that behave grammatically in some respects like nouns, and for the
+most part are derived from nouns. The personal pronoun objects of these prepositional nominals1 are
+expressed by means of possessive (genitive) constructions, as in my chooyl ‘behind me’, nyn drooid or
+ny hrooid oc ‘through them’. In this paper, I describe the usage of twenty-one such items in Classical
+Manx (c. 1700-1850).
+A characteristic of the construction of most of these items is that the 3rd singular possessive pronoun
+takes the form ny, as in ny enish ‘before him’, ‘in his presence’, ny jeï ‘after her’. Here the n- is the last
+vestige of a preposition meaning ‘in’ (cf. Irish i, Scottish Gaelic an). Thus cooyl ‘behind’ was originally
+‘(in) back (of)’, and noï ‘against’ was originally ‘in face (of)’. Five of the twenty-one items here,
+however, have a slightly different construction, in that the 3rd singular possessive pronoun is the regular
+e ‘his/her/its’; these are beeal, kione (mychione), skyn (erskyn), son and toshiaght. Beeal, skyn, son and
+toshiaght are themselves constructed as objects of the preposition er ‘on’, but, as set out below, each of
+them deviates to some degree from the regular pattern of Preposition + Noun + possessive complement
+that we see, for example in er graih yn tushtal ‘for the Gospel’s sake’, er my ghraih hene ‘for my own
+sake’, or ayns ynnyd Yee ‘instead of God’, ayns my ynnyd ‘in my stead’, ’syn ynnyd oc ‘in their stead’.
+Mychione ‘about’, ‘concerning’ contains the preposition my = mysh ‘around’ + kione ‘head’. Lastly,
+lheid ‘like’ is idiosyncratic; it is included here inasmuch as its construction with possessive
+complements resembles the remainder of the items discussed here.
+A notable feature of the usage of these prepositional nominals in Classical Manx is syntactic variation.
+Most of them, though not all, exploit as alternatives both of the constructions Manx has available for
+personal pronoun possessives, as in e ’olt ‘his hair’ ~ yn folt echey lit. ‘the hair at him’. So we find, for
+example, both nyn yeï and ny yeï2 eu ‘after you’; we also find a blend of the two constructions, as nyn
+yeï eu. Preferences for one or another construction vary according to the item in question, and to the
+personal pronoun involved. It can be observed that there is a tendency to avoid the basic 3sg fem.
+possessive ny ~ e, in favour of the alternative possessive using eck, perhaps because the unmutated base
+noun expected after 3sg fem. possessive deviates markedly from the mutated forms found with the
+other persons. Thus, for example, beside my-e-chione ‘about him’, *my-e-kione ‘about her’ is not found
+at all, but only mychione eck. As seen in the selection of examples below, postposed echey(syn), eck(sh)
+and oc(syn) are favoured when the complement of the prepositional nominal is itself followed by a
+relative clause, as in the example dy row yn dreamal ny chour ocsyn ta dwoaiagh ort ‘the dream be to
+them that hate thee’.
+When the complement of the prepositional nominal is a noun, rather than a personal pronoun, three
+constructions are found, in variation:
+A.	The expected (original) complement of a noun is in the genitive: a proper name shows Type 1
+lenition, a definite feminine singular may show the article ny, an inflected genitive case form
+can be used, if one exists, and a masculine singular noun displays Type 2 lenition3 after the
+1 Labelled phrasal prepositions in J. Kewley-Draskau, Practical Manx, Liverpool: University Press, 2008.
+2 Here and in similar cases, the 3sg masc. form of the prepositional nominal is taken as the base form, to which
+the inflected forms of ec are added.
+3 In Type 2 lenition, labials and velars mutate as in Type 1, dental stops do not mutate, and s- → t- (sh- → çh).
+1
+Prepositional nominals in Manx Gaelic
+2
+definite article y(n). For example, fenish Yee ‘in the presence of God’, cour ny bleeaney ‘for
+the year’, ‘year by year’, fud ny hoie ‘throughout the night’.
+B.	Inasmuch as the construction is prepositional, its complement is constructed just as the noun
+phrase complement of a true preposition, that is, with Type 2 lenition only after the singular
+definite article y(n). E.g. gour y vlein ‘for the year’; fegooish Jee ‘without God’.
+C.	Expected Type 2 lenition, according to either A or B above, is absent, and nouns with initial
+labial or velar consonants, or s-/sh-, show no lenition after the article y(n). E.g. mychione y
+kynney ain ‘concerning our kindred’, lurg yn sherriuid anmey shoh ‘after this bitterness of soul’.
+The usage of these patterns with each of the prepositional nominals is discussed below. Interesting
+examples of genitive complements (B) are highlighted thus; examples of the regular Prep + definite NP
+construction (B) are highlighted thus; cases with the absence of expected prepositional object mutation
+(C) are highlighted thus.
+Alongside the prepositional nominals themselves, I include in the sections below examples of some
+additional idiomatic usages of the words in question.
+The twenty-one items discussed here are these:
+1.	beeal ‘mouth’: ‘before’, ‘in front’
+2.	coaïr ‘near’, ‘towards’
+3.	cooyl ‘back, backside’: ‘behind’
+4.	cour ‘towards, for, provided for’
+5.	faare ‘near’
+6.	fegooish ‘without’
+7.	fenish ‘presence’: ‘in the presence of’,
+‘before’
+8.	fud ‘among, throughout, mixed with’
+9.	jeï ‘after, behind’
+10.	kione ‘head’: ‘about’, ‘concerning’
+11.	lheid ‘(the) like’
+12.	lieh ‘half’, ‘part’: ‘on behalf of’, ‘to the
+account of’
+13.	lurg ‘after’, ‘according to’
+14.	mastey ‘midst’, ‘among’
+15.	oï, noï, cf. oaie ‘face’: ‘against’
+16.	quail cf. quaiyl ‘assembly, court’
+(go/come) ‘to meet’,
+17.	raad ‘way, direction’: ‘towards’
+18.	skyn (cf. kione ‘head, end’): ‘on top of’,
+‘above’
+19.	er son, son ‘for’
+20.	toshiaght ‘front, beginning’: ‘forward’,
+‘on one’s way’
+21.	trooid ‘through’
+Prepositional nominals in Manx Gaelic
+3
+1.	beeal ‘mouth’:
+a.	ny veeal ‘in his/its mouth’
+b.	er beealloo + gen. ‘before, in front of’ (x1), lit. ‘on the mouth-side of’
+c.	er dty veealloo ‘before thee’
+er e veealloo ‘before him’
+er nyn meealloo ‘before them’
+d.	er y veealloo oc ‘before them’
+e.	çheu-veealloo ‘in front’ [lit. ‘mouth-side side’]
+f.	y çheu-veealloo ‘the forepart’
+Noteworthy here is that the basic 3sg possessive pattern ny veeal (a) is not an example of the
+prepositional nominal construction *‘before him’, but only an irregular form meaning ‘in his/its
+mouth’.4
+The prepositional nominal construction in question consists of er beealloo (cf. Sc. G. beulaibh ‘front’
+< beul-thaobh ‘mouth-side’). Even this is only attested once in the Bible with a non-pronominal noun
+phrase complement (b) er beealloo Saul ‘before Saul’. The construction is predominantly found with
+the preposed possessive pronouns (c), with one example of the ec possessive construction (d). Beealloo
+occurs also in the compound adverb çheu-veealloo ‘in front’ (e), and the corresponding noun çheu-
+veealloo ‘forepart’ (f).
+a As cur-my-ner beisht elley, yn nah-er, goll-rish muc-awin, as hrog eh eh- hene seose er y derrey heu, lesh three asnaghyn ny veeal, eddyr e eeacklyn	And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it	Dan. 7.5
+Lesh e phandoogh v'eh soo'n blaze stiagh ny veeal	With his panting the juice of the blaze was inside his mouth	Pargys Caillit 24255
+b As hug ee eh er beealloo Saul as e harvaantyn; as ren ad gee	And she brought it before Saul, and before his servants; and they did eat	1 Sam. 28.25
+c Ee dy feudagh myr dooinney, lhied as t’er dty veealloo	Eat as it becometh a man, those things which are set before thee	Ecclus 31.16
+Shen-y-fa nee yn Chiarn soiaghey seose noidyn Rezin n’oisyn, as tayrn ad dy cheilley; Ny Syrianee er e veealloo, as ny Philistinee er e chooylloo; as nee ad Israel y stroie lesh beeal foshlit	Therefore the Lord shall set up the adversaries of Rezin against him, and join his enemies together; The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth	Isa. 9.12
+As va kuse dy eeastyn beggey oc: as vannee eh, as doardee eh dy hoiaghey ad shen myrgeddin er nyn meealloo.	And they had a few small fishes: and he blessed, and commanded to set them also before them	Mark 8.7
+d agh t’ad soiaghey giootyn er y veealloo oc, myr gys deiney marroo	but they set gifts before them as unto dead men.	Letter of Jeremy 26
+e T’ou uss er my chummey cheu-- chooylloo, as cheu-veealloo: as er choyrt dty laue orrym	Thou hast beset me behind and before: and laid thine hand upon me	Ps. 139.4
+as ayns mean y stoyl-reeoil as cruin mygeayrt y stoyl-reeoil, va kiare beiyn lane dy hooillyn cheu-veealloo as cheu-chooylloo	and in the midst of the throne, and round about the throne, were four beasts full of eyes before and behind.	Rev. 4.6
+4 A similar expression, ny laue ‘in his/her hand’, is quite common in Biblical Manx; and ny chione ‘alongside,
+mingled with’, ‘by the hand’.
+5 I give quotations from Pargys Caillit from the 1876 edition, with its normalized orthography, rather than the
+1796 original.
+Prepositional nominals in Manx Gaelic
+4
+f. As nee oo daa loob elley d’airh, as ver
+oo ad ayns lhiattee yn ephod fo, er y
+cheu elley, lesh y cheu-veealloo
+And two other rings of gold thou shalt
+make, and shalt put them on the two
+sides of the ephod underneath, toward
+the forepart thereof
+Ex. 28.27
+Prepositional nominals in Manx Gaelic
+5
+2.	coaïr ~ coayr ‘near’, ‘towards’ (cf. Sc. G. an còir ~ an comhair ‘near’)
+a.	çheet coaïr + NP ‘come near’, also = ‘have sexual intercourse with’; goll coaïr + NP ‘go
+near’
+b.	çheet my choaïr ‘come near me’
+çheet dty choaïr ‘come near thee’
+çheet ny choaïr ‘come near him’
+çheet ny coaïr ‘come near her’
+Coaïr is apparently a variant form of cour §4. (Compare Sc. G. and Irish comhair. ‘For, intended for’
+seems to be the prominent sense of Manx cour and Irish comhair, while ‘near’ is the sense of Manx
+coaïr, and is dominant in Scottish Gaelic còir ~ comhair.). With pronominal objects, only the preposed
+possessive is found, and I have identified no examples of *nyn goaïr ‘near us/you/them’.
+a bee jee aarloo ry-hoi yn trass laa: ny tar- jee coair nyn mraane.	Be ready against the third day: come not at your wives	Ex. 19.15
+Chamoo hed eh coair corp marroo erbee	Neither shall he go in to any dead body	Lev. 21.11
+As cha jig ad coayr corp peccagh marroo erbee dy ve anchasherick	And they shall come at no dead person to defile themselves	Ez. 44.25
+Quoi-erbee ta goaill er dy heet coair cabbane casherick y Chiarn, bee eh er ny stroie	Whosoever cometh any thing near unto the tabernacle of the Lord shall die	Num. 17.13
+Freill dty raad foddey vo’ee, as ny tar coair dorrys y thie eck	Remove thy way far from her, and come not nigh the door of her house	Prov. 5.8
+chamoo t’er n’yannoo peccah rish ben e naboo, ny er jeet coair ben veeoil	neither hath [he] defiled his neighbour's wife, neither hath [he] come near to a menstruous woman	Ez. 18.6
+agh ve ny vodjal as dorraghys da ny Egyptianee, agh hug eh soilshey ’syn oie da ny Israeliteyn: myr shen nagh daink ad coair y cheilley er y slane oie	and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night	Ex. 14.20
+Quoi ghoys chymmey jeh fer-obbee ta lhottit lesh cretooryn nieunagh, ny jeh fer erbee ta cheet coair beishtyn keoie?	Who will pity a charmer that is bitten with a serpent, or any such as come nigh wild beasts?	Ecclus 12.13
+b Shass ort hene, ny tar my choair; son ta mee ny s’casherick na uss	Stand by thyself, come not near to me; for I am holier than thou	Is. 65.5
+Nee eh uss y livrey ayns shey seaghyn, eer ayns shiaght cha jig olk erbee dty choair	He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee	Job 5.19
+ec y jerrey yiow my raa’s firrinagh: ayns ooilley dty obbraghyn bee gastey, myr shen cha jig chingys erbee dty choair	at the last thou shalt find as I told thee: in all thy works be quick, so shall there no sickness come unto thee	Ecclus 31.22
+as bee’n joarree hig ny choair er ny choyrt gy-baase	and the stranger that cometh nigh shall be put to death	Num. 3.38
+Son shoh nee dagh dooinney ta crauee, jannoo e phadjer hood, ayns traa oddys oo v’er dty gheddyn: agh ayns ny thooillaghyn mooarey dy ushtey cha jig ad ny choair	For this shall every one that is godly make his prayer unto thee, in a time when thou mayest be found: surely the great water-floods shall not come nigh him	Ps. 32.7
+Agh cha row Abimelech er jeet ny coaïr
+But Abimelech had not come near her Gen.
+20.4
+Prepositional nominals in Manx Gaelic
+6
+3.	cooyl ‘back, backside’:
+a.	cooyl + gen. ‘behind’
+b.	my chooyl ‘behind me’
+ny chooyl ‘behind him’
+ny cooyl ‘behind her’
+nyn gooyl ‘behind them’
+c.	çheu-chooyl ‘behind’
+çheu-chooylloo ‘behind’, ‘backwards’
+d.	çheu dty chooylloo ‘behind thee’
+çheu e chooylloo ‘behind him’
+çheu e cooylloo ‘behind her’
+çheu nyn gooylloo ‘behind them’
+e.	my chooylloo ‘behind me’
+er dty chooylloo ‘behind thee’
+f.	er cooyl + gen. ‘rearward of’
+g.	er nyn gooyl
+er y chooyl oc, ‘behind them’
+h.	er-gooyl ‘in arrear, behindhand’; ‘wanting, lacking’
+ergooyl rish ‘below, inferior’
+i.	er y chooyl ‘shortly, presently; forthwith, straightway, immediately’6
+j.	cur cooyl rish ‘despise’, ‘reject’
+k.	cur cooyl da ‘depart from’, ‘flee’
+Cooyl is a regular noun ‘back’, ‘rear’, as in this example:
+as ren eh leeideil yn shioltane gys cooyl and he led the flock to the backside of Ex. 3.1
+yn aasagh	the desert
+But the majority of Biblical examples of cooyl, and there are many, illustrate more idiomatic
+constructions, including the prepositional nominal meaning ‘behind’ as in (a) and (b). The example
+cooyl e coshey lit. ‘back of her foot’ illustrates an inflected genitive complement of cooyl. There is a
+related adverb with çheu, çheu-chooyl ‘behind’, but the more common form is çheu-chooylloo (c), with
+cooylloo constructed in the same way as beealloo above (cf. Sc. G. cùlaibh < cùl-thaobh ‘rear-side’).
+Çheu-chooylloo is also used itself as a prepositional nominal, constructed with the preposed pronominal
+possessive placed between the two parts (d). There are just a couple of cases (e) of cooylloo without
+çheu with a possessive pronoun complement: my chooylloo with no preposition, resembling my chooyl
+of (b), and, with er, er dty chooylloo, resembling the cases of er cooyl + gen. below (f-g).
+Alongside the prepositional nominal cooyl + gen, my chooyl, etc. (a-b), we find also er cooyl + gen.
+(f), er my chooyl, etc. (g). There is no clear meaning difference between cooyl and er cooyl, though I
+note that er cooyl (also er dty chooylloo) is strongly favoured where the English Authorized Version
+has rereward. A variant of cooyl is found in er-gooyl (rish) (h), in which the ‘behind’ sense is usually
+figurative, namely, ‘deficient’, ‘inferior’, ‘lacking’, though the two examples cited below from Pargys
+Caillit seem rather to be figurative without the ‘deficiency’ element. A different ‘back’ metaphor is to
+be seen in the adverbial expression er y chooyl (i) ‘shortly, presently; forthwith, straightway,
+immediately’, that is to say, ‘right behind’, ‘immediately following’. I note here also, without including
+6 I know that some Manx speakers interpret this expression as er-y-çhooyl. My understanding relies on the
+entries in Cregeen: ER-Y-CHOOYL, adv. shortly, bye and bye, presently, without ‘5.’, indicating Ç; and in Kelly’s
+dictionary (in which Ch and Çh are distinguished): CHOOYL, an old word for the instant, present, as er-y-chooyl,
+presently; and: ER-Y-CHOOYL, adv. immediately, in a moment, forthwith.
+Prepositional nominals in Manx Gaelic
+7
+examples, the idiomatic use of cooyl (j-k) in the expressions cur cooyl rish ‘despise, reject’, and cur
+cooyl da ‘depart from’, ‘flee’. Both of these are quite frequent in the Bible.
+a. Nee lught-thie ny Gershoniteyn grunt y ghoaill son nyn gabbaneyn cooyl y chabbane-agglish, lesh y neear.	The families of the Gershonites shall pitch behind the tabernacle westward	Num. 3.23
+As bee trass ayrn j’iu ec giat Sur; as trass ayrn ec y yiat cooyl y ghard	And a third part shall be at the gate of Sur; and a third part at the gate behind the guard	2 Ki. 11.6
+Ta my ghraih myr feeaïh aalin aeg: curmyner, t’eh shassoo cooyl yn voalley ain, t’eh jeeaghyn magh er yn uinniag, t’eh dy yeeaghyn eh-hene trooid y chlea	My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice	Song 2.9
+Ta treanee Vabylon er scuirr veih’n chaggey, t’ad lhie cooyl nyn voallaghyn	The mighty men of Babylon have forborn to fight, they have remained in their holds	Jer. 51.30
+Ver drogh-ven nearey cooyl e coshey: agh ver ben vie ammys da e sheshey.	A dishonest woman contemneth shame [lit. ‘will put shame back of her foot’]: but an honest woman will reverence her husband	Ecclus 26.24
+b Cre t’ayd’s dy yannoo rish shee? chyndaa uss my chooyl.	What hast thou to do with peace? turn thee behind me	2 Ki. 9.19
+As hrog Abraham seose e hooillyn, as yeeagh eh, as cur-my-ner, ny chooyl va rea goit ayns thammag er e eairkyn	And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns	Gen. 22.13
+Shoh honnick Adam, as y bangan ooyl Huitt veih e laue, ny lhie er laare ny cooyl	This saw Adam, and the apple bough; it fell from her hand, and lay on the ground behind her	Pargys Caillit 3743
+As ren ainle Yee, hie roish camp Israel, scughey as goll nyn gooyl	And the angel of God, which went before the camp of Israel, removed and went behind them	Ex. 14.19
+Rhymboo ta aile stroie, as nyn gooyl ta yn lossey coyrt naardey	A fire devoureth before them; and behind them a flame burneth	Joel 2.3
+c. As howse eh lhiurid y vuildal jeeragh er yn chlose er-lheh cheu-chooyl	And he measured the length of the building over against the separate place which was behind it	Ez. 41.15
+as hass eh mastey ny biljyn-myrtle va heese ’sy choan, as cheu chooylloo va cabbil ray, brack as bane	and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white	Zec. 1.8
+As my ta ayns y chione meayl, cheu- chooylloo ny cheu-veealloo, ching banee jiarg; yn loihrey t’ayn, er n’irree seose ayns e chione meayl, ny erskyn e eddin meayl	And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead	Lev. 13.42
+Woaill eh ny noidyn echey ayns ny ayrnyn cheu-chooylloo: as hug eh ad gys nearey kinjagh	He drave his enemies backwards: and put them to a perpetual shame	Ps. 78.67
+d As nee dty chleayshyn clashtyn yn goo cheu dty chooylloo, gra, Shoh’n raad,	And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it	Isa. 30.20
+shooyll-jee ayn
+Prepositional nominals in Manx Gaelic
+8
+As hass ee ec e chassyn cheu e chooylloo keayney, as ren ee toshiaght dy niee e chassyn lesh jeir, as rub ee ad lesh folt e king, as phaag ee e chassyn, as ren ee ad y ooillaghey lesh yn ooil	And stood at his feet behind him weeping, Luke and began to wash his feet with tears, and	7.38 did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment
+cur deiney dy lhie cooyl-chlea noi’n ard-valley cheu e cooylloo	lay thee an ambush for the city behind it	Josh. 8.2
+Son shoh as ooilley v’ad mee-viallagh, as dirree ad magh dt’oï, as hilg ad dty leigh cheu nyn gooylloo	Nevertheless they were disobedient, and	Nehem. rebelled against thee, and cast thy law	9.26 behind their backs
+e. Eisht hrog yn spyrryd seose mee, as cheayll mee my-chooylloo sheean tharmane mooar, gra, Bannit dy row gloyr y Chiarn veih e ynnyd hene	Then the spirit took me up, and I heard	Ez. 3.12 behind me a voice of a great rushing, saying, Blessed be the glory of the Lord from his place.
+as bee dty ynrickys er dty chione goll royd, as gloyr y Chiarn goll mayrt er dty chooylloo.	and thy righteousness shall go before thee; Isa. 58.8 the glory of the Lord shall be thy rereward.
+Ny Syrianee er e veealloo, as ny Philistinee er e chooylloo; as nee ad Israel y stroie lesh beeal foshlit	The Syrians before, and the Philistines	Isa. 9.12 behind; and they shall devour Israel with open mouth
+f. As hie cullee camp cloan Dan er y hoshiaght, va er-cooyl ooilley ny campyn, trooid ny sheshaghtyn oc	And the standard of the camp of the	Num. children of Dan set forward, which was	10.25 the rereward of all the camps throughout their hosts
+agh va David as e gheiney er cooyl yn armee marish Achish	but David and his men passed on in the	1 Sam. rereward with Achish	29.2
+g agh haink y gard er nyn gooyl, lurg arg y Chiarn	but the rereward came after the ark of the	Josh. 6.13 Lord
+As tra yeeagh Judah nyn yeï, cur-my- ner, va’n caggey rhymboo as er nyn gooyl	And when Judah looked back, behold, the	2 Chron. battle was before and behind	13.14
+Agh hug Jeroboam er deiney dy lhie follit, dy heet mygeayrt er y chooyl oc	But Jeroboam caused an ambushment to	2 Chron. come about behind them	13.13
+h Chamoo lhig Jee ny beishteigyn er- gooyl Dagh nhee dy vel snaue, getlagh ard ny shooyl :	Neither did God leave the insects behind,	Pargys Every thing that creeps, flies high or	Caillit walks	1481-2
+Shoh Ghraih, gow, ee; tilg dt’ aggle ooill’ er-gooyl As hee oo nagh vel y baase ny cragh ayns ooyl	This, Love, take, eat; throw all thy fear	Pargys behind	Caillit And thou wilt see neither death nor ruin is	3798-9 in an apple
+Ta fer ayn ta laboragh as tarroogh, as dy bragh ayns siyr, agh t’eh wheesh shen smoo ergooyl	There is one that laboureth, and taketh	Ecclus pains, and maketh haste, and is so much	11.11 the more behind
+T’eh coyrt ergooyl shen ny va hoshiaght, dy vod eh niartaghey shen ny va er-jerrey	He taketh away the first, that he may	Heb. 10.9 establish the second.
+Shen-y-fa nish chaggil-jee hym’s ooilley phadeyryn Vaal, ooilley e hirveishee, as ooilley e haggyrtyn, ny lhig dooinney jeu ve ergooyl	Now therefore call unto me all the	2 Ki. prophets of Baal, all his servants, and all	10.19 his priests; let none be wanting
+Prepositional nominals in Manx Gaelic
+9
+Son yn oyr shoh daag mee oo ayns Crete, dy chiartaghey ny reddyn ta ergooyl	For this cause left I thee in Crete, that	Titus 1.5 thou shouldest set in order the things that are wanting
+son shen ny va shiuish er-gooyl ayn, t’adsyn er n’yannoo magh	for that which was lacking on your part 1 Cor. [Manx ‘that which you were behind in’] 16.17 they have supplied
+Son ta mee goaill orrym nagh row mee veg ergooyl ny eer ostyllyn b’yrjey	For I suppose I was not a whit behind the	2 Cor. very chiefest apostles	11.5
+Agh ta tushtey aym’s chammah as t’euish; cha vel mee veg ergooyl riu	But I have understanding as well as you; I	Job 12.3 am not inferior to you
+Son cre eh, ayn va shiuish ergooyl rish kialteenyn elley, mannagh row eh son nagh dug mee shiu gys cost?	For what is it wherein ye were inferior to 2 Cor. other churches, except it be that I myself 12.13 was not burdensome to you?
+i. T’eh goll geiyrt urree er-y-chooyl, myr dow gys y teigh	He goeth after her straightway, as an ox	Prov. goeth to the slaughter	7.22
+nish ver-ym eam gyere myr ben er- troailt; nee’m stroie as sluggey seose er-y-chooyl	now will I cry like a travailing woman; I	Isa. 42.14 will destroy and devour at once
+As er-y-chooyl va’n dooinney er ny lheihys, as ghow eh seose e lhiabbee, as huill eh: as er y laa shen va’n doonaght	And immediately the man was made	John 5.9 whole, and took up his bed, and walked: and on the same day was the sabbath
+Jean siyr, as cosne royd er-y-chooyl ass Jerusalem	Make haste, and get thee quickly out of	Acts Jerusalem	22.18
+Prepositional nominals in Manx Gaelic
+10
+4.	cour ‘towards’, ‘for’, ‘provided for’ (Ir. comhair, i gcomhair, and see §2 coaïr above.)
+a.	cour, gour + gen. ‘for, for the benefit of, sufficient for, for the period of’ [cf. Spanish para]
+b.	my chour ‘for me, provided for me’, etc.
+c.	ny chour eu ‘for you’, etc.
+d.	nyn gour eu(ish) ‘for you’, etc.
+e.	gour my ghrommey ‘(me) backwards’, etc.
+f.	gour my vullee ‘(me) head first, (me) headlong’, etc.
+g.	gour e ching ‘headlong’ (Cregeen, Pargys Caillit)
+gour e ghib ‘mouth foremost’ (Cregeen)
+Manx has several different prepositional expressions corresponding to English ‘for’. There is the regular
+inflected preposition da ‘to, for’, and two prepositional nominals: cour (or gour) ‘in the direction of’,
+‘provided for’, ‘for the period of’, etc., and (er) son ‘for the sake of’, ‘for’ (see §17 below).7 In (a) are
+examples of cour ~ gour with noun complements. I have included quite a large number of examples so
+as to illustrate the range of meanings of cour ~ gour. The examples in (b) are those where the pronoun
+object of cour is expressed with the preposed possessive; in (c) are those with grammatically 3sg. masc.
+ny chour, followed by inflected ec expressing ‘possessive’; in (d) are examples of the blended
+construction, with preposed possessive pronoun and postposed inflected ec. All the examples in (c) and
+(d) are of plural objects, where nyn gour with preposed possessive pronoun does not distinguish between
+1st, 2nd and 3rd person.8 Sections (e), (f) and (g) illustrate the idiomatic use of gour followed by a
+possessed body-part noun in the genitive to express direction, or ‘-wards’ — dreeym ‘back’, mullagh
+‘top, crest’, kione ‘head’, gob ‘beak, mouth’.
+Observe that, in nearly every case where the construction would be different, the complement of cour
+~ gour is genitive rather than prepositional: cour ny bleeaney, gour e vaaish, gour e ghrommey, gour
+nyn drommey, gour e vullee; with one case of gour y vlein (rather than *gour ny bleeaney).
+a. nee shen gymmyrkey mess cour three bleeaney.	it shall bring forth fruit for three years	Lev. 25.21
+Son ve sarey’n ree mychione oc, dy beagh lowance kinjagh son ny fir- chiaullee, cour dagh laa	For it was the king’s commandment	Nehem. 11.23 concerning them, that a certain portion should be for the singers, due for every day
+Tra t’ou craa dty villey-olive, cha jed oo yn nah cheayrt harrish ny banglaneyn: bee eh cour y joarree, y lhiannoo gyn ayr, as y ven- treoghe	When thou beatest thine olive tree, thou Deut. 24.20 shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow
+As chiare ny fir-olk shoh beaghey cour ree Solomon, as cour ooilley ny haink gys boayrd ree Solomon	And those officers provided victual for	1 Ki. 4.27 king Solomon, and for all that came unto king Solomon’s table
+As hug ad lhieu dagh dooinney e yioot, siyn argid, as siyn airh, as coamraghyn, eilley-caggee, as spiceyn, cabbil, as muleyn, keesh cour ny bleeaney	And they brought every man his	2 Chron. 9.24 present, vessels of silver, and vessels of gold, and raiment, harness, and spices, horses, and mules, a rate year by year
+As hass Ezra yn scrudeyr er pulpit fuygh v’ad er hroggal cour yn ymmyd	And Ezra the scribe stood upon a pulpit Nehem. 8.4 of wood, which they had made for the purpose
+7 The distinction between cour and son in Manx recalls the difference, in Spanish and Portuguese, between para
+and por, both often = English ‘for’.
+8 Note the Daniel 9.4. example where the alternatives ny chour ocsyn and nyn gour-syn are both used, apparently
+for stylistic variation.
+Prepositional nominals in Manx Gaelic
+11
+Ta kerraghey trome cour ny mee- chrauee	Great plagues remain for the ungodly	Ps. 32.11
+agh vod eh arran y choyrt myrgeddin, ny feill y chiarail cour e phobble?	but can he give bread also, or provide	Ps. 78.21 flesh for his people?
+Ta’n niagh greihit cour laa yn chaggey	The horse is prepared against the day of Prov. 21.31 battle
+Son dy chooilley nhee ta imbagh cooie, as traa cour dy chooilley chiarail fo niau	To every thing there is a season, and a	Eccl. 3.1 time to every purpose under the heaven
+As bee ish ayns mean yn aarkey son ynnyd cour skeayley lieenteenyn	It shall be a place for the spreading of	Ez. 26. 5 nets in the midst of the sea
+chamoo v’ad er n’aarlaghey daue hene veg y veaghey gour nyn yurnah	neither had they prepared for	Ex. 12.39 themselves any victual
+As hig eh gy-kione, dy jean ad er y cheyoo laa gaarlaghey shen ver ad lhieu stiagh; as bee eh ghaa wheesh as t’ad dy haglym gour y laa	And it shall come to pass, that on the	Ex. 16.5 sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily
+As cha jean oo jeelym dty gharey- feeyney, chamoo nee oo chaglym dy bollagh dy chooilley verrish t’ayns dty gharey-feeyney; nee oo faagail ad gour y voght as y joarree	And thou shalt not glean thy vineyard,	Lev. 19.10 neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger
+Myr sharvaant failt gour y vlein vees eh mârish	And as a yearly hired servant shall he	Lev. 25.53 be with him
+As ec paart elley jeh nyn mraaraghyn mec ny Kohathiteyn, va currym yn arran casherick dy aarlaghey gour dagh doonaght	And other of their brethren, of the sons	1 Chron. 9.32 of the Kohathites, were over the shewbread, to prepare it every sabbath
+Tra cheayll Adam branlaadee moyrnagh Aue V’eh bwoailt lesh atchim, angaish trome as creau As gour e vaaish hilg eh eh-hene er laare Sherriuid aigney plooghey sthie e ghlare	When Adam heard Eve’s vain	Pargys Caillit confusion	3768-71 he was smitten with dread, heavy anguish and trembling, and intending his death he threw himself to the ground, bitterness of mind choking in his voice
+b. ta mee geamagh dy ard, agh cha vel feaysley my chour	I cry aloud, but there is no judgment	Job 18.7
+as bee yn altar prashey my chour hene dy vriaght liorish	and the brasen altar shall be for me to	2 Ki. 16.15 enquire by
+Cur-my-ner shen ny ta freilt! gow eh hood, as ee; son gys y traa shoh ve freilt dty chour, er-dyn traa dooyrt mee, Ta mee er chuirrey’n pobble	Behold that which is left! set it before	1 Sam. 9.24 thee, and eat: for unto this time hath it been kept for thee since I said, I have invited the people
+Myr shen hass mee er, as varr mee eh, son dy row mee shickyr nagh row saase ny chour lurg da ve er duittym	So I stood upon him, and slew him,	2 Sam. 1.10 because I was sure that he could not live after that he was fallen
+Prepositional nominals in Manx Gaelic
+12
+as dy hroggal y chiamble shen, ny chour ta mee ro-laue er chiarail	and to build the palace, for the which I	1 Chron. 29.19 have made provision
+Yn un leigh vees ny choursyn ta ruggit ny mast eu, as da’n joarree ta beaghey mêriu	One law shall be to him that is	Ex. 12.49 homeborn, and unto the stranger that sojourneth among you
+cha vel ymmyd erbee sodjey ny chour, agh dy ve tilgit magh, as stampit fo cassyn deiney	it is thenceforth good for nothing, but to Mat. 5.13 be cast out, and to be trodden under foot of men
+gow-jee shelliu son y ghuin eck, my ta lheihys ny cour	take balm for her pain, if so be she may	Jer. 51.8 be healed. [lit. ‘if there is healing for her’]
+t’ee cummal mastey ny ashoonee, cha vel aash ny cour	she dwelleth among the heathen, she	Lam. 1.3 findeth no rest
+Nee eshyn eiraght y reih magh nyn gour: dy jarroo ynnyd ooasle Yacob hug eh graih da	He shall choose out an heritage for us:	Ps. 47.4 even the excellency of Jacob, whom he loved
+As ny cur-jee geill da nyn stoo-thie, son ta foays ooilley thalloo Egypt nyn gour	Also regard not your stuff; for the good	Gen. 45.20 of all the land of Egypt is yours
+As shen y raad v’ad marish David three laa, gee as giu, son va nyn mraaraghyn er chiarail rolaue dy palchey nyn gour	And there they were with David three	1 Chron. 12.39 days, eating and drinking: for their brethren had prepared for them
+c. O hie yn ree; son ta briwnys ny chour eu	O house of the king; for judgment is	Hosea 5.1 toward you
+freayll y conaant as myghin ny chour ocsyn ta graihagh er, as nyn gour-syn ta freayll e annaghyn	keeping the covenant and mercy to	Dan. 9.4 them that love him, and to them that keep his commandments
+ta briwnys strimmey ny chour oc shoh.	these shall receive greater damnation	Mark 12.40
+As ny chour ocsyn, eer cour ny saggyrtyn vees yn cronney casherick shoh	And for them, even for the priests, shall Ez. 48.10 be this holy oblation
+Shegin da’n eiraght ve ny chour ocsyn ta er-mayrn jeh Benjamin	There must be an inheritance for them	Jud. 21.17 that be escaped of Benjamin
+son bee yn varchantys eck ny chour ocsyn ta shirveish fenish y Chiarn	for her merchandise shall be for them	Isa. 23.18 that dwell before the Lord
+My hiarn, dy row yn dreamal ny chour ocsyn ta dwoaiagh ort, as dy ve cooilleenit er dty noidyn	My lord, the dream be to them that hate	Dan. 4.19 thee, and the interpretation thereof to thine enemies
+d. Gys eiraght shickyr as casherick, as nagh vel lheie ersooyl, kiarit ayns niau nyn gour euish	To an inheritance incorruptible, and	1 Pet. 1.4 undefiled, and that fadeth not away, reserved in heaven for you
+ta briwnys strimmey nyn gour oc shoh	the same shall receive greater	Luke 20.47 damnation
+O cre cha palchey ta dty vieys, t’ou er chiarail nyn gour ocsyn ta goaill aggle royd	O how plentiful is thy goodness, which	Ps. 31.21 thou hast laid up for them that fear thee
+e. myr shen dy jean y markiagh echey tuittym gour e ghrommey	so that his rider shall fall backward.	Gen. 49.17
+Prepositional nominals in Manx Gaelic
+13
+As haink eh gy-kione, cha leah’s denmys eh arg Yee, dy huitt eh jeh’n stoyl gour e ghrommey, rish lhiattee’n yiat, as vrish eh e wannal, as hooar eh baase	And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died	1 Sam. 4.18
+As ghow Shem as Japheth garmad, as hug ad eh er nyn gheayltyn, as hie ad gour nyn drommey,9 as choodee ad nearey nyn ayrey	And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father	Gen 9.23
+As hug David e laue ayns e spagey, as ghow eh clagh ass, as sling eh eh, as woaill eh yn Philistine ayns glaare e eddin, dy ren y chlagh sinkeil ayns glaare e eddin; as huitt eh gour e vullee gys y thalloo	And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face [lit. ‘top-wards’, i.e. ‘head first’] to the earth	1 Sam. 17.49
+hug ad lhieu ad gys mullagh y chreg, as hilg ad sheese ad gour nyn mullee jeh’n chreg, as v’ad broojit dy baase	and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces	2 Chron. 25.12
+Ta dooinney tastagh cronnaghey yn olk ro-laue, as keiltyn eh-hene: agh ta ny giare-cheeayllee roie gour nyn mullee, as geddyn assee	A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished [Manx ‘but the half- witted run headlong and suffer harm’]	Prov. 27.12
+as cur-my-ner roie yn slane griagh gour nyn mullee lesh yn eaynee gys y cheayn, as v’ad baiht ayns ny	and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters	Mat. 8.32
+ushtaghyn
+9 NB not *gour nyn ghrommey, nor *gour nyn nrommey.
+Prepositional nominals in Manx Gaelic
+14
+5.	faare ‘near’
+çheet faare + NP ‘to come near to’
+çheet ny aare, etc. ‘come near him’
+The construction çheet faare ‘to come near to’ is only sparsely attested in Classical Manx. Most of the
+attestations are included here. Note ny tar-jee faare ad with 3pl uninflected pronoun complement.
+Jeeagh-jee diu hene nagh jed shiu seose er y clieau, ny cheet faare yn oirr echey: quoi -erbee vennys rish y clieau bee eh son shickyrys er ny choyrt gy baase	Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death	Ex. 19.12
+Cha jean olk erbee taghyrt dhyt: chamoo nee chingys trome erbee cheet faare dty chummal	There shall no evil happen unto thee: neither shall any plague come nigh thy dwelling	Ps. 91.10
+My vees dooinney er-bee jiuish, ny jeh nyn sluight neu-ghlen, liorish cheet faare corp marroo, ny er jurnah foddey jeh, ny-yeih nee eh yn chaisht y reayll gys y Chiarn	If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the Lord.	Num. 9.10
+Deïe ad daue, Reue-jee, te neu-ghlen, reue-jee, reue-jee, ny tar-jee faare ad	They cried unto them, Depart ye; it is unclean; depart, depart, touch not	Lam. 4.15
+As tra honnick Aaron as ooilley cloan Israel Moses, cur-my-ner, va skell sollys er e eddin; as va aggle orroo dy heet ny aare	And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him	Ex. 34.30
+Nish er-y-fa shen jean-jee shiuish as y choonceil fys y chur gys yn ard-chaptan, eh dy chur lesh eh fenish euish mairagh, myr dy beagh red ennagh eu dy gheddyn toiggal sodjey jeh mychione echey: as bee mainyn aarloo dy ghoaill e vioys my jig eh nyn vaar	Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would enquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him	Acts 23.15
+Prepositional nominals in Manx Gaelic
+15
+6.	fegooish ‘without’, ‘in the absence of’ (cf. Sc. G. eugmhais ‘absence’)
+a.	fegooish + NP ‘without’
+b.	fegooish + VN, + non-finite VP ‘without X-ing’, ‘without that …’
+c.	dt’egooish ‘without thee’
+n’egooish ‘without him/her/it’, ‘without which’
+ny egooish ‘without which’
+nyn vegooish, ‘without us, without them’,
+Though fegooish may in origin have included a noun, its construction in Manx with a noun complement
+appears to be that proper to a preposition, as far as one can infer from the first example in (a): fegooish
+Jee ‘without God’, rather than *fegooish Yee, though there are a few cases where a definite singular
+complement has no initial mutation at all.10 Fegooish is often followed by a non-finite verb phrase
+complement, as illustrated in (b). When the complement of fegooish is a personal pronoun, only the
+preposed possessive is used. The masculine possessor agreement form n’egooish is used even when the
+complement is of feminine gender; that is, we do not find either *ny fegooish or *ny hegooish. The
+Bible and other texts I have access to digitally happen to have no example of m’egooish ‘without me’.
+a Dy row shiu ec y traa shen fegooish Creest, fegooish cairys gys vondeishyn lught-thie Israel, as joarreeyn da conaantyn y ghialdyn, gyn veg y treishteil, as fegooish Jee ayns y theihll	That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world	Eph. 2.12
+nagh bee sheshaght y Chiarn myr kirree fegooish bochilley	that the congregation of the Lord be not as sheep which have no shepherd	Num. 27.17
+Nish son foddey dy hraa ta Israel er ve fegooish y Jee firrinagh, as fegooish saggyrt-ynsee, as fegooish y leigh	Now for a long season Israel hath been without the true God, and without a teaching priest, and without law	2 Chron. 15.3
+Myr cliegeen dy airh ayns stroin muickey, myr shen ta ben aalin, fegooish ymmyrkey mie	As a jewel of gold in a swine’s snout, so is a fair woman which is without discretion	Prov. 11.22
+Lhig dasyn ta fegooish peccah nyn mast’eu tilgey yn chied chlagh urree	He that is without sin among you, let him first cast a stone at her	John 8.7
+b chum Absalom slane daa vleïn ayns Jerusalem, fegooish fakin eddin y ree	Absalom dwelt two full years in Jerusalem, and saw not the king’s face	2 Sam. 14.28
+As nish, cur-my-ner, er son cloan Ammon, as Moab, as cronk Seir orroo cha lhiggagh oo da Israel eie y choyrt, tra haink ad ass cheer Egypt, agh hyndaa ad voue, fegooish ad y stroie	And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not	2 Chron. 20.10
+10 fegooish y goo ve er ny chosney liorish ymmyrkey-bea ny mraane ‘without the word be won by the
+conversation of the wives’; 1 Peter 3.1, and as quoted in BCP, Matrimony; fegooish y cooney echeysyn ‘without
+his help’ (Coyrle Sodjey); fegooish y Sushtal ‘without the Gospel’ (Coyrle Sodjey).
+Prepositional nominals in Manx Gaelic
+16
+Smerg diu scrudeyryn as Phariseeyn, chrauee-oalsey; son ta shiu geeck jaghee jeh mynthey, anise as cummin, agh cha vel shiu er chooilleeney currymyn s’ymmyrchee yn leigh, cairys, myghin as firrinys: ad shoh lhisagh shiu v’er n’yannoo, fegooish y chooid elley y aagail gyn jannoo	Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone	Mat. 23.23
+cha daink ee arragh stiagh gys y ree, mannagh ghow yn ree taitnys aynjee, as fegooish yn ennym ec ve eit. [i.e. yn ennym eck]	she came in unto the king no more, except the king delighted in her, and that she were called by name	Esther 2.14
+O my Ayr, mannagh vod yn cappan shoh goll shaghym, fegooish mee dy iu eh, dty aigney’s dy row jeant	O my Father, if this cup may not pass away from me, except I drink it, thy will be done	Mat. 26.42
+c As dooyrt Pharaoh rish Joseph, Mish Pharaoh, as dt’egooish cha jean dooinney erbee troggal seose e laue ny e chass ayns ooilley cheer Egypt	And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt	Gen. 41.44
+Liorishyn va dy chooilley nhee er ny yannoo; as n’egooish cha row nhee erbee jeant va er ny yannoo	All things were made by him; and without him was not any thing made that was made	John 1.3
+cha vel tushtey echey dy yannoo ymmyd mie jeh shen ny t’echey: as te yn un chooid da dy ve n’egooish.	he knoweth not aright what it is to have; and it is all one unto him as if he had it not	Ecclus 20.17
+deayrt ayns ny creeaghyn ain yn gioot smoo ard shen dy ghraih, yn eer kianley dy hee, as jeh dy-chooilley ghrayse, n’egooish quoi-erbee ta bio, t’eh coontit marroo kiongoyrt rhyts [graih m. or f.]	pour into our hearts that most excellent gift of charity, the very bond of peace and of all virtues, without which whosoever liveth is counted dead before thee	BCP Collect for Quinquagesima
+son ta fys aym nagh vod Reguel ee y phoosey rish fer erbee elley cordail rish leigh Voses, n’egooish ve toilliu baase, er-y-fa dy vel cairys yn eiraght bentyn dhyts roish dooinney erbee elley	for I know that Raguel cannot marry her to another according to the law of Moses, but he shall be guilty of death [Manx ‘without his being deserving of death’], because the right of inheritance doth rather appertain to thee than to any other	Tobit 6.12
+Eiyr-jee da shee rish dy chooilley ghooinney, as da craueeaght, n’egooish cha vod dooinney erbee yn Chiarn y akin [even though craueeaght is feminine]	Follow peace with all men, and holiness, without which no man shall see the Lord:	Heb. 12.14
+Sheign da fys ve ec dy chooiIley unnane ta veg y toiggal echey jeh’n Chredjue Chreestee, dy vel yh saase dy ghrayse dy reayl yn CHALLIN FO SMAGHT, ny egooish cha nheign da peiagh erbee treishteil dy ve er ny hauail	Whoever knows any thing of the Christian Religion must know, that SELF-DENIAL is a means of grace without which no man must hope to be saved	Wilson’s Sermons, 1.
+Nish ta shiu jeant magh, nish ta shiu berchagh, ta shiu er reill myr reeaghyn nyn vegooish	Now ye are full, now ye are rich, ye have reigned as kings without us	1 Cor. 4.8
+Prepositional nominals in Manx Gaelic	17
+Agh eshyn ta nyn vegooish, t’eh giare-	But he that lacketh these things is	2 Peter 1.9
+hooillagh, as cha vod eh fakin foddey jeh	blind, and cannot see afar off
+Smooinee ayd hene dy vel oo gol gys y Cheel dy yanoo ooashley gys Jee, as dy hirrey leid ny reddyn shen nagh vod oo ve nyn vegooish gyn ve feer treih	Consider seriously that you go to	Coyrle Sodjey Church to do Honour to God, and to p.72 ask such Things as you cannot want without being miserable
+Prepositional nominals in Manx Gaelic
+18
+7.	fenish ‘presence’, cf. feanish ‘evidence’ (Ir. fianaise ‘evidence’, i bhfianaise + gen. ‘in the
+presence of’)
+a.	ayns fenish + gen. ‘in the presence of’ (also veih fenish, ec fenish, etc.)
+ayns my enish ‘in my presence’
+ayns dty enish ‘in thy presence’
+ayns e enish ‘in his presence’
+ayns nyn venish ‘in their presence’
+ayns yn enish ayd’s ‘in thy presence’
+ayns yn enish echey(syn) ~ ’syn enish echey(syn) ‘in his presence’
+ayns yn enish eu ~ ’syn enish eu ‘in your presence’
+ayns yn enish oc(syn) ‘in their presence’
+b.	fenish + gen. ‘before, in(to) the presence of’
+c.	my enish ‘in my presence’
+ny enish ‘in his presence’, etc.
+ny enish ocsyn ‘in their presence’
+fenish euish ‘in(to) your presence’ ×1
+d.	kionfenish predominantly adj. ‘present’
+kionfenish + NP ‘before’
+ec kionfenish + GEN. ‘at the presence of’ ×1
+e.	çheet kionfenish da ‘appear unto’
+The noun fenish ‘presence’ may occur in regular constructions as the object of a preposition (a). But
+fenish is also found as a prepositional nominal in the sense ‘before’, ‘in the presence of’, constructed
+predominantly with the genitive (b), 11 and with pronominal possessives (c). There are no relevant
+examples to illustrate whether or not ‘in her presence’ would be expressed by ?ny fenish, ?ny enish eck,
+or by something else. The compound kionfenish is above all an adjective meaning ‘present’; but there
+are several examples of kionfenish governing a noun phrase sometimes with the genitive, sometimes
+with the prepositional object construction.12 Çheet kionfenish da (e) lit. ‘become present to’ is
+idiomatically used for ‘appear unto’.
+a As ymmodee cowraghyn elley dy jarroo ren Yeesey ayns fenish e ostyllyn, nagh vel scruit ayns y lioar shoh	And many other signs truly did Jesus in the presence of his disciples, which are not written in this book	John 20.30
+Ny-yeih, dreill mee my laue voue, as dobbree mee er graih my ennym hene, nagh beagh eh er ny oltooaney ayns shilley ny ashoonee, ayns nyn venish hug mee lhiam ad magh	Nevertheless I withdrew mine hand, and wrought for my name’s sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth	Ez. 20.22
+As hie Cain magh veih fenish y Chiarn, as ren eh cummal ayns cheer Nod, shar jeh Eden	And Cain went out from the presence of the Lord, and dwelt in the land of Nod, on the east of Eden	Gen. 4.16
+b as ghow eh yn aasaag jeh hene, as ren eh e choamrey y chaghlaa, as haink eh fenish Pharaoh	and he shaved himself, and changed his raiment, and came in unto Pharaoh	Gen. 41.14
+As va Joseph jeih bleeaney as feed dy eash, tra hass eh fenish Pharaoh ree Egypt; as hie Joseph magh veih fenish Pharaoh, as hie eh trooid ooilley cheer Egypt	And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt	Gen. 41.46
+11 29 examples of fenish Yee, in the Bible, as opposed to 3 examples of fenish Jee.
+12 4 examples of kionfenish Yee, one of kionfenish Voses; 2 of kionfenish Jee, one of kionfenish Moses.
+Prepositional nominals in Manx Gaelic
+19
+Gow nearey … Jeh loght fenish briw as fer reill: jeh mee-chairys fenish quaiyl as theay: jeh dellal volteyragh fenish dty cho-heshey as dty charrey	Be ashamed … Of an offence before a judge and ruler; of iniquity before a congregation and people; of unjust dealing before thy partner and friend	Ecclus 41.18
+As haink y pobble gys thie Yee, as duirree ad ayns shen gys yn astyr fenish Yee, as hrog ad seose nyn goraa, as cheayn ad dy sharroo	And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore	Jud. 21.2
+Mannagh der-yms lhiam hood eh, eisht lhig dooys ‘ve oolee fenish m’ayrey er son dy bragh	If I bring him not unto thee, then I shall bear the blame to my father for ever	Gen.44.32
+Eshyn ta jannoo e oural ass cooid y voght, t’eh myr fer ta dunverys lhiannoo fenish e ayr	Whoso bringeth an offering of the goods of the poor doeth as one that killeth the son before his father’s eyes	Ecclus 34.20
+c cha jig unnane my enish lesh laue follym	and none shall appear before me empty	Ex. 23.15
+As my vees eh ry-gheddyn, dy vel y fer kyndagh toilchin buillaghyn, dy der y briw er dy lhie sheese, as eh dy ve scuitchit ny enish	And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face	Deut. 25.2
+As hie Moses as Joshua, as hass ad ny enish ayns y chabbane-agglish	And Moses and Joshua went, and presented themselves in the tabernacle of the congregation	Deut. 31.14
+Eshyn neesht vees my haualtys: son cha jig yn crauee-oalsey ny enish	He also shall be my salvation: for an hypocrite shall not come before him	Job 13.16
+Agh ta braar goll gys y leigh rish braar, as shen ny enish ocsyn nagh vel jeh’n chredjue	But brother goeth to law with brother, and that before the unbelievers	1 Cor. 6.6
+Nish er-y-fa shen jean-jee shiuish as y choonceil fys y chur gys yn ard-chaptan, eh dy chur lesh eh fenish euish mairagh, myr dy beagh red ennagh eu dy gheddyn toiggal sodjey jeh mychione echey: as bee mainyn aarloo dy ghoaill e vioys my jig eh nyn vaar	Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would enquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him	Acts 23.15
+d As yeeagh eh mygeayrt-y-mysh, er dy chooilley heu as tra honnick eh, nagh row fer erbee kionfenish, varr eh yn Egyptian, as doanluck eh eh ’sy ghenniagh	And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand	Ex. 2.12
+Nee uss girree seose kionfenish y chione lheeah, as ooashley y choyrt da’n chenndeeaght, as aggle y ghoaill roish dty Yee: Mish y Chiarn	Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the Lord	Lev. 19.32
+Ad shoh yn daa villey-olive, as y daa chainleyr shassoo kionfenish Jee yn theihll	These are the two olive trees, and the two candlesticks standing before the God of the earth	Rev. 11.4
+Gys y jerrey dy vod eh niartaghey ny	To the end he may stablish your hearts	1 Thes.
+creeaghyn eu gyn loght ayns casherickys	unblameable in holiness before God	3.13
+kionfenish Jee
+Prepositional nominals in Manx Gaelic
+20
+Chrie yn thalloo, as ren ny niaughyn
+shilley ec kionfenish Yee13: myr va Sinai
+myrgeddin er ny chraa ec fenish Yee, eh ta
+Jee Israel
+e As dooyrt Jee rish Jacob, Trog ort, gow
+seose gys Bethel, as jean cummal ayns
+shen: as trog altar ayns shen, da Jee haink
+kionfenish dhyt, tra v’ou er chea veih
+eddin Esau dty vraar
+As haink ainle y Chiarn kionfenish da as
+dooyrt eh rish, Ta’n Chiarn mayrt’s, uss
+ghooinney niartal-caggee
+The earth shook, and the heavens	Ps. 68.8
+dropped at the presence of God: Sinai
+also was moved at the presence of
+God, who is the God of Israel
+And God said unto Jacob, Arise, go	Gen. 35.1
+up to Bethel, and dwell there: and
+make there an altar unto God, that
+appeared unto thee when thou fleddest
+from the face of Esau thy brother
+And the angel of the Lord appeared	Jud. 6.12
+unto him, and said unto him, The Lord
+is with thee, thou mighty man of
+valour
+13 Kionfenish Yee ×4 Bible; kionfenish Jee ×2.
+Prepositional nominals in Manx Gaelic
+21
+8.	fud ‘among, throughout, mixed with’ (Ir. fud, ar fud)
+a.	fud + NP ‘through(out), about, among’
+fud-y-cheilley ‘confused’, ‘mixed up’
+b.	nyn vud ‘among them’
+nyn vud oc ~ ny vud oc ‘among them’
+ny vud ain ‘among us’, etc.
+c.	goll fud ‘be current with’
+There do not appear to be simple nominal uses of fud, though, as a prepositional nominal, fud is often
+constructed with a genitive object, as in fud ny çheerey ‘throughout the land’, fud y vagheragh ‘in the
+field(s)’, fud ny hoie ‘all night’. The same object nouns occur also with non-genitive forms: fud y cheer,
+fud y vagher. With personal pronouns (only plural ones, though one might expect something
+corresponding to ‘throughout it’, if not ‘throughout me/thee’) all three constructions are found —
+preposed possessive: nyn vud, preposed 3sg masc. possessive and following inflected ec: ny vud oc,
+and the blended construction nyn vud oc.
+a As haink inneen Pharaoh sheese dy aarkey ee hene ’syn awin, as ren ny mraane aegey va shirveish urree, shooyl er broogh ny hawin: as tra honnick ee yn clean fud y chlioagagh, hug ee e sharvaant er y hon	And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it	Ex. 2.5
+As hug Moses sarey, as hug ad eam fud y champ	And Moses gave commandment, and they caused it to be proclaimed throughout the camp	Ex. 36.6
+As nee’m nyn skeayley fud ny ashoonyn-quaagh	And I will scatter you among the heathen	Lev.26.33
+hed oo magh un raad nyn ‘oï, as chea ersooyl rhymboo shiaght raaidyn, as bee shiu skeaylt fud ooilley reeriaghtyn y thallooin	thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth	Deut. 28.25
+As va’n cheshaght-chaggee as ooilley’n pobble er-creau fud y vagheragh14	And there was trembling in the host, in the field, and among all the people	1 Sam. 14.15
+As haghyr dooinney dy row ny raad, as cur-my-ner; v’eh er-shaghryn fud y vagher:	And a certain man found him, and, behold, he was wandering in the field	Gen. 37.15
+As ghow eh shlig chrockan dy screebey eh-hene; as hoie eh sheese fud y leoie	And he took him a potsherd to scrape himself withal; and he sat down among the ashes	Job 2.8
+Ta ny roosteyryn er jeet er ooilley ny ard-ynnydyn fud yn aasagh	The spoilers are come upon all high places through the wilderness	Jer. 12.12
+as fud ny cheerey nee ny guintee gaccan	and through all her land the wounded shall groan	Jer. 51.52
+Ta shin er hooyl noon as noal fud y cheer	We have walked to and fro through the earth	Zec. 1.11
+As ren ad chaglym ad cooidjagh ayns dashyn, as va soar breinn jeu fud y cheer	And they gathered them together upon heaps: and the land stank [Manx ‘there was a foul smell of them through the land’]	Ex. 8.14
+14 Several other examples of fud y vagheragh.
+Prepositional nominals in Manx Gaelic
+22
+As haink eh gy-kione ayns ny laghyn shen, dy jagh eh seose er slieau dy ghoaill padjer, as dy ren eh tannaghtyn fud ny hoie ayns padjer gys Jee	And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God	Luke 6.12
+Te taghyrt dy vel fud y theihll whilleen caghlaa shen dy ghlare as cha vel veg jeu fegooish meanal	There are, it may be, so many kinds of voices in the world, and none of them is without signification	1 Cor. 14.10
+As fud y gharey v’eh ronsagh magh ny jeï Ec billey’n tushtey hooar eh ee ny shassoo	And throughout the garden he sought after her; at the tree of knowledge he found her standing	Pargys Caillit 3724-5
+e chooishyn va cha fud-y-cheilley, nagh voddins goll gys Media	whose estate was troubled, that I could not go into Media	Tobit 1.15
+b as nee eh meiyghey, as chaglym shiu [sic] ass dy chooilley ashoon, nyn vud ta’n Chiarn dty Yee er dty skeayley	and [he] will return and gather thee from all the nations, whither the Lord thy God hath scattered thee	Deut. 30.3
+Cre’n aash veagh aym nyn vud ren mee y hayrn (Lesh wheesh dy yialdyn) dy hreigeil nyn Jiarn ?	What rest would I have among those who induced me (with so many promises) to forsake our Lord?	Pargys Caillit 3183
+shen-y-fa hug y Chiarn lionyn nyn vud oc, varr paart jeu	therefore the Lord sent lions among them, which slew some of them	2 Ki. 17.25
+As dooyrt ad reesht, Haink yn er shoh, er e yoarreeaght ny vud ain	And they said again, This one fellow came in to sojourn	Gen. 19.9
+Ta shin bannaghey dty Ennym casherick, son dy by-chooidsave lhiat dy chur gys fea yn irree-magh mee-reilltagh t’er ny ve er y gherrit shoh greesit seose ny vud ain	We bless thy holy Name, that it hath pleased thee to appease the seditious tumults which have been lately raised up amongst us	BCP Thanksgiving for restoring Publick Peace at home
+My ta dooinney goaill huggey ben as e moir, te peccah trome, bee ad er nyn lostey ’syn aile, chammah eshyn as adsyn, son nagh bee lheid y drogh-yannoo ny vud eu	And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.	Lev. 20.14
+chamoo veem’s ny sodjey mêriu mannagh stroie shiu yn er custey shen veih ny vud eu	neither will I be with you any more, except ye destroy the accursed from among you	Jos. 7.12
+Ta m’annym’s er chummal foddey ny vud ocsyn: ta nyn noidyn da shee	My soul hath long dwelt among them: that are enemies unto peace	Ps. 120.5
+c kiare cheead shekel dy argid, yn argid va goll fud ny marchanyn	four hundred shekels of silver, current money with the merchant	Gen. 23.16
+Prepositional nominals in Manx Gaelic
+23
+9.	jeï ‘after, behind’ (Ir. diaidh; i ndiaidh + gen. ‘after, following’; Sc. G. an dèidh)
+a.	jeï + NP (x1)
+jeï shoh ‘henceforth’ (Cregeen)
+b.	my yeï ‘after me’
+ny jeï ‘after her’, (‘after them’)
+nyn yeï ‘after us/you/them’
+ny yeï eu ~ nyn yeï eu ‘after you’
+c.	ny yeï shoh ‘hereafter’ ~ ny jeï shoh
+d.	ny yeih ‘yet, nevertheless’
+There is only one Bible example of jeï ‘after’ with a noun complement; Cregeen also mentions the
+expression jei shoh ‘henceforth’, and there is jeih shen ‘thereafter’ in the Apocrypha (a). As in other
+cases, with possessives (b), three options are found, e.g. for ‘after you’: nyn yeï, ny yeï eu and nyn yeï
+eu. Note idiomatic ny yeï shoh ‘hereafter’ (c), once in the variant form ny jeï shoh. Ny yeih ‘nevertheless’
+(d) is spelt differently, though it may be the same in origin as ny yeï ‘after it’.
+a. Creeaghyn deiney gannooinaghey lesh aggle, as lesh jeeaghyn jei ny reddyn ta ry heet er y thalloo	Men’s hearts failing them for fear, and for Luke looking after those things which are coming 21.26 on the earth
+agh jeih shen cassee eh e ghob ort, as lûnee eh dty ghlare.	but at the last he will writhe his mouth, and	Ecclus slander thy sayings.	27.22
+b. Tar seose my yeï	Come up after me	1 Sam. 14.12
+T’eshyn ta cheet my yei er ny hoiaghey roym; son v’eh roym	He that cometh after me is preferred before	John 1.15 me: for he was before me
+Cosne ersooyl son dty vioys; ny jeeagh dty yeï; chamoo jean cumrail raad erbee ’sy thalloo rea; cosne gys y clieau, er aggle dy bee oo er dty choyrt mow	Escape for thy life; look not behind thee,	Gen. neither stay thou in all the plain; escape to the	19.17 mountain, lest thou be consumed
+Ta creenaght as tushtey giallit dhyt, as ver-ym dhyt berchys, as cooid, as onnor, lheid as nagh row ec veg jeh ny reeaghyn va royd,	Wisdom and knowledge is granted unto thee;	2 Chron. and I will give thee riches, and wealth, and	1.12 honour, such as none of the kings have had that have been before thee, neither shall there
+chamoo vees y lheid ec veg hig dty yeï	any after thee have the like
+Ta m’annym paagh er dty hon, ta m’eill myrgeddin goaill foddeeaght dty yeï: ayns thalloo gennish as chirrym raad nagh vel veg yn ushtey	My soul thirsteth for thee, my flesh also	Ps. 63.2 longeth after thee: in a barren and dry land where no water is
+As cha row lheid y laa as y laa shen, roish ny ny yeï, dy d’eaisht y Chiarn rish coraa dooinney	And there was no day like that before it or Josh. after it, that the Lord hearkened unto the voice 10.14 of a man
+As tra yeeagh Saul ny yei, chroym David lesh e eddin gys y thalloo, as hug eh ooashley da	And when Saul looked behind him, David	1 Sam. stooped with his face to the earth, and bowed	24.8 himself
+Eisht hyndaa e harvaant magh ee, as voult eh yn dorrys ny jeï	Then his servant brought her out, and bolted	2 Sam. the door after her	13.18
+Nee ee faagail ennym custey ny- jeï, as cha bee yn oltooan eck er ny ghoaill ersooyl	She shall leave her memory to be cursed, and	Ecclus her reproach shall not be blotted out	23.26
+As abbyr-jee ny sodjey, Cur-my- ner, ta dty harvaant Jacob nyn yeï	And say ye moreover, Behold, thy servant	Gen. Jacob is behind us	32.20
+Prepositional nominals in Manx Gaelic
+24
+As haink e ostyllyn, as ghuee ad er, gra, Lhig y raad j’ee, son t’ee gyllagh nyn yeï	And his disciples came and besought him, saying, Send her away; for she crieth after us	Mat. 15.23
+As mish, cur-my-ner, ta mish niartaghey my chonaant riuish, as nyn sluight nyn yeï	And I, behold, I establish my covenant with you, and with your seed after you	Gen. 9.9
+Nyn gloan va faagit nyn yei ’sy cheer, adsyn myrgeddin nagh row cloan Israel dy slane er vainshtyragh	Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy	1 Ki. 9.21
+V’ad er nyn eebyrt magh veih mastey deiney, deie ad nyn yeï myr lurg maarliagh	They were driven forth from among men, (they cried after them as after a thief;)	Job 30.5
+Cur-jee twoaie er-y-fa shen nagh bee shiuish goll-rish joarreeyn, chamoo gow-jee aggle roue, tra hee shiu sheshaght vooar rhymboo as ny-jei [sic], cur ooashley daue	Beware therefore that ye in no wise be like to strangers, neither be ye afraid of them, when ye see the multitude before them and behind them, worshipping them	Letter of Jeremy 4
+Son ghow eshyn foddiaght ny yeï eu ooilley, as v’eh lane dy hrimshey, er-yn-oyr dy row clashtyn eu dy row eh er ny ve ching	For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick	Phil. 2.26
+Son Jee my eanish, cre cha jeean as ta mee goaill foddeeaght nyn yeï eu ooilley ayns meiyghys Yeesey Creest	For God is my record, how greatly I long after you all in the bowels of Jesus Christ	Phil. 1.8
+c. ayns cowrey nagh bee eh ny yei shoh naaragh dy ghoaill-rish credjue Chreest v’er ny chrossey	in token that hereafter he shall not be ashamed to confess the faith of Christ crucified	BCP Baptism
+Agh nish insh dou cre’n-fa t’ou er hea [sic] voue, as er jeet hooinyn: son t’ou er heet [sic] gys sauchys; bee dy yien mie, bee oc bio noght, as ny-jei shoh	But now tell me wherefore thou art fled from them, and art come unto us: for thou art come for safeguard; be of good comfort, thou shalt live this night, and hereafter	Judith 11.3
+d. Vod moidyn jarrood e coamraghyn aalin? ny ben y phoosee e stoamid? ny yeih ta my phobble er yarrood mish laghyn erskyn- earroo	Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number	Jer. 2.32
+Ta mee ceaut magh ass dty hilley; agh ny yeih nee’m jeeaghyn reesht lesh dty hiamble casherick	I am cast out of thy sight; yet I will look again toward thy holy temple	Jer. 2.4
+Eer joan yn ard-valley eu, ta lhiantyn hooin, ta shin dy chraa j’in nyn ’oï eu: ny yeih, bee-jee shickyr jeh shoh, dy vel reeriaght Yee er jeet er-gerrey diu	Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you	Luke 10.11
+Bee ayns shee rish ymmodee: ny- yeih, ny bee ayd agh un charrey- coyrlee mastey thousane	Be in peace with many: nevertheless have but one counsellor of a thousand	Ecclus 6.6
+Prepositional nominals in Manx Gaelic
+25
+10.	(kione ‘head’, cf. Sc.G. ceann ‘head’; cionn (originally dative case of ceann) ‘reason, occasion,
+cause’):
+a.	mychione + NP ‘about’, ‘concerning’
+b.	my-my-chione ‘concerning me’
+my-dty-chione ‘concerning thee’
+my-e-chione ~ my-y-chione ‘concerning him/it’
+mychione (< my-y-chione) ‘about which’
+*my-e-kione ‘concerning her’ → mychione eck
+my-nyn-gione ‘concerning us/you/them’
+c.	mychione aym, etc. ‘concerning me, etc.’
+In origin, this construction will have consisted of my ‘about, around’ + kione ‘head’ + genitive.
+However, by the stage of Classical Manx, mychione + NP complement is treated as a prepositional
+phrase, and there is no sign of a genitive complement. On a fair number of occasions, the expected
+initial mutation after the definite article is absent (see mychione y kynney, mychione y kiangley under
+(a), and further examples in the footnote).15 I include also a couple of examples under (a) where
+exceptionally mychione governs a non-finite or a finite verb phrase. When the complement of mychione
+is a personal pronoun (b), this is placed where it originally belonged, that is, between my and kione. The
+pattern mychione aym lit. ‘concerning at me’ (c) is also common in Classical Manx, and indeed it forms
+the only way to express ‘about her’, since *my-e-kione is avoided. Note finally mychione mish as uss
+‘concerning me and thee’.
+a. As hug y stiurt e laue fo slheeayst Abraham e vainshtyr, as ren eh breearrey da, mychione y chooish shen	And the servant put his hand under the	Gen. 24.9 thigh of Abraham his master, and sware to him concerning that matter
+As dooyrt ad ry-cheilley, ta shin dy firrinagh oolee mychione nyn mraar	And they said one to another, We are	Gen. 42.21 verily guilty concerning our brother
+Ren y dooinney briaght jin dy gyere mychione nyn stayd, as mychione y kynney (sic) ain, gra, Vel nyn ayr foast bio?	The man asked us straitly of our state, and Gen. 43.7 of our kindred, saying, Is your father yet alive?
+eisht cha jean cre-erbee t’ee er loayrt, mychione e breearraghyn, ny mychione yn kiangley (sic) t’ee fo, shassoo ayns bree	then whatsoever proceeded out of her lips Num. concerning her vows, or concerning the 30.12 bond of her soul, shall not stand
+As hug David fys, as vrie eh mychione y ven	And David sent and enquired after the	2 Sam. woman	11.3
+As hie Moses magh quail e ayr ’sy leigh, as rea eh biallys da, as phaag eh eh: as vrie ad mychione slaynt y cheilley	And Moses went out to meet his father in	Ex. 18.7 law, and did obeisance, and kissed him; and they asked each other of their welfare [Manx ‘asked about each other’s health’]
+15 mychione y cowrey mirrillagh ‘of the wonder’ (2 Chron. 32.31); mychione y coraa-dorraghey ‘about the
+parable’ (Mark 4.10, 7.17); mychione y slattys reeoil ‘concerning the king’s decree’ (Dan. 6.12); mychione y
+credjue ‘concerning the faith’ (Acts 24.24), mychione y sushtal ‘concerning the gospel’ (Rom. 11.28); mychione y
+sleih shoh ‘concerning this people’ (Judith 5.5), mychione y cree as yn aane ‘touching the heart and the liver’
+(Tobit 6.7). But NB the mutated forms cleih (of sleih) and clattys (of slattys) are not used anywhere in the Bible,
+though they are mentioned by Cregeen.
+Prepositional nominals in Manx Gaelic
+26
+Shoh yn leigh mychione ny beiyn, as mychione ny eeanlee, as mychione dy chooilley creetoor bio ta snaue ayns ny ushtaghyn, as dy chooilley chretoor ta snaue er yn ooir	This is the law of the beasts, and of the	Lev. 11.46 fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth
+Immee nish, er-y-fa shen. jean y pobble y leeideil gys yn cheer my-chione ta mee er loayrt rhyt	Therefore now go, lead the people unto	Ex. 32.34 the place of which I have spoken unto thee
+Nee shoh nyn mraar saa mychione loayr shiu rhym’s?	Is this your younger brother, of whom ye	Gen. 43.29 spake unto me?
+Yn un cheead jeig shekel dy argid, v’er ny gheid void, mychione ghwee oo mollaght, as loayr oo jeh ayns my chlashtyn, cur-my-ner, ta’n argid aym’s, mish ghow eh [ = my-nyn-gione]	The eleven hundred shekels of silver that	Jud. 17.2 were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it
+son jean yn obbyr gra mychione-syn ren eh, Cha ren eshyn mee? ny jean yn saagh cummit gra mychione-syn ren cummey eh, V’eh gyn tushtey?	for shall the work say of him that made it,	Isa. 29.16 He made me not? or shall the thing framed say of him that framed it, He had no understanding?
+Vel shiu gra mychionesyn ta’n Ayr er chasherickey, as er choyrt gys y theihll, T’ ou loayrt goan-mollaghtagh; er-yn- oyr dy dooyrt mee, She Mac Yee mee?	Say ye of him, whom the Father hath	John 10.36 sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
+mychione eshyn t’er n’yannoo yn obbyr shoh [? for mychione echeysyn or mychionesyn]	concerning him that hath done this deed	1 Cor. 5.3
+As hie eh roish, as loayr eh rish ny ard saggyrtyn as ny captanyn mychione eh y vrah daue [+ non-finite VP]	And he went his way, and communed	Luke 22.4 with the chief priests and captains, how he might betray him unto them.
+As mychione dy hrog eh seose eh veih ny merriu as nagh row eh arragh dy hyndaa gys loauid, dooyrt eh er yn aght	And as concerning that he raised him up	Acts 13.34 from the dead, now no more to return to corruption, he said on this wise
+shoh [+ Comp + VP]
+b. Shoh dty chenjallys nee oo y hoilshaghey dooys; Raad erbee dy jem	This is thy kindness which thou shalt	Gen. 20.13 shew unto me; at every place whither we
+ad, abbyr my-my-chione, She my vraar eh	shall come, say of me, He is my brother
+As hem’s magh as shassym liorish my ayr ’sy vagher raad t’ou follit, as loayrym rish m’ayr my-dty-chione	And I will go out and stand beside my	1 Sam. father in the field where thou art, and I	19.3 will commune with my father of thee
+As ta mee er chlashtyn my-dty-chione dy vel oo son cur bun er ashlishyn, as reaghey cooishyn doillee	And I have heard of thee, that thou canst	Dan. 5.16 make interpretations, and dissolve doubts
+As dooyrt eh, Quoi dinsh dhyt dy row rooisht? Vel oo er n’ee jeh’n villey my- e-chione hug mee sarey dhyt, nagh jinnagh oo gee jeh?	And he said, Who told thee that thou wast Gen. 3.11 naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
+son cha dreig-ym oo, derrey vee’m er chooilleeney shen, my-e-chione ta mee er loayrt rhyt	for I will not leave thee, until I have done	Gen. 28.15 that which I have spoken to thee of
+nagh ren ad arraneyn y ghoaill ry- cheilley my-e-chione ’sy daunsin, gra, Ta Saul er varroo e housaneyn, as David e yeih thousaneyn?	did they not sing one to another of him in	1 Sam. dances, saying, Saul hath slain his	21.11 thousands, and David his ten thousands?
+Prepositional nominals in Manx Gaelic
+27
+As hrog eh altaryn ayns thie yn Chiarn, my-y-chione dooyrt y Chiarn, Ver-yms my ennym ayns Jerusalem	And he built altars in the house of the	2 Ki. 21.4 Lord, of which the Lord said, In Jerusalem will I put my name
+Shen-y-fa, vraaraghyn, va shin er nyn gherjaghey my-nyn-gione ayns ooilley	Therefore, brethren, we were comforted	1 Thes. 3.7 over you in all our affliction and distress
+nyn seaghyn as êgin liorish y chredjue eu	by your faith
+As my-nyn-gione bee mollaght-mynney troggit liorish ooilley cappeeys Yudah ta ayns Babylon	And of them shall be taken up a curse by	Jer. 29.22 all the captivity of Judah which are in Babylon
+cre ta er jeet jeh ooilley e virrilyn my- nyn-gione dinsh nyn ayraghyn dooin?	where be all his miracles which our	Jud. 6.13 fathers told us?
+c. As loayr braaraghyn e vayrey mychione echey ayns clashtyn ooilley deiney Shechem ooilley ny goan cheddin:	And his mother’s brethren spake of him	Jud. 9.3 in the ears of all the men of Shechem all these words
+as shoh myr vees eh, mychione echey jir-yms rhyt, Eh shoh hed mayrt, yn er cheddin hed mayrt;	and it shall be, that of whom I say unto	Jud. 7.4 thee, This shall go with thee, the same shall go with thee
+Cur-my-ner yn dooinney mychione echey loayr mee rhyt	Behold the man whom I spake to thee of	1 Sam. 9.17
+Agh va moir ben Simon ny lhie ching ’sy chiassaghey, as chelleeragh dinsh ad da mychione eck	But Simon’s wife’s mother lay sick of a	Mark 1.30 fever, and anon they tell him of her
+heeyn mee magh my laueyn gys niau heose, as ren mee dobberan my vee- hushtey mychione eck	I stretched forth my hands to the heaven	Ecclus above, and bewailed my ignorances of her 51.19
+son s’mooar ta jymmoose y Chiarn t’er vrishey magh nyn oï, er-yn-oyr nagh vel ny ayraghyn ain er n’eaishtagh rish goan y lioar shoh, dy yannoo cordail rish ooilley ny ta scruit mychione ain	for great is the wrath of the Lord that is	2 Ki. kindled against us, because our fathers	22.13 have not hearkened unto the words of this book, to do according unto all that which is written concerning us
+Fuirree-jee tammylt, as nee’m clashtyn cre nee’n Chiarn sarey mychione eu	And Moses said unto them, Stand still,	Num. 9.8 and I will hear what the Lord will command concerning you
+Son mychione oc shoh dooyrt y Chiarn, Yiow ad son shickyrys baase ayns yn aasagh	For the Lord had said of them, They shall	Num. surely die in the wilderness	26.65
+Jeh ny ashoonyn mychione oc dooyrt y Chiarn rish cloan Israel, Cha bee veg euish dy yannoo roosyn	Of the nations concerning which the Lord	1 Ki. 11.2 said unto the children of Israel, Ye shall not go in to them
+Agh cha baillym shiu ve mee-hushtagh, vraaraghyn, mychione ocsyn ta nyn gadley	But I would not have you to be ignorant,	1 Thes. brethren, concerning them which are	4.13 asleep
+Ta fys ayd cre dooyrt y Chiarn rish Moses yn dooinney dy Yee mychione mish as uss ayns Kadeshbarnea.	Thou knowest the thing that the Lord said Josh. 14.6 unto Moses the man of God concerning me and thee in Kadeshbarnea
+Prepositional nominals in Manx Gaelic
+28
+11.	lheid ‘(the) like’ (Ir. leithéid; Sc. G. leithid)
+a.	lheid y(n) + N ‘such a N’, lheid ny + Npl ‘such Ns’
+b.	my lheid ‘such as I’
+dty lheid (as) ‘thy like’, ‘such as thou/thee’
+e lheid ‘his like’, ‘its like’
+nyn lheid as ‘such (ones) as’, nyn lheid ocsyn as ‘such (ones) as’
+c.	y lheid cheddin ‘the same (kind of thing)’
+y lheid shoh ‘such a one as this’
+I include lheid here among the prepositional nominals on the basis of its construction with possessive
+pronouns, though the construction is less prepositional than the others in this paper. The complement
+of lheid appears to be neither a genitive nor a prepositional object; thus there is initial mutation only of
+fem. sg. nouns after y(n).16
+a. nagh row fys eu, dy vod lheid y dooinney as mish son shickyrys, folliaghtyn y gheddyn magh?	wot ye not that such a man as I can certainly divine?	Gen. 44.15
+dy chooilley yough ta iu’t ass lheid y saagh, bee eh neu-ghlen	all drink that may be drunk in every such vessel shall be unclean	Lev. 11.34
+Son jean briaght nish mychione ny laghyn t’er n’gholl shaghey, va roish dty hraa, er-dyn laa chroo Jee dooinney er y thalloo, as veih’n derrey chione jeh’n seihll gys y chione elley, row rieau lheid y red mooar yindyssagh shoh, ny row clashtyn jeh e lheid?	For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?	Deut. 4.32
+Cre ta jannoo ort, dy vel oo cheet lesh lheid y cheshaght?	What aileth thee, that thou comest with such a company?	Jud. 18.23
+As tra hug ee lh’ee ad huggey dy ee, ghow eh greme urree, as dooyrt eh r’ee, Tar as lhie liorym, my huyr. As dreggyr ee eh, Cha jean, my vraar, ny gow mee er êgin; son cha lhisagh lheid y red ve jeant ayns Israel; ny jean lheid yn ommijys	And when she had brought them unto him to eat, he took hold of her, and said unto her, Come lie with me, my sister. And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly	2 Sam. 13.12- 13
+b As dooyrt Barzillai rish y ree, Caid t’ayms dy ve bio, my lheid’s dy gholl seose marish y ree, gys Jerusalem?	And Barzillai said unto the king, How long have I to live, that I should go up with the king unto Jerusalem?	2 Sam. 19.34
+Ny reddyn shoh t’ou er n’yannoo, as chumm mish my hengey; as heill oo dy olkyssagh dy row mish eer dty lheid hene	These things hast thou done, and I held my tongue, and thou thoughtest wickedly, that I am even such a one as thyself	Ps. 50.21
+16 Hence, lheid y boayl, lheid y mac, lheid y peccah, lheid y palchey (but also lheid y phalchey), lheid y fer, lheid y
+saase, lheid y seaghyn mooar, lheid y currym, lheid y credjue, lheid y baase, lheid y sarey, lheid y cliaghtey, lheid
+y goo, lheid y sharmane, lheid y mian, lheid yn saggyrt, lheid y shilley, lheid yn boggey (masculine nouns); but
+lheid y varriaght, lheid y choyrle, lheid y chenjallys, lheid y chaisht, lheid y chragh, lheid y chloan, lheid y ghraih,
+lheid y vaarderys, lheid y verchys, lheid y vea, lheid y ven, lheid y ghlare, lheid y vyghin, lheid y ghrayse, lheid y
+phooar, lheid y phrice (feminine nouns). There is a handful of cases of over-leniton of masc. nouns. In Coyrle
+Sodjey, however, lenition after lheid y seems much more variable.
+Prepositional nominals in Manx Gaelic
+29
+As er son y perfume t’ou dy yannoo cha jean shiu er nyn son hene veg jeh e lheid: bee eh casherick dhyt’s da’n Chiarn	And as for the perfume which thou	Ex. 30.37 shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the Lord
+Cur-jee my-ner yn dooinney ta’n Chiarn er reih, nagh vel e lheid mastey ooilley’n pobble	See ye him whom the Lord hath	1 Sam. 10.24 chosen, that there is none like him among all the people?
+Cre t’ayms dy yannoo rish deiney keoïe, dy vel shiu er chur lhieu yn fer shoh dy chloie yn ommydan ayns my enish? jig e lheid shoh stiagh my hie?	Have I need of mad men, that ye have	1 Sam. 21.15 brought this fellow to play the mad man in my presence? shall this fellow come into my house?
+As my she baagh t’ayn, jeh nyn lheid as ta sleih chebbal gys y Chiarn: cre- erbee y lheid ta dooinney dy choyrt da’n Chiarn, bee eh casherick	And if it be a beast, whereof men	Lev. 27.9 bring an offering unto the Lord, all that any man giveth of such unto the Lord shall be holy
+va laue’n Jee ain harrin, as livrey eh shin veih laue yn noid, as nyn lheid as va ny lhie cooyl-chlea dy follit er y raad	and the hand of our God was upon us,	Ezra 8.31 and he delivered us from the hand of the enemy, and of such as lay in wait by the way
+Sur-jee cloan aegey, as ny jean-jee ad y lhiettal dy heet hym’s: son jeh nyn lheid ta reeriaght niau	Suffer little children, and forbid them	Mat. 19.14 not, to come unto me: for of such is the kingdom of heaven
+Soilshee dty chenjallys-ghraihagh erskyn-insh, uss yn saualtagh ocsyn ta coyrt nyn dreishteil aynyd: veih nyn lheid ocsyn as ta shassoo noi dty laue yesh	Shew thy marvellous loving-kindness,	Ps. 17.7 thou that art the Saviour of them which put their trust in thee: from such as resist thy right hand
+c. Nish er-y-fa shen, jean breearrey dou ayns shoh liorish Jee, nagh jean oo foalsaght rhym, ny rish my vac, ny rish mac my vac: agh cordail rish y chenjallys ta mee er hoilshaghey dhyt, dy jean uss y lheid cheddin dooys, as da’n cheer ayn t’ou er dty yoarreeaght	Now therefore swear unto me here by	Gen. 21.23 God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned
+C’raad yiow mayd y lheid shoh, dooinney ayn ta spyrryd Yee?	Can we find such a one as this is, a	Gen. 41.38 man in whom the Spirit of God is?
+Prepositional nominals in Manx Gaelic
+30
+12.	lieh ‘half’, ‘behalf’, ‘part’ (Sc. G. leth ‘half’, às leth + gen. ‘on behalf of’)
+a.	my-lieh ‘on my behalf’
+ny lieh ‘on his behalf’
+nyn lieh ‘on their behalf’
+b.	ass lieh + gen. ‘on behalf of’
+ass my lieh ‘on my behalf’
+ass y lieh aym ‘on my behalf’
+c.	ayns lieh + gen. ‘on behalf of’
+ayns my lieh ‘on my behalf’
+ayns y lieh aym ‘on my behalf’
+d.	cur my lieh ‘impute to me’, etc.
+cur ny lieh ‘impeach, accuse (of)’
+e.	cur gys lieh + gen. ‘impute’, ‘set to the account of’, ‘lay to the charge of’
+cur gys my lieh ‘impute to me’
+cur gys y lieh aym ‘set to my account’
+f.	cur ass lieh + gen. ‘impute’
+cur ass my lieh ‘accuse me of’
+g.	er lieh + gen. ‘on the part of’
+er my lieh ‘on my part, on my side’
+er y lieh aym ‘on my part, on my side’
+Lieh ‘behalf’ is not used on its own with noun complements; but my lieh, etc. is current for ‘on my
+behalf’ (a), as also are ass lieh + gen, ass my lieh, etc. (b), and ayns lieh + gen., ayns my lieh, etc. (c).
+For ‘to impute’ we find cur my lieh, etc. ‘impute to me’ (d), together with cur gys lieh + gen, cur gys
+my lieh, etc. (e), and cur ass lieh + GEN., cur ass my lieh, etc. (f). Er lieh + GEN., er my lieh, etc. is ‘on
+the side of’, but also sometimes corresponds to ‘on behalf of’, apparently synonymous with the
+constructions in (a-c).
+a. as dy vod yn arrane shoh ve son feanish my-lieh noi cloan Israel	that this song may be a witness for me against the children of Israel	Deut. 31.19
+eshyn nee pleadeil ny lieh lhig eh ve er ny choyrt gy-baase jeeragh er y voghrey shoh	he that will plead for him, let him be put to death whilst it is yet morning	Jud. 6.31
+Lhig dooin chea ersooyl veih eddin Israel; son ta’n Chiarn caggey nyn lieh, noi ny Egyptianee	Let us flee from the face of Israel; for the Lord fighteth for them against the Egyptians	Ex. 14.25
+b Shen-y-fa ny jean uss guee ass lieh yn phobble shoh, chamoo jean aghin ny padjer y hebbal er nyn son	Therefore pray not thou for this people, neither lift up a cry or prayer for them	Jer. 11.14
+Nee ooilley pobble ny cheerey chebbal yn oural shoh ass lieh yn phrince ayns Israel	All the people of the land shall give this oblation for the prince in Israel	Ez. 45.16
+As ec y traa shen, shassee Michael seose yn ard-phrince, ta ass lieh cloan dty phobble	And at that time shall Michael stand up, the great prince which standeth for the children of thy people	Dan. 12.1
+Ta ny briwnyn eck briwnys son leagh, as ny saggyrtyn eck gynsagh son faill, as ny phadeyryn eck phadeyrys son argid: ny-yeih t’ad goaill orroo dy ve ass lieh yn Chiarn, as gra, Nagh vel y Chiarn ny mast’ ain? cha jig olk erbee orrin	The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the Lord, and say, Is not the Lord among us? none evil can come upon us	Micah 3.11
+Prepositional nominals in Manx Gaelic
+31
+As nagh jean Jee cooilleeney ass lieh e chloan reiht hene	And shall not God avenge his own elect	Luke 18.7
+liorin dy voddagh shiu gynsaghey, gyn dy smooinaghtyn jeh deiney erskyn ny ta scruit, nagh bee veg eu boggyssagh ass lieh fer erskyn fer elley	that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another	1 Cor. 4.6
+Son diuish te er ny choyrt ass lieh Chreest, cha nee ny-lomarcan dy chredjal ayn, agh myrgeddin dy hurranse er y ghraih echey	For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake	Phil. 1.29
+Eisht t’eh goaill padjer gys y jalloo shoh ass lieh e chooid, e ven, as e chloan: as cha vel nearey er dy ghuee gys red gyn-vioys	Then maketh he prayer for his goods, for his wife and children, and is not ashamed to speak to that which hath no life	Wisdom 13.17
+son ta’n seihll caggey ass lieh yn vooinjer chairal	for the world fighteth for the righteous	Wisdom 16.17
+eaisht Jee rhym, as loayr-jee ass my lieh, rish Ephron	hear me, and intreat for me to Ephron	Gen. 23.8
+Nee’m gymmyrkey jymmoose y Chiarn, er-yn-oyr dy vel mee er n’yannoo peccah n’oï, derrey nee eh loayrt ass my lieh, as briwnys y chooilleeney er my hon	I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me	Micah 7.9
+As hug Abner chaghteryn gys David ass e lieh	And Abner sent messengers to David on his behalf	2 Sam. 3.12
+As chrie Alexander lesh e laue, as baillish v’er loayrt ass e lieh hene rish y pobble	And Alexander beckoned with the hand, and would have made his defence unto the people	Acts 19.33
+My ta eshyn, ta eh hene ny pheccah, freayll roon ayns e chree; quoi nee loayrt ass e lieh, son pardoon e ghrogh-yannoo?	If he that is but flesh nourish hatred, who will intreat for pardon of his sins?	Ecclus 28.5
+Bee er dty hwoaie jeh fer-coyrlee, as smooinee ro laue cre t’eh shêgin (son ver eh coyrle ass e lieh hene) er-aggle dy der eh yn errey ort’s	Beware of a counsellor, and know before what need he hath; for he will counsel for himself; lest he cast the lot upon thee	Ecclus 37.8
+Choud’s v’eshyn lhiassaghey ass e lieh hene, Chamoo noi leigh ny Hewnyn, chamoo noi yn chiamble ny foast noi Cesar, ta mee er n’yannoo foill erbee	While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all	Acts 25.8
+agh marinyn ta’n Chiarn nyn Yee, dy chooney lhien, as dy chaggey ass nyn lieh	but with us is the Lord our God to help us, and to fight our battles	2 Chron. 32.8
+As honnick eh nagh row dooinney erbee lhieu, as ghow eh yindys nagh row fer erbee dy loayrt ass nyn lieh	And he saw that there was no man, and wondered that there was no intercessor [Manx ‘that there was not anyone to speak on their behalf’]	Isa. 59.16
+agh cha jean ish shassoo ass y lieh echeysyn, chamoo jannoo er e hon	but she shall not stand on his side, neither be for him	Dan. 11.17
+Prepositional nominals in Manx Gaelic
+32
+Tra loayrys Pharaoh riu, gra, Jeeagh- jee dou cowrey ass y lieh eu hene; dy jean oo eisht gra rish Aaron, Gow dty lorg, as ceau sheese eh fenish Pharaoh, as hig eh dy ve ny ardnieu	When Pharaoh shall speak unto you,	Ex. 7.9 saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent
+Shen-y-fa ny jean uss aghin son y pobble shoh, chamoo trog seose eam ny padjer er nyn son, chamoo loayr ass y lieh oc hym’s; son cha der-ym clashtyn dhyt	Therefore pray not thou for this	Jer. 7.16 people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee
+c. nee shiuish oddys pleadeil [a]yns lieh Yee?	will ye contend for God?	Job. 13.8
+As ta fys echeysyn ta ronsaghey yn cree, cre ta aigney yn Spyrryd, er-yn- oyr dy vel eh jannoo accan ayns lieh ny nooghyn cordail rish aigney Yee	And he that searcheth the hearts	Rom. 8.27 knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God
+Agh my te firrinagh, as nagh bee cowraghyn moidynys ry-gheddyn ayns lieh yn ven aeg, Eisht ver ad lhieu magh yn ven aeg gys dorrys thie e ayrey, as nee deiney’n ard-valley eck claghey gy-baase ee	But if this thing be true, and the tokens Deut. 22.20- of virginity be not found for the	21 damsel: Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die
+Gheiney, vraaraghyn, as ayraghyn, clasht-jee risht ny t’aym’s dy ghra ayns my lieh hene	Men, brethren, and fathers, hear ye my Acts 22.1 defence which I make now unto you
+As nee eshyn loayrt ayns dty lieh rish y pobble	And he shall be thy spokesman unto	Ex. 4.16 the people
+cre’n traa neem’s guee ayns dty lieh hene, as lieh dty harvaantyn, as lieh dty phobble…?	when shall I intreat for thee, and for	Ex. 8.9 thy servants, and for thy people ...?
+ta mee er n’yannoo soiagh jeed mychione yn accan shoh myrgeddin, nagh jeanym yn ard-valley shoh y stroie, ayns e lieh t’ou er loayrt	I have accepted thee concerning this	Gen. 19.21 thing also, that I will not overthrow this city, for the which thou hast spoken
+Nee’n Chiarn y Jee eu, ta goll reue, caggey er nyn son, cordail rish ooilley ny ren eh ayns nyn lieh, ayns Egypt	The Lord your God which goeth	Deut. 1.30 before you, he shall fight for you, according to all that he did for you in Egypt
+she Creest hooar baase, ny sodjey, t’er n’irree reesht, ta eer ec laue yesh Yee, as ta myrgeddin loayrt ayns y lieh ain	It is Christ that died, yea rather, that is	Rom. 8.34 risen again, who is even at the right hand of God, who also maketh intercession for us
+Ta mee cur booise da my Yee dy kinjagh ayns y lieh eu	I thank my God always on your behalf	1 Cor. 1.4
+d dy vel oo nish cur foill my-lieh mychione y ven shoh	that thou chargest me to day with a	2 Sam. 3.8 fault concerning this woman
+Cha vod ny Philistinee nish coyrt foill my lieh, ga dy jinnins assee dauesyn	Now shall I be more blameless than	Jud. 15.3 the Philistines, though I do them a displeasure
+Gys lieh Ghavid t’ad er choyrt jeih thousaneyn, as my lieh’s cha vel ad er choyrt agh thousaneyn: as cre smoo baillish nish agh y reeriaght?	They have ascribed unto David ten	1 Sam. 18.8 thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
+Prepositional nominals in Manx Gaelic
+33
+agh mannagh vel yn irriney ayns nhee erbee t’ad shoh dy choyrt my lieh, cha vod dooinney erbee mish y livrey seose huc	but if there be none of these things	Acts 25.11 whereof these accuse me, no man may deliver me unto them
+Ny-yeih, ta reddyn ennagh aym dy choyrt dty lieh	Notwithstanding I have a few things	Rev. 2.20 against thee
+Bannit yn dooinney nagh vel y Chiarn cur peccah erbee ny lieh: as ayns e chree nagh vel kialg erbee	Blessed is the man unto whom the	Ps. 32.2 Lord imputeth no sin: and in whose spirit there is no guile
+cur-my-ner ta mish er veysht eh kiongoyrt riu, as cha vel mee er gheddyn foill erbee ayns y dooinney shoh, mychione ny reddyn ta shiuish cur ny lieh	behold, I, having examined him before Luke 23.14 you, have found no fault in this man touching those things whereof ye accuse him
+Eer myr ta David myrgeddin soiaghey magh stayd bannit y dooinney ny lieh ta Jee cur cairys fegooish obbraghyn	Even as David also describeth the	Rom. 4.6 blessedness of the man, unto whom God imputeth righteousness without works
+Nish cha row eh scruit er y ghraih echeysyn ny-lomarcan, dy row shoh currit ny lieh	Now it was not written for his sake	Rom. 4.23 alone, that it was imputed to him
+ta mee guee ort, ny cur y peccah shoh nyn lieh, ta shin dy ommijagh er ve kyndagh jeh	I beseech thee, lay not the sin upon us,	Num. 12.11 wherein we have done foolishly
+Son ta shin ayns dangeyr dy bee irree magh er ny choyrt nyn lieh son obbyr y laa jiu	For we are in danger to be called in	Acts 19.40 question for this day’s uproar
+ny-yeih cha vel Jee cur ommijys nyn lieh	yet God layeth not folly to them	Job 24.12
+Ta shen, dy row Jee ayns Creest, coardail yn seihll rish hene, cha nee coyrt nyn loghtyn nyn lieh; as t’eh er livrey dooinyn yn goo dy choardail	To wit, that God was in Christ,	2 Cor. 5.19 reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation
+e. Ver-ym lhiam my hushtey veih foddey, as ver-yms cairys gys lieh my Er-croo	I will fetch my knowledge from afar,	Job 36.3 and will ascribe righteousness to my Maker
+Hie Pilate eisht magh huc, as dooyrt eh, Cre ta shiu dy chur gys lieh yn dooinney shoh?	Pilate then went out unto them, and	John 18.29 said, What accusation bring ye against this man?
+As tra v’eh er jeet, hass ny Hewnyn haink veih Jerusalem mygeayrt, as hug ad stiagh ymmodee foiljyn tromey gys lieh Phaul, nagh voddagh ad prowal	And when he was come, the Jews	Acts 25.7 which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove
+Dirree feanishyn foalsey seose: hug ad reddyn gys my lieh nagh row mee kyndagh jeu	False witnesses did rise up: they laid	Ps. 35.11 to my charge things that I knew not
+Son ga nagh voddym coyrt nhee erbee gys my lieh hene, ny-yeih cha vel mee liorish shoh er my heyrey	For I know nothing by myself; yet am	1 Cor. 4.4 I not hereby justified
+as bee shoh er ny choyrt gys dty lieh son cairys fenish y Chiarn dty Yee	and it shall be righteousness unto thee	Deut. 24.13 before the Lord thy God
+Prepositional nominals in Manx Gaelic
+34
+N’oi tra va e phlaiyntee er hassoo seose, cha dug ad nhee erbee gys e lieh jeh ny reddyn va mish dy smooinaghtyn	Against whom when the accusers stood up, they brought none accusation of such things as I supposed	Acts 25.18
+Ren Abraham Jee y chredjal, as ve er ny choyrt gys e lieh son cairys	Abraham believed God, and it was counted unto him for righteousness	Rom. 4.3
+ta shin guee ort, ny lhig dooin cherraghtyn son bioys yn dooinney shoh, as ny cur gys nyn lieh yn uill gyn-loght	we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood	Jonah 1.14
+Glare breeoil nagh vod ve loayrit n’oï: dy vod eshyn ta shassoo magh nearey ‘ghoaill, gyn veg yn olk echey dy choyrt gys nyn lieh	Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you	Titus 2.8
+As bee eh er ny choyrt gys y lieh ain son cairys, my nee mayd dy kiarailagh cooilleeney ooilley ny saraghyn shoh	And it shall be our righteousness, if we observe to do all these commandments before the Lord our God, as he hath commanded us	Deut. 6.25
+dy voddagh eh ve yn ayr ocsyn ooilley ta credjal, ga nagh vel ad er nyn ghiarey-chymmylt; dy voddagh cairys ve er ny choyrt gys y lieh ocsyn myrgeddin	that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also	Rom. 4.11
+f. Chamoo oddys ad prowal ny reddyn shen t’ad nish dy choyrt ass my lieh	Neither can they prove the things whereof they now accuse me	Acts 24.13
+as kied echey loayrt er e hon hene mychione yn oill veagh currit ass e lieh	and have licence to answer for himself concerning the crime laid against him.	Acts 25.15
+Bannit ta shiuish tra vees shiu oltooanit, as tranlaasit, as dy chooilley ghrogh-ghoo currit ass nyn lieh dy aggairagh er y choontey aym’s	Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake	Mat. 5.11
+As ghlioon eh sheese, as deie eh lesh ard-choraa, Hiarn, ny cur y peccah shoh ass nyn lieh	And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge	Acts 7.60
+g Shoh ta mee gra eisht, as gymmyrkey feanish er lieh yn Chiarn, nagh jean shiu veih shoh magh gimmeeaght myr ta’n chooid elley jeh ny Ashoonyn- quaagh gimmeeaght ayns fardail nyn aignaghyn	This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind	Eph. 4.17
+Ta’n Chiarn er my lieh’s: cha bee aggle orrym jeh ny oddys dooinney y yannoo rhym	The Lord is on my side: I will not fear what man doeth unto me	Ps. 118.6
+As fakin fer jeu surranse aggair, hass eh er e lieh, as goaill cooilleen er y tranlaasagh er e hon	And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed	Acts 7.24
+Er-be dy row yn Chiarn hene er nyn lieh, foddee Israel nish gra: er-be dy row yn Chiarn hene er nyn lieh, tra dirree sleih seose nyn ‘oï	If the Lord himself had not been on our side, now may Israel say: if the Lord himself had not been on our side, when men rose up against us	Ps. 124.1
+agh ta shin coyrt oyr dy ve boggyssagh er y lieh ainyn	but give you occasion to glory on our behalf	2 Cor. 5.12
+Son ta’n viallys euish er ny imraa mastey dy chooilley ghooinney. Ta mee er-y-fa shen goaill boggey er y lieh eu	For your obedience is come abroad unto all men. I am glad therefore on your behalf	Rom. 16.19
+Prepositional nominals in Manx Gaelic
+35
+13.	lurg ‘after’, ‘according to’ + NP (cf. Manx lorg ‘trace, track, vestige’; Ir. lorg ‘track’, ar lorg +
+gen. ‘in pursuit of’)
+a.	lurg + NP ‘after’, ‘according to’
+b.	my lurg ‘after me’, etc.
+ny lurg eck(sh) ‘after her’
+ny lurg eu ‘after you’ ~ nyn lurg eu ‘after you’
+c.	lurg shoh ~ ny lurg shoh ‘after this, hereafter’
+lurg shen ~ ny lurg shen ‘afterwards’
+Despite its origin (‘on the track of’), lurg ‘after’ seems never to be followed by a genitive noun
+complement, and there are indeed numerous cases in which the expected initial mutation of a definite
+sg. complement of a preposition is not observed, as can be seen in some of the examples (a) below.
+With personal pronoun complements, the usual range of alternative possessive expressions is found (b).
+Both (c) ny lurg shoh and lurg shoh ‘after this, hereafter’ are found, in equal proportions in the Bible
+(27:27); for ‘afterwards, after that’ ny lurg shen predominates over lurg shen in the proportion 82:32.
+a As lurg yn craa-hallooin va aile; agh cha row’n Chiarn syn aile: as lurg yn aile shen coraa kuine, injil, meeley	And after the earthquake a fire; but the	1 Ki. 19.12 Lord was not in the fire: and after the fire a still small voice
+bee yn chooid elley jeh my vea ayns kiunid, lurg yn sherriuid anmey shoh	I shall go softly all my years in the	Isa. 38.15 bitterness of my soul
+Cha vel er-y-fa shen deyrey erbee ny chour ocsyn t’ayns Creest Yeesey, nagh vel gimmeeaght lurg yn eill, agh lurg y Spyrryd17	There is therefore now no	Rom. 8.1 condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit
+As ghooisht Noah lurg y feeyn, as hooar eh fys cre va e vac saa er n’yannoo rish	And Noah awoke from his wine, and	Gen. 9.24 knew what his younger son had done unto him
+As ver eh lesh rea gyn lheamys ass y chioltane, lurg y phrice ver oo er, son oural, loght, gys y taggyrt	And he shall bring a ram without	Lev. 5.18 blemish out of the flock, with thy estimation, for a trespass offering, unto the priest
+As haink eh gy-kione lurg y chramp, dy loayr y Chiarn rish Moses	And it came to pass after the plague,	Num. 26.1 that the Lord spake unto Moses
+As ren ad gee jeh shenn arroo yn cheer er laa-ny-vairagh lurg y chaisht, berreenyn gyn soorit as arroo greddanit ’syn eer laa cheddin	And they did eat of the old corn of the	Jos. 5.11 land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day
+As deïe Jonathan lurg y yuilley, Jean siyr, dy tappee, ny fuirree	And Jonathan cried after the lad, Make	1 Sam. 20.38 speed, haste, stay not
+Roish my vees y ghrian, ny’n soilshey, ny’n eayst, ny foast ny rollageyn er ny ghorraghey, as nagh vel ny bodjallyn er jyndaa lurg y fliaghey	While the sun, or the light, or the moon, Eccl. 11.2 or the stars, be not darkened, nor the clouds return after the rain
+Agh ayns ny laghyn cheddin, lurg y seaghyn shen, aasee yn ghrian dorraghey, as cha der yn eayst e soilshey	But in those days, after that tribulation,	Mark 13.24 the sun shall be darkened, and the moon shall not give her light
+17 13 × lurg yn eill in the Bible
+Prepositional nominals in Manx Gaelic
+36
+Dreggyr Yeesey, She eshyn eh da verym greme dy arran, tra vee’m er hummey eh. As tra v’eh er hummey yn greme, hug eh eh da Yuaase Iscariot mac Simon. As lurg y greme, hie yn drogh-spyrryd stiagh ayn. Eisht dooyrt Yeesey rish, Shen t’ou dy yannoo, jean eh dy tappee	Jesus answered, He it is, to whom I	Mark 13.26- shall give a sop, when I have dipped it.	27 And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon. And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly
+Yn goo shen (ta mee gra) ta fys euish dy row eh er ny hoilshaghey magh trooid ooilley Judea, as dy ghow eh toshiaght veih Galilee, lurg y bashtey ren Ean y phreacheil	That word, I say, ye know, which was	Acts 10.37 published throughout all Judaea, and began from Galilee, after the baptism which John preached
+Vel shiu briwnys reddyn lurg y caslys er cheumooie?	Do ye look on things after the outward	1 Cor. 10.7 appearance?
+b Dy jarroo, cha row boggey erbee aym jeh ooilley my ghoccar, va mee er ghoaill fo’n ghrian: er-yn-oyr dy nhegin dou faagail eh da’n dooinney hig my lurg	Yea, I hated all my labour which I had	Eccl. 2.18 taken under the sun: because I should leave it unto the man that shall be after me
+Son shickyrys nee Solomon dty vac reill my lurg, as nee eh soie er my stoyl-reeoil	Assuredly Solomon thy son shall reign	1 Ki. 1.17 after me, and he shall sit upon my throne
+myr shen nagh row unnane erbee roish dty hraa casley rhyt, chamoo dty lurg nee unnane erbee troggal seose corrym rhyt	so that there was none like thee before	1 Ki. 3.12 thee, neither after thee shall any arise like unto thee.
+As bee garmadyn casherick Aaron lesh e vec ny lurg, dy ve er nyn ooilaghey ayndoo, as dy v’er nyn gasherickey ayndoo	And the holy garments of Aaron shall	Ex. 29.29 be his sons’ after him, to be anointed therein, and to be consecrated in them
+Quoi ny lurg ta ree Israel er jeet magh? quoi eh t’ou geiyrt er? er moddey marroo, er jargan	After whom is the king of Israel come	1 Sam. 24.14 out? after whom dost thou pursue? after a dead dog, after a flea
+As haink eh gy-kione mysh jeih laa ny lurg, dy lhie’n Chiarn e laue er Nabal, dy dooar eh baase	And it came to pass about ten days	1 Sam. 25.38 after, that the Lord smote Nabal, that he died
+Ta Israel ny cheyrrey chailjey; ta ny lionyn er n’eiyrt ersooyl eh: hoshiaght d’ee ree Assyria yn eill jeh, as ny lurg-syn ta ree Vabylon er chaigney e chraueyn	Israel is a scattered sheep; the lions	Jer. 50.17 have driven him away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones
+Cur-my-ner, ta shiaght bleeantyn dy phalchey mooar ry-heet, trooid ooilley cheer Egypt. As nyn lurg, hig shiaght bleeantyn dy ghortey, as bee ooilley’n phalchey er ny yarrood ayns cheer Egypt: as nee’n gortey stroie yn cheer	Behold, there come seven years of great Gen. 41.30 plenty throughout all the land of Egypt: And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land
+Myr shen hie David, eh-hene as y shey cheead dooinney va marish, as haink ad gys yn strooan Besor, raad duirree paart jeu va faagit nyn lurg	So David went, he and the six hundred	1 Sam. 30.9 men that were with him, and came to the brook Besor, where those that were left behind stayed
+Prepositional nominals in Manx Gaelic
+37
+As ny lurg ecksh, ghow eh Maachah inneen Absalom, ren gymmyrkey da Abijah	And after her he took Maachah the	2 Chron. daughter of Absalom; which bare him	11.20 Abijah
+As liorish ny padjeryn ocsyn er nyn son, myr t’ad goaill foddeeaght ny lurg eu er coontey ard ghrayse Yee ayndiu	And by their prayer for you, which long	1 Cor. 9.14 after you for the exceeding grace of God in you
+As dty luight, nee uss y gheddyn ny lurg oc, lhiat’s vees ad	And thy issue, which thou begettest	Gen. 48.6 after them, shall be thine
+Laa dy ghorraghys, as dy ghrooid, laa dy vodjallyn as dy ghorraghys dowin, myr y voghrey skeaylt er ny sleityn; pobble mooar as niartal, cha row rieau nyn lheid, chamoo vees arragh ny lurg oc, eer gys bleeantyn ymmodee sheelogheyn	A day of darkness and of gloominess, a	Joel 2.2 day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations.
+Shen-y-fa, my vraaraghyn, deyr graihagh as nyn lurg eu ta foddiaght orrym, my voggey as my attey, shass- jee myr shen shickyr ayns y Chiarn	Therefore, my brethren dearly beloved	Phil. 4.1 and longed for, my joy and crown, so stand fast in the Lord
+Prepositional nominals in Manx Gaelic
+38
+14.	mastey ‘among’ (Ir. i measc ‘among’; Sc. G. am measg ‘among’)
+a.	mastey + NP ‘among’
+b.	ny mast’ eck ‘in the midst of her’
+nyn mastey ~ nyn mast’ ‘among us/you/them’
+ny(n) mast’ ain ‘among us’, ny(n) mast’ eu ‘among you’, ny(n) mast’ oc ‘among them’.
+Mastey ‘among’ is followed by prepositional rather than genitive noun complements (a), insofar as they
+can be distinguished. Of the construction of plural objects with possessive ec, the version with ny is
+somewhat preferred over the version with nyn, in the proportions used in the Bible displayed in the
+following table.
+ny mast’		nyn mast’	
+ny mast’ ain	13	nyn mast’ ain	3
+ny mast’ eu	75	nyn mast’ eu	35
+ny mast’ oc	63	nyn mast’ oc	37
+a As cheayll ad coraa yn Chiarn Jee goll trooid y gharey, ayns fynneraght y laa: as dollee Adam as e ven ad hene veih kionfenish y Chiarn Jee, mastey biljyn y gharey	And they heard the voice of the Lord God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the Lord God amongst the trees of the garden	Gen. 3.8
+Nee shiu, er-y-fa shen, freaylley’n doonaght: son te casherick diu: dagh unnane ta dy vrishey eh, bee eh, son shickyrys, er ny choyrt gy baase: son quoi-erbee nee obbyr erbee er, bee’n annym shen giarit jeh veih mastey e phobble	Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people	Ex. 31.14
+As cur-my-ner mastey yn vooinjer vee- cheeayllagh, honnick mee fud yn aegid dooinney aeg gyn tushtey	And beheld among the simple ones, I discerned among the youths, a young man void of understanding	Prov. 7.7
+Cre-erbee ta rheynn yn yngyn, as ta lesh cass skeilt, as caigney-cheeilley mastey ny beiyn, shen nee shiu gee	Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat	Lev. 11.3
+b My ta mee nish er gheddyn foayr ayns dty hilley, O Hiarn, lhig da my Hiarn, ta mee guee ort, goll nyn mastey	If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us	Ex. 34.9
+quoi nyn mastey oddys surranse ayns loshtaghyn dy bragh farraghtyn?	who among us shall dwell with everlasting burnings?	Isa. 33.14
+Nee shiuish, er-y-fa shen, freayll ny slattyssyn as ny briwnyssyn aym’s, as cha jean shiu cur-rish veg jeh ny peccaghyn eajee shoh; chamoo veg jeh’n ashoon eu hene, ny joarree erbee ta nyn mastey	Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you	Lev. 18.26
+Marish shoh, ver y Chiarn dty Yee yn shellan-nieunagh nyn mastey, derrey vees adsyn vees er-mayrn, as nee follaghey ad hene voïds, er nyn stroie.	Moreover the Lord thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed	Deut. 7.20
+as va nyn mast’ daa cheead kiaulleyder, deiney as mraane	and there were among them two hundred singing men and singing women	Ezra 2.65
+Prepositional nominals in Manx Gaelic
+39
+As ver-yms ort breearrey liorish y Chiarn, Jee niau as thalloo, nagh gow ben da my vac, jeh inneenyn ny Canaaniteyn, nyn mast’ ta mee cummal	And I will make thee swear by the Lord, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell	Gen. 24.3
+Scugh-jee, scugh-jee, reue-jee magh veih shen, ny benn-jee rish yn red neu-ghlen; tar-jee magh veih ny mast’ eck, bee-jee glen ta gymmyrkey siyn y Chiarn	Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the Lord	Isa. 52.11
+As ghow yn Goo er dooghys ny foalley, as ren eh baghey nyn mast’ ain	And the Word was made flesh, and dwelt among us	John 1.14
+Dreggyr Ean ad, gra, Ta mish bashtey lesh ushtey: agh ta fer shassoo nyn mast’ eu, nagh vel enney eu er	John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not	John 1.26
+As neem’s my laue y heeyney magh, as bwoaillym Egypt, lesh ooilley my yindyssyn neem’s nyn mast’ oc: as ny lurg shen lhiggee eh yn raad diu	And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go	Ex. 3.20
+Clasht rooin, my Hiarn; t’ou dty phrince niartal ny mast ain	Hear us, my lord: thou art a mighty prince among us	Gen. 23.6
+Cur-jee ersooyl ny jeeghyn joarree ta ny mast’ eu, as bee-jee glen, as caghlaa-jee nyn goamraghyn	Put away the strange gods that are among you, and be clean, and change your garments	Gen. 35.2
+As lhig daue ynnyd casherick y yannoo er my hon; dy vod my enish ve ny mast’ oc	And let them make me a sanctuary; that I may dwell among them	Ex. 25.8
+Prepositional nominals in Manx Gaelic
+40
+15.	oï, noï ‘against’ (cf. oaie ‘face’; Ir. aghaidh ‘face’, in aghaidh + gen. ‘against’)
+a. noï + NP ‘against’
+b.	m’oï ‘against me’
+dt’oï ‘against thee’
+n’oï(-syn) ‘against him’
+e hoï ‘against her’ (Cregeen)
+n’oïee ‘against her’
+nyn ‘oï ‘against us/you/them’
+noï echey ‘against him’
+noï eck ‘against her’
+noï ain(yn) ‘against us’
+noï eu(ish) ‘against you’
+noï oc(syn) ‘against them’
+nyn ’oï eu(ish) ‘against you’
+nyn ’oï oc(syn) ‘against them’
+c.	noï-ry-hoï ‘against one another’
+Inasmuch as the base form oï ‘against’ (= oaie ‘face’) begins with a vowel, the vestige of the original
+preposition = ‘in’, n-, can be seen not only in the 3sg. form n’oï ‘against him/it’ but also in the form of
+the prepositional nominal noï used before a noun (a). The object in the construction is prepositional,
+with no examples of genitive objects (i.e. noï yn çheer rather than *noï ny çheerey ‘against the land’,
+and noï Jee ‘against God’ rather than *noï Yee.) There are some cases of definite prepositional objects
+lacking the expected initial mutation. For ‘against her’, the regular pattern would suggest *ny hoï, but
+this is not found (though Cregeen gives e hoï, not attested in the digital Classical texts). ‘Against her’
+is in fact expressed with noi eck and also with the quite anomalous n’oiee (i.e. noï ee?), in the
+proportions 25:5 in the Bible.
+a O soie mee seose er y chreg ta ny syrjey na mee: son t’ou er ve my hreishteil, as toor lajer dooys noi yn noid.	O set me up upon the rock that is	Ps. 61.3 higher than I: for thou hast been my hope, and a strong tower for me against the enemy
+As bee yn pobble tranlaasit, yn derrey yeh liorish yn jeh elley, as dagh unnane liorish e naboo: nee yn lhiannoo gymmyrkey eh-hene dy roonagh noi yn chanstyr, as y moodjeen noi yn dooinney onnoroil	And the people shall be oppressed,	Isa. 3.5 every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable
+As haink Pul ree Assyria noi yn cheer	And Pul the king of Assyria came	2 Ki. 15.19 against the land
+kys eisht oddym’s cur rish yn aggair vooar shoh, as peccah ‘yannoo noi	how then can I do this great	Gen. 39.9 wickedness, and sin against God?
+Jee18?
+agh nee eh girree seose noi thie ny drogh-yantee, as noi yn cooney ocsyn ta cur-rish mee-chairys	but [he] will arise against the house of	Isa. 31.2 the evildoers, and against the help of them that work iniquity
+ta mee er woalley my vassyn noi an- chiartys dty chosney, as noi yn uill t’er ny ve deayrtit aynyd	I have smitten mine hand at thy	Ez. 22.13 dishonest gain which thou hast made, and at thy blood which hath been in the midst of thee
+18 19 instances of noi Jee in the Bible.
+Prepositional nominals in Manx Gaelic
+41
+nee eh shassoo seose myrgeddin noi yn prince dy phrinceyn, agh bee eh er ny vrishey fegooish laue	he shall also stand up against the Prince Dan. 8.25 of princes; but he shall be broken without hand
+As dooyrt y Chiarn, Mish Yeesey t’ou jannoo tranlaase er: S’doillee dhyt brebbal noi ny jilg	And the Lord said, I am Jesus whom	Acts 9.5 thou persecutest: it is hard for thee to kick against the pricks
+Bee yn ayr noi yn mac, as y mac noi yn ayr; yn voir noi yn inneen, as yn inneen noi yn voir, yn voir-’sy-leigh noi e ben chleuin, as y ven-chleuin noi e moir-’sy-leigh	The father shall be divided against the	Luke 12.53 son, and the son against the father; the mother against the daughter, and the daughter against the mother; the mother in law against her daughter in law, and the daughter in law against her mother in law
+b Cre’n êie t’ad orrym’s, dy vel oo er jeet dy chaggey m’oï ayns my heer hene?	What hast thou to do with me, that thou Jud. 11.12 art come against me to fight in my land?
+Agh ayns my arkys ghow ad boggey as haggil ad cooidjagh: dy jarroo, haink ny eer ghonnanyn cooidjagh m’oï nagh bione dou, jannoo craid jee’m, as cha scuirr ad	But in mine adversity they rejoiced,	Ps. 35.15 and gathered themselves together: yea, the very abjects came together against me unawares, making mouths at me, and ceased not
+As dooyrt Edom rish, Cha jig oo my raad’s, er-aggle dy jig-ym magh dt’oï lesh y chliwe	And Edom said unto him, Thou shalt	Num. 20.18 not pass by me, lest I come out against thee with the sword
+Greïe-caggee erbee ta troggit dt’oï, cha jig eh lesh; as dy chooilley hengey hroggys dt’oï ayns briwnys nee oo y gheyrey	No weapon that is formed against thee	Isa. 54.17 shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn
+My ta’n ashoon shen, n’oï ta mee er n’ockley-magh my vriwnys, chyndaa veih’n olkys oc, goym arrys jeh yn olk shen va mee kiarit dy yannoo roo	If that nation, against whom I have	Jer. 18.8 pronounced, turn from their evil, I will repent of the evil that I thought to do unto them
+As dy bee ee kyndagh jeh brishey- poosey rish dooinney erbee, as dy bee shoh kellit veih sooillyn e sheshey, as freilt follit, as ee jeant neu-ghlen, as nagh bee fenish erbee n’oiee, chamoo ee er ny ghoaill ayns e peccah	And a man lie with her carnally, and it	Num. 5.13 be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner
+son s’mooar ta jymmoose y Chiarn t’er vrishey magh nyn oï	for great is the wrath of the Lord that is	2 Ki. 22.13 kindled against us
+eisht bee corree’n Chiarn er ny vrasnaghey nyn oi as bee shiu dy leah er nyn eebyrt veih’n cheer mie shen t’eh er choyrt diu	then shall the anger of the Lord be	Josh. 23.16 kindled against you, and ye shall perish quickly from off the good land which he hath given unto you
+As tra cheayll cloan Israel shoh, ren slane sheshaght cloan Israel chaglym cooidjagh ec Shiloh, dy gholl dy chaggey nyn oï	And when the children of Israel heard	Josh. 22.12 of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up to war against them
+Tra hig yn noid shagh myr thooilley, nee Spyrryd y Chiarn troggal seose mergey noi echey	When the enemy shall come in like a	Isa. 59.19 flood, the Spirit of the Lord shall lift up a standard against him
+Prepositional nominals in Manx Gaelic
+42
+Trog ort, immee gys Nineveh yn ard valley mooar shen, as trog seose dty choraa noi eck	Arise, go to Nineveh, that great city,	Jon. 1.2 and cry against it
+dy vod shen ve echey noi ain, as tuittym orrin, as shin y ghoaill ayns bondiaght, as ny assylyn ain	that he may seek occasion against us,	Gen 43.18 and fall upon us, and take us for bondmen, and our asses.
+son dy vel y Chiarn clashtyn y plaiynt ta shiu jannoo n’oï? as cre ta shinyn? cha nee noi ainyn ta’n plaiynt eu; agh noi’n Chiarn	for that the Lord heareth your	Ex. 16.8 murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the Lord
+Ta mee er n’yannoo peccah noi’n Chiarn y Jee eu, as noi eu hene	I have sinned against the Lord your	Ex. 10.16 God, and against you
+Eisht beem’s myrgeddin noi euish, as kerraghey shiu foast shiaght keayrtyn son nyn beccaghyn	Then will I also walk contrary unto	Lev. 26.23 you, and will punish you yet seven times for your sins
+Son va dy jarroo laue’n Chiarn noi oc, dy stroie ad veih mastey’n cheshaght	For indeed the hand of the Lord was	Deut. 2.5 against them, to destroy them from among the host
+Ta eddin y Chiarn noi ocsyn ta jannoo olk	The countenance of the Lord is against	Ps. 34.16 them that do evil
+Er-yn-oyr dy vel y noid er ghra nyn oï eu, Aha, ta eer ny shenn ard- ynnydyn lhieu [sic] hene	Because the enemy hath said against	Ez. 36.2 you, Aha, even the ancient high places are ours in possession
+Smerg da cummaltee slystyn ny marrey, ashoon ny Cherethiteyn! ta goo yn Chiarn nyn’oï euish	Woe unto the inhabitants of the sea	Zep. 2.5 coast, the nation of the Cherethites! the word of the Lord is against you
+As haggil Korah ooilley’n cheshaght nyn oï oc	And Korah gathered all the	Num. 16.19 congregation against them
+ard-gheiney mastey cloan Ephraim, hass ad seose nyn’oi ocsyn haink veih’n chaggey	certain of the heads of the children of	2 Chron. 28.12 Ephraim … stood up against them that came from the war
+c T’ee follym, as feayn, as faasagh, as ta’n cree faitagh, as ta ny glioonyn bwoalley noi-ry-hoi, as ta guinn ghyere ayns ooilley nyn meeghyn, as ta neeal y dorraghys er dy chooilley eddin	[Nineveh] She is empty, and void, and	Nah. 2.10 waste: and the heart melteth, and the knees smite together, and much pain is in all loins, and the faces of them all gather blackness
+Ta mie as sie, bea as baase, er nyn goyrt noi-ry-hoi	Good is set against evil, and life against Ecclus 33.14 death
+Prepositional nominals in Manx Gaelic
+43
+16.	quail ‘meeting’, cf. quaiyl ‘assembly, court’ (Sc. G. còmhdhail ‘assembly’, am chòmhdhail ‘to
+meet me’)
+a.	goll quail + NP ‘go to meet …’
+çheet quail + NP ‘come to meet’
+roie quail + NP ‘run to meet’
+cur quail ‘send to meet’
+cur lesh quail ‘bring to meet’
+b.	my whail ‘to meet me’, etc.
+ny whail oc ‘to meet them’
+Quail ‘to meet’ is used with goll ‘go’, çheet ‘come’ and roie ‘run’ (and occasionally with cur ‘send’,
+cur lesh ‘bring’); a definite noun object (a) takes the prepositional construction, not the genitive;
+personal pronoun objects are illustrated in (b). In the possessive construction with ec, which is not very
+common, only the form ny whail is used, not nyn guail.
+a As hooar Joseph e ainagh aarloo, as hie eh seose quail Israel e ayr	And Joseph made ready his chariot,	Gen 46.29 and went up to meet Israel his father
+As hie Moses magh quail e ayr ’sy leigh, as rea eh biallys da, as phaag eh eh	And Moses went out to meet his father	Ex. 18.7 in law, and did obeisance, and kissed him
+Shass uss ayns shoh liorish dty oural- losht, choud as hem’s quail y Chiarn ayns shid.	Stand here by thy burnt offering, while	Num. 23.15 I meet the Lord yonder
+Trog ort, as gow sheese quail chaghteryn ree Samaria	Arise, go up to meet the messengers of	2 Ki. 1.3 the king of Samaria
+As myr va David cheet quail Ornan yeeagh Ornan as honnick eh David, as hie eh magh veih’n laare-vooie, as chroym eh eh-hene gys David lesh e	And as David came to Ornan, Ornan	1 Chron. looked and saw David, and went out of	21.20 the threshingfloor, and bowed himself to David with his face to the ground
+eddin gys y thalloo
+Roieys post quail post, as chaghter quail chaghter, lesh naight gys ree Vabylon, dy vel yn ard-valley echey goit ec y derrey chione	One post shall run to meet another, and Jer. 51.31 one messenger to meet another, to shew the king of Babylon that his city is taken at one end
+Eisht bee reeriaght niau er ny hoylaghey gys jeih moidynyn, ghow ny lampyn oc, as hie magh quail y dooinney poosee	Then shall the kingdom of heaven be	Mat. 25.1 likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom
+As hug Moses lesh y pobble ass y champ dy gholl quail Jee, as hass ad er cheu heese jeh’n clieau	And Moses brought forth the people	Ex. 19.17 out of the camp to meet with God; and they stood at the nether part of the mount
+b cre-erbee hoshiaght hig magh my whail ass dorryssyn my hie’s, … dy	whatsoever cometh forth of the doors	Jud. 11.31 of my house to meet me, when I return
+bee shen dy shickyr er ny chasherickey in peace from the children of Ammon,
+gys y Chiarn	shall surely be the Lord’s
+Haink shin gys dty vraar Esau, as t’eshyn neesht cheet dty whail	We came to thy brother Esau, and also	Gen. 32.6 he cometh to meet thee
+As hie ree Sodom magh ny whail	And the king of Sodom went out to	Gen. 14.17 meet him
+Prepositional nominals in Manx Gaelic
+44
+As haink eh gy-kione, tra cheayll Laban imraa jeh Jacob mac e hayrey, dy roie eh ny whail, as ghow eh ayns e roihaghyn eh, as phaag eh eh, as hug eh lesh eh gys e hie	And it came to pass, when Laban heard the tidings of Jacob his sister’s son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house	Gen. 29.13
+Roie nish, ta mee guee ort, ny quail; as abbyr r’ee, Vel eh dy mie mayrt?	Run now, I pray thee, to meet her, and say unto her, Is it well with thee?	2 Ki. 4.26
+As roie stiurt Abraham ny quail	And the servant ran to meet her	Gen. 24.17
+As veih shen, tra cheayll ny braaraghyn j’in, haink ad magh nyn guail choud as Appii-forum	And from thence, when the brethren heard of us, they came to meet us as far as Appii forum	Acts 28.15
+tra vees shiu er gholl stiagh ayns yn ard valley hig dooinney nyn guail lesh saagh-craie dy ushtey; eiyr-jee er gys y thie hed eh stiagh ayn	when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in	Luke 22.10
+Lhig da markiaght goll magh nyn guail, as lhig da gra, Vel ooilley ayns shee?	Take an horseman, and send to meet them, and let him say, Is it peace?	2 Ki. 9.17
+Ny cre’n ree ragh dy yannoo caggey noi ree elley, nagh soiagh sheese hoshiaght dy ghoaill coyrle, vel eh son goll magh lesh jeih thousaneyn ny whail echeysyn ta cheet n’oi lesh feed thousane?	Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?	Luke 14.31
+as chur eh chaghteryn ny whail oc	And he sent to meet them	1 Chron. 19.5
+Prepositional nominals in Manx Gaelic
+45
+17.	raad ‘way, direction’ (Sc. G. rathad, ròd)
+a.	raad + gen. ‘towards’, ‘by way of’
+b.	raad y vaaish ‘on the point of death’
+c.	my raad(‘s) ‘in my direction’, ‘towards me’
+dty raad ‘towards thee’
+ny raad ‘towards him/her/it’
+nyn raad ‘towards us/you/them’
+çheet my raad ‘come my way’, etc.
+As well as being a regular noun raad ‘way’, raad is constructed as a prepositional nominal meaning
+‘towards’, ‘by way of’ (a), with its object in the genitive, to judge by the idiom raad y vaaish (b) ‘on
+the point of death’. When the object of the construction is a personal pronoun (c), only the preposed
+possessive is found.
+a.	Immee-jee seose yn raad shoh my- yiass; as gow-jee seose raad y clieau	Get you up this way southward, and go up into the mountain:	Num. 13.17
+	chyndaa-jee mairagh, as reue shiu gys yn aasagh, raad yn aarkey jiarg	Tomorrow turn you, and get you into the wilderness by the way of the Red sea	Num. 14.25
+	Son tra haink ad stiagh ’sy thie, v’eh ny lhie er e lhiabbee ayns e hamyr: as woaill ad as varr ad eh, as yiare ad yn kione jeh, as hug ad lhieu eh, as chossyn ad ersooyl raad yn aasagh fud-ny-hoie	For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night	2 Sam. 4.7
+	As haink troailtagh raad y dooinney berchagh	And there came a traveller unto the rich man	2 Sam. 12.4
+b.	ta mee raad y vaaish;19 as cre sheeagh dou yn eiraght shoh?	I am at the point to die: and what profit shall this birthright do to me?	Gen 25.32
+	Son va un ynrycan inneen echey, va mysh daa vlein jeig dy eash, as v’ee raad y vaaish	For he had one only daughter, about twelve years of age, and she lay a dying	Luke 8.42
+c.	As dooyrt Isaac rish e vac, Kys dy vel oo er gheddyn eh cha leah my vac? As dooyrt eh, Er-yn-oyr dy dug y Chiarn dty Yee my raad eh	And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the Lord thy God brought it to me	Gen. 27.20
+	Bannit dy row’n Chiarn Jee Israel, ta er choyrt oo my raad er y laa shoh	Blessed be the Lord God of Israel, which sent thee this day to meet me	1 Sam. 35.32
+	Cha bee’m dy bragh er my hilgey sheese: cha daghyr skielley erbee my raad	I shall never be cast down: there shall no harm happen unto me	Ps. 10.6
+	Agh baillym shiu dy hoiggal, vraaraghyn, dy vel ny reddyn t’er jeet my raad, er jyndaa magh dy chur y sushtal ny smoo er y hoshiaght	But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel	Phil. 1.12
+	Agh nish te er jeet dty raad, as t’ou lhag-chreeagh; te er duittym ort, as t’ou seaghnit	But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled	Job. 4.5
+	ny soie uss beg jeh smaght y Chiarn, chamoo lhig dty chree voïd tra t’eh coyrt seaghyn dty raad	despise not thou the chastening of the Lord, nor faint when thou art rebuked of him	Heb. 12.5
+	Ny jean olk erbee, myr shen cha jig skielley erbee dty raad	Do no evil, so shall no harm come unto thee	Ecclus 7.1
+19 14 examples of raad y vaaish in the Bible.
+Prepositional nominals in Manx Gaelic
+46
+Foddee enney v’er ny choyrt er dooinney liorish e hilley, as er y dooinney keeayllagh liorish e eddin, tra hig eh dty raad	A man may be known by his look, and one that hath understanding by his countenance, when thou meetest him	Ecclus 19.29
+Agh Benjamin, braar Yoseph, cha dug Jacob marish e vraaraghyn: son dooyrt eh, Er-aggle, trooid taghyrt, dy jig olk ny raad	But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him	Gen. 42.4
+as cha lhig e haynt da dy ghoaill jeh’n chioltane ny jeh’n ingan echey hene, dy aarlaghey son y troailtagh v’er jeet ny raad	and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him	2 Sam. 12.4
+As ren deiney Shechem soiaghey sleih dy lhie cooyl-chlea er e hon ayns mullagh ny sleityn, as ren ad spooilley ooilley ny haink nyn raad	And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them	Jud. 9.25
+Lhig dooin, ta mee guee ort, shamyr veg y yannoo er y voalley, as soiaghey seose ayns shen er e hon lhiabbee, as boayrd, stoyl, as kainlere; tra hig eh nyn raad, dy vod eh goaill aaght ayns shen	Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither	2 Ki. 4.10
+As ren y Chiarn tilgey jeh sluight Israel, as hug eh seaghyn nyn raad, as livrey eh ad gys laueyn ny spooilleyderyn, derrey v’eh dy bollagh er scughey ad ass e hilley	And the Lord rejected all the seed of Israel, and afflicted them, and delivered them into the hand of spoilers, until he had cast them out of his sight	2 Ki. 17.20
+As dy beagh shin fagit dy eiyrt er nyn yeearreeyn hene, na ny cliaghtaghyn mee-chrauee ta shin dy haaghey, na ny drogh sampleyryn ta cheet nyn raad, cha voddagh shin scapail tayrn orrin	And that if we had been suffered to follow our own wills, or the evil customs we contract, or the bad examples we meet with, we could not escape bringing upon ourselves destruction	Coyrle Sodjey, 1.
+hene coayl-anmey
+Prepositional nominals in Manx Gaelic
+47
+18.	skyn ‘top’ (cf. Ir., Sc. G. os cionn + gen. ‘above the head (of), over’)
+a.	erskyn + NP ‘on top of, above, over’
+b.	erskyn hallooin ? ‘on earth’
+c.	er my skyn ‘above me’ (Cregeen, Pargys Caillit)
+er dty skyn ‘above thee’ (Cregeen, Pargys Caillit, Bib ×1)
+er e skyn ~ er-y-skyn ‘above him/her/it’
+er nyn skyn ‘above us/you/them’
+d.	er nyn skyn ocsyn ‘above them’ ×1
+er y skyn oc ‘above them’ ×1
+erskyn oc ‘above them ×2
+e.	as er e skyn ‘and above’
+f.	bun-ry-skyn ‘upside down’, ‘topsy-turvy’, ‘in confusion’
+Though erskyn was in origin a prepositional phrase ‘on above the head (of)’ it is constructed with a
+noun prepositional object (a), with several examples of missing mutation. There is only one example of
+an idiom in which erskyn has a genitive object: erskyn hallooin (b) ‘on earth’. With pronominal
+complements, the possessive personal pronoun is inserted between er- and -skyn (c); the 3sg form can
+be written er-e-skyn or er-y-skyn (with or without hyphens). The possessive with ec is rarely used, and
+only in the 3pl; the variant usages are shown in (d). Note idiomatic as er e skyn ‘and above’ in numeral
+expressions (e). Other than in erskyn, skyn ‘top’ occurs in the expression bun-ry-skyn (f) ‘upside down’.
+a. As chroo Jee yn aer; as scarr eh ny	And God made the firmament, and	Gen. 1.7
+ushtaghyn fo yn aer, veih ny ushtaghyn	divided the waters which were under
+erskyn yn aer: as shen myr ve	the firmament from the waters which
+were above the firmament: and it was
+As dooyrt y Chiarn Jee rish yn ardnieu, Er-yn-oyr dy vel oo er n’yannoo shoh, t’ou cursit erskyn dy chooilley chretoor; as erskyn ooilley maase y vagheragh; er dty volg nee oo snaue, as joan nee oo gee ooilley laghyn dty vea	so And the Lord God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life	Gen. 3.14
+Agh ad shoh foddee shiu gee jeh dy chooilley chretoor etlagh snauee, ta goll er kiare cassyn, as lurgaghyn oc erskyn nyn gassyn, dy lheim lhieu er y thalloo	Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth	Lev. 11.21
+as hie’n arreyder seose gys mullagh y toor, t’er y voalley erskyn y yiat, as hrog eh seose e hooillyn, as yeeagh eh, as cur-my-ner, dooinney roie ny- lomarcan	and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone	2 Sam. 18.24
+ta dty chreenaght as dty vaynrys foddey erskyn y goo cheayll mee	thy wisdom and prosperity exceedeth the fame which I heard	1 Ki. 10.7
+Cre cha eunyssagh ta dty ghraih, my huyr, my ven veen! ta dty ghraih foddey erskyn y feeyn share, as soar millish dty ennal roish bree dy chooilley spice s’blaystal	How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices	Song 4.10
+b as my she shen dy vel eh erskyn hallooin, neem’s ronsaghey er e hon trooid ooilley thousaneyn Yudah	and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah.	1 Sam. 23.23
+Prepositional nominals in Manx Gaelic
+48
+c. nagh vel mee goaill rish Pooar er-my- skyn	I do not acknowledge any power above me	Pargys Caillit 671
+Yiow’n joarree, ta cummal mayrt, seose foddey er dty skyn: as hig uss sheese feer injil	The stranger that is within thee shall get up above thee very high; and thou shalt come down very low	Deut. 28.43
+As eisht nee oo toiggal cre erbee cha biallagh as vees oo dauesyn ta er dy skyn, cre erbee yn aigney mie hoilshys oo dauesyn ta corrym rhyt, ny cre erbee cha dooie as vees oo dauesyn ta fo’d, ayd hene smoo vees vondeish liorish	And then you will find, that be you never so obedient to your Betters, never so civil to your Equals, never so kind to your Inferiours, no Man will profit by it more than your self	Coyrle Sodjey XII
+tra honnick Zimri dy row’n ard-valley er ny ghoaill, dy jagh eh stiagh ayns cooyrt plaase y ree, as losht eh thie’n ree er-e-skyn lesh aile, dy dooar eh baase	when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died	1 Kings 16.18
+As hass eh er-e-skyn, as hug eh oghsan da’n chiassaghey, as daag eh ee	And he stood over her, and rebuked the fever; and it left her	Luke 4.39
+As ren eh coodagh son y chabbane, dy chraitnyn rea daahit jiarg, as coodagh dy chraitnyn badjer er y skyn	And he made a covering for the tent of rams’ skins dyed red, and a covering of badgers’ skins above that	Ex. 36.19
+She Jee ta goaill cooilleeney dou, as ta coyrt y pobble sheese foym, As ta livrey mee veih my noidyn: t’ou myrgeddin er my hroggal seose dy ard er nyn skyn dirree seose m’oï:	It is God that avengeth me, and that bringeth down the people under me. And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me	2 Sam. 22.49
+Myr ta’n urley gynsaghey yn aalagh eck dy etlagh, clussaghey harrishdoo, skeayley e skianyn er nyn skyn, goaill ad, as gymmyrkey ad er e skianyn	As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings	Deut. 32.11
+d Eshyn eh ta dy my livrey veih my noidyn dewil, as ta dy my hoiaghey seose er nyn skyn ocsyn ta shassoo m’oï: nee oo m’y livrey veih’n dooinney olkyssagh	It is he that delivereth me from my cruel enemies, and setteth me up above mine adversaries: thou shalt rid me from the wicked man	Ps. 18.49
+Shimmey inneen t’er n’yannoo dy mie; agh t’ou uss er-y-skyn oc ooilley	Many daughters have done virtuously, but thou excellest them all	Prov. 31.29
+Ta feeyn as kiaulleeaght cur boggey ’sy chree; agh ta graih er creenaght erskyn oc ny-neesht.	Wine and musick rejoice the heart: but the love of wisdom is above them both	Ecclus 40.20
+Ta berchys as niart troggal seose yn cree; agh ta aggle y Chiarn erskyn oc ny-neesht	Riches and strength lift up the heart: but the fear of the Lord is above them both	Ecclus 40.26
+Agh ’skyn oc ooilley, Dooinney’n obbyr share S’ooasle, as s’aaley ta dty hooill soit er	And above them all, Man, the best work, the noblest and the most beautiful your eye lights upon	Pargys Caillit 2869- 70
+e. Son liorish oardys s’jerree Ghavid, va ny Leviteyn coontit veih feed blein dy eash as er e skyn	For by the last words of David the Levites were numbered from twenty years old and above	1 Chron. 23. 27
+Prepositional nominals in Manx Gaelic
+49
+f. As myr v’ad aarloo dy chur dy baase eh, haink skeeal gys ard-chaptan y cheshaght, dy row ooilley Jerusalem bun-ry-skyn	And as they went about to kill him,	Acts 21.31 tidings came unto the chief captain of the band, that all Jerusalem was in an uproar
+Deïe paart er-y-fa shen un red, as paart red elley: son va’n chaglym bun-ry-skyn, as cha row fys ec yn ayrn smoo jeu cre’n-fa v’ad er nyn jaglym cooidjagh	Some therefore cried one thing, and	Acts 19.32 some another: for the assembly was confused: and the more part knew not wherefore they were come together
+T’ad shoh t’er hyndaa yn seihll bun- ry-skyn er jeet ayns shoh neesht	These that have turned the world upside Acts 17.26 down are come hither also
+Prepositional nominals in Manx Gaelic
+50
+19.	er son, son ‘for’ (Spanish por) (Sc. G. air son, son)
+a.	er son, son + NP ‘for’, ‘for the sake of’, ‘in payment for’, ‘as for’
+b.	er my hon ‘for me’
+er dty hon ‘for thee’
+er e hon ‘for him’ ~ er y hon ‘for it’
+er e son ~ er y son ‘for her’
+er nyn son ‘for us/you/them’
+c.	er y son eck(sh) ‘for her’
+son eckish ‘for her’
+er y hon eck ‘for her’
+er y hon ain(yn) ‘for us’
+er y hon ocsyn ‘for them’
+er ny(n) son ain(yn) ‘for us’
+er ny(n) son eu(ish) ‘for you’
+er ny(n) son oc(syn) ‘for them’
+d.	roie er y hon ‘flee’
+The range of senses of er son ~ son is very extensive; I have not attempted to illustrate the full range
+here (a). Definite noun complements take the prepositional construction, occasionally without initial
+mutation. In the construction with a preposed possessive pronoun (b) an orthographic distinction is
+observed, if not wholly consistently, between er e hon ‘for him’ and er y hon ‘for it’. When possessive
+ec is in play, a considerable range of variant forms is observed (c). I note (d) the idiomatic expression
+roie er y hon ‘flee’.
+a As hug Adam ennym er ooilley’n maase, as er eeanlee yn aer, as er ooilley beiyn y vagher: agh er son Adam, cha row cooney cooïe er ny gheddyn	And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him	Gen. 2.20
+My nee’n ard -saggyrt ta ooilit jannoo peccah lurg peccaghyn y phobble: eisht lhig da cur lesh, er son y peccah shen t’eh er n’yannoo, dow aeg gyn lheamys gys y Chiarn, son oural-peccah	If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the Lord for a sin offering	Lev. 4.3
+As er son y chierroo heear, bee’n aarkey mooar hene eu son cagliagh	And as for the western border, ye shall even have the great sea for a border	Num. 34.6
+As er son ad shen, ta jeh’n daa cheead as three-feed as three-jeig, dy ve er nyn veaysley, jeusyn ta hoshiaght ruggit jeh cloan Israel, ta ny shlee na ny Leviteyn	And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites	Num. 3.46
+ver-ym argid dhyt son y vagher; gow voym eh, as nee’m my varroo y oanluckey ayns shen	I will give thee money for the field; take it of me, and I will bury my dead there	Gen. 23.13
+b As tra v’eh ec y Raue, ren eh briaght er my hon dy imneagh, as hooar eh magh mee	But, when he was in Rome, he sought me out very diligently, and found me	2 Tim. 1.17
+Son s’mooar ta’n Ooilley-niartal er n’yannoo er my hon, as s’casherick ta e ennym	For he that is mighty hath done to me great things; and holy is his name	Luke 1.49
+Prepositional nominals in Manx Gaelic
+51
+Er shoh dooyrt e huyr rish inneen Pharaoh, Nailt’s mish goll dy gheddyn dhyt boandyr jeh mraane ny Hebrewnee, dy vod ee yn lhiannoo y voandyrys er dty hon?	Then said his sister to Pharaoh’s	Ex. 2.7 daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
+My vees maarliagh goit brishey stiagh ayns thie, as eh dy gheddyn builley baaish, cha bee fuill deayrtit er e hon	If a thief be found breaking up, and be	Ex. 22.2 smitten that he die, there shall no blood be shed for him
+As haink inneen Pharaoh sheese dy aarkey ee hene ’syn awin, as ren ny mraane aegey va shirveish urree, shooyl er broogh ny hawin: as tra honnick ee yn clean fud y chlioagagh, hug ee e sharvaant er y hon	And the daughter of Pharaoh came	Ex. 2.5 down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it
+As nee reeaghyn y theihll ta er n’yannoo maarderys, as er vaghey dy rouanagh mâree, keayney, as dobberan er e son, tra hee ad jaagh y lostey eck	And the kings of the earth, who have	Rev. 18.9 committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning
+Gheiney-poost, cur-jee graih da ny mraane eu, dy-jarroo myr hug Creest myrgeddin graih da’n Agglish, as hug eh eh-hene er y son	Husbands, love your wives, even as	BCP Christ also loved the Church, and gave	Matrimony himself for it
+ta mee er chlashtyn, dy vel arroo ayns Egypt; gow-jee sheese gys shen, as kionnee-jee er nyn son veih shen, dy vod mayd ve bio, as nagh vow mayd baase	I have heard that there is corn in Gen. 42.2 Egypt: get you down thither, and buy for us from thence; that we may live, and not die
+Nee’n Chiarn caggey er nyn son, as bee-jee shiuish nyn dost	The Lord shall fight for you, and ye	Ex. 14.14 shall hold your peace
+As ren ny eiyrtyssee briaght er nyn son trooid ooilley yn raad, agh cha row ad ry-gheddyn	and the pursuers sought them	Josh. 2.22 throughout all the way, but found them not
+My yarrin, dy vel mee foast ayns treishteil, as sheshey ‘ve aym yn oie shoh, as myrgeddin mec y ymmyrkey; Jinnagh shiu farkiagh er nyn son derrey harragh ad gys eash? jinnagh shiu fuirriaght gyn poosey er nyn son?	If I should say, I have hope, if I should	Ruth 1.12- have an husband also tonight, and	13 should also bear sons: Would ye tarry for them till they were grown? would ye stay for them from having husbands?
+c As son e huyr ta ny moidyn, nagh row poost; er y son ecksh foddee eh ve neu- ghlen	And for his sister a virgin, that is nigh	Lev.21.3 unto him, which hath had no husband; for her may he be defiled
+Nish hug Judith sarey da e hinney-veyl dy hassoo cheu-mooie jeh e shamyr- lhiabbagh, as dy uirraght son eckish dy heet magh, myr ren ee gagh laa	Now Judith had commanded her maid	Judith 13.3 to stand without her bedchamber, and to wait for her, coming forth, as she did daily
+Vel foast toghyr ny eiraght erbee sodjey er nyn son ain ayns thie nyn ayrey?	Is there yet any portion or inheritance	Gen. 31.14 for us in our father’s house?
+As ghow eh arran, as hug eh booise, as vrish eh eh, as hug eh eh daue, gra, Shoh my chorp t’er ny choyrt er nyn son eu: shoh jean-jee ayns cooinaghtyn jeem’s	And he took bread, and gave thanks,	Luke 22.19 and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me
+agh er nyn son euish, gow -jee reue seose ayns shee gys nyn ayr	and as for you, get you up in peace	Gen. 4.17 unto your father
+Prepositional nominals in Manx Gaelic
+52
+Agh yarrood ad ny v’eh er n’yannoo: as ny obbraghyn yindyssagh v’eh er hoilshaghey er nyn son oc	But [they] forgat what he had done:	Ps. 78.12 and the wonderful works that he had shewed for them
+Bannee-jee adsyn ta gwee mollaght diu, as gow-jee padjer er nyn son ocsyn ta cur seaghyn erriu	Bless them that curse you, and pray for Luke 6.28 them which despitefully use you
+My shirrys oo ee myr argid, as ronsaghey er y hon eck, myr son berchys follit	If thou seekest her as silver, and	Prov. 2.4 searchest for her as for hid treasures
+Jean briaght, ta mee guee ort, jeh’n Chiarn er y hon ain	Enquire, I pray thee, of the Lord for us	Jer. 21.2
+Er y hon ainyn, ta nyn sooillyn er vailleil trooid treishteil fardalagh nyn gooney: ayns nyn arrey yeeagh shin son ashoon, nagh voddagh sauail shin	As for us, our eyes as yet failed for our Lam. 4.17 vain help: in our watching we have watched for a nation that could not save us
+Agh er y hon ocsyn ta’n cree oc gimmeeaght lurg yeearreeyn nyn nheeghyn eajee, as nyn mee- chraueeaght, neem’s nyn raad y chooilleeney er nyn ghing hene	But as for them whose heart walketh	Ez. 11.21 after the heart of their detestable things and their abominations, I will recompense their way upon their own heads
+Chamoo ta shiu goaill eu hene kys dy vel eh ymmyrchagh er ny son ain, un dooinney dy gheddyn baase son y pobble, as gyn y slane ashoon dy herraghtyn	Nor consider that it is expedient for us,	John 11.50 that one man should die for the people, and that the whole nation perish not
+As hass Yeesey, as deïe eh orroo, as dooyrt eh, Cre bailliu mee dy yannoo er ny son eu?	And Jesus stood still, and called them,	Mat. 20.32 and said, What will ye that I shall do unto you?
+Shen y traa dooyrt ad mastey ny ashoonee: Ta’n Chiarn er n’yannoo reddyn mooarey er ny son oc	Then said they among the heathen: The Ps. 126.3 Lord hath done great things for them
+d Kys te, dy vel mee fakin ad agglit as cur cooyl? ta ny treanee oc lhieggit, as er roie er y hon, gyn jeeaghyn nyn-yeï: son va aggle cruin mygeayrt-y-moo	Wherefore have I seen them dismayed	Jer. 46.5 and turned away back? and their mighty ones are beaten down, and are fled apace, and look not back
+ta cummaltee Ghebim er haglym ad hene dy cheilley dy roie er-y-hon	the inhabitants of Gebim gather	Isa. 10.31 themselves to flee
+Prepositional nominals in Manx Gaelic
+53
+20.	toshiaght ‘front, beginning’
+a.	er my hoshiaght ‘(me) forward, forth’, ‘on my way’
+er dty hoshiaght ‘(thee) forward’, ‘on thy way’, before thee’
+er e hoshiaght ‘(him) forward’, ‘on his way’ ~ er y hoshiaght ‘(it) forward’, ‘on its way’
+er e toshiaght ‘(her) forward’, ‘on her way’
+er nyn doshiaght ‘(us/you/them) forward’, ‘on our/your/their way’
+b.	cur er y hoshiaght ‘promote, advance (trans.), procure, further’
+çheet er y hoshiaght ‘prosper, advance (intrans.)’
+goll er e hoshiaght ~ goll er y hoshiaght ‘pass onwards’
+While toshiaght ‘beginning, front, onset’ is a regular noun, it has an idiomatic use, with preposed
+possessive pronouns only, as in er my hoshiaght ‘on my way’, ‘(me) going forward’ (a). Parallel to the
+orthographic distinction er e hon vs. er y hon, mentioned above §18, a distinction is practised between
+er e hoshiaght ‘on his way’ and er y hoshiaght ‘on its way’. Related are the idioms cur er y hoshiaght
+‘to promote, advance (trans.)’ and çheet er y hoshiaght ‘to prosper, advance (intrans.)’; and goll er e/y
+hoshiaght ‘to pass on(wards)’ (b).
+a. Lhig dou goll er my hoshiaght trooid dty heer: goym y raad mooar, cha jyndaa-ym gys y laue yesh, ny gys y laue hoshtal	Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left	Deut. 2.27
+Eisht hie mee er my hoshiaght gys giat y farrane, as gys loghan y ree; agh cha row raad da’n baagh va foym dy hayrtyn	Then I went on to the gate of the fountain, and to the king’s pool: but there was no place for the beast that was under me to pass	Neh. 2.14
+agh un red ta foym dy yannoo, jarrood ny reddyn shen ta my yeï, as sheeyney er my hoshiaght gys ny reddyn ta roym, Ta mee chionney gys y vark	but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark	Phil. 3.13- 14
+Lhig da dty hooillyn jeeaghyn jeeragh royd as ferrooghyn dty hooillyn jeeaghyn dy kiart er dty hoshiaght	Let thine eyes look right on, and let thine eyelids look straight before thee	Prov. 4.25
+Nish my vac, yn Chiarn dy row mayrt; as gow er dty hoshiaght lesh aigh mie	Now, my son, the Lord be with thee; and prosper thou	1 Chron. 22.11
+As yeelt ee assyl, as dooyrt ee rish e sharvaant, Eiyr, as cur er dty hoshiaght	Then she saddled an ass, and said to her servant, Drive, and go forward	2 Ki. 4.24
+As ghow Abram e yurnah, goll er e hoshiaght my-yiass	And Abram journeyed, going on still toward the south	Gen. 12.9
+Son cur-my-ner; nee oo giennaghtyn, as mac y ymmyrkey; as cha jig razor er e chione: son bee’n lhiannoo Nazarite gys Jee veih’n vrein: as hed eh er e hoshiaght dy livrey Israel ass laue ny Philistinee	For, lo, thou shalt conceive, and bear a son; and no razor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines	Jud. 13.5
+Erreish daue v’er chlashtyn y ree, jimmee ad rhymboo, as cur-my-ner hie yn rollage honnick ad ayns y shiar er e toshiaght roue, derrey haink ee,	When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was	Mat. 2.9
+as hass ee erskyn yn ynnyd raad va’n
+lhiannoo
+Prepositional nominals in Manx Gaelic
+54
+As haink eh gy-kione tra scugh yn arg	And it came to pass, when the ark set	Num.
+er y hoshiaght, dy dooyrt Moses,	forward, that Moses said, Rise up, Lord,	10.35
+Irree seose, Hiarn, as lhig da dty	and let thine enemies be scattered
+noidyn ve er nyn skeayley
+As hie eh magh my-yiass gys Maalehacrabbim, as roie eh er- lhongst gys Zin, as hie eh seose er y cheu jiass gys Kadeshbarnea; goll er y hoshiaght gys Hezron	And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron	Josh. 15.3
+b Son ta mish y Chiarn graihagh er cairys, ta griu vaarlee my ghwoaie son oural-losht; as ver-yms nyn obbyr er y hoshiaght ayns ynrickys	For I the Lord love judgment, I hate robbery for burnt offering; and I will direct their work in truth	Isa. 61.8
+Ta foalsaght ayns e chree, t’eh shêgin er olk dy kinjagh, t’eh cur streeu er y hoshiaght	Frowardness is in his heart, he deviseth mischief continually; he soweth discord	Prov. 6.14
+Ny-yeih, hie ee er e toshiaght ayns maarderys, nyns tayrn gys cooinaghtyn laghyn e aegid, tra ren ee maarderys ayns cheer Egypt	Yet she multiplied her whoredoms, in calling to remembrance the days of her youth, wherein she had played the harlot in the land of Egypt.	Ez. 23.19
+As ver-ym lhiam greme dy arran, as jean-jee nyn greeaghyn y gherjaghey; ny lurg shen hed shiu er nyn doshiaght	And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on	Gen. 18.5
+Abbyr rish cloan Israel ad dy gholl er nyn doshiaght.	speak unto the children of Israel, that they go forward	Ex. 14.15
+Prepositional nominals in Manx Gaelic
+55
+21.	trooid ‘through’
+a.	trooid + NP ‘through’
+b.	dty hrooid ‘through thee’
+ny hrooid ~ ny-hrooid ‘through him/it’, ‘through her’ (sic)
+nyn drooid ‘through them’
+ny hrooid eck ‘through her’
+ny hrooid oc ‘through them’
+Trooid with a noun complement is constructed as a regular preposition (a). With personal pronoun
+objects trooid takes possessives (b); if inflected ec is used, it takes the form ny hrooid, thus, for example,
+*nyn drooid oc is not found. Observe that for ‘through her’ the expected *ny trooid is not used; ny
+hrooid is used without gender distinction, or is followed by eck.
+a Trooid Jee nee mayd obbraghyn mooarey: as eshyn eh ver fo-chosh nyn noidyn	Through God we shall do great acts: and it is he that shall tread down our enemies	Ps. 108.13
+As honnick mee ainle elley getlagh trooid mean yn aer	And I saw another angel fly in the midst of heaven	Rev. 14.6
+b Myr shen lhig-yms erriu yn ghortey, as drogh-veishtyn, as ver ad oo naardey; as hed paitt as fuill dty hrooid	So will I send upon you famine and evil beasts, and they shall bereave thee: and pestilence and blood shall pass through thee	Ez. 5.17
+hie ad seose er mullagh y thie, as lhig ad sheese ny hrooid, eh-hene as e lhiabbee, er y laare kiongoyrt rish Yeesey	they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus	Luke 5.19
+Myr shoh rheynn ad y cheer eddyr ad, dy gholl ny hrooid [cheer f.]	So they divided the land between them to pass throughout it	1 Ki. 18.6
+tra hig mayd gys y cheer, nee oo yn skeog shoh dy naie scarleod y chiangley ’syn uinniag ny hrooid ren oo shin y lhiggey sheese [uinnag f.]	when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by	Josh. 2.18
+quoi yinnagh soiaghey dressyn as drineyn m’oï ’sy chaggey? yinnin goll nyn drooid, yinnin lostey ad cooidjagh	who would set the briers and thorns against me in battle? I would go through them, I would burn them together	Isa. 27.4
+as bee sleityn Israel follym-faase, nagh jed unnane nyn drooid	and the mountains of Israel shall be desolate, that none shall pass through	Ez. 33.28
+veih sheeloghe gys sheeloghe bee eh ny hraartys; cha jed unnane erbee ny hrooid eck son dy bragh as dy bragh	from generation to generation it shall lie waste; none shall pass through it for ever and ever	Isa. 14.10
+Ga dy bee ad ec fea, as myrgeddin ymmodee, ny-yeih shoh myr vees ad giarit sheese, tra hed eh ny hrooid oc	Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through	Nah. 1.12
+as ren nyn goadey ayns ooilley’n raad ren shin troailt, as mastey ooilley’n pobble ny hrooid oc hie shin	and preserved us in all the way wherein we went, and among all the people through whom we passed	Josh. 24.17

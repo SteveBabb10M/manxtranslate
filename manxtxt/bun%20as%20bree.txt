@@ -1,0 +1,327 @@
+﻿Bun as Bree 1
+© Christopher Lewin 2011
+Christopher Lewin
+No. 1 - April 2011
+A series of short articles on Manx Gaelic grammar, idiom, vocabulary
+and pronunciation.
+These little pieces, which I intend to produce every month, are aimed at intermediate-
+advanced learners of Manx Gaelic and everyone who has an interest in the quirks of
+the Manx language. Some of the things I will mention will be familiar to many
+people, some to a few people, and some perhaps will not be widely known. I hope
+these articles will be interesting, and please let me know if what I say is incorrect, or
+if I have omitted something relevant.
+In all the sections and tables below, most of the etymologies and examples in phonetic
+transcription of native speakers are from George Broderick’s Handbook of Late
+Spoken Manx; some are based on Irish and Scottish dictionaries and my own
+suppositions. The symbol ´ after a consonant in the transcriptions indicates that that
+consonant is slender or palatalized. Symbols in square brackets [] are in phonetic
+transcriptions; letters in angle brackets <> are the English/Manx alphabet, so <y> and
+[j] both indicate the sound at the beginning of English ‘yacht’ or Manx yiow.
+My yuillyn vie:
+Historically every consonant in Gaelic has a broad and a slender variant. In the
+context of Manx the broad form is, in simple terms, the ‘neutral’ form while the
+slender form is the palatalized variant—roughly speaking it has a <y> sound built into
+it. In Irish and Scottish spelling the broad / slender distinction is integrated into the
+spelling system, but in Manx it is more patchy. Sometimes an attempt is made to
+show the distinction—for example in lioar the ‘i’ clearly shows the the ‘l’ is slender.
+However, there are many cases of ambiguity and confusion where Manx spelling is
+inadequate. We will look at a few of these cases in this article.
+The letter ‘g’ in Manx at the beginnings of words often has an ‘i’ after it to show it is
+slender:
+giare (Gaelic: gearr), gial (Gaelic: geal) etc.
+But what about the word guilley? The letter ‘u’ is often used in Manx spelling, and
+also in Gaelic orthography, to show that a sound is broad: e.g. guin, guirr, guee, so it
+seemed reasonable to me in learning Manx to assume that the purpose of the ‘u’ in
+guilley is to stop you from thinking, on the basis of the following ‘i’, that the ‘g’ is
+1
+Bun as Bree 1
+© Christopher Lewin 2011
+slender. There seemed to be no other point to it. But you soon learn in Manx that the
+spelling frequently doesn’t feel a need to follow logic: the ‘g’ is in fact slender, and
+the ‘u’ seems to be following the English spelling rule in words like guest where the
+‘u’ is to show that the ‘g’ is not ‘soft’, that is, pronounced as <j> (cf. the word
+‘gesture’). But this is wholly unnecessary in Manx: g is almost always hard (cliegeen
+and dangere notwithstanding) and there are scores of words beginning with ‘gi’ and
+‘ge’ which have no ‘u’such as giare, gial, geddyn etc.
+The ‘g’ in guilley is definitely slender / palatalized. We have cognate evidence: in
+Irish we have giolla, in Scottish Gaelic gille. In both cases the ‘g’ is slender. We have
+direct native speaker evidence; in Broderick’s dictionary most of the recorded native
+speakers show palatalization of this ‘g’, a typical pronunciation being [g´ɪl´ə]. We
+also have evidence from Ned Beg Hom Ruy and from Cregeen’s dictionary that I will
+mention below.
+Note that the palatalization is only slight and is part of the consonant; there should not
+be a separate <y> sound (in IPA [j]) after the ‘g’, but rather a tinge of <y>, as it were,
+built into the consonant itself. What palatalization really means is that the ‘g’ is
+pronounced further forwards on the hard palate instead of the soft palate (or velum).
+Sounds produced on the hard palate automatically have a <y> tinge.
+The real relevance of all this becomes apparent when guilley is lenited. Thinking the
+‘g’ to be broad, I and probably many other people, have tended to say things like my
+ghuilley with a gutteral <gh> [ɣ] sound like in ghooinney or ghow, whereas it is
+actually the <y> sound of the lenited forms of giare and gial, namely yiare and yial:
+so in the song Arrane Oie Vie we should sing my yuillyn vie, not *ghuillyn.
+This is proved by Cregeen with the help of his very useful indications of mutations.
+Although he does give ghuilley (since gh is sometimes used to spell both
+pronunciations, even in ghiare etc.), he also gives yuilley. In addition, he has yuiy as
+the lenition of guiy ‘goose’, which is to be expected because this word too has an
+etymologically slender ‘g’, cf. Ir. gé, Sc. gèadh. and the majority of the
+pronunciations given by Broderick show palatal [g´] or [gj]. It is important to note
+that Cregeen gives no cases of ‘y’ where we would expect the broad ‘gh’, so it is
+reasonable to trust that where he gives ‘y’, it was pronounced as such. Note also
+forms in Cregeen such as dy yigleragh ‘to giggle’ and e yimmagh ‘his lobster’, which
+again correspond with the correct pronunciation of these lenited forms.
+There is a smoking gun in the work of Ned Beg Hom Ruy. He only vaguely sticks to
+Bible spellings and generally reflects closely his pronunciation in his spelling. For
+example, he writes dy chra instead of dy hraa, which reflects that [h] had become [x]
+(the gutteral sound in Scottish loch) before [r]. He consistently writes gilley without
+the ‘u’, and for the lenited form, he has yn chen yilley for yn shenn ghuilley.
+Spelling reform / standardization?
+We have tended to avoid spelling reform like the plague for fear of confusing or
+putting off learners. This is certainly a valid concern, and one I share; hence a wide-
+ranging reform is probably not a good idea. However, I think there is a case for some
+2
+Bun as Bree 1
+© Christopher Lewin 2011
+small reforms / standardizations in a small number of words where the existing forms
+are particularly confusing for learners.
+So I make two tentative proposals, the second more tentative than the first:
+1)	Standardization of the spellings ‘gh’ and ‘y’
+I don’t expect this to be contentious, since we largely do it already: we should make a
+firm distinction between ‘gh’ and ‘y’ in spelling the lenited form of ‘g’. ‘Gh’ should
+be used always and only when it is pronounced broad, in words like gharroo (Gaelic:
+gharbh), ghoo (ghuth), gherrid (ghoirid), gherrym (ghairm) whereas y should be used
+always and only when it is slender, e.g. yiare (ghearr), yimmagh (ghiomach), yial
+(gheal), yennal [gheanail] and including yuilley (ghille) and yuiy (ghèadh). (For
+readers not familiar with Gaelic spelling, don’t be deceived by the fact that Gaelic
+always uses the spelling ‘gh’. The slender form is still pronounced roughly <y>; it is
+the consistent use of following ‘i’ or ‘e’ that tells you to pronounce the ‘gh’ slender.
+The lack of this consistency in Manx orthography is the reason why we need to mark
+the difference in the consonant itself.) Spellings like ghuilley should be avoided
+because they are traps tempting us into an incorrect pronunciation.
+I think this change, and some similar ones, such as standardizing the difference
+between ‘d-’ and ‘j-’ in the past tense (see below), are necessary because Manx
+spelling has a different purpose today from when it was invented. In the eighteenth
+century it was used mainly by clergymen writing sermons etc. for their own use; they
+were native speakers, or at least familar with the native speech that was all around
+them, so they did not need an accurate spelling system because they knew very well
+how to pronounce the language. For example, mutations did not necessarily have to
+be represented consistently because they were an automatic adjustment made in
+reading aloud. Today there are no native speakers and we are all learners, so an
+accurate representation of mutations etc. is much more important. That is why we
+need to be clearer in our spellings than the translators of the Bible needed to be in
+their own age.
+2)	Abolition of the ‘u’ in guilley, guiy and guess
+We should follow Ned Beg in writing gilley. Guiy could be replaced by geiy. And we
+would hardly notice if guess (‘charm’, G. geas), which is a rare word anyway, became
+gess.
+I imagine this proposal will be more contentious, since guilley is a very common
+word, and I have reservations about changing it myself. Nevertheless let us not reject
+this idea without consideration: getting rid of a single letter would simplify the
+spelling of this word and save generations of future students much confusion. Of
+course, since there is no official standard, individuals can spell Manx however they
+like (within reason and within the bounds of comprehensibility), and perhaps this
+proposal will find favour with some. It is not without precedent: many extraneous h’s
+have disappeared over the years, and most people now write cliejeen and danjeyr,
+despite the fact that cliegeen and dangere appear in the Bible.
+3
+Bun as Bree 1
+© Christopher Lewin 2011
+Yn before slender vowels:
+The quality of the ‘n’ in the definite article yn depends upon the following vowel. If
+the following vowel is slender, the ‘n’ will have a palatal quality. The problem is that
+this is not always shown in Manx spelling. In yn arragh, for example, there is no
+indication that the quality of the ‘n’ is any different from in yn arrys. Gaelic spelling
+is much clearer: the ‘e’ in an earrach (which is otherwise silent) shows the palatal
+quality of the ‘n’, whereas there is no ‘e’ in an aithreachas. It is clear, however, that
+this distinction was live and well in native speech, even to some extent into the 20th
+century on the evidence of Broderick’s transcriptions (see below); and the eighteenth
+century writers sometimes wrote things like yn niarragh (for yn arragh ‘the spring’),
+yn niagh (for yn agh ‘the horse’) and y niarn (for yn ayrn ‘the part’). The slender n is
+even preserved in the famous Manx place-name Niarbyl, which is really yn arbyl ‘the
+tail’ (referring to the shape of the rocks that stick out into the sea), in Gaelic
+orthography an earball.
+Below I list the commonest nouns that should, based on etymology, cause the ‘n’ in
+yn to be slender. Since this distinction appears on the evidence given above to have
+been well preserved in Manx, I recommend learners to consciously learn and
+systematically apply the rule. Thus before the similar-looking nouns oard ‘hammer’
+and oarn ‘barley’, which are etymologically órd and eórn with a broad / slender
+distinction the ‘n’ of the article should be realized differently:
+yn oard as yn oarn - the hammer and the barley *ən ɔ:rd̪ as ən´ ɔ:rn
+Very roughly speaking, then, we should say yn yoarn, yn yaggle, yn yagglish etc., but
+bearing in mind that it is not with a separate <y> sound. Remember it is part of the
+<n> consonant.
+aggle - ‘fear’ (Sc. eagal)
+agglish - ‘church’ (eaglais)
+agh - ‘horse’ (each) (spelt yn niagh - Proverbs 21:31, Zech. 10:3, Job 39:19)
+arbyl - ‘tail’ (earball) (Ned Maddrell: yn Niarbyl - [ən N´a:bəl]
+arragh - ‘spring’ (earrach) (yn niarragh - Exodus 24:31) (Ned Maddrell: [o̤ zi N´arax])
+askaid - ‘boil, ulcer’ (Sc. neasgaid)
+aspick - ‘bishop’ (Sc. easbuig) (Harry Boyd: son yn aspick - [sɑ̜ nɪn N´ɑ:spɪt´])
+assag - ‘weasel’ (Sc. easag)
+ayrn - ‘part’ (Sc. earrann) (y Niarn - Coyrle Sodjeh p. 27)
+oarn - ‘barley’ (Ir. eorna)
+oayll, oalys - ‘knowledge, magic spell’ (Ir. eolas)
+ollagh - ‘cattle’ (Ir. eallach) (Thomas Christian: yn ollagh - [n´ɔlɑx])
+ollay (pronounced ‘olla’, ought to be written olley) - ‘swan’ (Ir. eala)
+Most of the nouns beginning in ‘e’ and ‘i’ in Manx spelling will also be slender, but
+note the exceptions: eaghtyr (uachtar), eairk (adharc), earroo (àireamh), eayl (aol),
+eayn (uan), eaynagh (aonach), edd (ad), eiyrt (adhart), enney, ennaghtyn, ainjys
+(aithne), ennal (anal), ennym (ainm), eoylley (aoileach), erin (aifreann), erreeish
+(aircheas), eulys (aimhleas).
+4
+Bun as Bree 1
+© Christopher Lewin 2011
+Note in passing the difference between the similar-looking words eulys ‘anger’ and
+eunys ‘joy’. ‘The anger’ would be [ən euləs] with an [eu] sound (roughly like a
+Liverpool pronunciation of the vowel in ‘boat’ or ‘moan’, or like Welsh mewn or
+Classical Greek εὔ) and no palatalization of yn, whereas ‘the joy’ would be [ən´
+ju:nəs], cf. Scottish Gaelic èibhneas, a variant of aoibhneas, since most combinations
+with bh or mh in Gaelic give [u:] sounds in Manx, sometimes [eu] and [au].
+In the absence of Manx native speakers, a little knowledge of Irish and Scottish
+Gaelic is very useful to give clues to work out what Manx spelling is supposed to
+represent.
+Unfortunately, there is no way Manx spelling as it stands could be changed to show
+the sort of invisible slenderness in arragh, ollagh etc. You just have to learn them.
+d- and j- in the past tense:
+A similar issue is the prefix d- which is applied to the past tense of verbs beginning
+with vowels and ‘f-’. This prefix is either broad or slender depending on whether it is
+followed by a broad or slender vowel in Gaelic. That this distinction was maintained
+in Manx is shown by the spellings such as jimmee in the Bible and jynsee in ‘Coyrle
+Sodjeh’ (p. 46).
+Slender d- is also attested in native speech: Joseph Woodworth has [d´ʒɪri] as the past
+tense of irree which Broderick spells jirree and Ned Maddrell has a slender ‘d’ in
+[d´iri] (spelt dirree). On the other hand, Thomas Christian has [dik] for the past tense
+of eeck (deeck), and Woodworth has [di:nʃ] for the past of insh (dinsh), with failure of
+palatalization in both cases. This may be due to the infrequency of these forms and
+resulting confusion about whether they are broad or slender; in the case of dinsh there
+may also be an element of dissimilation away from a palatalized realization due to the
+presence of the palatal <sh> at the end of the word. Cregeen however, gives jeeck and
+also jetlee (for Biblical deeck and dettyl), and also jaggle(e) ‘frightened’, Ir.
+d’eaglaigh, which shows that in the nineteenth century Manx preserved the slender
+pronunciation even when the following vowel was not obviously slender. All in all,
+the evidence suggests that where a broad or slender d- is to be expected
+etymologically, it occurred, and therefore I would recommend learners today to be
+systematic in making this distinction too. As to why the spelling ‘d-’ is preferred in
+both cases, perhaps this is due to standardization: the Bible editors recognized the two
+variants as a single prefix with a single meaning—past tense—and therefore
+generalized, much as in English we always write the past ending as ‘-ed’ even though
+it has three pronunciations (or allomorphs), viz. jumpt, climbd and patted. Or perhaps
+it is because the pronunciation, at least sometimes and in some cases, tended towards
+a palatal ‘d’ [d´] rather than a full affricate [dʒ] (a combination of a <d> and a voiced
+<sh> sound), as in English ‘jug’ or Manx jouyl. Ned Maddrell’s pronunciation, as
+well as any tendency to lose palatalization altogether, might support this.
+I am not too bothered whether we pronounce, say, dynsee/jynsee with [d´] or [dʒ], so
+long as is distinct from the broad [d̪ ]. The latter in turn should not be the same as the
+English [d] sound, which is alveolar, meaning the tongue presses against the gum
+ridge behind the upper teeth: the Manx [d̪ ] is dental, meaning the tongue is pressed
+against the upper teeth themselves—the difference in sound is quite noticeable.
+5
+Bun as Bree 1
+© Christopher Lewin 2011
+Conscious knowledge of the distinction is important in cases where Manx spelling is
+ambiguous, such as in dennee ‘felt’ and deie ‘cried’. Dennee in Gaelic orthography
+would be d’aithnigh, with the ‘a’ indicating the ‘d’ should be broad; eie on the other
+other hand would be d’éigh, where the ‘é’ indicates that the ‘d’ is slender.
+Because today’s Manx speakers and learners do not have mother-tongue knowledge
+of what the correct pronunciation is, it is important the ambiguities of the spelling be
+removed as far as possible; therefore I recommend that the distinction between d- and
+j-, which already exists haphazardly in Manx spelling, be made systematic, so that one
+would continue to write dennee, but deie would become jeie etc. Wherever the
+etymology tells us there is a broad vowel, write d-; wherever etymology tells us there
+is a slender vowel, write j-.
+I hope the following table, which includes the commonest verbs beginning with a
+vowel, will be helpful:
+etymologically broad	Irish / Scottish cognate	etymologically slender	Irish / Scottish cognate
+daag ‘left’ < faag, -ail	fág	jagglee ‘frightened’ < agglee, -aghey	eagal
+daarlee ‘cooked’ < aarlee, -aghey	O.Ir. airlam	jeaisht ‘listened’ < eaisht(agh)	éist
+daase ‘grew’ < aase	(f)ás	jeddrymmee	Ir. éadtrom, but Sc. aotrom
+daill ‘hired’ < faill(ey)	Sc. faichill	jee ‘ate’ < ee	ith
+dansoor ‘answered’ < ansoor	[Eng. answer]	jeearree ‘desired’ < yeearree	iarraidh
+dark(ee) ‘waited’ < fark(ee), farkiagh	? Ir. faircsin	jeeassee ‘borrowed’ < eeassee, eeassaghey	Ir. iasacht
+darr ‘continued, lasted’ < farr, farraghtyn	Sc. fairich	jeebree ‘exiled’ < eebree, eebyrt	Sc. diobradh
+darree ‘moved’ < arree, arraghey	Sc. atharraich	jeeck ‘paid’ < eeck	íoc
+deayshil ‘untied, released’ < feayshil, feaysley	fuascail	jeginee ‘forced’ < eginee, -aghey	Sc. èiginn
+deiyr ‘followed’ < eiyr(t)	Sc. adhart	jeie ‘cried’ < eie	éigh
+denee ‘ask’ < fenee, -aght	Sc. faighnich	jettyl ‘flew’ < ettyl, etlagh	Ir. eiteall
+denmys ‘named’ < enmys	ainm	jan ‘flayed’ < fan(ney)	feann
+dennee ‘felt’ < ennee, -aghtyn	Sc. aithnich	jill ‘folded’ < fill(ey)	Ir. fill
+datt ‘swelled’ < att	at	jimman ‘drove’ < imman	Sc. iomain
+doad ‘kindled, lit’ < foad(dey)	Ir. fadaigh	jimmee ‘departed’ < immee, -aght	Ir. imthigh
+doanluck ‘buried’ < oanluck(ey)	adhlac	jimraa ‘mentioned’ < imraa	Ir. iomrádh
+doardee ‘ordered’ < oardee, oardaghey	Ir. ordaigh	jinjillee ‘lowered’ < injillee, -aghey	Sc. ìslich
+dob ‘denied’ < obb, obbal	Ir. ob	jinsh ‘told’ < insh	inis
+dockle ‘uttered’ < fockle, fockley	focal	jirree ‘rose’ < irree	éirigh
+dod ‘was able’ < foddee	prob. broad, cf. Sc. faod, but Ir. féad	jiu ‘drank’ < iu	ibh
+dolmee ‘emptied’ < folmee, -aghey	Ir. folamh	joonlee ‘washed’ < oonlee, oonlaghey	Sc. ionnlaich
+doshil ‘opened’ < foshil, fosley	Ir. foscail	jyll(ee) ‘cried’ < yllee, -agh(ey)	Sc. iolach
+dosnee ‘sighed’ < osnee, -aghey	Ir. osnaigh	jymmyrk ‘carried’ < ymmyrk(ey)	Ir. iomchar
+6
+Bun as Bree 1
+© Christopher Lewin 2011
+dreggyr ‘replied’ < freggyr(t)	freagair (in Manx, d and t are always broad before r)	jymmyrt ‘rowed’ < ymmyrt	Sc. iomairt
+dreill ‘kept’ < freill, freayll	Ir. friotháil	jynsee ‘learnt’ < ynsee, -aghey	Sc. ionnsaich
+duillee ‘suffered’ < fuillee, fuillaghtyn	fulaing		
+duinn ‘baked’ < fuinn(ey)	fuin		
+duirree ‘stayed’ < fuirree, -aghtyn	Sc. fuirich		
+The practice of inserting an apostrophe after the d- or j-, while being etymologically
+justifiable, since the d- is originally an abbreviation of a particle do which still
+survives in full in some dialects of Irish and in the dependent past in Scottish Gaelic,
+is not common or necessary, and therefore need not concern us.
+eo(y)
+This combination is a variant of <eay> and should be so pronounced. Beoyn is
+probably something like ‘beeyn’, not ‘byoan’; this is confirmed by evidence from
+poetry where it rhymes with pian (Pargys Caillit l. 2390; though it also seems to
+rhyme with resoon in l. 2807: perhaps it varied like feayr which can be feeyr or fooyr)
+Note the following words, with pronunciation from native speakers (Broderick,
+Handbook of Late Spoken Manx):
+eoylley	e:l´ə	freoagh	fri:x
+feoh	fi:ə	beoyn	(not attested in speech)
+Word building:
+Words for asking:
+Brie-briaght and fenee-fenaght are basically synonymous and interchangeable. Both
+take jeh to refer to the person you are asking.
+Nee’m briaght jeh cre’n traa t’eh - I’ll ask him what time it is
+Fenee jeh vel eh goll magh noght - Ask him if he’s going out tonight
+Feysht, which functions as a noun meaning question (though queshtan / question is
+more common, cf. ansoor), is also a verbal noun meaning to examine. Here is an
+example from the Bible:
+Eisht daag adsyn eh er-y-chooyl va ry-hoi feysht eh - Then straightway they departed
+from him which should have examined him [then they who were to examine him left
+him straightaway] (Acts 22:29)
+If you are asking for something, use shir er:
+shir er girree - ask him to rise (cf. 2 Kings 9:2)
+ta’n mac shirrey arran er e ayr - the son asks his father for bread (cf. Luke 11:11)
+7
+Bun as Bree 1
+© Christopher Lewin 2011
+Note that briaght also has another meaning. In the phrasal verb cur briaght er, it has
+nothing to do with asking, but means ‘discover, reveal, find out (in the sense of ‘they
+found him out’), rumble (‘they rumbled us)’:
+Nish va chammah ny ard-saggyrtyn as ny Phariseeyn er chur sarey, my va fys ec
+dooinney erbee c’raad v’eh, dy row ad dy choyrt briaght er cour y ghoaill eh. Now
+both the chief priests and the Pharisees had given a commandment, that, if any man
+knew where he were, he should shew it, that they might take him (John 11:57)
+gowee eh kerraghey er dty vee-chairys, O inneen Edom, ver eh briaght er dty
+pheccaghyn - he will visit thine iniquity, O daughter of Edom; he will discover thy
+sins (Lamentations 4:22)
+Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber:
+for a bird of the air shall carry the voice, and that which hath wings shall tell the
+matter - Ny jean y ree y oltooan, eer ayns dty smooinaghtyn, as ny loayr dy olk jeh
+deiney ooasle ayns dty hiamyr lhiabbagh: son nee eean jeh’n aer yn coraa y chur lesh,
+as ver yn skianagh briaght er y chooish (Ecclesiastes 10:20)
+This use of briaght is, I suspect, probably related to brah ‘to betray, reveal’. To make
+it impersonal, you can use çheet or ve:
+Tra cheayll Saul dy row briaght er David, as er ny deiney va marish - When Saul
+heard that David was discovered, and the men that were with him (1 Samuel 22:6)
+yn nah laa erreish da v’er varroo Gedaliah, as nagh row briaght er jeet er - the
+second day after he had slain Gedaliah, and no man knew it (Jeremiah 41:4)
+Roish my daink briaght er dty ghrogh-yannoo - Before thy wickedness was
+discovered (Ezekiel 16:57)
+It is easy to see how this idiom could be useful in contemporary Manx. Imagine
+saying / writing things like:
+Haink briaght er y cho-chialg - The plot was rumbled
+Haink briaght er y chooish - The matter was found out / discovered
+Do not confuse this with jannoo briaght er or briaght er / son which mean ‘ask for’ in
+the sense of inquiring after someone.
+Proverb of the Month:
+Cha dennee rieau yn soogh y shang - The full belly never felt for the hungered
+8

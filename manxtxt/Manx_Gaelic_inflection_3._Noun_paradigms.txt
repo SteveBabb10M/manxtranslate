@@ -1,0 +1,162 @@
+﻿Manx Gaelic inflection, 3. Noun paradigms Max Wheeler, May 2015
+1
+Manx Gaelic inflection, 3. Noun paradigms
+In the previous sections (§1-2) I set out what we can learn from Cregeen’s Dictionary about
+noun plural inflection (§1) and inflected genitive case forms (§2). Here I pursue the matter of
+the ways in which these two inflections can combine with the basic (nominative singular) stems
+to form paradigms. Five basic classes of noun paradigms (‘declensions’) can be established,
+according to the genitive inflection: class A: genitive in -ey, class B: genitive in -ee, class C:
+genitive in -agh, class D: genitive with stem change, and class E: irregular genitive. The
+subclasses (A1-9, B1-6, C1-8, and D1-2) correspond to how each genitive inflection interacts
+with the various types of plural inflection. Most nouns that have an inflected genitive fall into
+one of seven relatively common patterns:
+A1: genitive in -ey, plural in -yn (plural class 1) — 72 members.
+B1:	genitive in -ee, plural in -yn (plural class 1) — 30 members.
+B2:	genitive in -ee, plural in -(a)ghyn (plural classes 1a1, 1a2) — 119 members
+B4: genitive in -ee, plural in-eeyn (plural class 1e1) — 23 members
+C1: genitive in -agh, plural in -yn (plural class 1) — 53 members
+D1: genitive with stem change, plural in -yn (plural class 1) — 14 members
+D2: genitive with stem change, plural with stem change (plural class 4) — 15
+members.
+Though there are 37 different paradigms in all in classes A-D, none of the subclasses other than
+those just mentioned has more than a dozen members, and many of them have only one member;
+there are some 17 unique paradigms (outside of class E, all of whose members are unique). It
+may be of some interest to language typologists that there are so many paradigms given that
+there are only three grammatical categories involved. Might there be a tendency for an inverse
+relationship between the number of categories and the number of paradigms?1 In the tables
+below, endings that are lost when suffixes are added are in bold. Figures are given for the
+number of nouns (in Cregeen’s Dictionary for which an inflected genitive is given) falling in
+each subclass, and also for the number in each class where the genitive stem is irregular. The
+full lists of members of each class and subclass are given in §2: Genitive case.
+1 English nouns with two categories —singular and plural— fall into at least 12 inflection classes, though one of
+them is vastly more frequent than the rest: plural in -(e)s: /s/ ~ /z/ ~ /ız/, the choice between these allomorphs being
+determined by the last sound of the word the suffix is attached to. Latin, with as many as 12 or 13 noun inflections,
+conventionally has only five declensions, though this is a convenient oversimplification.
+Manx Gaelic inflection, 3. Noun paradigms Max Wheeler, May 2015
+2
+Table 1. Paradigms of noun class A
+Paradigm	Singular	Genitive	Plural	Plural class	Total (with inflected genitive)	Irreg. gen. stem	
+A1	braag	braagey	braagyn	1	69~72	20~22	
+A2	çheer	çheerey	çheeraghyn	1a2	9	4	
+A3a	keyll	keylley	keyljyn	1b	2	1	mill
+A3b	balley	baljey	baljyn	1b	2	2	mwyllin
+A4	glion	glionney	glionteeyn	1d2	1~2	0~1	stroin ~ A1
+A5	annym	anmey	anmeenyn	1e2	1	0	
+A6	uhllin	uhlley	uhllinyn	1c2	1~2	0~1	dreeym ~ A1
+A7	beaynee	beayney	beayneeyn	1e1	1	0	
+A8	goayr	goayrey	goair	3	2	0	seyir
+A9	bolg	bolgey	builg	4	2~3	1	corp; purt ~ A1
+A					93	30	
+Noun class A contains predominantly (80%) feminine nouns. Paradigm A1 predominates; apart
+from that, only A2 has more than a bare handful of members. Apart from keyll ‘wood’, the other
+member of A3a is mill ‘honey’, gen. molley, pl. miljyn (= ‘sweets’). Class A3b differs from A3a
+primarily in that the nominative singular has a suffix: ball-ey, mwyll-in, though both of these
+have a variant stem in the genitive with -j- that is also seen in the plural -jyn. Other than glion
+in class A4 there is only stroin ‘nose’, gen. stroaney, pl. strointeeyn, which is alternatively in
+class A1 (stroin - stroaney - stroinyn). I have assigned uhllin ‘stackyard’ to class A6; it could
+also be interpreted as class A1: sg. uhllin, pl. uhllin-yn,with a genitive stem variant uhll-, but
+no other genitive stem variant involves omission of a syllable. The other member of A6 is
+dreeym ‘back’, gen. drommey, pl. dreeyminyn, which has an alternative of class A1 (pl.
+dreeymyn). In class A8 alongside goayr ‘goat’ is seyir ‘carpenter’, gen. seyirey, pl. sieyr. As
+mentioned in §2, though Cregeen gives goayrey as the genitive of goayr, the Bible translators
+used only goair, which puts goayr into noun class D2. In class A9, in addition to bolg ‘belly’,
+is corp ‘body’, gen. kirpey (irregular stem), pl. kirp; purt ‘port’ -purtey - puirt may alternatively
+be in class A1 (purt - purtey - purtyn). Classes A5 and A7 each have only one member.
+Manx Gaelic inflection, 3. Noun paradigms Max Wheeler, May 2015
+3
+Table 2. Paradigms of noun class B
+Paradigm	Singular	Genitive	Plural	Plural	Total	Irreg. gen.
+				class	(with	stem
+					inflected	
+					genitive)	
+B1a -C#	kiaull	kiaullee	kiaullyn	1	16	4
+B1a -V#	raaue	raauee	raaueyn	1	10	?1 aiee → aae
+B1b	toshiaght	toshee	toshiaghtyn	1	4	0
+B2a	geay	geayee	geayghyn	1a1	7	
+B2b	geurey	geuree	geuraghyn	1a2	85	0
+B2c	imbagh	imbee	imbaghyn	1a2	27	keeee → kee
+B3a	cleiy	cleiyee	cleiyee	2	1	
+B3b	moddey	moddee	moddee	2	1	0
+B3c	kellagh	kellee	kellee	2	9	
+B4a	bunney	bunnee	bunneeyn	1e1	1	0
+B4b	streebagh	streebee	streebeeyn	1e1	19	0
+B4c	shesheraght	sheshereee	sheshereeyn	1e1	3	0
+B5	eaynin	eaynnee	eayninyn	1c2	1	0
+B6	jeir	jeirree	jeir	5	1	0
+B					185 +2	
+Noun class B (Table 2) consists of those nouns which from their genitive in -ee. B1a is the
+subclass that forms the plural with -yn. In Table 2 the first row shows the pattern for B1a nouns
+ending in a consonant; the second row for those ending in a vowel. Class B1b consists of a few
+nouns ending in -aght where this element is lost in the genitive. Class B2 consist of nouns
+forming their plural with -ghyn (B2a, stems ending in a vowel, Plural class 1a1) or -aghyn (B2b
+and B2c, Plural class 1a2). B2b comprises the B2 nouns ending in -ey in the singular, while B2c
+comprises the B2 nouns ending in -agh. Classes B2b and B2c account for the majority of
+members of class B, and they are predominantly of masculine gender —three are feminine, and
+the gender of 27 is unspecified in Cregeen. Most members of B2b are verbal nouns. Class B3
+consists of those nouns with genitive in -ee that also make their plural in -ee. B3a (cleiy ‘hedge’)
+has no suffix in the singular; B3b (moddey ‘dog’) has -ey in the singular that is absent in the
+other forms; B3c has -agh in the singular. Class B4 has genitive in -ee and plural in -eeyn;
+nearly all have -agh (B4b), or -aght (B4c) in the singular. B5 (unique class eaynin ‘precipice’)
+has -in in the singular and -inyn in the plural. Class B6 also has a unique member (jeir ‘tear’)
+with the plural identical with the singular. Two other nouns can be assigned to class B,
+having -ee in the genitive, while losing the ending of the singular: carrick - carree ‘chancel’
+and fenish - fenee ‘presence’. Neither has a plural listed in Cregeen.
+Manx Gaelic inflection, 3. Noun paradigms Max Wheeler, May 2015
+4
+Table 3. Paradigms of noun class C
+Paradigm	Singular	Genitive	Plural	Plural class	Total (with inflected genitive)	Irreg. gen. stem
+C1	magher	magheragh	magheryn	1	53	
+C2a	çhibbyr	chibbyragh	çhibbraghyn	1a2	1	
+C2b	garey	garagh	garaghyn	1a2	7	
+C2c	lhiabbee	lhiabbagh	lhiabbaghyn	1a2	1	
+C3a	moayn	moanagh	moaintyn	1d1	1	
+C3b	bwoaillee	bwoaillagh	bwoailtçhyn	1d1	2	lheeannee
+C4	keeill	killagh	kialteenyn	1d3	1	1
+C5a	lugh	lughagh	lughee	2	1	
+C5b	keyrrey	keyrragh	kirree	2	1	
+C6	ark	arkagh	irk	4	1	
+C7	maidjey	maidjagh	maidjyn	1/1b	1	C7 ? = C1
+C8	lhiattee	lhiattagh	lhiatteeyn	1e1	3	cuillee,
+						kairdee
+C					73	
+Noun class C consists of those with genitive in -agh. Most members are in subclass C1, plural
+in -yn. Most of the other subclasses have a unique member. There is a mix of genders in class
+C, but all those in C ending in -ee in the singular are feminine. The paradigm of maidjey ‘stick’
+is ambiguous. If we take it as displaying plural -jyn, its plural class is 1b; but if we see maidj- as
+the root (also in gen. maidj-agh) and -yn as the plural suffix, it belongs with that minority of
+plural class 1 that lose -ey before -yn in the plural, such as guilley - guillyn ‘lad’. However, none
+of these other plural class 1 nouns in -ey has an inflected genitive.
+Table 4. Paradigms of noun class D
+Paradigm	Singular	Genitive	Plural	Plural class
+D1	fouyr	fouyir	fouyryn	1
+D2 D	boayrd	buird	buird	4
+Total (with inflected
+genitive)
+14
+15
+29
+Table 4 displays the paradigms of noun class D, whose genitives are formed by changing the
+stem vowel and/or the final consonant. Subclass D1 comprises those taking the plural suffix -yn.
+Class D2 comprises those with the plural identical with the genitive. All of class D2 are
+masculine.
+Manx Gaelic inflection, 3. Noun paradigms Max Wheeler, May 2015
+5
+Table 5. Paradigms of noun class E
+Paradigm	Singular	Genitive	Plural	Plural class	Total	
+E	aailagh	aail	aailaghyn ~ aailee	1a2/2	brood	
+	beeal	beealloo	beill	4	mouth	
+	ben	mreih	mraane	5	woman	
+	booa	baa	baa	5	cow	
+	bry	braghey			malt	
+	caggey	cah (also caggee)	caggaghyn	1a2	war	
+	Colloo	Kylloo ~			(The) Calf	
+		Keylliu			of Man	
+	leoie	leoh			ashes	
+	mark	markish			mark	
+	oayll	uyll	oayldyn	1b	haunt	
+	snaie	snaa	snaienyn	1c1	thread	
+	thalloo	thallooin	thallooinyn	1c2	land	
+	Thomaase	Thomys			Thomas	
+	traie	straie	traieyn	1	shore	14
+Class E consists of fourteen nouns with highly irregular genitive case forms. Several of these
+have an irregular plural (ben, booa), or no plural mentioned in Cregeen.

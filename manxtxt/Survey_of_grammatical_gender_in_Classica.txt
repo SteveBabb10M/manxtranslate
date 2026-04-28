@@ -1,0 +1,1024 @@
+﻿Survey of grammatical gender in Classical Manx
+Max W. Wheeler
+April 2017 (revised and updated, May 2017)
+It has to be admitted, I think, that grammatical gender is not well described in the grammatical tradition
+of Manx. The topic gets treated separately under Nouns, and Adjectives. None of the grammars attempts
+an overall account, nor does Cregeen’s dictionary. The lexical sources, from Cregeen to Phil Kelly,
+offer information about the gender of nouns, but what they say cannot always be relied on, and is
+sometimes contradicted by the evidence of usage provided in the dictionaries themselves.1
+This study investigates grammatical gender differences in usage as attested in an extensive corpus of
+digitalized Manx texts from the classical period (1700–1850).
+Grammatical gender is at base a syntactic agreement phenomenon, though inflection is also involved to
+some degree. To set the scene, I spell out what is usually understood about Manx gender:
+•	Nouns may be either masculine or feminine in gender; by default, nouns are masculine, unless
+there is evidence otherwise. That is, masculine nouns show no inflection in the contexts that
+feminine nouns do, and ‘agreement with masculine’ is not distinct from ‘non-agreement’, i.e.
+dependents appear in their ‘base’ form. Gender marking and agreement is a property of singular
+nouns only.
+•	Some nouns referring to humans may be of common gender (according to Cregeen, at least,
+who marks them s. m. f.), that is, treated as either masculine or feminine, depending on the
+denotation.
+•	The grammatical differences between masc. and fem. nouns in Manx are these:
+1.	Feminine singular nouns in the nominative or accusative case (i.e. subjects, predicates,
+direct objects) after the definite article yn ~ y ~ ’n display Lenition 2 initial mutation, if
+their initial consonant is lenitable.2 Masculine nouns display radical initial consonant
+in this context (Column B in the table below). This is the only inherent inflectional
+characteristic of gender, though patterns of genitive inflection (§3) favour the genders
+differently.
+2.	An attributive adjective that follows a feminine singular noun (other than one in the
+inflected genitive, which takes following radical), and that begins with a lenitable
+consonant, displays Lenition 1 (except f-).3 Masculine nouns display radical initial
+consonant in this context (Column C).
+3.	A following indefinite noun, or noun in the genitive case, modifying a feminine singular
+noun, displays Lenition 1 (except f-). In the context where a noun dependent has its
+own noun dependent [N1.FEM[NP2.GEN[NP3.GEN]]], lenition is not always found on the
+first genitive noun; e.g. inneen braarey my vainshtyr ‘my master’s brother’s daughter’
+(“suspended genitive” —see below). A following indefinite noun, or noun in the
+genitive case, modifying a masculine noun displays radical initial consonant in this
+context (Column D).
+4.	A definite feminine singular noun that has either more than one syllable, or an inflected
+genitive form, uses the definite article ny before the genitive, with the radical consonant
+1 I am very grateful to Christopher Lewin for observations on a draft of this paper. I include some of his
+observations in footnotes.
+2 Lenition 1: p- → ph-, c/k- → ch-, qu- → wh-; b-, m- → v-; g- → gh-(gi- → ghi-/yi-); f- → zero; t-, s- → h- (sl-
+→ l-), çh-, sh- → h(i)-, d- → gh-, j- → y-.
+Lenition 2: p- → ph-, c/k- → ch-, qu- → wh-; b-, m- → v-; g- → gh- (gi- → ghi-/yi-); f- → zero; s- → t- (and sl-
+→ cl-, str- → tr-), sh- → çh-.
+3 Rare exceptions with lenited f- in a dependent: goayr-yrryn ‘male goat’; geay asnee ‘winnowing wind’, moyrn
+ardalagh ‘vain pride’, ben aaishnee ‘female fortune-teller’, muc arkagh ‘sow’. Since f- in dependents is lenited
+so rarely, I have not taken unlenited f- into account among evidence against feminine gender agreement.
+Wheeler
+Survey of grammatical gender in Classical Manx
+2
+initial, or with h- preceding an initial vowel.4 Any masculine singular noun (genitive
+inflected or uninflected), or a feminine singular noun that lacks (or fails to use) an
+inflected genitive, uses the article yn ~ y ~ ’n and displays Lenition 2 initial mutation
+(Column E).
+5.	An anaphoric pronoun (nominative/accusative, prepositional object, or possessive)
+referring back to a feminine noun may, but need not be, in the feminine form. It usually
+(always?) is, if the noun denotes a female human. In this investigation, I have not sought
+pronoun evidence for gender in my corpus of digitalized Classical Manx texts, since
+such evidence is not very common, and unlikely to reveal more than the other
+inflection/agreement phenomena. (Worth investigating in the long term, though.)
+•	Some nominal derivational suffixes may be exclusively, or predominantly, of one gender.
+•	Gender may be semantically motivated, or even determined —nouns denoting female
+humans are feminine; verbal nouns are all (?mostly) masculine. Rules of thumb (which
+have exceptions) can be given for other semantic categories, e.g. body part terms are
+predominantly feminine.
+Classical Manx in fact displays a fair amount of variation in gender marking. In this context, consistent
+invariable gender would mean that each of the four ‘tests’ (Columns B-E), where applicable, would
+give the same invariable result. In fact, when there is variation for a particular lexeme, we may see a
+pattern of generally consistent usage with a few exceptions, we may observe variable gender, that is,
+with variation in all or most of the contexts, or we may observe hybrid gender, where the different
+grammatical contexts give different results.
+Given the ways in which grammatical gender is realized in the Celtic languages, of which Manx is
+typical enough in this respect, it is not surprising if, even without ‘language death’ processes, gender
+usage is variable. Manx gender is very different from, say, the pattern found in the South-Western
+Romance languages: Portuguese, Spanish, Catalan, Occitan and Italian. In these languages, most
+feminine nouns (though not all, by any means) display their gender in their form —suffix -a (though
+not every noun ending in -a is feminine). If present in the lexeme, this gender marker is present in all
+occurrences of the word: singular and plural, definite and indefinite. For the most part, agreeing
+elements, articles, pronouns, attributive and predicative adjectives also display an explicit gender-
+agreement marking, also present in singular and plural, definite and indefinite contexts. In this kind of
+language, the gender of a noun is easily identified by the listener/learner, and is realized consistently in
+speech. The proportion of contexts in which gender is ambiguous or inexplicit is small.
+In Celtic languages, feminine gender is explicitly indicated by inflection only in singular nouns, after
+the definite article, which begin with a lenitable consonant, that is, not with any vowel, and not, in the
+Manx case, with l-, n-, r-, sp-, or sk-. Agreement is marked, if at all, only on following dependents: an
+attributive adjective, or a genitive noun, provided it begins with a lenitable consonant, or by an
+anaphoric pronoun. In many contexts of use, the gender of a noun is not evident, because none of the
+above conditions is met. The evidence of gender available to the learner is often meagre, or insufficient
+for a good learning model. In these circumstances, variation in usage is to be expected. Still, in Celtic
+languages, as in the Romance ones mentioned, there are some semantic cues for grammatical gender:
+with few exceptions, nouns denoting female humans are feminine. It is thus more surprising to observe
+variation in gender inflection and agreement even for words denoting ‘woman’, ‘daughter’, ‘mother’,
+‘sister’, such as is illustrated in the data below.
+The corpus used in this study consists of Aght giare dy heet gys tushtey as toiggal jeh’n chredjue
+Creestee (AG), Coyrle Sodjey (CS), Thomas Wilson’s Sharmaneyn 1–12 (TW), Yn Fer-raauee
+Creestee (FRC), Bible (B), Apocrypha (Ap), Thomas Christian’s Pargys Caillit (PC), Proverbs
+(Cregeen/Wood) (Pr), the Book of Common Prayer (BCP), Metrical Psalms (Met), and Cregeen’s
+dictionary (Cr), together with a few items from Manx Traditional Songs and Song Fragments, edited
+by G. Broderick, and from Chris Lewin’s Lioar-lhaih Ghaelgagh (Manx texts from 19th-century
+newspapers). Eventually I decided not to include Kelly’s dictionary (Fockleyr Manninagh as
+4 There are some examples in the table of definite genitive singular ny before monosyllabic unsuffixed genitives;
+Is this is the older pattern, before the rule, if that is what it is, got restricted to polysyllabic or suffixed genitives?
+Wheeler
+Survey of grammatical gender in Classical Manx
+3
+Baarlagh); Kelly includes numerous compound nouns that, in principle, would provide evidence for
+gender of the first (head) element, but the genuineness of those compounds not attested elsewhere is
+not above suspicion. The sample investigated here consists of (i) all nouns marked f. by Cregeen for
+which there is evidence in the corpus relevant to gender behaviour, together with a selection of other
+nouns that have come to my attention, whose usage may imply feminine, or variable, gender. Thus, this
+study does not pretend to be a comprehensive survey of every noun in the corpus for which there is or
+might be relevant evidence.
+In the Table of the corpus data of Classical Manx relating to grammatical gender (alphabetical) at the
+end of the paper, Column A gives the gender assignment from Cregeen’s Dictionary, if present. The
+other columns B-E summarize the evidence for gender behaviour of the nouns in question. Column B
+records presence or absence of lenition after the singular definite article (but not in prepositional
+phrases, where lenition is not distinctive of gender). Column C records the presence or absence of
+lenition in a post-nominal adjective; column D records the presence or absence of lenition in a nominal
+dependent following the noun in question; and column E records the presence of feminine genitive sg.
+definite article ny.
+The consistent evidence indicates that f- is hardly ever lenited in gender agreement context; a handful
+of exceptions are mentioned in footnote 3. Unlenited f-initial words are not generally recorded in the
+Table.
+Evidence from outside the corpus is mentioned only exceptionally. Place names do provide evidence
+for grammatical gender, but I do not assume that such place names as provide evidence were formed in
+the Classical period or earlier. And I do not assume that the grammar of place names is the same as that
+of the language generally, of whatever period.
+In the Table / indicates that feminine gender marking is found, X, that masculine gender marking is
+found. ^X indicates that both patterns are found. A gap indicates that there is no relevant evidence in
+the corpus. (X) indicates non-distinctive marking of an unsuffixed definite genitive singular, and cases
+of non-lenition that is not distinctive.
+Homorganic inhibition
+It is often remarked that the pre-head modifiers feer ‘very’, shenn ‘old’, un ‘one’, ard ‘chief, major’,
+chied ‘first’, and trass ‘third’ (all of which end in a coronal consonant) trigger lenition of following
+labial and velar consonants, but not coronals —i.e. t-, d-, çh-, j-, s-, sh- remain unchanged. (This pattern
+is sometimes labelled ‘Lenition 3’; ‘Lenition 2’ is the similar pattern after y(n) (singular) definite article,
+except that there s- and sh- mutate to t- and çh-, respectively.) At first sight there appears to be evidence
+in the corpus that something similar is to be found, at least variably, where a singular head noun, such
+as a feminine singular, is followed by a modifier. Thus, we may find, for example, an unlenited coronal-
+initial modifier, after a feminine noun ending in a coronal consonant, e.g. awin sollys ‘bright river’,
+ayrn dooble ‘double share’, ben treoghe ‘widow’, ben-seyr ‘free-woman’, ben torragh ‘pregnant
+woman’, bioys deyr ‘dear life’, cooid seihlt ‘worldly goods’, dobberan sharroo ‘bitter lamenting’, eddin
+dow ‘face of an ox’, faill sharvaant ‘wages of a servant’, obbyr thanney ‘thin work’, shamyr souree
+‘courting room’. Further investigation shows, however, that variable non-lenition of word-initial
+coronal consonants after a feminine noun is independent of the final consonant of the preceding word;
+in this syntactic context, after any feminine noun, coronals lenite on only about 36 per cent of occasions.
+The conclusion to be drawn is that non-lenition of a coronal-initial dependent is not a reliable guide that
+the head word is masculine (whereas its lenition is positive evidence that the head word is feminine).
+Suspended genitive
+After a feminine noun, a dependent (genitive) noun that itself has a genitive dependent may not be
+lenited — [N1.FEM[NP2.GEN[NP3.GEN]]]. A related construction in Irish is labelled ‘suspended
+genitive’, though in Irish the point seems to be in particular that N2 does not take genitive inflection,
+which we do see in inneen braarey my vainshtyr ‘my master’s brother’s daughter’ (Bible), though in
+few other Manx examples. Other examples of this construction are ben mac dty vainshtyr, cloan
+cappeeys Yudah, cooish pobble ny Hewnyn, cooish princeyn Vabylon, cullee camp cloan Ephraim,
+eddin giat yn entreil, eddin porch y yiat sthie, fuill cloan Israel, fuill princeyn y thallooin, er graih
+Wheeler
+Survey of grammatical gender in Classical Manx
+4
+seaghyn vee-gherjoil ny ymmyrchee, son graih chiamble y Chiarn nyn Yee, jymmoose briwnys y Chiarn,
+laue braar dagh dooinney, laue cloan Israel, laue cloan yoarree, laue mooinjer y twoaie, er lhiattee
+cronk Ephraim, obbyr queeyl fainagh. Alongside these, though, there are not a few cases where a
+genitive with its own dependent is lenited after a feminine head noun: er graih chloan my chorp, laue
+chloan Hamor, gys lhiattee cheayn Chinnereth, cullee champ Ephraim, cullee champ Dan, cheer
+yoarreeaght e ayrey. (Examples of suspended genitive, or constructions where a suspended genitive
+might have appeared, are marked with underline in the table.) Again, lenition is evidence supporting
+that the head is feminine; but non-lenition does not provide any indication about the gender of the head.
+Thalloo – hallooin
+The lenited genitive of thalloo: hallooin is favoured in indefinite contexts after both masc. and fem.
+heads (with y thallooin as the definite genitive). Thus, hallooin in a dependent is not taken as evidence
+that the head is fem.
+Nouns definitely feminine
+For the following nouns marked f. by Cregeen, the corpus includes evidence in favour and no evidence
+against this assignment.
+aer	cooag	geaylin	lheiney
+aghaue	cooinsheanse	geaysh	lhiabbee
+airh	corneil	geinnagh	lhiattee
+ard-chiarail	corree	geirr	lhong
+ard-chiarailys	craid	gless	lhuingys
+arg5	crammag	glion	liargagh
+ark	cray	glioon	lieckan
+armee	crea	greain	lioar
+astan	creagh	injeig	mair
+Baarle	creg	inneen	Mannin
+baarney	criy	jolg	Mayrnt
+bannish	crosh	jough	meain
+baskaid	crou	kart	mee
+binnid	cu(i)rtlagh	kay	meeyl
+bioys	cuishlin	kayt	meinn
+blein	cullee	keeagh	minjeig
+Boaldyn	cumrail	keeayl	moayn
+booa	curnagh(t)	keeil(l)	moidynys
+boyn	darrag	keeill	moyrn
+braag	dress	keesh	muc
+braddag	dullyr	keird	mwashag
+breag	eayst	keyll	nieunys
+breid	eggey	keyrrey	noidys
+brein	ellan	kemmyrk	Nollick
+brelleein	emshyr	Kingeesh	oaie
+buitch	eoylley	kiuney	oarn
+caisht	faasaag	koir	oashyr
+car-chuillag	fannag	laagh	oie
+carrick	firrin	laair	ommidjys
+cass	Gaelg	laare	ooir
+çheu6	gall	lheeannee	ordaag
+5 arg chonaant y Chiarn ×2; but arg conaant y Chiarn ×28, arg conaant Yee; this more frequent pattern with no
+lenition in the dependent illustrates suspended genitive.
+6 In the corpus, we find çheu twoaie and çheu jiass; but in the corpus twoaie and jiass as noun modifiers never
+lenite. We see hwoaie only in sheear-hwoaie, shiar-hwoaie, neear-hwoaie, niar-hwoaie, and my-hwoaie —all Cr;
+yiass only in my-yiass —Cr. and Ap.
+Wheeler
+Survey of grammatical gender in Classical Manx
+5
+paag	re-hollys	skynn	straid
+paitt	rollage	sleayst	tidey
+ping	sheh	slouree	traie
+piyr	shesheraght	smarage	trie
+preis(h)	shiaghtin	smock	uinnag
+queeyl	shuin	snaid	ushag
+quiggal	side	sooree	ymmyrch
+quing	skian	strah	
+The following nouns are not marked f. by Cregeen, but the corpus evidence favours such an assignment:
+callin f.
+claasagh f.
+coonceil f.
+coyrle f.
+halley f.
+mooiragh f.
+pleasal f.
+A few nouns have been identified that Cregeen marks m., but which are exclusively or predominantly
+f. in the corpus:
+Albin f.
+boggyssagh f. (–1)
+cagliagh f.
+cairys f.
+çhennid f.
+cosheeaght f.
+creesteeaght ‘communion’ predom. f. Quite
+a lot of creesteeaght casherick, alongside
+creesteeaght chasherick, but failure to
+lenite casherick is very common (as
+indeed, famously, in Yn Vible
+Casherick).7
+diunid f.
+eairk f.
+eaynee f.
+fenish f. (all the evidence for f. is in PC)
+frass f. PC
+genney f.
+gloyr f.
+gortey f.
+grian predom f.8
+guin predom f.
+niurin f.
+nuyr f.
+oyr f.
+pooar predom f. (1 each of yn pooar, CS, B;
+2×p(h)ooar gloroil(e) in PC, phooar
+gloyroil B; otherwise overwhelmingly f.
+price f.
+quaiyl f.
+shenndiaght f.
+shirveish f. (-2)
+Nouns exclusively or predominantly masculine, despite Cregeen’s label
+There are not a few cases where Cregeen gives f., but the corpus evidence suggests masculine or
+predominantly masculine:
+aigney m. (except for nyn	cree ×98; yn chree/’n	farg m.
+aigney villish ×1)	chree ×4; cree veg	feeackle m.
+assyl m.	×1)	floag m.
+berreen m. (un verreen	cryss m.	folliaght m.
+millish)	dewilys m.	grinney m.
+brashleid m.	doccar m.	hullad m.
+çhiamble m.	dooghys m. (except	irree m.
+coggyl m.	dooghys ghooie ×1)	jaagh m.
+conning m.	egin m.	jeelt m.
+cooill m.	ellyn m.	
+cree predominantly m.	ennal m.	
+(yn cree/y cree/’n	fainey m.	
+7 Consequently, in the remainder of this paper, casherick is discounted from evidence pointing against feminine.
+8 Cregeen: “grian, s. m. sun; pl. -yn. I have marked this word of the masculine gender; see Psl. xix. [5]: Ayndoo
+t’eh er hoiaghey cabbane son y ghrian; ta cheet magh myr dooinney-poosee ass e hiamyr, as goaill boggey myr
+dooinney lajer dy roie e choorse. ‘In them hath he set a tabernacle for the sun: which cometh forth as a bridegroom
+out of his chamber, and rejoiceth as a giant to run his course’; although common usage is against it.” [But the
+citation does not support Cregeen’s decision; the masc. possessive pronouns relate to dooinney-poosee
+‘bridegroom’ in the simile.]
+Wheeler
+Survey of grammatical gender in Classical Manx
+6
+leigh m. (leigh erbee	rouanys m.	sniengan m.
+hallooinagh ×1)9	saualtys m. (but hee ad	sonnys m.
+lessoon m.	dy-gerrit yn taualtys	sproght m.
+lhiy m. ‘colt’	eu Ap ×1)	stroin m.
+lhuss ~ luss ~ lus m.	saggyrtys m.	taitnys m.
+losserey m.	scammylt m.	thoyn m.
+louraanys m.	shaghrynys m.	tobbyr m.
+lugh m.	shawk m.	toghyr m.
+mirril m. (mirril wooar	shickyrys m.	toilchinys m.
+PC ×1)	shleiy m.	torcan m.
+oghsan m.	shlig m.	toyrt m.
+olkys m.	shoggyl m.	troar m.
+olt m.	skeeal m.	ughtagh m.
+ooh m.	slattag m.	
+oor m.	smug m.	
+Among the above list of words which Cregeen marks as feminine, but which the corpus suggests are
+masculine, are a fair number of abstract nouns in -ys. Cregeen appears to have held the belief that, in
+general, nouns in -ys were feminine, but this belief is not supported by the corpus evidence.
+However, the following abstract nouns in -ys are f., or predominantly f., in the corpus; they include
+several in fact marked as m. by Cregeen. (–1) indicates one exception in the corpus to f. marking by
+lenition.
+ard-chiarailys f. berchys f. (–1) bingys f. (–1) bioys f.(–1) briwnys (predom. f.)	caarjys f. (m. for	kenjallys f. (m. for Cr. Cregeen)	predom. f. kenjallys eulys f.	graihagh ×2) flaunys f. (m. for Cr.)	mieys f. (–1) goanlys f.	noidys f. ommidjys f
+A third Manx gender?
+An unusual pattern revealed in the corpus is that of a small number of nouns whose lenition usage is
+consistent with masculine, or predominantly masculine, gender classification, but which use the
+prototypically feminine genitive definite article ny. Such a recurrent hybrid pattern might justify the
+identification of a third gender class —call it neuter, to stick to the grammatical tradition with regard to
+‘third’ gender. The nouns in question are these, with their gender as assigned in Cregeen, and the
+constructions with ny observed in the corpus.
+annym m. ‘soul’ — noid ny hanmey, aker ny hanmey, lhee ny anmey
+cruinney m. ‘globe, world’— feiy ny cruinney (feih-ny-cruinney, feaï-ny-cruinney), sleih ny
+crooinney, cloan ny cruinney, ardjyn ny cruinney, runt ny crooinney
+eeast m. ‘fish’ — giat ny eeastee
+faill m. ‘wages, hire’ — fer ny faillee, fer-ny-failley
+farrarey ‘vigil’ — thie ny farrarey10
+fea m. ‘rest’ — traa ny fea
+feailley m. ‘festival’ — er shiaght laghyn ny feailley, laa ny feailley, lurg cliaghtey ny feailley,
+earish ny feailley, laa mooar ny feailley
+firrinys m. ‘truth’ — raad ny firrinys, feallagh ny firrinys, meillyn ny firrinys, goo ny firrinys.
+There is one case of firrinys vie.
+9 Thallooinagh ~ hallooinagh adj. is aberrant; the lenited form appears after m. nouns (mess hallooinagh, Ree
+hallooinagh, briw hallooinagh), as does the lenited gen. of thalloo: hallooin.
+10 Farrarey, as a verbal noun, ought to be masc.
+Wheeler
+Survey of grammatical gender in Classical Manx
+7
+gerjagh m. ‘comfort’ — Mac ny gerjee, Fer-ny-Gherjagh ×4 (NB aberrant ny + lenition here).
+One case of y gherjagh (nom.)
+giat m. ‘gate’ — dooney ny giattey,11 beeal ny giattey, raad ny giattey, shamyryn beggey ny
+giattey, pillaryn ny giattey, porch ny giattey
+leoie f. ‘ash’, but joan as leoie peccoil, leoie colbagh suggest m.— thorran ny leoie
+magher m. ‘field’ — blaa ny magheragh B ×3, lilleeyn ny magheragh B. There are numerous
+examples of the ‘normal’ m. genitive of magher, either y(n) vagher, or y(n) vagheragh.
+It may rather be that ny magheragh is intended as gen. pl., though the English in the
+Bible passages so rendered has ‘field’ (×3), or no literal correspondent. 12
+mairagh m. ‘tomorrow’ — laa ny vairagh ×5; y laa mairagh ×5. (NB aberrant ny + lenition
+here13).
+mollaght m. ‘curse’ — cloan ny mollaght ‘cursed children’ B. The pattern of this construction
+is unclear. In bee’n ven ny mollaght mastey’n pobble eck, ny mollaght is predicative.
+Might this be the source of cloan ny mollaght too? 14
+shee f. ‘peace’, but the lenition evidence, except for nee yn chee eu tannaghtyn er ×1, suggests
+shee is m.— mac ny shee, Jee ny shee B
+ynrickys f., but the lenition evidence suggests m.— raad ny hynrycys CS
+Variable gender
+The starting point for this investigation was variability in gender, as revealed in a corpus of Classical
+Manx texts. In addition to the variability among the examples mentioned up to this point in the paper,
+the following table assigns variable items to one of six classes:
+•	Almost exclusively f. — >90% of evidence pointing towards f. gender (at least 10 pieces of
+relevant evidence required).
+•	Predominantly f. —67-89% of evidence pointing towards f. gender. Just a few of these items
+are marked m. by Cregeen.
+•	Variable —34-66% of evidence pointing towards f. gender. Some of these items may be of
+hybrid gender (see below).
+•	Predominantly m. —67-89% of evidence pointing towards m. gender. Several of these items
+are marked f. by Cregeen.
+•	Almost exclusively m. — >90% of evidence pointing towards m. gender (at least 10 pieces of
+relevant evidence required).
+•	Variable items with fewer than four pieces of relevant evidence.
+Where the predominant gender usage in the corpus differs from Cregeen’s gender assignment, the latter
+is indicated in parentheses.
+11 Could ny giattey possibly be masc. gen. pl?
+12 Magher was originally neuter (in Old Irish) —the cognates become Masc. in Irish and fem. in Scottish Gaelic,
+with Manx ny magheragh parallel to Sc. G. na machrach. [Christopher Lewin]
+13 ‘This is a partial reanalysis of lá iar n-a bhárach ‘day after its morrow’, (eDIL s.v. bárach) > Mod. Ir. lá arna
+mhárach, Sc. làrna mhàrach). Manx has deleted the r.’ [CL]
+14 ‘Maldacht and bendacht (< Latin) are both feminine in Old Irish (eDIL). Dwelly gives both mallachd and
+beannachd as feminine in Scottish Gaelic. Dinneen has mallacht as feminine but beannacht as variable in Irish.
+They seem to be mostly masculine in Manx, but cloan ny mollaght could well be a relic of former feminine gender,
+or evidence that it was synchronically variable, or indeed a genitive plural, as you suggest. It is worth noting that
+in Scottish Gaelic it is common to place na mallachd ‘of the curse’ after nouns in imprecations, roughly in the
+sense ‘bloody X!’. The DASG corpus turns up some interesting results of this with code-mixing, including closet
+romantic na mallachd, redheads na mallachd and short-arse na mallachd!’ [CL]
+Wheeler
+Survey of grammatical gender in Classical Manx
+8
+Words of variable gender					
+f. 90–100%	Predominantly f. 67-89%	Variable, less than 2:1 preference 34-66%	Predominantly m. 67-89%	m. 90–100%	Variable <4 relevant witnesses
+ben briwnys cloan cooid cooish dellal earish fuill geay genney (Cr. m) gortey (Cr. m) jymmoose laue peesh	awin ayrn (Cr. m.) barriaght bea beishteig berchys bondiaght çhengey clagh cleaysh colbagh cooyrt cragh creenaght cuirtlagh dobberan eash eddin errey feill geill (Cr. m) grian (Cr. m) griu lorg (Cr. m) maynrys moidyn moir mooinjer myghin obbyr olk ollan ooil scansh sharvaant (hyb) shlingan shuyr slatt slaynt soddag sooill	aggair agglish bree buildal çheer15 çhibbyr cliwe (hyb) daanys eunys fainagh foill fouyr (hyb) fys glare goayr graih grayse molteyrys mooir16 padjer (hyb) palchey (hyb) pian plaase (hyb) saynt (hyb) shamyr (hyb) sheshaght shioltane stayd	arrey arrys bodjal coau (Cr. f) coraa (Cr. f) craue (Cr. f) credjue dooghys (Cr. f) faarkey faiyr (Cr. f) frankincense leagh ooashley oural plaiynt seihll (Cr. f) sharmane theay (Cr. f) toiggal tushtey undin vondeish ymmyd	ynnyd (Cr. f) (except ynnyd- v(e)aghee)	ashlish baatey bingys boandyr caardys carriads çheet-stiagh duillag enney feaynid foddeeaght maarderys madran marranys oard ollagh onnane osney pash pishyr ribbey roih schlei shallid shelliu shibber shleayst streean streebagh strooan thooilley traartys treihys trughanys
+Words of hybrid gender
+In a few lexical items, the three leniting contexts relevant to gender marking give strikingly different
+results. These are indicated with (hyb) in the table above, and the complete table of evidence that
+follows. For example, sharvaant ‘servant’ almost always shows Type 2 lenition after the definite article:
+15 Variable gender in Manx reflecting Old Irish neuter gender.
+16 Variable gender in Manx reflecting Old Irish neuter gender.
+Wheeler
+Survey of grammatical gender in Classical Manx
+9
+y(n) çharvaant, which would imply feminine gender (as Cregeen records). However, after this word no
+dependent items are lenited (though the cases are few). Cliwe ‘sword’ shows variable lenition after the
+definite article, but again no dependent elements are lenited. Fouyr ‘harvest’ looks like m. in the definite
+nom./acc., but predominantly f. in respect of the lenition of a dependent adjective or noun, and shows
+some examples of f. def. genitive ny fouyr. The other hybrid items are padjer, palchey, plaase, saynt
+and shamyr.
+A striking example of a word of balanced variability that is not hybrid is sheshaght; that is, it is gender-
+variable in all its contexts. It is also very frequent. ‘War-band, host’ is sheshaght chaggee ×109,
+sheshaght caggee ×82.
+An unusual case is ynnyd ‘place’. Though Cregeen calls this word f. it is in fact m. almost exclusively
+in the corpus, with the exception that, in the lexical expression ynnyd-vaghee (or ynnyd-veaghee)
+‘dwelling place’ its depdendent is lenited as if it were f.
+Wheeler
+Survey of grammatical gender in Classical Manx
+10
+Table of Classical Manx corpus data relating to grammatical gender
+In purple: non-lenited coronal consonants; in yellow, lenited coronal consonants in contexts that might have been liable to homorganic inhibition.
+f., m., in yellow: Cregeen’s gender assignments that are not supported by the corpus data.
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+aer	air	f		/			yn air vannee, syn air ghiall, yn nair wooiagh, yn air ghlass hianney, aire villish, aire ghlen, aire hollys, aer sollys, aer veeley, (aer feayn foshlit)
+aggair	wrong	m		zx			aggair vooar ×2 aggair mooar ×2
+agglish >f 9:5 + ny	church	f		zx	z	z	jeh’n Aglish Chreestee, Agglish ghloyroil (2) Ag(g)lish creestee ×4, Slane Aglish Casherick, [Agglish casherick ×22], Agglish gloyroil, *Agglish chasherick (5) Aglish Hoghsyn, Agglish chaggee (2) Briwnys ny Haglish, laghyn trosht ny Haglish, mean ny hAgglish, sheshaght ny hAgglish, fir-reill ny hAgglish
+aghaue	hemlock	f		z			Ta’n aghaue veg shuyr da’n aghaue vooar
+aigney	mind	f		/1X	X		nyn aigney villish aigney casherick, aigney seihltagh, aigney creeoil, aigney booiagh, aigney bannee, aigney mie, aigney graysoil, aigney bannit, aigney glen, aigney sheelt, aigney braaragh, aigney graihagh, aigney seiyr, e haigney mooar, aigney meen, aigney beasagh, aigney giastyllagh, aigney controllee, aigney siyragh aigney peiagh elley
+airh	gold	f		z			Airh wuigh as palçhey j’ee, air wee, airh ghlen airh-hallooin
+Albin	Scotland	m		z		z	ayns Nalbin veg Kione ny hAlbey
+annym	soul	m		X		z	dooghys yn annym beayn, my annym booisal, dy ve ny annym bio, annym goanlyssagh, annym mee-chredjueagh, annym gastey, annym seaghnit, annym tooillit, annym trimshagh noid ny hanmey, aker ny hanmey, Lhee ny anmey
+ard-chiarail	providence	f		z			ard-chiarail ghraysoil, ard-chiarail vie
+Wheeler
+Survey of grammatical gender in Classical Manx
+11
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+ard-chiarailys	providence	f		z			ard-chiarailys vie
+arg	ark	f			z		arg chonaant y Chiarn ×2 arg conaant y Chiarn ×28, arg conaant Yee
+ark	piglet	f			z		arg-vuickey
+armee	army	f		z			armee vannee
+arrey >m 5:1	watch	m		zx			arrey chiaralagh AG arrey geiyr PC×2, arrey geyre TW×2, arrey gyere Ap
+arrys >m 5:1	repentance	m		X	z		arrys sharroo ×3, arrys creeoil CS ×3 BCP ×2, arrys traa ×4 arrys pheccee TW
+ashlish >f 2:1	dream, vision	f		zx			ashlish ghloyroil ×2 ashlish bannee PC, (ashlish foalsey, ashlish fardalagh, ashlish flaunyssagh, ashlish feiyjagh) ashlish dreamallyn
+assyl	ass	f		X			feed assyl bwoirryn, daa assyl jeeltit, queig cheead assyl bwoirryn, yiow shiu assyl kianlt, yn assyl balloo
+astan	eel	f				z	coar-ny-hastan
+							
+awin >f 6:1 + ny	river	f		zx		z	awin vooar ×6 owin sollyss glass, awin mooar B cabbag-ny-hawin, broogh ny hawin, oirr ny hawin, ushtey ny hawin
+ayrn >f 6:2	part	m		zx			ayrn vooar, ayrn wooar, ayrn vie ×4 ayrn cooie PC, ayrn giare, (ayrn casherick ×5), ayrn fardalagh, ayrn dooble ×3, va ayrn cloan Reuben, ayrn cloan Yudah,
+Baarle	English language	f	/				liettal y Vaarle, ta’n Vaarle glare chadjin
+baarney ~ barney	breach	f	z	z			y varney veayl
+baatey >m 2:1	boat	f	X	z			goiall stiagh yn baatey, lhiggey yn baatey baatey vie (Coayl ny baatyn-eastee)
+Wheeler
+Survey of grammatical gender in Classical Manx
+12
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+bannish - banshey	wedding	f	/			z(X)	ta’n vannish aarloo shiaghtin ny banshey, laa ny banshey, thie ny banshey shiaght laa yn vannish
+barriaght >f 7:1	victory	f	z	zx			y varriaght y gheddyn, geddyn yn varriaght, coyrt da yn varriaght, chosney’n varriaght barriaght ghloyroile, barriaght vooar ×3 lheid y varriaght mooar
+baskaid ~ baskad ~ basked	basket	f	z	z			baskaid-wuigh, yn vaskaid wee
+bea >f + ny	life	f	z	zx	zx	z	gialdyn dooin y vea, tra aagys shin y vea shoh bea veayn ×8, bea vie ×5, bea chrauee ×28, bea vee-rioosagh, bea vee- chiarailagh, bea gherjoilagh, bea heelt, bea chairal, bea chreestee ×3, bea chercheenagh, bea ghlen, bea pheccoil, bea hrimshagh (55) bea crauee ×5, bea meerioosagh, bea sheelt ×3, bea feagh as sheeoil, bea mee- chrauee, bea cooie, bea Creestee ×5 TW, bea seaghnagh (13) bea ghooinney elley, bea gheiney elley (2) bea dooinney goan ny bea
+beishteig > f 6:1	reptile	f	z	zx			nagh vel y veishteig…geddyn baase, ta’n veishteig sloo, nee yn veishteig ad y ee, cha vow yn veishteig oc baase yn veishteig vergagh, beishteig valloo beishteig bio
+Wheeler
+Survey of grammatical gender in Classical Manx
+13
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+ben >f	woman	f	/	zx	zx		honnick mee yn ven-aeg, vannaghey yn Ven-reïn, choyrt cooidjagh yn dooinney as y ven ben Vaarlagh, ben phoost, ben-reaylt, ben-vraeu, ben ghennal, ben ghre(as)sag, ben veeagh, ben veeoil, ben horragh, ben hreoghe, ben chreeney as vie, ben gheadagh [= ben eadagh], ben veshtal, ben ghraysoil, ben vie, ben yoarree, ben chreeney as tushtagh, ben whuaagh, ben veeal(l)eragh, ben vaarderagh, ben voght treoghe, ben pheccoil, ven veeallagh, ’n ven ghennish ben treoghe, ben-seyr, ben torragh, ben sheeoil, ben crauee, mac ben joarree, ben dwoaiagh, ben coamrit lesh y ghrian ben heshey, ben vanshey, ben aaishnee, ben chee, ben-chleuin, ben ghoal, ben phoosee, ben-varrey, ben-vooinjerey, ben chorrey, ben-ghiallee, ben ghooinney elley, ben ghooinney erbee ben-jee, ben-thie, ben dooinney elley, ben mac dty vainshtyr, ben shuyr e ven, ben faishnee
+berchys >f 12:3	riches	f	z	zx			shoh yn verchys mooar, keiltyn yn verchys eck, er gheddyn ooilley yn verchys shoh, va’n verchys oc ny smoo, er chosney’n verchys berchys vooar BCP, berchys vie Ap, verchys vooar B ×3, cre ta’n verchys ghloyroil B berchys beayn B, berchys keillit
+berreen	cake	f		X			un verreen millish
+bingys	music	f		z	X		bingys villish Ap bingys kiaullee Ap, ayns bingys deiney as mraane kiaullee B, bingys tabretyn B
+binnid - binjey	rennet	f				z	lus ny binjey
+bioys	life	f	z	X	(X)		Cha vel yn vioys echeysyn, dy vel y vioys echeysyn kainlt son y vioys mooar-leagh bioys dooinney erbee, bioys deiney, my vioys deyr, dty vioys doaltattym
+blein	year	f	z	z		z	te laa eulys y Chiarn, as y vleïn son goaill cooilleeney, yn vlein cheddin..., yn vlein er giyn, yn vlein shen blein vishagh, blein vishee, blein vie noa earishyn ny bleeaney, imbaghyn ny bleeaney, jerrey ny bleeaney, toshiaght ny bleeaney, cour ny bleeaney, kione ny bleeaney, laghyn ny bleeaney
+Wheeler
+Survey of grammatical gender in Classical Manx
+14
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+Boaldyn	May	f				z	mee ny Boaldyn
+boandyr	nurse	f		Z(X)	X		nyn mondyr ghooie PC boandyr shast boandyr kee
+bodjal >m 5:1	cloud	m	zx	X			tra hrog y vodjal a’n bodjal trome lheie ersooyl, skeayley’n bodjal, ren mee yn bodjal y yannoo bodjal doo, bodjal chiu, bodjal dorraghey, er bodjal bieau, bodjal gial
+boggyssagh >f	boasting	m	zx	z			myr shen ta’n voggyssagh ain, er aggle dy beagh yn voggyssagh ain jiuish ayns fardail lheid y voggyssagh voyrnagh Cha vel y boggyssagh euish mie
+bondiaght > f 4:2 + ny	captivity	m	zx	zx	zx	z	Son cha bee’n vondiaght ain er ny leeideil gys foayr livrey-ym shiu veih’n bondiaght oc [sic] bondiaght vooar, veih’n vondiaght ghewil bondiaght creoi, bondiaght dewil bondiaght phecca TW bondiaght peccah B thie ny bondiaght ×16
+booa - baa	cow	f	z	z	z	z	nagh beagh y vooa myr sheshey cooie, Cha nee yn wooa smoo eieys smoo vlieaunys booa vie booa vluight, booa ghoayn, booa hiast, booa vainney eeym ny baa
+boyn	heel	f	z				nee uss broo yn voyn echeysyn
+braag	shoe	f	z				c’raad ta’n vraag gortagh eh
+braddag	caterpillar	f	z				my vees y vraddag ayn, ta’n vraddag er n’ee
+brashleid	bracelet	f	X	X			ghow mee yn crown v’er e chione, as y brashleid v’er e roih bracelet costal
+breag	lie	f				z	t’eh ny breagerey, as ayr ny breagey
+Wheeler
+Survey of grammatical gender in Classical Manx
+15
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+bree > m 8:5	vigour	m	zx	X	zx		ghow Judith ... yn vree ass Ap, nagh vel Yeesey Creest er choyrt yn vree cheddin TW, scarrey yn Vree BCP, gennaghtyn y vree B (= e vree?) (4) S’mooar y bree t’ayns padjer, bee yn bree echey myr feeyn Lebanon, mannagh vel yn bree mie shoh. vre’n bree mie v’ec yn aght (4) bree cairal, bree mie, bree mooar (3) bree-hiass ny greiney bree Credjue
+breid	veil	f	z				cur lhiat y vreid ta ort
+brein	womb	f	z	z			fosley’n vrein, Nee’n vreïn eshyn y yarrood, dooney seose yn vrein brein ghennish
+brelleein	sheet	f		z			brelleein vooar ×2
+briwnys	judgement	f	z	zx	(X)	z	nee eh shin y vriwnys, cre vees y vriwnys shen, dy vodym y vriwnys aglagh shoh y haghney, Nagh vod y vriewnys skeirey orroo pliant, Uss, cheayll ... y vriwnys &c veih’n vriwnys hrome, yn vriwnys gherjoil, clashtyn rish y vriwnys hrimshagh shen briwnyss khiart, trooid briewnys gheiyr PC gys briewnys geiyr PC, dty vriewnys kiart, yn vriwnys trome-agglagh briwnys deiney, briwnys dooinney laa ny briwnys
+buildal = 3:3	building		zx	z			cre’n vuildal t’ayns shoh!, Vel oo fakin y vuildal vooar shoh? y buildal lesh ny voallaghyn, Nish yn buildal va kiongoyrt rish yn chlose, va’n buildal goit stiagh
+buitch	witch	f	z	z			y wutch vrinnagh, buitch vooar
+caardys	kindred	m	zx				dy vrishey yn chaardys B cre’n caardys B
+caarjys	relationship	m	z				cre’n chaarjys t’ec chiamble Yee
+cagliagh	frontier	m	z				y chagliagh, ‘n chagliagh passim cagliagh cloan Ammon, cagliagh cloan Ephraim, cagliagh cloan Dan
+Wheeler
+Survey of grammatical gender in Classical Manx
+16
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+cairys > f + ny	justice	m	/	X	zx	z	cre’n chairys, Ta’n chairys ayds cairys dy bragh farraghtyn, er hoilshaghey yn chairys ain, ooilley’n chairys t’eh er n’yannoo, Dy vel ny Ashoonee nagh ren, jannoo yn vee-chairys gys cairys dy jarroo yn chairys ta liorish credjue, dy hoiaghey seose yn chairys oc hene, ta Moses soiaghey roin yn chairys, ta’n chairys ta liorish credjue loayrt, yn chairys shen ta veih Jee, she dhyts ta'n chairys huic bentyn, yn chairys dy votal, lhissagh yn chairys sho ve ec dagh cummaltagh, Veagh ec yn sleih yn chairys dy reigh, livreyee yn chairys echey ad gys coayl-anmey, foddee’n chairys shoh ve caillit cairys kiart, cairys geyre Yee mee-chairys pheccee cairys grunt oanluckee, cairys pobble y Chiarn, mee-chairys thie Yudah, cairys dooinney, cairys credjue, cairys cummaltee ain raad ny cairys, Ree-ny-Cairys PC
+caisht	Easter, Passover	f	z			z	freaylley’n Chaisht, dreill ad y chaisht feailley ny Caisht, laa aarlaghey ny Caisht
+callin	body		z	z		(X)	eshyn hroggys y challin oc, dy chummal seose yn challin callin vie shirveish y challin, slaynt y challin
+car-chuillag	gnat	f	z				sheeley veue yn char-chuillag
+carriads	burden, carriage(s)	f	zx				y charriads va’n carriads eu trome laadit
+carrick	rock, fortress	f	z				Bee yn charrick myrgeddin goit
+cass - coshey	foot	f	z	z		z	nee’n chass oc skirrey, chamoo datt y chass oc, dy vod y chass ad y vroo cass vrisht, e chass yesh, e chass chiare boyn ny coshey
+çheer - çheerey > m 25:17 (+ ny)		f		zx	z	z	cheer Chreestee ×6, cheer yoarree ×7, cheer vie ×3 (16) cheer mee-chrauee, ayns mean cheer kiarit son toyrt-mow, cheer messoil ×8, cheer mie ×15 B, cheer joarree ×4 (25) cheer yoarreeaght e ayrey leighyn ny cheerey, pobble ny cheerey, briw ny cheerey, jeeghyn ny cheerey
+Wheeler
+Survey of grammatical gender in Classical Manx
+17
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+çheet-stiagh	income	m		^X			cheet-stiagh vooar cheet-stiagh mooar
+çhengey >f 26:4	tongue	f		^X	^	(X)	chengey vreagagh ×5, lus y chengey veg, chengey ghooble, chengey veeley ×3, chengey villish, chengey voandagh, chengey vee-reiltagh, chengey gherjoilagh, chengey yoarree ×9, chengey volteyragh (24) chengey molteyragh, chengey brynneragh, (chengey foalsey), chengey moandagh ×2 (4) chengey chooyl-chassee, chengey chooyl-chassidagh goo yn chengey, gah yn chengey, builley yn chengey, ribbey yn chengey scammyltagh
+çhennid	tightness	m		^			chennid vooar, chennid ghyere
+çheu	side	f		^	^	(X)	cheu chiare, cheu yesh cheu chooylloo (cheu twoaie, cheu jiass) buird y cheu elley
+çhiamble	temple	f		X	X		(chiamble casherick), dty Chorp y reall ny hiamble glen, chiamble cooie chiamble cabbane-agglish
+çhibbyr = 3:2	well	f		^X	^		veih’n chibbyr ghlen, gys y chibbyr vooar chibbyr brisht, chibbyr glast chibbyr gheill
+claasagh	harp		/	^			goaill y timbrel as y chlaasagh, y chlaasagh villish
+clagh - cloaie >f 47:8	stone	f	^	^X	^X		y chlagh-wyllin, yn chlagh ta fer dy hilgey, y chlagh onyx, ghow eh yn chlag clagh chruin, clagh vane, clagh ghlass, clagh hrome phrowalagh, clagh ghravel, clagh vooar ×9, clagh chostal ×2, clagh phrowit, clagh(-) chorneilagh ×12, clagh hrome, clagh-hoit ×3 clagh-shleeuee, clagh cadjin, clagh berchagh, clagh cleiyt fegooish laueyn, clagh grainnit, clagh bio, three roaghyn dy chlagh cummit, yn chlagh goit ersooyl, clagh-chorneilagh costal clagh(-)wyllin ×8, ny s’creoi na’n chlagh chloaie, y chlagh-vullee clagh blieh-meayn
+Wheeler
+Survey of grammatical gender in Classical Manx
+18
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+cleaysh >f 21:4	ear	f	^X	^X		(X)	ta’n chleaysh eadolagh, nagh vel y chleaysh…, tra ren y chleaysh…, ta’n chleaysh…, eshyn ren y chleaysh…, yn chleaysh ta coyrt geill, ta’n chleaysh oc…, giare eh yn chleaysh jeh, my jir y chleaysh (9) yn cleaysh ta clashtyn, yn cleaysh lesh clashtyn (2) cleaysh vouyr ×2, cleaysh vour, baare cleaysh yesh +Gen ×3, chleaysh yesh ×5 (11) cleaysh beasagh, gys y chleaysh beasagh, *veasagh (2) baare y chleaysh yesh
+cliwe hybrid	sword	f	^X	X	(X)		As ver-yms lhiam y chliwe erriu, va tayrn y chliwe ×6, kuse fardalagh jeusyn scaap-ys y chliwe, ta er scapail yn chliwe, son cummal y chliwe (10) Yn cliwe ghoyms, my jig y cliwe, oddys y cliwe barriaght ’gheddyn, lhiannys y cliwe, Vel yn cliwe ry-hoi stroie, ta’n cliwe stroie, na ren y cliwe, huitt y cliwe ass, ver-ym yn cliwe (9) cliwe gyere Ap, B×6, cli(w)oo gei(y)r PC×4, c(h)liwe sollys B×3, cliwe shleeuit ×2, cliwe mooar cliwe cloan Israel
+cloan - clienney >f 104:3	children, descendants		^	^X	^(X)	^	geeck y chloan chrauee, yn chloan gyn-ayr, y chloan oc, va’n chloan oc, y chloan oc-hene, yn chloan eck, nee’n chloan plaiynt, ta’n chloan oc, y chloan veggey, ren y chloan, va’n chloan chairal (11) cloan chrauee ×6, cloan chercheenee, cloan chappee, cloan veggey ×28, cloan vee-cheeayllagh ×2, chloan vee-viallagh, cloan volvaneagh, cloan vreagagh, cloan yoarree ×7, y chloan chairal ×5 cloan biallys, cloan bannit, cloan biallagh, cloan dooie, cloan deyr-graihagh, cloan dwoiagh, cloan sauchey, cloan treigit cloan chlienney ×3, cloan gheiney ×48 cloan cappeeys Yudah, cloan deiney ×1 arran ny clienney, broooillagh ny clienney, cloan ny chlienney
+coau >m 9:2	chaff	f	^X	X			loshtee eh yn choau ×2 myr y coau ×6, stroie yn coau, cre ta’n coau, agh yn coau nee eh y lostey coau sheebit
+Wheeler
+Survey of grammatical gender in Classical Manx
+19
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+coggyl	cockle, tare	f	X				ta’n coggyl t’ayn, haink y coggyl, gaartlian yn coggyl, chymsee-jee… yn coggyl, y coggyl cloan y drogh-er, ta’n coggyl er ny haglym
+colbagh >f (–1)	heifer	f	^	X			lostey yn cholbagh, va’n cholbagh losht, ver … lhieu … yn cholbagh, myr yn cholbagh colbagh kione-lajeragh
+conning	rabbit	f	X				As y conning, ga dy vel eh caigney cheeilley ×2
+cooag	cuckoo	f	^				y chooag ×2
+cooid >f	goods	f	^	^X	^X		yn chooid ×125, y chooid ×182 (incl PP, gen) cooid-vooar, cooid gheddit, cooid chailjey, cooid wooar, cooid heihltagh, cooid chostal, cooid verchagh, cooid chasherick ×9, chooid-heihlt ×12 (TW) cooid cosnit ×3 dy aggairagh, cooid-seihlt ×21, (cooid casherick ×3) cooid ghooiney elley/erbee ×6, cooid varchan, cooid hallooin cooid dooinney frioosagh
+cooill	hiding place	f	X	(X)			yn cooill dorraghey shen
+cooinsheanse	conscience	f	^	^	^(X)		creoghey yn chooinsheanse, ta’n chooinsheanse annoon cooinsheanse veiygh, cooinsheanse vie, cooinsheanse ghoostit, coonsheanse ghlen errey chooinsheanse seaghnit, (cooishyn chooinsheanse, shee neu-sauchey chooinsheanse, guin chooinsheanse ×4 TW) cooinsheanse ghooinney elley cooinsheanse dooinney
+cooish >f	cause, matter	f	^	^X	^X		ta’n chooish bentyn, er vriwnys y chooish shoh, goail seose y chooish, ghoaill y chooish shoh, &c cooish yeeragh, cooish ghoccaragh, cooish vie, cooish chairal, y chooish hrome cooish mooar caggee, dy chooilley chooish doillee, y chooish doillee cooish ghiastyllys, cooish chair yn ymmyrchagh, cooish chassid, yn chooish vriwnys cooish briwnys, cooish pobble ny Hewnyn, cooish princeyn Vabylon
+coonceil	council		^				ooilley yn choonceil, shiuish as y choonceil
+Wheeler
+Survey of grammatical gender in Classical Manx
+20
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+cooyrt - cooyrtey >f 13:4 + ny	court, yard		zx	zx		z	woaill y chooyrt aym’s, soiaghey seose yn chooyrt, hrog eh yn chooyrt ×2, lhieeney yn chooyrt, howse eh yn chooyrt, y chooyrt ta cheu-mooie ren eh yn cooyrt, va’n cooyrt lane, y cooyrt reeoil va’n chooyrt vooar, ren eh ... y chooyrt vooar lesh yn chooyrt vooar ren Solomon yn chooyrt meanagh giat ny cooyrtey, dorrys ny cooyrtey
+coraa >m 8:2	voice	f	zx	zx	X		nagh row yn choraa eck er ny chlashtyn er chur ny host … yn coraa vooar, cheayll mee yn coraa coraa gennal, coraa dorraghey ×4, coraa kiune, coraa gloyroil, coraa treih- hrimshagh, coraa joarree, coraa mooar ×2 coraa bingys, coraa bioee, coraa dooinney, coraa boggey
+corneil	corner	f	z				veihsyn haink yn chorneil (da’n corneil eck) corneil dorraghey
+corree	anger	f	z				fer ta coyrt y chorree er
+cosheeaght	walking	m		z			ayns cosheeaght hionn, cosheeaght vie
+coyrle	advice		z	Z(X)			bee’n choyrle, cre’n choyrle coyrle vie, coyrle yiare, coyrle youylagh, coyrle yeean, coyrle chreeney, coyrle villish, coyrle chroutagh coyrle dooie
+cragh >f	destruction, spoil	f	zx	zx	X		stroiee eh yn chragh, ta’n chragh er jeet, ooilley’n chragh, hug ad lhieu ny cappeeyn, as y chragh, dy row’n chragh cha faggys, ta’n chragh stroie, hig y chragh orroo, rheynn y chragh, dy ghoaill y chragh, Ta’n chragh cheet, dy hayrtyn y chragh, skeayley yn chragh, va’n chragh ren eh (13) cre’n cragh TW, (roish yn cragh s’jerree TW), (veih’n cragh Ap) cragh vooar, cragh hrome (2) cragh dewil ×2, c(h)ragh trome ×7, cragh paittoil, cragh baasoil, cragh baaish, cragh caggee (4)
+craid	mockery	f				z	stoyl ny craid craid dewil
+Wheeler
+Survey of grammatical gender in Classical Manx
+21
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+crammag	snail	f	/				y chrammag
+craue >m (–1)	bone	f	^X	X	(X)		hilg eh yn chraue ass freayl y craue glass craue cam PC, creau beg PC (gys y craue, jeh’n craue) craue dooiney ×2, rish y chraue drommey
+cray	clay	f	^	^			myr ta’n chray, cummey yn chray, tempreil yn chray vog
+crea	creed	f	^				genmys yn Chrea, abbyr y Chrea, ta’n Chrea cooney lhien, gynsaghey yn Chrea, credjal y Chrea
+creagh	stack	f	^				ta’n chreagh echey, neem’s … yn chreagh
+credjue > m 92:21	faith	m	^X	^X			nagh bee’n chredjue ainyn BCP, goail-rish Hene as y chredjue echeysyn TW, Foddee sleih goail-rish yn Chredjue Chreestee TW, ta Jee, yn chredjue, as e annym TW, er treigeil yn chredjue TW, ta goail orroo yn chredjue TW×2, Cre’n chredjue t’eh jeh Cr., niartaghey sodjey yn chredjue BCP (9) er n’ynsagh yn Credjue Creestee; yn credjue ×37; y credjue (in CS ×9 in PP or lheid!, and ×4 in Bible), ta’n credjue shoh, niartee yn credjue, ta’n credjue ×7, vel y(n) credjue ×5 (52) Credjue Chreestee ×12 Credjue Creestee ×37, dy chredjue moal, y credjue cairagh, yn credjue cadjin
+cree >m	heart	f	^X	^X			lheid shen as ta glenney yn chree, neem’s yn chree echeysyn y chreoghey, ta ooil … ooraghey yn chree, ta glenney’n chree (×4) chyndaa yn cree, doostey yn cree, bee yn cree, gow yn cree ((y)(n) cree ×98) cree veg cree mie, cree brisht, cree booisal, cree glen, cree tushtagh, cree sheelt, cree kiarailagh, cree jeeragh, cree molteyragh, cree dooie, cree meen, cree boggoil, cree mooar, cree mooaralagh, cree gennal, cree dooble, cree condaagagh, cree maynrey, cree daaney, cree ching, cree sondagh, cree bannee-boggoil, cree tastagh, cree creeney, cree camlaagagh, cree siyragh cree dooinney
+Wheeler
+Survey of grammatical gender in Classical Manx
+22
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+creenaght >f 5:1	wisdom	f	zx	z	z		cre’n chreenaght, cur dooys yn chreenaght, dy nee yn chreenaght ain eh Yn creenaght flaunyssagh Met creenaght vooar chreenaght chree creenaght dooinney, creenaght deiney
+creesteeaght ~ creestiaght	communion	m	zx	Z(X)			goaill yn chreestiaght ×8, dy vel y chreestiaght, goaill y(n) Chreesteeaght goaill yn creestiaght casherick c(h)reestiaght chasherick ×10, c(h)reesteeaght chasherick ×4 (CS) (c(h)reestiaght casherick ×3 (AG), c(h)reesteeaght casherick ×2 (CS) obbal y chreesteeaght casherick CS, ghoaill y chreesteeaght casherick CS)
+creg - creggey	rock	f	z	z	z	z	cha vel … yn chreg cha creoi, chleiy eh yn chreg chreoi, bwoailley’n chreg creg vooar, er y chreg chreoï creg chloaie baare ny creggey, guaggyn ny creggey, scoltaghyn ny creggey
+criy	gallows	f	z				ta’n chriy
+crosh - croshey	cross	f	z	z		z	ymmyrkey yn chrosh, yn chrosh aggairagh, dy ghoail seose yn chrosh, trog y chrosh crosh vooar cowrey ny croshey, billey ny croshey, scammylt ny croshey, baase ny croshey
+crou	iron shoe	f			z		crow-cheyt
+cruinney hybrid	globe, world	m	X			z	she’n ghriean yn crunney smoo feiy ny cruinney, sleih ny crooinney, cloan ny cruinney, ardjyn ny cruinney, feih- ny-cruinney, feaï-ny-cruinney, runt ny crooinney
+cryss	belt, girdle	f	X		X		yn cryss ×4, ’n cryss ×3 cryss ben aegey, chryss-caggee, chryss-soillee
+cu(i)rtlagh	reed	f	z	zx	z		yn chuirtlagh, ghow ad y chuirtlagh, Ny brish y chuirtlagh vroojit cuirtlagh vroojit, er chionnaghey cuirtlagh villish Nee cuirtlagh criht lesh y gheay? curtlagh-vuck
+cuishlin	vein	f		z			cuishlin vooar
+Wheeler
+Survey of grammatical gender in Classical Manx
+23
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+cullee	banner	f	/	z	z		va’n chullee reeoil cullee ghoo, cullee champ Ephraim, cullee champ Dan cullee camp cloan Ephraim, cullee camp cloan Yudah
+cumrail	hindrance	f	z				cre’n chumrail
+curnagh(t)	wheat	f	z				cha row’n churnagh … naardey, dy n’astyrt shiu yn churnaght
+daanys	boldness	f		zx			daanys vooaralagh B, daanys vooar FRC, daanys vee-hushtagh Manx Sun 20/12/1845 danys mooar PC, t’yh daanys mooar TW
+dellal >f 10:1	dealing			zx	z		dellal yeeragh ×4, dellal volteyragh ×2, dellal vie ×3 dellal mie dellal vraarey
+dewilys	cruelty	f		X			dewilys creeney
+diunid	depth	m		z	(ZX)		diunid vooar ×17, diunid ghoo ×2, diunid veayn diunid hallooin diunid thallooin
+dobberan >f 5:1	lamenting	f		zx			dobberan hrimshagh B×4, dobberan hreih Ap dobberan trome B×2, dobberan sharroo, dobberan mooar B
+doccar	toil	f			X		doccar-coraa
+dooghys >m 6:1	nature	f		zx			dooghys ghooie dooghys sollys, creeney, glen, dooghys beayn, dooghys trimshagh, thostagh, dor’ghey, dowin, dooghys mie ×4, dooghys marvaanagh
+dress	bramble, briar	f		z			dress yialgagh
+duillag	leaf	f		zx	z		duillag villish duillag criht duillag pharick
+dullyr	darkness	f		z			dullyr ghrouw dullyr dowin
+eairk	horn	m		z			eairk yiare, eairk chronnal, eairk vooar, eairk veg
+Wheeler
+Survey of grammatical gender in Classical Manx
+24
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+earish >f 9:1	weather, times			/	X		earish yiare, earish ghaueagh, earish ghoogh, earish hrimshagh, earish ghraysoil, earish ghiare, slane earish veayn, earish pheccoil, earish vie, earish seaghyn, earish miolagh
+eash >f 7:1	age	f		z	X	(X)	shenn eash vie B×3, eash vooar B×3, eash wooar CS eash keeal as tushtey, eash dooinney laghyn yn eash ain, harrish blaa yn eash eck
+eeast eeastagh - eeastee	fish fishing	m		X		z	yeast mooar, ’n yieast mooar. eeast mooar, yn eeast mie giat ny eeastee
+eaynee >f	precipice	m				z	ny heaynnee Cr. beinn yn eaynee, skellooyn yn eaynee
+eayst	moon	f		z		Z(X)	’n eayst chaghlaaee, eayst yial, eayst vane ny heayst (Cr.), kierroo s’jerree ny heayst K. bannaghtyn yn eayst, bree yn eayst, luss-yn-eayst, soilshey-yn-eayst
+eddin >f 10:3	face	f		zx	X	(X)	eddin ghewil, eddin ghennal Ap×3 B×1, eddin hrimshagh Ap, eddin chroam PC, eddin villish PC, eddin yennal CS, eddin khioon PC (10) eddin meayl B×2, eddin daaney, eddin gennal B, eddin dooghyssagh eddin dooinney, eddin cloan Israel, eddin dooinney creeney, eddin dow, eddin deiney, eddin giat yn entreil, eddin porch y yiat sthie (3) glaare yn eddin, trimshey yn eddin, coodagh yn eddin, cummey yn eddin, aalid yn eddin, scaa yn eddin
+eggey	web	f		z	z		eggey chialteragh eggey varree
+egin	force	f		X			egin gyere
+ellan	island	f		z		z	ellan veg kiannoort ny hellan, fir-reill ny hellan shoh
+ellyn	manners, art	f		X		z	ellyn mie CS, TW, B
+emshyr	weather	f		z			emshyr vroghe, emshyr ghorrinagh
+ennal	breath	f		X	X		ennal pooaral ennal baaish, ennal dooinney
+Wheeler
+Survey of grammatical gender in Classical Manx
+25
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+enney	knowledge	m		zx			enney vie B enney mie Ap
+eoylley	dung	f		z			eoylley heh
+errey >f 4:2	burden	m		zx	z(X)		errey hrome ×3 errey trome ×7, errey seaghnagh, errey doillee, errey joarree, errey piandagh, Ta shoh ny errey chionnit orrin errey chooinsheanse seaghnit errey faasagh yn aarkey, errey coan yn ashlish, errey maase y jiass, errey mec Kohath, errey thie Yoseph
+eulys >f 4:1	fury	f		Z(X)	X		eulys ghewil ×2 PC, eulys cheoïe PC, eulys vooar PC eulys trome ×3 B eulys ben fargagh
+eunys	pleasure	m		zx	X		eunys wooar PC, eunys pheccoil CS, eunys villish PC eunys braa PC, eunys seihltagh ×4, eunys mee-lowit TW, eunys peccoil TW eunys peccah B
+faarkey >m 51:24	sea	m	zx	zx		(X)	bee’n aarkey mooar, ny shlea na’n aarkey, rheynn yn aarkey, ta’n aarkey gra, quoi ren yn aarkey y yeigh, Ren oo yn aarkey y scarrey, ta’n aarkey er loayrt, ta mee chyrmaghey seose yn aarkey, t’er jyrmagh seose yn aarkey, ta ny mee- chrauee myr yn aarkey seiyt, ta seiy seose yn aarkey, ta dty vrishey mooar myr yn aarkey, t’er chroo yn aarkey, ghow yn aarkey kiunid veih freaney, livrey yn aarkey seose ny merriu v’aynjee (15) y faarkey ×23, yn faarkey ×15, ’n faarkey ×10 (48) aarkey vooar ×8, aarkey yoogh PC (9) faarkey sailjey ×2, (f)aarkey prashey ×5, (f)aarkey jiarg ×23, faarkey mooar ×8, faarkey dewil (13) cree yn aarkey, ushtaghyn yn aarkey, raad yn aarkey jiarg, ellanyn yn aarkey
+faasaag	beard	f	z				ghow eh yn aasaag jeh hene, dauesyn va raipey jee’m yn aasaag
+faill	wages	m	X		X	z	Ad shoh yn faill faill sharvaant firrinagh fer ny faillee, fer-ny-failley
+Wheeler
+Survey of grammatical gender in Classical Manx
+26
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+fainagh	chariot	f	^X	^	^X		myr va’n eanagh reeoile PC ta’n fainagh echey fuirriaght B, ren fer niee yn fainagh B, ’n fainagh echey B roish yn eannagh virrillagh PC gys eh eanagh chaggee PC feanagh-caggee PC×2
+fainey	ring	f	X				ghow yn ree yn fainey, ’n fainey shoh
+faiyr >m 9:3	grass	f	X	^X	^X	(X)	giarit sheese myr y faiyr, fioghey ersooyl chelleeragh myr y faiyr, d’ee a seose ooilley yn faiyr, ta’n faiyr failleil, Ta’n faiyr fioghey, t’ee fioghey yn faiyr, va ... yn faiyr glass losht. er yn aiyr ghlass B va ... yn faiyr glass losht B faiyr-choonlee, faiyr-voddee faiyr-guiy, faiyr-shoggyl, faiyr-sonnys blaa yn aiyr
+fannag	crow	f			^		fannag-varrey, fannag-charragh
+farg	wrath	f	X	(X)			yn farg echey, er y farg oc farg dewil
+farrarey	vigil					^	thie ny farrarey17
+fea	rest	m	X			Z(X)	bee yn fea echey gloyroil traa ny fea cre raad ta ynnyd y fea aym?
+feailley (f. in Ir, ScG)	feast, festival	m	X	X	X	^	dreill Solomon yn feailley, yn feailley y reill, freayll yn feailley Yn feailley bannit, (feailley casherick) feailley doonaght casherick, feailley cabbaneyn, laa feailley fliaghee, feailley casherickey yn chiamble er shiaght laghyn ny feailley, laa ny feailley, lurg cliaghtey ny feailley, earish ny feailley, laa mooar ny feailley
+17 Farrarey, as a verbal noun, ought to be masc.
+Wheeler
+Survey of grammatical gender in Classical Manx
+27
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+fenish	presence	m	/	^			hrog yn eanish wooar ayns un choraa PC, Hug ooilley’n eanish wooar mooads molley daa PC, Ayns ynnyd loayrt, va’n eanish churstey balloo PC ’syn eanish hollys PC
+feaynid	expanse		X	^X			yn feaynid mooar Cr harrish y feaynid vooar B
+feeackle	tooth	f		X			feeackle brisht
+feill >f	flesh	f	^	^X	^X	^(X)	laanee eh seose yn eill, miolaghyn y teihll, yn eill, as y Drogh-spyrryd (yn eill passim) feill vio, feill vroie, feill vee-lowit, feill chasherick, yn eill vio, ta’n eill chasherick goit voïd (6) caslys feill peccoil, chamoo va feill bio oddagh shassoo roish, (jeh’n eill casherick), ayns yn eill marvaanagh feill chabbil, feill gheiney, feill vart feill captanyn, feill deiney niartal, feill cretooryn marvaanagh, feill dooinney, feill teirroo aigney ny foalley, dooghys ny foalley, lurg briwnys ny foalley, leigh ny foalley, annooinid ny foalley, yeearree ny foalley, fo reill ny foalley, sayntyn ny foalley, cowrey ny foalley, yeearreeyn molteyragh ny foalley, Eunyssyn ny Foalley, errey ny foalley, pooaraghyn ny foalley obbraghyn yn eill, cowrey yn eill eu, yeearreeyn yn eill
+firrin ~ firriney	truth	f	^			^	hoilshee mee da yn irriney yn irrin y loart, dy loo’n irrin, ta’n irrin ayd meillyn ny firriney, goan ny firriney, Spyrryd ny firriney, raad ny firriney, Goo ny Firriney
+firrinys	truth	m	X	^	X	^(X)	nagh jarrood-ym dy bragh yn firrinys, ta’n firrinys echey farraghtyn, liorish y firrinys, yn firrinys firrinys vie firrinys cree raad ny firrinys, feallagh ny firrinys, meillyn ny firrinys, goo ny firrinys Bun as bree yn firrinys
+Wheeler
+Survey of grammatical gender in Classical Manx
+28
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+flaunys	heaven	m		^		^	flaunys villish Jee ny flaunys ×6
+floag	jot	f	X				cha bee un ockle, ny’n floag
+foddeeaght	longing			^X			foddeeaght vooar FRC foddeeaght jeean B
+foill = 12:7	fault	m	^X				cre’n oill ta mee er n’yannoo, lhig dooys yn oill y ymmyrkey (yn oill ×10; ’n oill ×2) cre’n foill B×3, (y)n foill CS×3, Ap
+folliaght	secret	f	X	X		(X)	va’n folliaght er ny hoilshaghey, y folliaght shoh folliaght mooar feeuid y folliaght casherick shen
+fouyr hybrid	harvest, autumn	f	X	^	^X	Z(X)	v’er droggal y fouyr ayn, ooilley’n fouyr aym fouyr ghrianagh as geurey rioeeagh imbagh y fouyr-churnagh (fouyr-churnagh ×5) imbagh y fouyr-curnaght, jeh’n chied-vess y fouyr-curnaght, (jeelym fouyr- feeyney Ephraim, y fouyr-feeyney) feailley ny fouyr, imbagh ny fouyr jeeassyn y fouyr, toshiaght messyn y fouyr imbagh yn ouyr, traa yn ouyr-feeyney, ayns laghyn yn ouyr, toshiaght yn ouyr, chiass yn ouyr, boggey yn ouyr, jeelym messyn-feeyney jerrey’n ouyr, shiaghtinyn dooghyssagh yn ouyr, earish yn ouyr eck, ayns toshiaght y fouyr-oarn
+frankincense >m	frankincense		X	^X		(X)	y frankincense, yn frankincense frankincense ghlen frankincense glen bree yn frankincense
+frass	shower	m		^	^		frass ghowill frass niaghtee garroo
+Wheeler
+Survey of grammatical gender in Classical Manx
+29
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+fuill - folley >f	blood	f	/	z	zx	(X)	yn uill, bee yn uill echeysyn er ny gheayrtey, tra hee-yms yn uill, etc. (162 e×amples of (y)n uill ~ yn ooill in my corpus, many in PPs, of course; none of *yn/y/’n fuill) Dt’ uill gheyr PC, ooilley yn uill chairagh fuill deyr Chreest fuill ghruaieyn Aue PC fuill dooinney ×2, fuill dooinney marroo, fuill keint erbee dy eill, fuill goair, fuill dew, fuill deiney, fuill goair as lheiyee, fuill cretooryn elley, fuill phadeyryn, fuill terriu as goair Heb. 9. 13 [misprint tuill] and Heb. 10.4, fuill cloan Israel, fuill princeyn y thallooin, fuill feanishyn Yeesey bree yn uill echey (Cr.), ta loght yn uill echey orrin
+fys v	knowledge	m		zx			fys vie ×2 TW fys mie [Mona’s Herald 27.12.1833 ×2, Mona’s Herald 7.8.50]
+Gaelg	Manx	f	z	z			y Ghaelg, yn Ghaelg Gaelg vie, Gaelg voght, Gailck voght
+gall	gall	f			z		gall-verg
+geay >f	wind	f	z	zx	z	z	y gheay niar, yn gheay, ’n gheay (×48): *(y)n/’n geay geay vooar cassee, geay vooar chassee geay paittoil, (geay fowanagh), geay dorrinagh, geay meelee jiass, geay dowil doirrinagh, (geay jiass) geay chassee, geay henneu, geay asnee bun-ny-geayee, lus ny geayee, sooill ny geayee, niart ny geayee, skianyn ny geayee
+geaylin	shoulder	f	z				ooilley yn gheaylin
+geaysh	hair	f			z		geaysh ghoair
+geill >f 22:3	heed	m	z	zx			lhiggey shaghey yn gheill vooar geill vie ×19, geill vooar geill creeoil, geill crauee, geill cooie
+geinnagh - geinnee	sand	f	z	z			y(n) gheinnagh passim geinnagh gharroo, ghennagh heh PC
+geirr	tallow	f		z			geirr-vill
+Wheeler
+Survey of grammatical gender in Classical Manx
+30
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+genney >f 9:1	famine	m	ZX	zx	X		va’n ghenney ayns dy chooilley heer, ’n ghenney, yn ghenney, y ghenney as y ghortey, yn ghortey as y ghenney, dy row’n ghenney cha trome (×6) ’n genney B genney vooar ×3 genney trome genney deiney
+gerjagh -gerjee	comfort	m	Z X 1X	X		Z	Whooish shen ta’n Ghloyr as y Gherjagh flaunyssagh shoh FRC ’n gerjagh ain B, bee’n gerjagh shoh ayd CS, nagh beagh ayd yn boggey as y gerjagh vooishagh oo ve ayd CS, Ta’n gerjagh shoh aym dy hoiggal TW, yn gerjagh y gheddyn TW, ta’n gerjagh aym TW, tra nagh vel ad feddyn yn gerjagh shen TW, yn gerjagh ’ve oc TW, mannagh bee yn gerjagh ain TW, S’mooar y gerjagh ta ben-heshey vie da e dooinney Ap, cre’n gerjagh ver eh FRC, dy ghoaill ooilley’n gerjagh oc vou FRC gerjagh mooar Mac ny gerjee Fer-ny-Gherjagh ×4
+giat >m	gate	m	zx	ZX		Z(X)	dy chosney’n ghett PC (otherwise *(y)n/y yiat ~ ghiat nom/acc.) (y)n giat ×15, yeigh ad y giat, doshil ad y giat (17) gys y yiat chorneilagh y yiat corneilagh ×2, ayns y yiat meanagh, y ghiat coon ×2, e ghiat cash’rick dooney ny giattey,18 beeal ny giattey, raad ny giattey, shamyryn beggey ny giattey, pillaryn ny giattey, porch ny giattey derrey cheu’n yiat, lhiattee’n yiat, er cooylaghyn y yiat, currym y yiat, straid y yiat ushtey, raad y yiat syrjey, sole y yiat, porch y yiat, lheead entree yn yiat, yrjid y yiat, eddin y yiat, towse y yiat, pillar y yiat, rish raad y yiat, ogher y yiat
+18 Could ny giattey possibly be masc. gen. pl?
+Wheeler
+Survey of grammatical gender in Classical Manx
+31
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+glare >f 24:12	language, speech	f	zx	zx	X		yn ghlare ×9, y ghlare ×7 (16) yn glare ×3 (3) glare vie ×2, glare yoarree ×2, glare ghlen, glare vrynneragh, glare villish, glare chadgyn (8) glare quaagh, glare doillee ×2, glare mooar floaoil, glare mee-chrauee ×2, glare breeoil, glare millish, glare brasnee, glaar cooie (8) glare dooinney ta ec kione e cheiley, glare branlaadee glare deiney Yabesh
+gless	glass	f		(X)	z		gless sollys ×2 gless huarystal
+glion	valley	f				z	ghlione-sollan cheer ny glionney, troar ny glionney
+glioon	knee	f	z				lhoobey’n ghlioon
+gloyr >f	glory	m	zx	zx		z(X)	yn ghloyr, y ghloyr, Son lhiats y reeriaght, y phooar as y ghloyr, ’n ghloyr, cre’n ghloyr vooar yn gloyr ×2, [gys y gloyr ×2] dty ghloyr vooar, dty ghloyr veayn, mean y ghloyr vooar, mooads y ghloyr yial y ghloyr cooie Ree ny ghloyr [BCP sic], reereeaght ny ghloyr [PC sic], Hoilshean ny ghloyr PC, Cooyrt ny gloyr PC, Jee ny Ghloyr Met, Ap, B, beinn ny gloyr PC, Ree mooar ny Gloyr PC, Ayr ny ghloyr B, stoayll ny gloyr PC, Jee ny gloyr PC, Ree ny gloyr PC
+goanlys	malice	f	z	Z(X)	(X)		yn ghoanlys oc goanlys vooar goanlys tranlaasagh goanlys deiney
+goayr	goat	f	zx	zx		(X)	yn ghoayr, y ghoayr (×4) yn goayr feie, y goayr, ’n goayr (3) goayr-yrryn, ass y ghoayr gheastenagh goayr bwoirryn, (goayr feie), goayr geyshteenagh (fuill y ghoayr)
+Wheeler
+Survey of grammatical gender in Classical Manx
+32
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+gortey >f	famine	m	^X	^X		(X)	y ghenney as y ghortey, yn ghortey as y ghenney, ’n ghortey ×8, ver-ym yn cliwe, yn ghortey, y ghortey (y)(n) ghortey ×24) nee’n gortey stroie yn cheer, ’n gortey ×3 gortey vooar, genney as gortey vooar, gortey hrome rish y ghortey dewil moir y ghortey
+graih v	love	f	^X	^X	^X		nagh jean y ghraih echyssyn FRC, dy vod y ghraih eu bishaghey B, yn ghraih cheddin ta shiu er hoilshaghey BCP, dy vod yn ghraih echeysyn ve TW, cosney yn ghraih echeysyn TW, dy vishaghey yn ghraih shen TW, ta yn ghraih eck B, yn ghraih cheddin y ve eu B, er hoilshaghey dooinyn yn ghraih B, er chredjal yn ghraih B, nagh rou’n ghrih PC, ooilley’n ghraih FRC, B, ’n ghraih jeean B×2, cre’n greme ta’n ghraih shoh TW, cre’n ghraih erreeishagh TW, cre’n ghraih B ×3, ta’n ghraih B×2, shoh’n ghraih B (23) cre’n graih CS, obbraghey’n graih FRC, ta’n graih follit echey B, dy vod y graih B (4) graih Chreestee, dty ghraih hymmoil Met, graih heiltagh TW×2, e ghraih veigh FRC, e ghraih vooar B, graih wooar CS (7) graih jeean ×20, graih dooghyssagh B×2, graih braaragh B×3, graih cree-oil CS, graih crauee BCP×3, graih dooie PC, Ap, graih graysoile PC, dty ghraih meigh, graih mooar PC, graih miandagh TW (11) er graih chloan my chorp er graih cairys, er/son graih cooinsheanse ×8, er graih drogh chosney, er graih cosney ×3, er graih goo Yee, er graih currym PC, er graih Credjue FRC, er graih dooiney BCP, son graih surranse AG, er graih sheelnaue PC (15) er graih seaghyn vee-gherjoil ny ymmyrchee B, son graih chiamble y Chiarn nyn Yee, son graih Baase Chreest
+Wheeler
+Survey of grammatical gender in Classical Manx
+33
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+grayse	grace	f	zx			(X)	cre ta’n ghrayse AG×2, Cre eisht ta’n ghrayse spyrrydoil AG, ta’n ghrayse shoh er ny choyrt B, ’n ghrayse ayms B, nee yn ghrayse echeysyn niartaghey TW, geddyn yn ghrayse echeysyn TW, dy voddagh yn ghrayse feoilt B, y ghrayse spyrrydoil AG, bee goit voue ... y ghrayse TW, s’mooar y ghrayse v’orroo B (11) ver Jee dhyt yn grayse AG, yn grayse syrjey B, yn Grayse shen FRC, yn grayse dy arrys TW×2 Ap, hug eh yn grayse dy hyndaa Ap, geddyn y grayse CS, BCP, bishaghey’n Grayse FRC, Cre ta’n grayse spyrrydoil AG, BCP, yn grayse dy imlid TW (11) stoyl-reeoil yn ghrayse flaunyssagh (saaseyn y ghrayse, saaseyn y grayse)
+greain	grudge	f		z			greain voght ort
+grian >f	sun	m	zx	zX		z	yn ghrian passim, yn ghriean PC y grean PC va’n ghriean ghial PC, y ghriean vannee PC, ghriean yiall, PC, freall y grean yiall PC (4) grian breeoil Ap, g(h)riean glo(y)roile PC×3 (4) griean souree PC cassan ny greiney, irree ny greiney, lhie ny greiney, chiass ny greiney, messyn berchagh bree ny greïney, jallooyn ard ny greiney, fegooish gerjagh ny greiney, Ard- valley ny greiney, niart ny greïney, goll-sheese ny greiney, gollyn ny greïney, chyndaaghyn ny greïney, bree-hiass ny greïney, goull ny greïney, corp ny greiney, beinn ny greïney, sooill ny greïney
+grinney	gate	f	X				Yn grenney lajir haarn ee seose lesh aaish PC
+griu >f 4:1	stolen goods	f	zx		z		y ghriu B, yn ghriu B, ’n ghriu B ta’n griu B griu vaarlee Cr
+guin	pain	m	z	zx	zx		’n ghuin, er n’ennaghtyn yn ghuin echey guin gheyre, guinn ghyere guin gyere guin (erbee) chooinsheanse ×4 guinn beishteigyn nieunagh
+Wheeler
+Survey of grammatical gender in Classical Manx
+34
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+halley				z		z	my holley wooar PC mean ny halley halley briwnys Herod
+hullad >m 4:1	owl	f		zx			yn hullad vooar B yn hullad beg B×2, yn hullad mooar B×2
+injeig	paddock	f		z			injeig veg choon
+inneen	daughter, girl	f		z	X		my inneen veg, inneen chreeney, neen vooar inneen prince jeh Midian, inneen saggyrt erbee inneen braarey my vainshtyr
+irree	rising	f		X			irree reesht gerjoil, irree-magh mee-viallagh, yn irree-magh mee-reilltagh, yn irree-seose-reesht gerjoilagh, Irree-seose-reesht gloyroil, Irree-reesht gerjoilagh, irree-magh traitooragh, irree-magh dewil, Jeh'n irree-magh keoie shen
+jaagh	smoke	f			X		jaagh coirrey ×3
+jeelt	saddle	f			X		jeelt ben
+jolg	thorn	f		z			jolg-vrasnee, [va jolg er ny choyrt dooys]
+jough	drink	f		z			jough veshtyllagh, jough-viljag, jough vie
+jymmoose >f 14:1	anger	f		zx			jymmoose vooar, e yymmoose vooar, jymmoose hrome ×4, yymmoose hrome ×7, e yymmoose yeyre (14) jymmoose mooar, jymmoose trome ×4 (1) jymmoose dewil ×5 jymmoose briwnys y Chiarn
+kart	cart	f	/			(X)	haink y chart stiagh fuygh yn chart
+kay	mist	f	z	z		(X)	yn chay dy ghorraghys kay ghruightoilagh bree yn chay
+kayt	cat	f	z				Ny veggan as ny veggan, dee yn chayt y skeddan
+keeagh - kee	breast	f				z	cloan ny kee
+Wheeler
+Survey of grammatical gender in Classical Manx
+35
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+keeayl	sense	f	/	z	z		yn cheeayl ain hene, ooilley’n cheeayll keeayl vie, Keeayl chionnit yn cheeayl share keeayll vairey
+keeil(l)	jaw	f	z				yn cheeill echey
+keeill - killagh	church	f	z			z	thaaghey yn cheeill, fagail y Cheeill, Padjer yiare roish my naag oo yn cheeill shirveish ny Killagh, padjeryn ny Killagh, bannaght ny Killagh, clagh ny killagh
+keesh	tax	f	z			(X)	yn cheesh, eeck y cheesh oyr y cheesh, argid y cheesh, currym y cheesh
+keird	craft	f	z				yn cheird oc × 2, cha nee ny lomarcan yn cheird shoh
+kemmyrk	refuge	f	z	(X)			she Jee Yacob yn chemmyrk ain kemmyrk shickyr *hickyr adj.
+kenjallys	kindness	m	z	zx			yn chenjallys nee’n Chiarn y hoilshaghey dooinyn, t’ou uss er reayll ny chour yn chenjallys vooar shoh kenjallys vooar ×2, kenjallys(-) ghraihagh ×13, (dty) chenjallys ghraihagh ×29, chenjallys vyghinagh ×3, chenjallys ghooie, my chenjallys ghooie as vyghinagh kenjallys graihagh ×1, e chenjallys graihagh ×1
+keyll - keylley19	wood	f	z			z(X)	yiarey sheese yn cheyll, ren y cheyll stroie ny smoo jeh’n pobble, losht eh yn cheyll, ushtaghey yn cheyll çheer ny keylley, phadeyryn ny keylley, jalloo ny keylley, biljyn ny keylley, thammagyn ny keylley, ooilley shiuish veiyn ny keylley, ard-aasaghyn ny keylley, mean ny keylley, feïe ny keylley, ooilley maase ny keilley jalloo yn cheyll, ooilley biljyn y cheyll, ooilley beïyn y cheyll
+keyrrey - keyrragh	sheep	f	z	z			Ta’n Cabbyl, y Voa, as y Cheyrrey, yn cheyrrey chailjey keyrrey valloo, keyrrey chailjey
+19 Keyll provides good evidence for the two definite genitive patterns for feminine nouns: ny keylley (ny + suffixed, with radical initial — distinctively feminine) or yn cheyll
+(yn + unsuffixed with Len2 initial — as in the masculine patern).
+Wheeler
+Survey of grammatical gender in Classical Manx
+36
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+kiarail	care, intent	f	/	^X		(X)	cre’n chiarail ghow mee, tilgey ooilley yn chiarail eu ersyn kiarail wooar, kiarail chreeoil, kiarail chrauee, kiarail vie, dty chiarail wooar, dty chiarail ghraihagh, gys y chiarail vyghinagh ayds, dty ard-chiarail ghraysoil kiarail seihltagh, e chiarail seihltagh, kiarail crauee, kiarail jeidjagh, dty chiarail kinjagh harrym
+Kingeesh	Pentecost	f				^	laa ny Kingeesh, feailley ny Kingeesh
+kiuney	calm	f	^	^			Yn chiuney smoo erbee / geay jiass sniessey j’ee kiuney vooar
+koir	chest	f			^		koir veinney
+laagh	mud	f		Z(X)			laagh vrein laagh dowin
+laair	mare	f		^			Lhigey'n laair vane
+laare - laarey	floor	f		^	^		laare vooie ~ laare voaillee
+laue >f	hand	f		^X	^X		laue yesh (×199), laue hoyshtyl, laue hoshtal ×20, laue chiare ×45, y laue khiaar PC, laue vie PC×2 B×5, laue veg, laue chiuttagh Cr yn laue jeidjagh, laue tarroogh ynrick, laue baggyrtagh, lesh laue sheeynt-magh ×2, laue shyrgit ×3, laue pooaral laue veayney Cr, laue vastee Cr, laue chloan Hamor laue ben Ap×3, B (*laue ven), laue dooinney ×10 (*laue ghooinney), laue joarree, laue deiney dewil, laue braar dagh dooinney, laue cloan Israel, laue cloan Ammon, laue cloan yoarree, laue mooinjer y twoaie, laue cloan Yudah, laue pobble ny cheeraghyn.
+leagh >m 7:1	reward	m		/1X	X		leagh vooar leagh mie, leagh cooie, leagh mooar, leagh gloyroil leagh briwnys, leagh dooiney cairagh, leagh peccah
+leigh	law	f		(Z)X	X		(leigh erbee hallooinagh) (leigh casherick,) leigh dewil, leigh gyere, y leigh soit seose leigh peccah, leigh sarey foalley, leigh conaant y Chiarn
+leoie	ash	f		X	X	^	joan as leoie peccoil leoie colbagh thorran ny leoie
+Wheeler
+Survey of grammatical gender in Classical Manx
+37
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+lessoon	lesson	f		X			lessoon mie, yn lessoon giare shoh
+lheeannee - lheeannagh	meadow	f				z	lus millish ny lheeanagh
+lheiney	shirt	f			z		lheiney varree
+lhiabbee lhiabbagh	bed	f		/	z	z(X)	lhiabbee ghlen, lhiabbee hing lhiabbee phoosee, y lhiabbee vaaish, ’sy lhiabbee-hoalt, lhiabbee vlaa kione ny lhiabbagh, essyn ny lhiabbagh, ayns shamyr ny lhiabbagh-poosee sluight yn lhiabbee foalsey
+lhiattee - lhiattagh	side	f		z	Z(X)		lhiattee chiare, lhiattee yesh gys lhiattee cheayn Chinnereth, (lhiattee twoaie) er lhiattee cronk Ephraim
+lhiy	colt	f		X			lhiy kainlt, lhiy kianlt lhiy sharragh yn assyl
+lhong - lhuingey	ship	f		z	z	z	lhong veg, lhong vree, lhong chaggee ayns jerrey ny lhuingey, mainshter as pilot ny lhuingey, greïnyn ny lhuingey, veih toshiaght ny lhuingey
+lhuingys	fleet	f		z	z		lhuingys vrisht, Lhuingys Chaggee Reeoil Hostyn
+lhuss ~ lus ~ luss	herb, plant	f		X	X		lhuss glass ×2, lus blaystal, lus millish ny lheeanagh, lus-thie
+liargagh - liargee	slope	f				z	goll sheese ny lhargagh ?, cheer ny liargagh, sheese ny lhiargee
+lieckan	cheek	f		z			lieckan yesh
+lioar >f	book	f		z	z(X)	(X)	lioar vooar, lioar veg ×12, lioar vie, lioar chasherick lioar vea yn Eayn Lioar sheeloghe Yeesey Creest, lioar sheelogheyn Adam, lioar bea yn Eayn, ayns lioar conaant y Jee smoo syrjey, lioar Goo Yee, lioar caggaghyn y Chiarn, lioar Goan y Chiarn goan phadeyrys yn lioar shoh, goan y lioar shoh, corp y lioar, ayns toshiaght y lioar, freayll raaghyn y lioar shoh
+Wheeler
+Survey of grammatical gender in Classical Manx
+38
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+lorg >f	staff	m		^	^X		lorg-reill chairagh lorg howshan ×2 [f. Cr.], lorg chuirtlagh lorg-towshan airhey
+losserey	herb	f		X			losserey glass
+louraanys	leprosy	f		(X)	X		louraanys dewil louraanys garmad
+lugh	mouse	f			X		lugh killagh
+maarderys	fornication	f	X	^X		(X)	ren ee yn maarderys eck hene y vrah ta’n cheer er ve foiljagh jeh maarderys vooar maarderys cadjin iu jeh feeyn yn vaarderys eck
+madran >m (–1)	dawn	m	^X			(X)	Tra va’n doonaght harrish, as y vadran cheet rish20 yn fastyr as y madran vaa PC eisht fastyr ass y madyran va /Er chur mac y vadran, bodjal y vadran, casley rish innagyn y vadyran
+magher, -agh	field	m	X	X	X	^X	magher kionnit, magher messoil, magher traaueit, magher glass, magher banjee lossreeyn y vagher, beiyn y vagher, lhuss y vagher, arroo’n vagher, biljyn y vagher, faiyr y vagher, maase y vagher, beishtyn y vagher, mean y vagher, claghyn y vagher, glassyraght y vagher, blaa yn vagher, meeaylys y vagher, billey yn vagher oirr y vagher caggee maase y vagheragh, biljyn y vagheragh, lossreeyn y vagheragh, beishtyn y vagheragh, troar y vagheragh, messyn y vagheragh, faiyr y vagheragh, ooilley biljyn y vagheragh, beïyn y vagheragh, mess cadjin y vagheragh, dagh beisht y vagheragh, faiyr meiygh y vagheragh, imraghyn y vagheragh, creaghyn y vagheragh, coggyl yn vagheragh, strooan y vagheragh blaa ny magheragh ×3, lilleeyn ny magheragh
+20 Mat. 28.1 isolated deviation from masc.
+Wheeler
+Survey of grammatical gender in Classical Manx
+39
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+mair	finger	f	/	z	z		yn vaïr dy ghannidys troggal y vair veg mair chass
+mairagh	tomorrow	m				z	laa ny vairagh ×5; y laa mairagh ×5
+Mannin	Mann	f		z			Mannin veg veen
+marranys v	error	m	X	z			agh der yn marranys echeysyn ta shiu er-y-fa shen fo marranys vooar
+maynrys >f 38:9	happiness	f	zx	zx	zx	z(X)	cre’n vaynrys ×3, ta’n vaynrys vooar ×3, ta’n vaanrys wooar PC, yn vaynrys ×8, yn vaanrys PC, y vaynrys ×3 (19) dy gheddyn yn boggey as yn maynrys shoh AG, nee’n maynrys seihltagh B (2) vaynrys veayn ×3, bare nyn maynrys vooar, vaynrys vooar ×2, maanrys veayn PC, maanrys vannee PC, vaanrys wooar PC×5, vaynrys wooar CS, mee-vaynrys wooar CS×2 (16) vaynrys bra AG, maynrys braa AG×2, TW×3, maynrys bra Met, (m)aynrys seihltagh ×5 (7) Maanrys Heelnaue PC, Maanrys Phargys PC×2 (3) maynrys bea yn dooinney maynrys sleih crauee, maynrys sheelnaue Ap feaï ny maynrys, Ree ny maynrys trooid ream y vaynrys villish
+Mayrnt	March	f	z				Ta’n Vayrnt çhionney as yn nah vee fanney
+meain	metal, ore	f	z				dy gheddin magh y veyn PC
+mee	month	f	z			(X)	yn vee Adar, ta shen yn vee Tebet, &c. imbagh y vee Abib, oural-losht y vee
+meeyl	louse	f		z	z		meeyl chreen meeyl cheyrragh
+meinn - meinney	meal	f			z		meinn ghreddan
+mieys	goodness	f	z	zxi			ooilley’n vieys, y vieys echeysyn (*yn mieys) (m)ieys vooar ×13 mieys myghinagh B
+Wheeler
+Survey of grammatical gender in Classical Manx
+40
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+minjeig	fawn	f	/				bee uss myr y vinjeig feïe
+mirril	miracle	f	X	z			tra v’ad er vakin y mirril va Yeesey er n’yannoo, er n’yannoo yn mirril shoh, er va’n mirril shoh dy lheihys er ny yannoo Dty heet fud sleih, veeys mirril wooar er lieh PC
+moayn - moaney	turf	f	z		z	z	yn voayn chlea ushag veg ruy ny moaney dhoo
+moidyn >f 8:2	virgin	f	ZX	ZX		(X)	haink yn voidyn Voirrey, ta’n Chiarn er stampey sheese yn voidyn, Ta’n voidyn, inneen Zion ×2, gowee yn voidyn boggey chammah’n dooinney aeg as y moidyn moidyn ghlen ×3 moidyn glen PC ennym y voidyn21, jeh stoo yn Voidyn Moirrey e voir, breïn y Voidyn
+moidynys	virginity	f	z				vhill yn voidynys eck dy hayrn scammylt urree
+moir – mayrey >f	mother	f	ZX 1	z	X1	Z(X)	y(n) voir passim va’n moir bransit B, ta’n moir oc er choyrt rish streebeeys B (both Hosea) moir ghennal, nyn moir vooar, moir vanninagh, moir pheccoil jalloonys va toshiaght maarderys spyrrydoil, as moir bea pheccoil chengey ny mayrey ennym y voir echey, lurg baase yn ayr as y voir eck, pooar y voir
+mollaght	curse	m	X	X		z	cur lesh y mollaght, yn bannaght as y mollaght mollaght trome, mollaght dewil cloan ny mollaght
+molteyrys	deceit	m	ZX		z		Ta’n volteyrys shoh er ve toyrt-mou annym ny ghaa, lhiettal yn volteyrys myr shen bee yn molteyrys s’jerree ny smessey molteyrys phecca ×2 molteyrys peccah, molteyrys berchys, molteyrys cree
+21 No examples of *ny moidyn, despite moidyn being fem. polysyllable.
+Wheeler
+Survey of grammatical gender in Classical Manx
+41
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+mooinjer >f	folk, kin	f	/	zx		(X)	(*yn mooinjer) yn vooinjer chairagh, y vooinjer chairal, y vooinjer chluicagh, y vooinjer volteyragh, laghyn y vooinjer chrauee, da’n vooinjer vee-chrauee, y vooinjer voyrnagh, yn vooinjer veshtal, yn vooinjer ghewil, ynrickys y vooinjer yeeragh, yn vooinjer gheinagh, yn vooinjer hushtagh, yn vooinjer vyghinagh, kione y vooinjer ghoal, yn vooinjer hrome-chreeagh, keeayll y vooinjer cheeayllagh, dyllee my vooinjer heaghnit yn vooinjer cairal, annym y vooinjer tarroogh ooilley’n vooinjer creoi-chreeagh, yn vooinjer seaghnit, mooinjer seyrit sooilyn y vooinjer, laghyn y vooinjer chrauee +APL. yn vooinjer veggey, yn vooinjer hingey
+mooir -marrey >f 3:2 + ny	sea	f	z1 X2	z	z	z	na’n vooir vooar cha vel y mooir lhieeney harrish B As d’enmys Jee yn talloo chyrrym ooir/ As chaglym mooar ny hushtaghyn, y mooir P.C. na’n vooir vooar mooir-hraie eeastyn ny marrey, bannaghtyn ny marrey, genniagh ny marrey, oirr ny marrey
+mooiragh	shore			z			bienn y vooragh chroie
+moyrn	pride	f	z	z		z?	yn voyrn oc, bee'n voyrn eck er ny hyndaa gys dobberan, cha dennee rieau yn voyrn feayraght (*yn moyrn) moarn ardalagh (moyrn fardalagh), moyrn deiney, moyrn dooiney cloan ny moayrn, O Vac ny moayrn
+muc	pig	f	z		z		y vuc muck arkagh
+mwashag	wig	f	z				yn edd as yn washag
+Wheeler
+Survey of grammatical gender in Classical Manx
+42
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+myghin >f 32:8	mercy	f	ZX	ZX		(X)	Nee oo yn ynrickys y hoilshaghey da Jacob, as y vyghin da Abraham B, dy chooilleeney yn vyghin BCP, B, nagh mooar y vyghin yh TW, cre’n vyghyn eh CS×2, Ta’n vyghyn shoh veihsyn CS (7) yn conaant as y myghin vreear eh (1) myghin vooar ×5, vyghin vooar ×12, cooinaghtyn y vyghin wooar, myghin verchagh ×1, dty vyghin ghraihagh, vyghin veigh ×4, y vyghyn wooar CS (25) myghin mooar ×1, vyghin mooar ×1, myghin mei(y)gh ×5 (7) stoyl y vyghin, cooinaghtyn y vyghin wooar
+nieunys	venomousness	f		z			nieunys vaasoil
+niurin	hell	m		z			niurin ghooh PC ×6, niurin ghorghey PC, niurin vroagh PC
+noidys	enmity	f		z			noidys ghewil ×2, noidys hiarroo, noidys dewil
+Nollick ~ Ollick	Christmas	f		z			Nollick Ghennal, Ollick vog rhullic vea
+nuyr	day after tomorrow	m				z	laa ny nuyr
+oaie	grave	f				Z(X)	diunid ny hoaie diunid yn oaie
+oarn	barley	f				z	Juan-ny-Hoarn, ushag roauyr ny hoarn
+oashyr	stocking	f			z		oashyr voynnee
+oayrd ~ oard v	hammer	f		X	z		oayrd mooar y theihll oard-chiaardee
+Wheeler
+Survey of grammatical gender in Classical Manx
+43
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+obbyr >f 60:18	work	f		^X	^X		obbyr vooar ×7, obbyr chreoï, obbyr ghrainnit ×2, obbyr vie ×25, obbyr volteyragh, obbyr yeeragh, obbyr virrilagh, obbyr chast, obbyr ghiare, obbyr ghoccaragh, obbyr gheinagh, obbyr vyghinagh ×2, obbyr yiare, obbyr chostal, obbyr churstey, obbyr ghiastyllagh, obbyr wooar ×4 (52) (obbyr feeaghnagh, obbyr feeit ×3), obbyr cadjin ×9, obbyr tooilleilagh ×2, obbyr dwoaiagh, obbyr grainnit ×2, obbyr thanney, daa obbyr cast, obbyr caillit, obbyr seaghnagh, obbyr sushtallagh, (obbyr fardalagh), obbyr chion, obbyr sheeint, obbyr cairagh, obbyr seihlltagh, obbyr seihltagh (15 excl. f- and HI) obbyr hallooin, obbyr vagheragh ×3, obbyr chabbane-agglish y cheshaght, obbyr gheiney schleioil, obbyr cheirdey, obbyr vreek (8) obbyr jeebinagh ×3, obbyr magheragh, obbyr thallooin, obbyr ben-streebee ard- vooaralagh, obbyr dooinney erbee ×2, obbyr bleeaney, obbyr queeyl fainagh, obbyr thie Yee ×4, obbyr shirveish thie’n Chiarn ×2, obbyr thie’n Chiarn ×6, (obbyr mooie ×2 thie Yee) (3)
+oghsan	reproof	f		X	X		oghsan dewil, oghsan gyere, oghsan cronnal oghsan dooinney creeney, oghsan queig
+oie	night	f		^		Z(X)	oie vie, oie ghoo, yn oie ghoo ghorraghey keim-ny-hoie, trimshey ny hoie, ashlish(yn) ny hoie, ayns imbagh ny hoie, ayns traa ny hoie, ayns earish ny hoie, arrey ny hoie, roosteyryn ny hoie, fud ny hoie ashlishyn yn oie, Ny shir dorraghys yn oie, cre ta skeeal yn oie?
+olk >f	evil	f		^X			olk vooar ×4 yn olk mooar shoh ×2
+olkys	iniquity	f		X	(X)		olkys dewil, yn olkys mooar olkys drogh-ven
+ollagh v	cattle	f		X	^	(X)	ollagh meen PC ollagh chloan Israel ollagh cloan [Israel] Num. 3.41 ayns ynnyd yn ollagh oc, eam yn ollagh
+ollan >f 3:1	wool	f		^X	^		ollan vane, ollan ghlen ollan gorrym jiarg ollan chraitnagh
+Wheeler
+Survey of grammatical gender in Classical Manx
+44
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+olt	member	f		X			ta’n chengey ny olt beg, olt mooar ny beg, ve jeant ny olt bio jeh’n Agglish, yn olt ching shoh
+ommidjys	foolishness	f		^			she peccah as ommidjys wooar eh ommijys dooinney
+onnane v	thistle	f		X	^		onnane veein Cr onnane meein Cr onnane vuck Cr
+ooashley >m 10:4	worship, honour	m		^X	X	X	ooashley vooar B×2, dt’Ard-ooashley ghloyroil BCP, FRC (4) Cur e ooashley cooie da’n er-lhee Ap, ooashley beayn Ap, B, ooashley braa PC, ooashley crauee AG, B. ooashley credjuagh FRC, ooashley gloyroil AG×2, B×2, ayns ooshley mooar PC, ooashley dooble B (10) ooashley deiney, ooashley dooinney erbee Ap, dty Ard-ooashley shanstyr Ap stoyl yn ooashley
+ooh	egg	f		X	X		ooh brisht ooh kiark
+ooil >f 7:3	oil	f		^X		(X)	ooil ghlen B×2, my ooil chasherick, ooil chostal ×4 ooill deyr, (ooil casherick ×20), ooil glen olive sheelit, ooil costal, ooil millish, ooil slayntoil fooillagh yn ooil, soar yn ooil
+Wheeler
+Survey of grammatical gender in Classical Manx
+45
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+ooir	earth	f		z		z(X)	yn ooir verchagh eaghtyr ny hooir(r)ey, eaghter ny hooirey, joan ny hooir(r)ey, pyshoon ard- nieughyn ny hooirey, eddin ny hooir(r)ey, ooilley reeriaghtyn ny hooirey, ooilley reeaghyn ny hooirey, diunid ny hooirey, ooilley cagliaghyn ny hooirey, ayns ooigyn ny hooirey, firvaghee ny hooirey, ynnydyn ard ny hooirey, ardjyn ny hooirey, veih kione dy kione ny hooirey, ooilley pryssoonee ny hooirey, ardjyn s’diuney ny hooirey, ooilley pobble ny hooirey, ayrnyn s’injilley ny hooirey, ayns ooigyn as guaggyn ny hooirey, er lheead ny hooirey, fud ooilley Corneilyn dorraghey ny Hooirey, myr geinnagh ny hooirey, shiuish vriwnyn ny hooirey, er king ny hooirey, stoo ny hooirey, marvaanee ny hooirey, beishtyn ny hooirrey, beishtyn feïe ny hooirrey, lhiaght ny hooirrey ooilley ashoonee yn ooir, reeriaghtyn yn ooir, gys ayrnyn sodjey yn ooir, veih ardjyn sodjey-magh yn ooir, beishtyn yn ooir, ooilley cummaltee yn ooir, ooilley ashoonyn yn ooir, ayns mean yn ooir, gys undinyn yn ooir, cooid yn ooir, joan yn ooir
+oor	hour	f		X			myr oor ceaut er dromm ny hoie, yn oor jerrinagh, oor pleasal, oor jerree
+ordaag	thumb	f		z	z		ordaag vooar ordaag chass
+osney v	sigh	m		z	X		osney hrome ×2 osney cree arryssagh
+oural >m	sacrifice	m		zx	X		oural ghlen oural millish, (oural casherick), oural bioal, oural bio, oural booisal, oural cooie (oural-feeyney), oural caisht y Chiarn, oural peccah, oural-criht, oural troggit seose, (oural feailley ny caisht), oural shee, oural jough, oural Baase Chreest
+oyr	reason	m		z			oyr vooar
+paag	kiss	f		z			lesh paag chasherick
+padjer >f 37:19/hybrid	prayer	f	z	zx	X		yn phadjer ×22, y phadjer ×6, ’n phadjer ×6 (34) yn padjer CS×2 padjer ghiare, y phadjer yare, padjer yeean (3) padjer jeean ×6, padjer crauee ×2, padjer creeoil ×3 padjer moghrey ×10, padjer moghree ×2
+Wheeler
+Survey of grammatical gender in Classical Manx
+46
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+paitt	plague	f	/				yn phaitt, y phaitt
+palchey = 8: 8 hybrid?	plenty	m	z	zx	zx		ooilley’n phalchey B, yn phalchey ×3 palchey vooar ×3 p(h)alchey mooar ×3 palchey phuddase palchey bainney as mill ×3, palchey beaghey ×2, palchey prash, palchey mess y villey, palchey bioee, palchey coamraghyn
+pash v	potsherd	f	z	X			kys ta’n pot as y phash coardail, bee yn phash er ny vrishey pash craie
+peesh >f	piece	f	z	zx			jeih shekelyn y pheesh, slatt y pheesh, ghow ad ben y pheesh, hoght cubityn jeig y pheesh, kiare eddinyn y pheesh, son ta’n pheesh goaill e laane ×2, dagh dooinney jeu ping y pheesh, cha vel yn pheesh va goit ass, daa chooat y pheesh, ta mee er gheddyn yn pheesh, three dy firkinyn y pheesh peesh vie d’eill peesh mie dy eill
+pian	pain	m	z	X			ta’n phian PC, yn phian ta farraght braa PC cre’n pian TW, roish my daink yn pian eck B pian sharroo CS×2, pian callinagh
+ping	penny	f		z			ping Hostynagh, ping Vanninagh
+pishyr	pease, peas	f	zx				ta’n pishyr er ny woalley spreih yn phishyr
+piyr	pair	f			z		piyr vraag ×2
+plaase = hybrid	palace	f	z	X			cha vel y phlaase son dooinney, bee yn phlaase er ny lhieggal plaase gloroil PC, place gloroile PC
+plaiynt >m	complaint		zx				dy yannoo mie yn phlaiynt clashtyn y plaiynt ×3, cha nee noi ainyn ta’n plaiynt eu, tra cheayll mee yn plaiynt oc
+pleasal	pleasure		z				As bee eh yn Phleasal
+Wheeler
+Survey of grammatical gender in Classical Manx
+47
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+pooar >f	power	m	ZX 2	ZX			Lhiat’s ... y Phooar, Dy vel y phooar ren ad ’oardrail, dy chur y phooar, jeaghym dhyt y phooar, cre’n phooar t’aym nagh vel resoon y Leih hene, ny’n pooar echyssyn CS, As bee yn pooar echey niartal B nyn booar ghooghyssagh, vaik ad y phooar vie, y phooar vannee, jeh’n phooar heihlt, yn phooar vreeoil, dty phooar vooar cordail rish y phooar gloyroil B, jeh’n phooar gloroil PC, Nagh viack shiu’n phooar gloroile PC
+preis(h)	pressure	f		z			lesh y phreish vooar preish siyr
+price	price	m	z				cre’n phrice yiow nish er yn arroo, smoo vees y phrice, bee’n phrice son feaysley, dy eek y phrice, coontey dasyn yn phrice, eeckee eh yn phrice, yn phrice echeysyn v’er ny phriceil, She, shen va’n phrice, hilg ad seose y phrice oc
+quaiyl	court	m	z		(X)	z	cre ta’n Whaiyl gra, nee’n whaiyll livrey, yn whaail huit sheese, Tra va’n Whuaiyll er ny harey, symnee ad yn whuaiyl quaiyl-theay [f. Cr.] giat ny quaallagh, Thie ny quaallagh, thie ny quayllagh
+queeyl	wheel	f	z		z		chyndaa yn whueeyl mygeayrt, tayrn y whueeyl, roish my vees ... ny’n whueeyl brisht queeyll chart, obbyr queeyl fainagh
+quiggal	distaff	f	z				cummal yn whuiggal
+quing	yoke	f	z	z(X)			yn whing aashagh echey, dy chaue’n whing er sooyll, Shyn nish y whing y chaue, bee ... y whing eck coamrey dy ghloyr, ta’n whing echey ny whing [sic] dy yiarn, dy jean oo yn whing echeysyn y vrishey quing hrome, e whing hrome ×2 quing trome ×2, yn whing trome echey
+re-hollys	moonlight	f		z			re-hollys vooar y n’ouyr, re-hollys vooar ny gabbyl
+ribbey	snare	f		Z(X)	(X)		ribbey yioulagh ribbey chion ribbey shelgeyr
+Wheeler
+Survey of grammatical gender in Classical Manx
+48
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+roih v	arm	f		Z(X)			dty roih yesh, e roih chasherick [lesh e roih casherick ×2], roih sheeynt magh, roih trome ×2, roih gloyroil roih thie dt’ayrey
+rollage	star	f		z			yn roltaaig yiall, rollage vooar rollage sollys
+rooit	peal	f			z		rooit haarnee
+rouanys	rioting	f		X	X		liorish lheid y rouanys costal rouanys peccah
+saualtys	salvation	f	z1 X	X			hee ad dy-gerrit yn taualtys eu Ap gobbragh magh yn Saualtys ain hene, dy vel yn saualtys eu ... lhie, ta yn saualtys ayms, as yn saualtys euish lhie, cur-jee my-ner yn saualtys, dy vod adsyn ... yn saualtys ... y gheddyn saualtys mooar PC
+saggyrtys	priesthood	f	X		X		va’n saggyrtys er ny chaghlaa saggyrtys kynney Levi
+saynt hybrid?	desire	f	z	zx	X		dy leeney’n Taynt eck, ta’n seihll goll shaghey, as y taynt ain huggey saynt pheccoil ny foalley, haynt pheccoil saynt peccoil TW, saynt peccoil ×2 ny foalley AG, BCP, saynt broghe, saynt seihltagh, saynt jollyssagh saynt peccee mee-reiltagh, saynt dooinney gennish meereiltagh
+scammylt	scandal	f		X			scammylt mooar
+scansh >f	importance	f		zx			sca(i)nsh vooar ×6 scansh cooie
+schleï	skill	f		z	X		schleï vooar (schleï fardalagh) schleï keirdee
+scoill – schoill	school	f		z			schoill Ghailckagh
+Wheeler
+Survey of grammatical gender in Classical Manx
+49
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+seihll >m	world	f	zx	zx	X		ta Creenaght er skyn earoo reill y teihl CS, dy vriwnys y Teihl CS×2, dy vriwnys y theihll BCP, dy vriwnys y theihll 1 Chron. 16.33, ta Jee ayn ta briwnys y theihll Ps. 58.10, tra chi y teihll er goayll PC (7) cre’n seihll, y seihll mooar, dy lhieeney yn seihll, kionnaghey reesht y seihll (yn seihll passim) treihys y theihll pheccoil, ’sy theihll hreih, fardail yn theihll vee-chrauee shoh CS, AG, BCP, Gys y theihll whaagh PC (6) seihll meechrauee ×2, seihll cruin ×2, seihll cruïnn, seihll crooin, va’n seihll talloonagh PC, seihl moalteragh, seihl seaghnagh, seihll mooar PC, seihl mooar (11) seihll marrey PC
+shaghrynys	error	f		X	X		shaghrynys treih, shaghrynys curstey shaghrynys credjue, shaghrynys cloan Israel
+shallid	moment	f	X	z			yn shallid ta mee geddyn vaaish TW shallid yiare
+shamyr >f 11:6 hybrid	room	f	z	zx	zx		Ta’n chamyr shoh, y chamyr ta jeeaghyn lesh y twoaie, na’n chamyr s’injil, Va’n chiamyr s’inshley, va’n chiamyr meanagh (5) y chiamyr veanagh ×3 dagh shamyr beg, mullagh un shamyr beg, ard-shamyr mooar cloan y chamyr-phoosee, mooinjer y chamyr-phoosee, ’sy cheamyr phooyst shamyr poosee, shamyr souree, shamyr mec Hanan, ayns y shamyr-poosee [sic]
+sharmane >m	sermon	f	X		z		dy vel yn sharmane ta shiu er chlashtyn, dy vannaghey yn Sharmane shoh, chlashtyn y Sharmane echey sharmane-vuck
+Wheeler
+Survey of grammatical gender in Classical Manx
+50
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+sharvaant >f hybrid?	servant	f	ZX	X			Kiangle-jee laue as cass yn charvaant neu-frioosagh TW, Foddee yn charvaant s’inshley dy Chreest ve shickyr TW, Bwoaill liorish miol my veillyn’s yn charvaant Ap, Va’n mainshtyr as y charvaant er nyn gerraghey Ap, hug ee da Bilhah yn charvaant ec son ben (female), Yn charvaant Hebrew (Joseph) hug oo lhiat hooin, haink eh stiagh, my jir y charvaant, va’n charvaant echey marish, as dooyrt yn charvaant rish e vainshtyr, &c. bannit ta’n Sharvaant CS, liasagh y Sharvaant ve booiagh CS, nieu-chanjel va’n sharvaant PC, Ta mee tannaghtyn yn sharvaant biallagh eu MH 30/12/1846 (4) sharvaant jeidjagh, sharvaant joarree, sharvaant creeney, sharvaant graihagh, harvaant seaghnit ×2 sharvaant ghooinney elley
+shawk	hawk	f	X				yn shawk, ta’n shawk getlagh
+shee	peace	f	ZX	(X)		Z(X)	nee yn chee eu tannaghtyn er ×1 er Niannoo yn shee ain rish Jee CS, Cur dooinyn dty harvaantyn yn shee shen, dy yannoo yn shee ocsyn rish Jee TW, t’ou er stroïe yn shee oc JB, cre’n shee ta eddyr ny berchee as ny boghtyn?, shirrey yn shee oc, S’mooar ta’n shee t’ocsyn shee shickyr mac ny shee, Jee ny shee kerraghey yn chee, Jee yn chee, ree yn chee
+sheh	hide	f	z				bee’n cheh, as yn eill
+shelliu v	salve	f	z	X			gow yn chielliu costal shelliu meeley
+shenndiaght	age	m	z				Quoi erbee s’beayn cha beayn y çhenndiaght, sleih-aegey Vannin ... chammah as y chenndiaght shendiaght cloan Israel
+Wheeler
+Survey of grammatical gender in Classical Manx
+51
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+sheshaght	company		zx	zx	zx		Vel y Cheshaght shoh feeu? CS Myr sloo yn çheshaght share yn ayrn; myr smoo yn çheshaght s’reaie yn chloie. Ta’n cheshaght-chaggee ooasle BCP cre’n sheshaght Ap, B, trooid ooilley yn sheshaght-caggee B, djirree’n cheshaght seose PC, Tra ta’n cheshaght Chreestee goail-rish TW, nee yn cheshaght ... cosney roue B &c sheshaght gherjoil ×5 BCP, FRC, sheshaght chadjin, sheshaght vooar ×16 Ap, Met, B, daa heshaght vooar B×2, sheshaght ghennal TW, sheshaght vannee FRC, sheshaght vooar caggee B, ta’n cheshaght vannit BCP, y cheshaght wooar PC Jeh heshaght ghooih PC, cheshaght chasherick BCP (30) sheshaght gerjoil AG, sheshaght bannee AG, sheshaght mooar (×3) Ap, B, MT, sheshaght mooar caggee B, sheshaght crauee Met, sheshaght dooie (7) (s)heshaght chaggee (×109) PC, Ap, B, sheshaght chloan Israel B×5 (124) (s)heshaght caggee (×82) BCP, Ap, B, (sheshaght caggee vooar B, sheshaght caggee yn Chiarn B), sheshaght ben rouanagh Ap, sheshaght deiney lowal Ap sheshaght deiney mooarey Ap, B, sheshaght credjue Chreest BCP, sheshaght shioltane Chreest BCP, sheshaght cloan Israel ×16 B, sheshaght cloan y chappeeys B
+shesheraght	plough team	f	z				ta gimman y chesheraght
+shiaghtin	week	f	z	z			dy heet lhiat dy mie yn chiaghtin ny lurg, chooilleen eh yn chiaghtyn shiaghtin vie
+shibber v	supper	m	X	z			rish y Chibber chasherick BCP, dy reayll yn shibber AG pointeil yn Shibber casherick AG
+shickyrys	certainty	f	X	X			cre’n shickyrys t’ain? Yn shickyrys hug yn ainle Gabriel jee, shen y shickyrys share, *çhickyrys dy chooilley hickyrys possibyl TW
+Wheeler
+Survey of grammatical gender in Classical Manx
+52
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+shioltane	flock	f	ZX	ZX	X		v’eh bochillagh y chioltane, cre’n raad ta’n chioltane ayds, cre vel y chioltane va er dty churrym, cha vel shiu fassagh yn chioltane, Myr y chioltane casherick, dy bee yn chioltane giarit jeh (6) Yn shioltane t’er nyn vassagh fo Met, hug eh yn shioltane B, leeideil yn shioltane B (3) daa hioltane veggey shioltane keyrragh
+shirveish	service	m	ZX		X		Yn Ooashley as yn Chirveish ta shin cur AG, cre’n chirveish ta Jee dy hirrey orryn CS, dy nee reamys firrinagh y chirveish echey CS, dy dreigagh oo yn chirveish CS, yn chirveish ayds seyrsnys firrinagh BCP, aashagh va’n chirveish PC, lhieu ta’n chirveish goail toshiaght TW, toilchin ooilley’n ghraih as y chirveish FRC, freayll yn chirveish shoh B my t’eh er churmal er e Hirveishee hene yn shirveish shoh TW ayns y Chirveish Moghree FRC, shirveish sooilley/sooylley ×3
+shleayst ~ slheeasid v	thigh	f	ZX	z		(X)	yn cleeaysid y roostey Ap dy chooilley reih peesh, yn shleayst, as y clingan e lheayst yesh (kione y lheeasid)
+shleiy	spear	f	X	(X)			stroshey ny'n shleih shen PC, myr croan luingey va’n shleih PC, Sheeyn magh yn shleiy, woaill eh yn shleiy stiagh y shleiy soilsheanagh lesh y shleiy
+shlig	shell, sherd	f	X				casley rishyn ta thah yn shlig
+shlingan >f 11:2	shoulder	f	ZX	z			y clingan (×3) yesh, y chlingan (×7) yesh, ghow’n coagyrey yn chlingan (11) Yn shlingan, as y breast ta chebbit, ver ad da’n taggyrt y slhingan (2) shlingan vroie yn rea
+shoggyl	rye	f	X				cha row’n churnagh n’yn shoggyl naardey, cuirr ayn yn reih curnaght, as yn ard- oarn, as yn shoggyl
+shuin	rush	f	z				Vod y chuïn gaase fegooish laagh?
+Wheeler
+Survey of grammatical gender in Classical Manx
+53
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+shuyr >f 5:2	sister	f	zx	z			as honnick yn chuyr foalsey eck Judah shoh, ren y chuyr foalsey eck Judah, cha vel y chuyr foalsey, bynney lesh Yeesey Martha, as y chuyr eck (4) as Shuah yn shuyr oc, dooyrt y shuyr shinney (2) shuyr veg
+side	arrow	f	z				dy jagh y tide trooid e chree, Cha vod y tide cur er chea
+skeeal	story	f		X			yn skeeal trimshagh shoh, skeeal branlaadee
+skian	wing	f		z			skiean wooar PC
+skynn	knife	f		z	z		dty skinn yeir, t’ou giarey gollrish skynn ghyere skynn-phenney skynn dhornanagh
+slatt >f 6:3	rod	f	zx		z		Ayns eh laue yesh, yn chlat reill ren eh ghoayll PC, dy chosney dou’n chlatt-reill PC, myr dy jinnagh y clatt ee-hene y chraa, Kys ta’n lorg-reill lajer brisht, as y clatt aalin! ta’n clatt er vlaaghey (5) Ta’n slat as oghsan dy choyrt creenaght, agh ta’n slat son y dreeym echeysyn ta laccal tushtey, nee yn slat smaghtee geiyrt magh eh (3) slatt gheiney
+slattag	small rod	f		X			myr slattag meiygh
+slaynt	health	f	X	z			Cha vel veg y slaynt ayns m’eill slaynt vie ×4
+sleayst	shovel, fan	f	z				Ta’n cleayst echey ayns e laue
+slouree	rackentree	f	z				Dy jin y Clouree as y drolloo Girree magh as caggey dy oi (Arrane yn fold yr gastey)
+smarage	ember	f		z			smarage yiarg ny laue
+smock	shift	f		z			smock whuineellagh
+smug	spit, snot	f			X		smug cooag
+snaid	needle	f		z			Ren oo rieau clashtyn snaid wooar dy obbal goaill snaie? (Eishtagh lhie liorym)
+sniengan	ant	f		X			yn sniengan beg PC
+soalt	barn	f				z(X)	ayns uhllin ny soalt laare y thoalt
+Wheeler
+Survey of grammatical gender in Classical Manx
+54
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+soddag >f 3:1	bannock	f	/	z	zx		yn toddag valloo yn toddag valloo soddag-verreen Cr soddag berreen B
+sonnys - sonney	abundance	f		(X)	X		sonnys seihlt sonnys beaghey
+sooill – sooilley ~ sooylley >f 27:10 + ny	eye	f	zx	zx	X	z	Dy lheney’n thooill, Ga nagh bee’n thooill, yn cree vees kinjagh ayd, Yn thooill goayll thaitnys ayns dagh dah va ayn, Va’n thooill lesh fakin er ny yannoo magh PC, dy derym assdiu ooilley yn tooill yesh, Ta yn tooill soilshey yn chorp, my ta’n tooill gyn foill, Yn tooill ta cur soilshey da’n chorp, Er-yn-oyr nagh nee yn tooill mee, cha vod y tooill gra rish y laue, cre er feaï-ny-cruinney ta ny smessey na’n thooill? ny eshyn ren y thooill (12) y sooill ta fakin, cha vel y sooill er ny yannoo magh, Yn sooill t’er my akin, Yn sooill ... honnick eh, cha jean eh fakin eh, tra honnick yn sooill mee dymmyrk eh feanish dou, Yn sooill ta craidey mysh e ayr ... eh,...eh, Ta’n sooill goaill yindys, ta’n sooill echey cur-my-ner, bee’n sooill yesh echey doo dorraghey (9) sooill vie ×2, sooill ghaaney, sooill ghennal, sooill ghraihagh, sooill ghyere, sooill gheyre, (s)ooill yesh ×6 (13) sooill graihagh Adam PC, sooill sondagh Ap (1) sooill dooinney saynt ny sooylley, clagh ny sooilley clagh y thooill
+sooree	courtship	f	z	z			Sooree ghiare, yn tooree share.
+sproght	vexation	f		X	X		sproght goanlyssagh sproght baaish
+Wheeler
+Survey of grammatical gender in Classical Manx
+55
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+stayd >f 24:17	state	m		ZX	zx		stayd vooar ×3, nyn stayd hrimshagh peccoil, stayd vie ×3, stayd chasherick ×3, stayd heihltagh, stayd vie e raantagh, stayd voght, stayd hreih, stayd yerrinagh ×2, stayd chronnal (19) stayd maynrey, cre’n stayd trimshagh eh, (stayd casherick), stayd gloyroil, stayd treih ×20, stayd peccoil, stayd mee-vaynrey, stayd cailjey, stayd danjereagh, stayd seaghnagh, stayd bannit, stayd baasoil, stayd mooaralagh (8) stayd eallee elley CS, stayd phoosee ×4 (5) stayd bea ×5, stayd poosee, daa stayd sheelnaue ×2, stayd dooinney ×3, stayd- beaghee ×3, stayd sharvaantyn, stayd drogh-sleih, stayd cloan gheiney (9)
+strah	plain	f		z	(X)		strah vooar strah coan Yericho
+straid	street	f	/	z	(X)		enmyssit y traid Yeeragh straid giat yn ard-valley, straid giat Ephraim
+streean v	bridle	f	X	z			er eaysley yn streean, ta goaill yn streean ass nyn meeal streean volgagh (treean, hreean in Cr.)
+streebagh ?	prostitute	f	X	z			raad ta’n streebagh ny soie, chloie oo yn streebagh, briwnys yn streebagh vooar *treebagh
+stroin	nose	f	X		X	(X)	eshyn ta’n stroin echey ass cummey *troin stroin muickey cassey yn stroin
+strooan v	stream	f	ZX	X			as y trooan va roie dy hyrmee yn strooan seose strooan bio
+taitnys	pleasure	f		X			taitnys mooar ×4
+theay >m	people	f		ZX			Cummalthee’n thooa wooar PC Yn slaan thooa graiagh PC, y theay mee-reiltagh, dy hooa gloroile PC harrish theay seaghnit
+thooilley	flood	f		ZX			thooilley mooar ushtaghyn hig thooilley hrome-liaghee
+Wheeler
+Survey of grammatical gender in Classical Manx
+56
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+thoyn - thoanney	arse	f			X		toyn muck roauyr
+tidey	tide	f			/		tidey varrey, tidey hraie
+tobbyr ~ tubbyr	font	f			X		tobbyr prashey
+toghyr	dowry	f		X			toghyr mie, toghyr moidynyn
+toiggal >m 7:3	understanding	f		/X			toiggal cair, toiggal cooie, toiggal cairal, toiggal dowin, toiggal kiart, toiggal mie B×3, toiggal shickyr (7) toiggal vie TW×2, Ap (3)
+toilchinys	merit(s)	f		X	X		toilchinys mooar, toilchinys cooie toilchinys baase
+torcan	fumes	f		X	(X)		torcan breinn dy yaagh, torcan jaagh
+toyrt	gift	f			X		toyrt-booise, toyrt-mow
+traartys v	destruction	f		/X			bee traartys vooar ayns mean ny cheerey traartys mooar ×2, traartys trome×3
+traie	shore	f			/	(X)	traie-varrey genniagh y traih
+treihys v	misery	f		/X			treihys vraa TW, treihys vooar treihys braa AG treihys sheelnaue, treihys dooinney
+trie	sole, foot	f			/		trie-howshan
+troar	crop	f			X		dty hroar bleeaney, dty hroar souree
+trughanys	grumbling	f		X	/		trughanys mee-chrauee Ta mee er chlashtyn trughanys chloan Israel
+tushtey >m	knowledge	m		/X			tushtey cooie, tushtey Creestee, tushtey cair, tuhstey cairagh tushtey Chreestee TW
+ughtagh	slope	f			X		ughtagh gennee
+uinnag	window	f			/		uinnag chlea
+undin >m 3:1	foundation	m		/X			undin vie undin mie ×3, undin shickyr
+Wheeler
+Survey of grammatical gender in Classical Manx
+57
+		A Cr.	B L2 after yn	C L1 in _Adj	D L1 in _N	E ny + Rad gen.	
+ushag	bird	f		/	^		ushag veg ruy, ushag happagh, ushag wee ushag voltee
+vondeish >m	advantage			^X			vondeish vooar vondeish mooar ×7, vondeish seihltagh
+ymmyd >m 18:5	use	m		^X	X		ymmyd vie (×5) AG TW FRC ymmyd mie (×9) CS TW, ymmyd caiyr PC, ymmyd cooie ×3, ymmyd cair FRC, ymmyd cadjin ×2, ymmyd dooghyssagh, ymmyd mee-ooasle ymmyd-beaghee, slane ymmyd bea dooinney
+ymmyrch	need	f		^	^		ymmyrch vooar ymmyrts eallee elley
+ynnyd >m	place	f		X	^X		ynnyd bannit, ynnyd berchagh, (ynnyd casherick ×129), ynnyd coon, ynnyd dorraghey, ynnyd gloroil, ynnyd glen, yn ynnyd kiarit, ynnyd mie, ynnyd maynrey, ard-ynnyd mooar, ynnyd sheeoil, ynnyd shickyr ynnyd-veaghee AG, ynnyd vaghee CS PC Ap FRC B (×60) ayns ynnyd Biallys slane, ayns ynnyd baase, ayns ynnyd beeal, ynnyd boyn my choshey, ynnyd bollag, ayns ynnyd coayl e vioys, ayns ynnyd charrey, ayns ynnyd claghyn, ayns ynnyd coonlagh, ynnyd cloan Israel, ayns ynnyd cooney, ayns ynnyd curnaght, ynnyd cabbane-agglish, ayns ynnyd cryss aalin, ayns ynnyd jannoo shoh, ayns ynnyd maase, ayns ynnyd shee as fea, ayns ynnyd sooillyn, ayns ynnyd treisht, ayns ynnyd taggloo
+ynrickys	righteousness	f		X	X	^	ynrickys taitnyssagh, ynrickys crauee ynrickys bea, ynrickys cree raad ny hynrycys CS

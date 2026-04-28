@@ -1,0 +1,1816 @@
+﻿Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+1
+Manx Gaelic inflection, 5. Verbs
+1.	Introduction
+This article continues the series expounding and commenting on the grammatical information
+to be found in Archibald Cregeen’s Dictionary of the Manks Language (1835). Here, while the
+forms are taken from the Dictionary (supplemented in some cases by examples from the Manx
+Bible), the grammatical framework and terminology is for the most part my own. The
+Dictionary includes some 890 verbs, and, for nearly all, Cregeen gives a considerable amount
+of information on inflection. One general matter worthy of comment is the substantial degree
+of variation revealed in the Dictionary, involving both inflection and orthography. Mostly
+variant forms are listed by Cregeen without comment, but sometimes he explains that, of
+certain alternative forms, one is more literary (favoured by the Bible translators) and the other
+is more colloquial. Or he may recommend one spelling rather than another, typically on the
+grounds of maintaining a written distinction between homophones. The amount of variation
+revealed reminds us that Manx was, and is, standardised only to a certain degree. Inflectional
+variation particularly concerns the form of the verbal noun, which might be considered a
+derivational rather than an inflectional category, though it is fully integrated into the pattern of
+periphrastic expression of certain tenses and aspects (see §3 below). Another very common
+variation concerns the presence vs. absence of the extension -ee after the base form of a verb,
+for example eign or eignee ‘force’, past tense deign or deignee. Such variation in the base form
+is particularly common in verbs whose verbal noun suffix contains -agh- (that
+is -agh, -aghey, -aght, or -aghtyn, as in eignagh or eignaghey ‘forcing’), but it is not found in
+all of those, or exclusively in them.
+Another general matter to be remarked on is defectivity, that is, paradigm gaps in certain verbs.
+In principle, each verb has four ‘principal parts’ on which the full range of inflectional
+paradigms are built: a base, a verbal noun (often with a suffix, but in quite a few cases identical
+with the base), a past tense, and a participle. However, for more than 500 verbs (some 57%),
+Cregeen does not mention all of the four principal parts: for example, bouyragh or bouyraghey
+‘to deafen’ has a participle bouyrit ‘deafened’ but no base or past tense; eill ‘arm’ has a past
+tense deill or deillee, a participle eillit, but no verbal noun; spaar (base) ‘spare, save’ has a
+verbal noun spaarail, and a participle spaarit, but no past tense; cled (base) ‘overturn’ has a
+verbal noun cleddal, and a past tense chled, but no participle. It is not easy to know what to
+make of these gaps. Some may be oversights,1 or Cregeen may have thought that the forms of
+some verbs were so obvious as not to need explicit mention. But it is also likely that in many
+verbs some potential forms were not used, or that Cregeen was not aware of their being used.
+Verbs for which no base is given, or no past tense form, may have made use solely of the
+periphrastic constructions where these tenses comprise forms of the auxiliary verb jannoo ‘do’
+plus the gerund. (For example, the verb reill ‘rule’ is very frequent in the Bible, but its Past
+tense is always periphrastic: ren ... reill.) Intransitive (unergative) verbs may lack a (passive)
+participle because their argument structure provides no context in which such a form could be
+used, as for example with caddil ‘sleep’ kirtagh ‘to hasten’ or etlagh ‘to fly’.2 A handful of
+verbs are indubitably defective in lacking one or more tenses: the apparently future forms of
+1 For example, the Bible exemplifies forms such as laad ‘load.PAST’, lhieen ‘fill.PAST’, lhig ‘let.PAST’, lhott
+‘wound.PAST’ (and many others with initial l-), niartee ‘strengthen.PAST’ that Cregeen does not mention. Probably
+he thought the Past forms could be inferred in such cases, since the initial consonant is not affected by mutation.
+2 But e.g. unaccusative intransitive shangagh ‘be/become lank’ has a participle shangit.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+2
+fod ‘be able’ are used with present sense (foddym ‘I can’, cha noddym ‘I cannot’, foddee ad
+‘they can’, cha nod ad ‘they cannot’, etc.); there is no future paradigm. Jargym ‘can’ is similar
+but is used only in negative sentences: cha jargmayd ‘we cannot’, cha yarg ad ‘they could not’.
+Lhisin - lhisagh ‘should, ought’ has only conditional forms.
+2.	Categories relevant to Manx verb inflection
+The finite verb categories are those in which mood, tense, aspect, and person/number of the
+subject are expressed. All of the finite categories may be expressed periphrastically, using a
+finite auxiliary verb jannoo ‘do’ or ve ‘be’ together with a non-finite form of the lexical verb
+in question —the verbal noun or the gerund depending on the construction. Synthetic inflection
+is available for the imperative, the future tense (indicative and relative), the past tense, and the
+conditional mood. In the synthetic future and conditional the verb root is followed by a suffix;
+the synthetic past tense consists of the verb root (with Lenition 1 if it begins with a consonant,
+and with prefixed d- if the root begins with a vowel).
+An important distinction in Manx is that between independent and dependent verb forms.
+Independent forms occur in positive main clauses, in wh-question clauses, in positive factual
+conditional clauses, and in positive relative clauses. Where the independent and dependent
+forms differ, the distinction may be marked by a difference in initial mutation (see below); the
+independent future indicative has a suffix -ee in the non-1st person forms that is absent in the
+dependent future indicative. Dependent forms occur in negative clauses (main and subordinate)
+and in alternative questions.
+The mood categories are indicative, imperative, conditional and relative future. The indicative
+forms are mentioned below in the context of the tense and aspect categories. The imperative
+has a singular and a plural: the singular imperative consists of the verb base. The (second
+person) plural imperative adds a suffix -jee in Biblical Manx; in later Manx the plural
+imperative consists of the singular imperative plus shiu ‘you.PLURAL’. The conditional mood
+is inflected with the suffix -in ‘1SG.CONDITIONAL’; for the other persons, -agh followed by the
+subject (personal pronoun, or noun phrase). The relative future which occurs in subordinate
+clauses resembles a subjunctive mood in certain respects; in proverbs especially, the relative
+future form may appear in a main clause with a future indicative or timeless value e.g. Brishys
+accyrys trooid boallaghyn cloaie ‘Hunger will break through stone walls’. In the first person
+singular the relative future is identical with the indicative future, with -ym added to the base;
+in the other persons a suffix -ys is added to the base, which is followed by -mayd for the 1st
+person plural, and in the 2nd and 3rd persons by the subject (personal pronoun or noun phrase).
+The tense categories are present, past, and future: except for the verbs ‘be’ and ‘can’, the
+present tense is expressed only periphrastically, with the auxiliary verb ve ‘be’ plus the gerund.
+The future and the past may be expressed either synthetically or periphrastically using the
+auxiliary verb jannoo ‘do’ plus the gerund. They are aspectually neutral. The future
+independent has a suffix -ee in the non-first person, unless the verb base already ends in -ee.
+The marked aspect categories are progressive and perfect. The progressive future and past are
+expressed with the auxiliary ve ‘be’ and the gerund. The perfect aspect combines with present,
+future and past tense (thus present perfect, future perfect, and past perfect or pluperfect): it
+consists of the present, future or past of the auxiliary verb ve ‘be’ followed by er ‘on’ and the
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+3
+verbal noun with a mixed mutation pattern displaying aspects of Lenition 1 and of Nasalization
+2; see ‘Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’ in the Manx Bible’.3
+The perfect and progressive aspects may also combine with one another (auxiliary ve ‘be’ + er
+ve + gerund, cf. English have been X-ing).
+The person/number categories (of the subject of the verb) are expressed by suffix inflection
+only in the plural imperative (see above) and in the first person —singular -ym and plural -mayd
+in the future (indicative and relative), singular -in alone in the conditional. (In the Manx
+Bible -mayd is written as a separate word; consequently Cregeen does not explicitly mention
+these 1pl forms when illustrating verb inflection.) Elsewhere the subject is expressed by a
+pronoun or a (3rd person) noun phrase following the finite verb. Just as the personal pronouns
+have emphatic forms (mee - mish ‘I, me’, oo - uss ‘you.SG’, eh - eshyn ‘he, him, it’, ee - ish
+‘she, her, it’, shin - shinyn ‘we, us’, shiu - shiuish ‘you.PL’, ad - adsyn ‘they, them’), so do the
+person/number inflections just mentioned: -ym - -yms, -mayd - -mainyn, -in - -ins. In a few
+cases the second person singular pronoun oo - uss may combine orthographically with a
+preceding vowel-final verb form. Thus tou or t’ou is normally written for ta oo ‘you.SG are’,
+and vou or v’ou for va oo ‘you.SG were’. Other examples are voo = va oo, vouys = va uss, boo
+= bee oo ‘you.SG will be’, r’ou or row = row oo and rows = row uss ‘you.SG were.dependent’;
+yiow and yiows for yiow oo and yiow uss ‘you.SG will get’ and vow = vow oo, now = now oo,
+vows = vow uss, nowys = now uss ‘will get.DEPENDENT’; he’oo for hed oo ‘you.SG will go’ and
+je’oo or jeu for jed oo ‘will go.DEPENDENT’, ne’oo for nee oo, ne’oos for nee uss ‘you.SG will
+do’ In addition to t’ou and v’ou for ta oo and va oo mentioned above, ta ‘is’ and va ‘was’ are
+abbreviated to t’ and v’ before other subject pronouns beginning with a vowel: ta eh → t’eh or
+te, ta eshyn → t’eshyn, ta ee → t’ee, ta ad → t’ad, ta adsyn → t’adsyn, va eh → v’eh, va ee →
+v’ee, va ad → v’ad; and before vowel-initial conjugated prepositions, e.g. ta aym → t’aym ‘that
+is mine/that I have’, va oc → v’oc ‘that they had’, va ayn → v’ayn ‘that was in’, t’orrym ‘that
+is on me’, etc.
+The distinction between regular and irregular verbs in Manx is not merely a descriptive one.
+In the grammatical tradition there are counted ten or so irregular verbs. (Views differ on
+whether the copular verb she is reckoned separately from ve ‘be’, and the irregularity of goaill
+‘take’ is predominantly orthographic.) The irregular verbs are characterized by having two or
+more suppletive stems, for example, cur ‘put’ has future stem verr- (independent) - derr-
+(dependent), and past indicative hug (ind.) and dug (dep.); the conditional always uses the same
+stem(s) as the future. In addition, though, the irregular verbs have one or both of the following
+anomalies: (1) not having a relative future form with suffix -ys, and (2) having a distinction
+between independent and dependent stem in the past tense.
+The non-finite verb categories in Manx are the verbal noun, the gerund, and the (passive)
+participle. Manx verbs vary most in the way in which the verbal noun is formed; in many verbs
+the verbal noun has the same form as the base (= imperative), for example, cur ‘putting’, cur
+‘put’; in three there is a change from slender final consonant to broad (caill - coayl ‘losing’,
+shooill - shooyl ‘walking’, freill - freayll ‘keeping’4). In the majority of verbs, though, the
+verbal noun has a suffix. Some suffixes (such as -ey, -aghey, -al) occur with very many verbs,
+3 https://www.academia.edu/13652575/Manx_Gaelic_inflection_6._Initial_mutation_after_er_Perfect_tense_in_
+the_Manx_Bible
+4 Such a consonant alternation is also occasionally found when the verbal noun has suffix -ey: losht - lostey
+‘burning’, shiauill - shiaulley ‘sailing’, naisht - nastey ‘betroth’.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+4
+others with just a handful. Many verbs have alternative verbal noun suffixes, e.g. jeellal or
+jeelley ‘devastating’ - base: jeell. Some of the rarer suffixes appear to combine with one
+another: such as -tyn (keiltyn ‘concealing’) looks like -t + -yn; -aghtyn (follaghtyn ‘hide’) looks
+like -agh + -tyn or -aght + -yn, and so on. One or two verb noun suffixes are unique, in Cregeen:
+such as -anse in surranse ‘suffering’ (also surral), -on in connysson ‘scorning, sneering’ (also
+connaasagh ~ connaasey), -oil in brooightoil ‘belching’. A couple of suffixes are found
+predominantly in a specific semantic context, such as -[ə]rnee for vocal noises (gullyrnee
+‘howling’ also gullal; scoylgernee ‘shrieking’ also scoylgey; glugernee ‘gurgling’ also
+glugeraght; gounstyrnee ‘barking’, shutternee ‘neighing’, taauernee ‘retching’); -[ə]ragh(t) for
+repeated noises (beealeraght ‘babbling’, blobberaght ‘babbling’, clinkeragh ‘tinkling’,
+floutyraght ‘taunting’, frapperaght ‘crackling’, gigleragh ‘giggling’, grigyraght ‘ticking’,
+pisheyragh ‘whispering’, sansheraght ‘whispering’) or repeated movements (jonseragh
+‘jolting’, nhedderagh ‘fidgeting’, snaperaght ‘napping’, tasteraght ‘threshing’, tauintyraght
+‘sauntering’). The verbal noun has nominal functions. In addition it is used in the perfect tense
+construction with ve er + verbal noun (t’eh er n’arraghey ‘it has moved’), in the passive
+construction with ve er + possessive + verbal noun (roish my vees yn coyrd argid er ny eaysley
+‘before the silver cord is loosed’), in the construction where a non-finite transitive verb phrase
+places the direct object before y + a verbal noun (nee yn irriney shiu y heyrey ‘the truth shall
+make you free’), and after prepositions ry and dy ‘to’.
+The gerund has the same form as the verbal noun when the stem begins with a consonant; when
+the verbal noun begins with a vowel, the gerund shows a prefixed g-. The gerund is the form
+used in all the periphrastic constructions with ve ‘be’ or jannoo ‘do’, for example, with base
+yns(ee) ‘teach, learn’, t’ad gynsaghey ‘they are learning’, jean ad gynsaghey? ‘will they learn?’,
+jean gynsaghey! ‘learn!’, veagh ad gynsaghey ‘they would be learning’, ren ad gynsaghey ‘they
+learnt’, etc.
+The (passive) participle involves the suffixation of -it or -t to the verb base. The basic form
+is -it (with a slender -t), which is often reduced to -t after a vowel, and sometimes after a
+dental/alveolar sonorant consonant, or sibilant, preceded by a vowel. Thus brisht ‘broken’,
+bwoaillit or bwoailt ‘struck’, castit or cast ‘twisted’, ceauit or ceaut ‘thrown’, çhionnit or
+çhionnt ‘tightened’, çhiowit or çhiowt ‘heated’, cleiyit or cleight ‘dug’, creenit or creent
+‘withered’, daahit or daat ‘dyed’, dooinit or dooint ‘closed’, eeit or eet ‘eaten’; failt ‘hired, fant
+‘flayed’, guirt ‘hatched’, jeant ‘made’, jiolit or jiolt ‘sucked’, lhieent ‘filled’, poost ‘married’,
+rast ‘ripped’; reillt ‘governed’, surrit or surrt ‘suffered’; and NB kianlt or kianglt [kjeː̃ ljt] ‘tied’,
+scelt or skeilt (rather than *skeiltit) ‘split’, blieaunit or bhlit (irregular stem reduction) ‘milked’.
+Initial mutation plays quite an important role in marking tense and mood categories (that is to
+say, in the case of those consonants that are subject to initial mutation). The pattern is set out
+in Table 1 below.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+5
+Table 1. Initial mutations in verbs
+	Independent	Dependent	Relative
+Imperative	Radical		
+Future	Radical	Nasalization 3, n’ before V (opt. for f-)	Lenition 1
+Conditional	Lenition 1	Nasalization 3, n’ before V (opt. for f-)	
+Past (regular)	Lenition 1, d- before V	Lenition 1, d- before V	
+Past (irregular)	Lenition 1, d- before V	Nasalization 3	
+Gerund	g- before V		
+VN after dy, y, my, dty, ny (masc.)	Lenition 1		
+VN after ny (fem.)	Radical		
+VN after nyn	Nasalization 1		
+VN after er (Perfect)	Nasalization 2,5 n- before V		
+Nasalization 3 (voicing)		
+p	→	b
+t	→	d
+çh	→	j
+k/c	→	g
+qu	→	gu
+f	→	v
+Others	→	Radical
+3.	Epenthesis
+Many Manx stems end in consonant clusters that cannot, as they stand, terminate a syllable or
+a word, because, for example, they consist of a less sonorous consonant followed by a more
+sonorous one, whereas Manx syllable structure requires consonant sequences in a syllable coda
+to be of sharply decreasing sonority. Consequently, when no vowel follows (which would allow
+the one or more of the consonants to form a syllable onset), the consonant cluster is broken up
+by an epenthetic vowel [ǝ], written -y- adjacent to broad consonants,6 -i- adjacent to slender
+ones. Not all such cases are indicated in the spelling in Cregeen. The suffix-less forms in verbs
+are the singular imperative, the non-1st person dependent future, and the past tense. Thus, from
+the stem ceaghl- ‘change’ we get imperative ceaghil, future dependent geaghil, past ceaghil.
+The epenthetic vowel sometimes shows up in the participle, where it would not be expected
+(follymit beside folmit ‘emptied’, gorrymit beside gormit ‘made blue’). Examples: agglaghey,
+aggle, n’aggle, daggle ‘fear’; cadley, caddil, gaddil, chaddil ‘sleep’; çhaglym, çhaggle ~
+çhaggyl, (jagl) ~ jaggil, (hagl) ~ haggil ‘gather’; çhirmaghey, çhirrym ~ çhirm, (jyrm), (hyrm)
+‘dry’; coonrey, coonre ~ (coonr), (goonr), (choonr) ‘exchange’; cosney, (cosn) ~ cosne ~
+cossyn, gossyn, chosn ~ chosne ~ chossyn ‘gain’; doobley. dooble, ghooble ‘double’; etlaghey,
+(etl), (n’etl), dettyl ‘fly’; fasney, (fasn) ~ fasin, (n’asn), dasin ‘winnow’; feaysley, feaysl ~
+feayshil, n’eaysl ~ n’eayshil, deayshil ‘set free’; fockley, fockle, (n’ockl), dockle ‘utter’; fosley,
+foshl ~ foshil, voshl ~ voshil, doshil ‘open’; imbyl, imbyl, (n’iml), dhimbyl ‘brew’ (cf. imlit
+5 For details of Nasalization 2, see
+https://www.academia.edu/13652575/Manx_Gaelic_inflection_6._Initial_mutation_after_er_Perfect_tense_in_t
+he_Manx_Bible
+6 Or -yl may be written -le, as in English.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+6
+‘brewed’ NB epenthesis of [b] too between [m] and [l]); inshlaghey, inshl ~ injill, n’injill,
+(dinjilee) ‘lower’; kickley, kickl ~ kickil, gickl ~ gickil, chickil ‘tickle’; loamr, loamyrt, loamrit
+‘shear’; plaastrail, (plaastr), (blaastr), phlaastyr ‘plaster’; ribley, ribl ~ ribil, ribl ~ ribil
+‘ripple’; shaghney, shaghyn ~ shaghin ~ shaghn, haghn ‘avoid’.
+NB simplification of the consonant cluster rather than epenthesis in fordrail, ford ~ fordr
+‘afford’; oardrail, oard ~ oardee, n’oard ~ (n’oardr), (doardee) ‘order’.
+No epenthesis is indicated by Cregeen for the following, where it might be expected: aaitn
+‘gorse’, branl ‘fallow’, brasn ‘provoke’, caartr ‘vilify’, çhymn ‘bequeath’, coamr ‘clothe’,
+crapl ‘crumple’, cumr ‘hinder’, eebr ‘banish’ enm ‘name’, faml ‘manure with seaweed’, folm
+‘empty’, gorm ‘make blue’, kuckl ‘dry after rain’, labr ‘labour’, mholm ‘crumble’, obbr ‘work’,
+ooashl ‘worship’, oonl ‘wash’, osn ‘sigh’, shyml ‘pine’, teaystn ‘knead’, tempr ‘temper’,
+treickn ‘strike with a beetle’, ventr ‘venture’.
+4.	Paradigms of regular verbs
+The synthetic inflection of regular verbs is illustrated with three examples toiggal
+‘understanding’, representing a consonant-initial root subject to mutation, faagail ‘leaving’,
+illustrating variable mutation of initial f-, and ymmyrkey ‘bearing’, illustrating a vowel-initial
+root.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+7
+Regular verb inflection — synthetic paradigms			
+	toiggal ‘understanding’	faagail ‘leaving’	ymmyrkey ‘bearing’
+Imperative 2sg	toig	faag	ymmyrk
+Imperative 2pl	toigjee	faagjee	ymmyrkjee
+Verbal noun	toiggal	faagail	ymmyrkey
+dy + VN	dy hoiggal	dy aagail	dy ymmyrkey
+Gerund	toiggal	faagail	gymmyrkey
+Perfect	er doiggal	er vaagail ~ er n’aagail	er n’ymmyrkey
+Participle	toiggit	faagit	ymmyrkit
+Future independent 1sg	toiggym	faagym	ymmyrkym
+emphatic	toiggyms	faagyms	ymmyrkyms
+Future independent 1pl	toigmayd	faagmayd	ymmyrkmayd
+emphatic	toigmainyn	faagmainyn	ymmyrkmainyn
+Future independent 2/3	toiggee	faagee	ymmyrkee
+Future dependent 1sg	doiggym	vaagym ~ n’aagym	n’ymmyrkym
+emphatic	doiggyms	vaagyms ~ n’aagyms	n’ymmyrkyms
+Future dependent 1pl	doigmayd	vaagmayd ~ n’aagmayd	n’ymmrkmayd
+emphatic	doigmainyn	vaagmainyn ~ n’aagmainyn	n’ymmyrkmainyn
+Future dependent 2/3	doig	vaag ~ n’aag	n’ymmyrk
+Future relative 1sg	hoiggym	aagym	ymmyrkym
+emphatic	hoiggyms	aagyms	ymmyrkyms
+Future relative 1pl	hoiggysmayd	aagysmayd	ymmyrkysmayd
+emphatic	hoiggysmainyn	aagysmainyn	ymmyrkysmainyn
+Future relative 2/3	hoiggys	aagys	ymmyrkys
+Conditional independent 1sg	hoiggin	aagin	ymmyrkin
+emphatic	hoiggins	aagins	ymmyrkins
+Conditional independent other	hoiggagh	aagagh	ymmyrkagh
+Conditional dependent 1sg	doiggin	vaagin ~ n’aagin	n’ymmyrkin
+emphatic	doiggins	vaagins ~ n’aagins	n’ymmyrkins
+Conditional dependent other	doiggagh	vaagagh ~ n’aagagh	n’ymmyrkagh
+Past independent	hoig	daag	dymmyrk
+Past dependent	hoig	daag	dymmyrk
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+8
+Analytic (periphrastic) paradigms, illustrated with ymmyrkey ‘bearing’ 1SG and 3pl (2sg and 2pl imperative).		
+Present independent	ta mee gymmyrkey t’ad gymmyrkey	I bear, I am bearing they bear, they are bearing
+Present dependent	vel mee gymmyrkey vel ad gymmyrkey	I bear, I am bearing they bear, they are bearing
+Present dependent (neg.)	cha vel/nel mee gymmyrkey cha vel/nel ad gymmyrkey	I do not bear, I am not bearing they do not bear, they are not bearing
+Future independent	neeym gymmyrkey nee ad gymmyrkey	I shall bear they will bear
+Future dependent	(cha) jeanym gymmyrkey (cha) jean ad gymmyrkey	I shall (not) bear they will (not) bear
+Future relative	neeym gymmyrkey nee ad gymmyrkey	(that) I shall bear (that) they will bear
+Future progressive independent	beeym gymmyrkey bee ad gymmyrkey	I shall be bearing they will be bearing
+Future progressive dependent	beeym gymmyrkey bee ad gymmyrkey	I shall be bearing they will be bearing
+Future progressive relative	veeym gymmyrkey vees ad gymmyrkey	(that) I shall be bearing (that) they will be bearing
+Past independent	ren mee gymmyrkey ren ad gymmyrkey	I bore they bore
+Past dependent	ren mee gymmyrkey ren ad gymmyrkey	I bore they bore
+Past progressive independent	va mee gymmyrkey v’ad gymmyrkey	I was bearing they were bearing
+Past progressive dependent	row mee gymmyrkey row ad gymmyrkey	I was bearing they were bearing
+Conditional independent	yinnin gymmyrkey yinnagh ad gymmyrkey	I would bear they would bear
+Conditional dependent	jinnin gymmyrkey jinnagh ad gymmyrkey	I would bear they would bear
+Conditional progressive independent	veign gymmyrkey veagh ad gymmyrkey	(that) I would bear (that) they would bear
+Conditional progressive dependent	beign gymmyrkey beagh ad gymmyrkey	I would be bearing they would be bearing
+Present perfect independent	ta mee er n’ymmyrkey t’ad er n’ymmyrkey	I have borne they have borne
+Present perfect dependent	vel/nel mee er n’ymmyrkey vel/nel ad er n’ymmyrkey	I have borne they have borne
+Future perfect independent/ dependent	beeym er n’ymmrkey bee ad er n’ymmyrkey	I shall have borne they will have borne
+Future perfect relative	veeym er n’ymmyrkey vees ad er n’ymmyrkey	(that) I shall have borne (that) they will have borne
+Past perfect independent	va mee er n’ymmyrkey v’ad er n’ymmyrkey	I had borne they had borne
+Past perfect dependent	row mee er n’ymmyrkey row ad er n’ymmyrkey	I had borne they had borne
+Conditional perfect independent	veign er n’ymmyrkey veagh ad er n’ymmyrkey	I would have borne they would have borne
+Conditional perfect dependent	beign er n’ymmyrkey beagh ad er n’ymmyrkey	I would have borne they would have borne
+Present perfect progressive independent	ta mee er ve gymmyrkey t’ad er ve gymmyrkey	I have been bearing they have been bearing
+Present perfect progressive dependent	vel/nel mee er ve gymmyrkey vel/nel ad er ve gymmyrkey	I have been bearing they have been bearing
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+9
+Analytic (periphrastic) paradigms, illustrated with ymmyrkey ‘bearing’ 1SG and 3pl (2sg and 2pl imperative).		
+Future perfect progressive dependent/independent	beeym er ve gymmyrkey bee ad er ve gymmyrkey	I shall have been bearing they will have been bearing
+Future perfect progressive relative	veeym er ve gymmyrkey vees ad er ve gymmyrkey	(that) I shall have been bearing (that) they will have been bearing
+Past perfect progressive independent	va mee er ve gymmyrkey v’ad er ve gymmrkey	I had been bearing they had been bearing
+Past perfect progressive dependent	row mee er ve gymmyrkey row ad er ve gymmrkey	I had been bearing they had been bearing
+Conditional perfect progressive independent	veign er ve gymmyrkey veagh ad er ve gymmyrkey	I would have been bearing they would have been bearing
+Conditional perfect progressive dependent	beign er ve gymmyrkey beagh ad er ve gymmyrkey	I would have been bearing they would have been bearing
+Imperative	jean gymmyrkey jeanjee gymmyrkey	bear! bear.pl!
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+10
+5.	Paradigms of irregular verbs
+Irregular verb inflection — synthetic paradigms				
+	cur ‘giving, putting’	çheet ‘coming’	clashtyn ‘hearing’	fakin ‘seeing’
+Imperative 2sg	cur	tar	clasht	faik
+Imperative 2pl	curjee	tarjee	clashtjee	faikjee
+Verbal noun	cur ~ coyrt	çheet	clashtyn	fakin
+dy + VN	dy chur ~ dy choyrt	dy heet	dy chlashtyn	dy akin
+Gerund	cur ~ coyrt	çheet	clashtyn	fakin
+Perfect	er chur	er jeet	er chlashtyn	er vakin ~ er nakin
+Participle	currit	X	cluinnit ~ clinnit	fakinit
+Future independent 1sg	verym	higym	cluinnym	heem
+emphatic	veryms	higyms	cluinnyms	heems
+Future independent 1pl	vermayd	higmayd	cluinmayd	heemayd
+emphatic	vermainyn	higmainyn	cluinmainyn	heemainyn
+Future independent 2/3	ver	hig	cluinnee ~ clynnee	hee
+Future dependent 1sg	derym	jigym	gluinnym	vaikym ~ naikym
+emphatic	deryms	jigyms	gluinnyms	vaikyms ~ naikyms
+Future dependent 1pl	dermayd	jigmayd	gluinmayd	vaikmayd ~ naikmayd
+emphatic	dermainyn	jigmainyn	gluinmainyn	vaikmainyn ~ naikmainyn
+Future dependent 2/3	der	jig	gluin	vaik
+Future relative 1sg	verym	higym	chluinnym	aikym ~ heem
+emphatic	veryms	higyms	chluinnyms	aikyms ~ heems
+Future relative 1pl	vermayd	higmayd	chluinnysmayd	aikmayd ~ heemayd
+emphatic	vermainyn	higmainyn	chluinnysmainyn	aikmainyn ~ heemainyn
+Future relative 2/3	ver	hig	chluinnys	aik ~ heeys
+Conditional independent 1sg	verrin	harrin	chluinnin	heein ~ aikin
+emphatic	verrins	harrins	chluinnins	heeins ~ aikins
+Conditional independent other	verragh	harragh	chluinnagh	heeagh ~ aikagh
+Conditional dependent 1sg	derrin	darrin	gluinnin	vaikin ~ naikin
+emphatic	derrins	darrins	gluinnins	vaikins ~ naikins
+Conditional dependent other	derragh	darragh	gluinnagh	vaikagh ~ naikagh
+Past independent	hug ~ (chur)	haink	cheayll ~ chluinn	honnick
+Past dependent	dug ~ (chur)	daink	geayll ~ chluin	vaik ~ naik
+Roots	cur-, *fer-, *tug-	çheet-, *tarr-, *çhig-, *taink-	clasht-, cluinn-, *keayll-	fa(i)k-, *çhee-, *tonnick-
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+11
+Irregular verb inflection — synthetic paradigms, continued			
+	feddyn ~ geddyn ‘finding, getting’	goll ‘going’	gra ‘saying’
+Imperative 2sg	fow	gow	abbyr
+Imperative 2pl	fowjee	gowjee	abbyrjee
+Verbal noun	feddyn ~ geddyn	goll	gra
+dy + VN	dy gheddyn	dy gholl	dy ghra
+Gerund	feddyn ~ geddyn	goll	gra
+Perfect	er n’gheddyn	er n’gholl	er ghra
+Participle	feddynit ~ geddynit	X	grait ~ raait ~ jirrit
+Future independent 1sg	yioym	hem	jirrym ~ abbyrym
+emphatic	yioyms	hems	jirryms ~ abbyryms
+Future independent 1pl	yiowmayd	hemmayd	jirmayd ~ abbyrmayd
+emphatic	yiowmainyn	hemmainyn	jirmainyn ~ abbyrmainyn
+Future independent 2/3	yiow	hed	jir ~ abbyr
+Future dependent 1sg	voym	jem ~ jedym	n’yiarrym ~ n’abbyrym
+emphatic	voyms	jems ~ jedyms	n’yiarryms ~ n’abbyryms
+Future dependent 1pl	vowmayd	jemmayd	n’yiarmayd ~ n’abbyrmayd
+emphatic	vowmainyn	jemmainyn	n’yiarmainyn ~ n’abbyrmainyn
+Future dependent 2/3	vow	jed	n’yiarr ~ n’abbyr
+Future relative 1sg	yioym	hem	yiarrym ~ abbyrym
+emphatic	yioyms	hems	yiarryms ~ abbyryms
+Future relative 1pl	yiowmayd	hemmayd	yiarmayd ~ abbyrmayd ~ ? yiarrysmayd
+emphatic	yiowmainyn	hemmainyn	yiarmainyn ~ abbyrmainyn ~ ? yiarrysmainyn
+Future relative 2/3	yiow	hed	y(i)arr ~ abbyr ~ yiarrys
+Conditional independent 1sg	yioin	raghin ~ roin	y(i)arrin
+emphatic	yioins	raghins ~ roins	y(i)arrins
+Conditional independent other	yioghe	ragh	y(i)arragh ~ abbyragh
+Conditional dependent 1sg	voin	raghin ~ roin	niarrin ~ n’abbyrin
+emphatic	voins	raghins ~ roins	niarrins ~ n’abbyrins
+Conditional dependent other	voghe	ragh	niarragh ~ n’abbyragh
+Past independent	hooar	hie	dooyrt
+Past dependent	dooar	jagh	dooyrt
+Roots	fow, feddyn, geddyn, yiow *tooar	gow, goll, *çhe(d), ragh, jagh	gra, raa- abbyr jirr-, *j(i)arr-, dooyrt
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+12
+Irregular verb inflection — synthetic paradigms, continued		
+	jannoo ‘doing’	goaill7 ‘taking’
+Imperative 2sg	jean	gow
+Imperative 2pl	jeanjee	gowjee
+Verbal noun	jannoo	goaill
+dy + VN	dy yannoo	dy ghoaill
+Gerund	jannoo	goaill
+Perfect	er n’yannoo	er ghoaill ~ er n’ghoaill
+Participle	jeant	goit
+Future independent 1sg	neeym	goym ~ gowym
+emphatic	neeyms	goyms ~ gowyms
+Future independent 1pl	neemayd	gowmayd
+emphatic	neemainyn	gowmainyn
+Future independent 2/3	nee	gowee
+Future dependent 1sg	jeanym	goym ~ gowym
+emphatic	jeanyms	goyms ~ gowyms
+Future dependent 1pl	jeanmayd	gowmayd
+emphatic	jeanmainyn	gowmainyn
+Future dependent 2/3	jean	gow
+Future relative 1sg	neeym	ghoym ~ ghowym
+emphatic	neeyms	ghoyms ~ ghowyms
+Future relative 1pl	neemayd	ghowysmayd
+emphatic	neemainyn	ghowysmainyn
+Future relative 2/3	nee	ghoys ~ ghowys
+Conditional independent 1sg	yinnin	ghoin ~ ghowin
+emphatic	yinnins	ghoins ~ ghowins
+Conditional independent other	yinnagh	ghoghe
+Conditional dependent 1sg	jinnin	goin ~ gowin
+emphatic	jinnins	goins ~ gowins
+Conditional dependent other	jinnagh	goghe
+Past independent	ren	ghow
+Past dependent	ren	ghow
+Roots	jann-, jean, jin-, nee, ren	gow
+7 As mentioned above, goaill is irregular only orthographically (gow- ~ go-, goa-, goagh → goghe), though the
+suffix -ill of the verbal noun is unique.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+13
+Irregular verb inflection — synthetic paradigms Auxiliary ve ‘be’, and defective fod and jarg ‘can’			
+	ve ‘being’	fod- ‘can’	jarg ‘can’8
+Imperative 2sg	bee	X	X
+Imperative 2pl	beejee	X	X
+Verbal noun	ve	X	X
+dy + VN	dy ve	X	X
+Gerund	X	X	X
+Perfect	er ve	X	X
+Participle	X	X	jargit
+Present independent 1sg	ta mee	foddym	X
+emphatic	ta mish	foddyms	X
+Present independent 1pl	ta shin	fodmayd	X
+emphatic	ta shinyn	fodmainyn	X
+Present independent 2/3	t’ou	ta shiu t’eh	t’ad t’ee	foddee	X
+Present dependent 1sg	vel mee ~ nel mee	voddym ~ noddym	jargym
+emphatic	vel mish ~ nel mish	voddyms ~ noddyms	jargyms
+Present dependent 1pl	vel shin ~ nel shin	vodmayd ~ nodmayd	jargmayd
+emphatic	vel shinyn ~ nel shinyn	vodmainyn ~ nodmainyn	jargmainyn
+Present dependent 2/3	vel oo ~ nel oo	vel shiu ~ nel shiu vel eh ~ nel eh	vel ad ~ nel ad vel ee ~ nel ee	vod ~ nod	jarg
+Future independent 1sg	beeym	X	X
+emphatic	beeyms	X	X
+Future independent 1pl	beemayd	X	X
+emphatic	beemainyn	X	X
+Future independent 2/3	bee	X	X
+Future dependent 1sg	beeym	X	jargym
+emphatic	beeyms	X	jargyms
+Future dependent 1pl	beemayd	X	jargmayd
+emphatic	beemainyn	X	jargmainyn
+Future dependent 2/3	bee	X	jarg
+Future relative 1sg	veeym	oddym	yargym
+emphatic	veeyms	oddyms	yargyms
+Future relative 1pl	veesmayd	oddysmayd	yargysmayd
+emphatic	veesmainyn	oddysmainyn	yargysmainyn
+Future relative 2/3	vees	oddys	yargys
+Conditional independent 1sg	veign	oddin	X
+emphatic	veigns	oddins	X
+Conditional independent other	veagh	oddagh	X
+Conditional dependent 1sg	beign	voddin ~ noddin	jargin
+emphatic	beigns	voddins ~ noddins	jargins
+Conditional dependent other	beagh	voddagh ~ noddagh	jargagh
+Past independent	va	dod	X
+Past dependent	row	dod	yarg
+Roots	be,	bee, ta,	va, *fel-,	row	fod-	jarg
+8 The future relative and the conditional forms or jarg are mentioned or implied by Cregeen, but they are not
+attested in the Manx Bible.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+14
+The defective verb lhisin ‘ought’ has only conditional forms: lhisin, lhisins and lhisagh.
+6.	Verbs classsified according to the form of their verbal noun
+6.1.	Verbs with no verbal noun in Cregeen. There are 69 verbs listed here, a bit less than 7 per
+cent of the verbs in the dictionary. Three only of these admit a base in -ee (kuckl ‘dry after
+rain’, labr ‘labour’ and merg ‘rust’), and one a Past in -ee (eill ‘arm’).
+Verbs without verbal noun				
+Base	Past	Ptcp		Notes
+(aill)			please	Aill is really a defective verb related to the construction saillish ‘pleases’, i.e. s’aill lesh. Cregeen gives the verbal inflections: baillmayd “‘we would wish’, or rather ‘be pleased or willing’”, and cha naill or naillee, v. not wish; -agh; -in; -ins; -ym; -yms.
+(baard)	(vaard)		prevail	C. mentions only nagh vardee ‘will not prevail’, and nagh vaardagh ‘would not prevail’.
+(boall)	voall	boallit (B. voallit)	wall	
+boand	voand	boandit	band	
+(breid)	vreid	breidit	veil	
+cairys			justice	
+ceaghl9	cheaghil	ceaghlit	change	Cf. caghlaa ‘change’. Cf. §3, Epenthesis.
+çhiu		çhiuit	chew	
+claight		claightit	plait	
+cloag	chloag		cloak	
+cray		crayt crayit	clay	
+crou		crowit	shoe	
+earroo			number	
+eie	d-eie	eit eiet eieit	call	
+eill	d-eill d-eillee	eillit	arm	
+farvish		farvishit	forfeit	
+fedjeen		fedjeenit	feather (an arrow)	
+foddyr		foddyrit	fodder	
+fraue		fraueit	take root	
+geill	gheill		spring	
+gred(d)		greddanit	grill	
+	hault		halt	
+hyss
+set a dog on
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+15
+Verbs without verbal noun
+Base	Past	Ptcp	Notes
+jeirk	yeirk	jeirkit	give alms, beg
+keck	check		shit
+keek			peep
+kipp		kippit	whip
+kuckl kucklee			dry after rain
+laagh		laaghit	cover with mud
+labr labree		labrit	labour
+lott			allot
+merg mergee		mergit	rust
+peesh	pheesh	peeshit	piece together
+(pibbyr)	phibbyr	pibbyrit	pepper
+pluck	phluck	pluckit	pluck
+prugh		prughit	hoard
+pundail	phundail	pundailit	impound
+raaue		raauit	warn
+rimmeig		rimmeigit	stripe
+rio		riojit	freeze
+rouan			riot
+rub	rub B	rubbit	wipe
+ruck		ruckit	make a rick
+sail		sailit	seal
+shellym			sound
+skeah		skeayt skeayit	vomit
+skell	skell B		vanish
+skelt			squat
+smoash		smoashit	smash
+sorçh		sorçhit	sort
+speiy		speiyt	hack, hoe
+spoiy		spoiyt	spey, geld
+stron			snort
+styr			hiss, set a dog on
+thanvanee			astonish
+thoagan			gape
+thoo	hoo	thooit	thatch
+tooir	hooir		forebode
+troyt		troytit	trot
+try			try
+wagaan
+stroll idly
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+16
+6.2.	Verbs whose verbal nouns have no suffix. There are 127 in this class, a little over 14 per
+cent of the total. Of these, 13 have a verbal noun variant with a suffix. One of the 127 may
+have a Past in -ee (faast ‘wring’). The verb irr/irree is ambiguous in this respect, since, while
+its verbal noun is irree (hence a base irree and a Past dirree ~ jirree), a shortened base irr (Past
+dirr) is also attested in the Dictionary (not in the Bible), which is the stem of the participle irrit
+(marked by Cregeen as ‘obsolete’, also not in the Bible). (Future relative irrys appears in the
+proverb: Eshyn lhieys marish moddee, irrys eh marish jarganyn ‘He who lies with dogs will
+rise with fleas’.)10
+Verbs with suffixless verbal nouns
+Base	Verbal Noun	Past	Ptcp		Notes
+aase	aase	d-aase	aasit	grow	
+accan	accan			complain	
+aggyrts	aggyrts			complain	
+amylt	amylt			swim	
+ansoor	ansoor	d-ansoor	ansoorit	answer	
+arrish	arrish			jeer	
+astyr	gastyrt gast(y)r gastral	d-astyr	gastyrit (sic)	extirpate	Apparently the initial g- proper to the gerund has been extended by analogy to the verbal noun and the participle. NB stem variation between astr- and astyr-. Cf. §3, Epenthesis.
+att	att	d-att	attit	swell	
+behr berr	brey	vrey vehr	behrt	calve, etc.	Of the two stem alternatives, Cregeen says behr is used in common talk.
+beihll bheill	blieh	vheill	beihlt	grind	Unique stem variation between base and VN, but see also behr ~ brey above.
+	bennalt			waft	
+blieaun	blieaun	vlieaun	bhlit blieaunit	milk	NB irregular shortened stem in ptcp. bhlit.
+brah	brah	vrah	brahit	betray	
+	briwnys		briwnyssit	judge	
+broie	broie	vroie	broiet	boil	
+broo	broo	vroo	brooit	bruise	
+buinn	buinn	vuinn	buinnt buinnit	reap	
+caghlaa	caghlaa	chaghlaa	caghlaait	change	
+caill	coayl	chaill	caillt caillit	lose	NB irregular variation of stem between base caill- and VN coayl. NB indication of slender /lj/ <-ill-> and broad /l/ <-yl->.
+casid	casid			accuse	
+ceau	ceau	cheau	ceaut	cast, wear	
+ceauit
+10 One example of irree-ys in the Bible: Daniel vii. 24.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+17
+Verbs with suffixless verbal nouns
+Base	Verbal Noun	Past	Ptcp		Notes
+çharbaa	çharbaa	harbaa	çharbaït	wean	
+(çhea)	çhea	hea		flee	
+	çhee			seek	
+çhiow	çhiow	hiow	çhiowt çhiowit	heat	
+çhyndaa	çhyndaa	hyndaa	çhyndaait	turn	
+cleaiee cleiee	cleaiee cleiee	chleaiee	cleieet cleaieeit	harrow	
+cleigh cleiy	cleigh cleiy	chleiy B	cleight cleiyit	dig	
+cloie	cloie	chloie	cloiet	play, boil	
+	clowan		clowanit	tease	
+	coe			grieve	
+corlheim	corlheim corlheimeraght			hop	Cf. lheim ‘leap’.
+craa crie	craa crie	chraa chrie	craait criht	shake	
+craiu	craiu	chraau (sic)	craiuit	corrode	
+creck	creck	chreck	creckit	sell	
+	creiu	chreiu	creujit	ruin, crush	
+croo	croo B	chroo	crooit	create	
+cur	cur coyrt	hug - dug chur	currit	give, put, send	Suppletive irregular verb. See above, §5.
+daunse	daunse	ghaunse	daunsit	dance	
+	dobberan			lament	
+eab	(eab)	d-eab	eabit	attempt	
+eam	eam eamagh eamaghey	d-eam		call	
+ee	ee	d’ee	eet eeit	eat	
+eearree yeearree	eearree	d-eearree	(y)eearreeit	desire	
+eeck11	eeck	d-eeck j-eeck	eeckit	pay	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+enm enmee enmys	enmys	d-enmys	enmyssit	name	Enm ~ enmee is an alternative base to enmys in the future and conditional.
+faast	faast faastey	d-aast d-aastee	faastit	wring	
+fee	fee B		feeit	weave	
+fieau	fieau B			rest, wait	
+freill	freayll freaylley freilley	d-reayll d-reill	freilt freaylt	keep	NB variation between indication of slender /lj/ <-ill-> and broad /l/
+<-yl(l)->.
+11 eeck, v. pay, eeckagh, eeckee, eeckeyder, eeckeyderyn, eeckin, eeckins, eeckit, eeckym, eeckyms, eeckyn, eeckys,
+deeck or jeeck, geeck, heeck, heeckyn, neeck, neeckagh, neeckin, neeckins, neeckym, neeckyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+18
+Verbs with suffixless verbal nouns
+Base	Verbal Noun	Past	Ptcp		Notes
+	gartlhan			weed-corn	
+geid	geid	gheid	geidit	steal	
+gleck	gleck	ghleck	gleckit	wrestle	
+guee B	guee	ghuee	gueeit	entreat	
+guirr	guirr	ghuirr	guirt	hatch	
+imbyl	imbyl	d-imbyl	imlit	brew	Root /iml/.
+imman	imman	d-imman	immanit	drive	
+imraa	imraa	d-imraa	imraait	mention	
+	indys			wonder	
+insh	insh	d-insh	inshit	tell	
+irr	irree	d-irr	irrit	rise	
+irree		d-irree j-irree			
+iu	iu	d-iu	iut	drink	
+		j-iu	iuit		
+jarrood	jarrood jarroodey	yarrood	jarroodit	forget	
+jeigh	jeigh	yeigh	jeight	shut	
+jelliu	jelliu	yelliu	jelliuit	warp	
+jiole	jiole	yiole	jiolt jiolit	suck	
+	khennough			cavil	
+leih	leih	leih B	leiht	forgive	
+lhaih	lhaih	lhaih B	lhaiht	read	
+lheie	lheie B	lheie B	lheiht	melt	
+	lheihys			cure	
+lheim	lheim B	lheim B	lheimmit	leap	
+	lheimyragh lheimyraght				
+lhie	lhie B	lhie B	lhiet	lie down	
+			lhieit		
+lhoau	lhoau B			rot	
+livrey	livrey B	livrey B	livreït	deliver	
+loagan	loagan			stagger	
+loo	loo B	loo B	looit	swear	
+	mhinoogh			gape	
+moon	moon	vooin	moont	piss	NB slender - broad
+			mooint		variation indicated by -in- ~ -n-.
+oanluck	oanluck oanluckey	d-oanluck	oanluckit	bury	
+	ollish			sweat	
+oltooan	oltooan oltooaney	d-oltooan	oltooanit	reproach	
+	ourys			suspect	
+pandoogh	pandoogh	phandoogh	pandooghit	pant	
+plaiynt	plaiynt B	phlaiynt	plaiyntit	complain	
+	poagey			bulge	See poagey, s. ‘bag’.
+reih	reih B	reih B	reiht	choose	
+			reihit		
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+19
+Verbs with suffixless verbal nouns
+Base	Verbal Noun	Past	Ptcp		Notes
+reill	reill reilley		reillt	govern	
+rheynn	rheynn B	rheynn B reynn B	rheynnit	divide	
+roie	roie	roie	roït	run	
+screeu scrieu scriu	screeu	screeu scrieu scriu	screeut scruit	write	
+seiy	seiy	heiy	seiyt	push, stir	
+	shegin sheygin			lurk, lie in wait	
+shelg sheilg	shelg sheilg	helg heilg	shelgit	hunt	
+shell shellagh	shein sheiltyn sheltyn	heill		suppose	The form of the VN shein is irregular in a unique way. Cregeen gives shellagh as an alternative base form to shell. But is just the conditional intended?
+shleeu shlieeu shlieu	shleeu B shlieeu B shlieu B		shleeut shleeuit	sharpen	
+shliee	shliee	sliee shlee	shlieet	lick (up)	
+shooill	shooyll shuill B	hooyl huill	shooylt shooillit	walk	NB variation between indication of slender /lj/ <-ill-> and broad /l/ <-yl(l)->.
+skah scaa skaa	skah B		skaht scaht skahit	shed, shake	
+slaa	slaa		slaait slaiyt	daub	
+	slaadaah			paint	
+	sliennoo	lhiennoo	sliennooit	surname	
+snaue	snaue			creep, swim	
+sneeu	sneeu		sneeuit	spin	
+soie	soie	hoie	soit	sit	
+soilshean	soilshean			shine	
+soo	soo B	hoo	sooit	soak, suck up	
+	sooree			woo	
+spreih	spreih B	spreih B	spreiht	sprinkle	
+streeu streiu	streeu B		streeuit	strive	
+	strinnoogh			snore	
+stroie	stroie B	stroie B		destroy	
+taah	taah		taaht taahit	weld	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+20
+Verbs with suffixless verbal nouns
+Base	Verbal Noun	Past	Ptcp	Notes	
+	taggloo			converse	
+tarlheim	tarlheim	harlheim	tarlheimit	alight	Cf. lheim ‘leap’
+tayrn	tayrn B	hayrn	tayrnit	draw	
+teiy	teiy B	heiy heigh	teiyt teight	pick, pick up	
+theinniu	theinniu	henneu heinniu	theinniuit	thaw, melt	
+towse	towse	howse howsh	towshit	measure	Broad-slender alternation -s- ~ -sh-.
+traaue	traaue	hraaue	traauit	plough	
+traie traih	traie	hraie	trait traihit	ebb, abate	
+troailt	troailt	hroailt	troailtit	travel, labour	
+troo	troo B	hroo	trooit	envy	
+ymmilt ymmylt	ymmilt ymmiltey	d-ymmylt	ymmltit	roll (a horse)	
+	ymmyrçh			need	
+ymmyrt	ymmyrt	d-ymmyrt	ymmyrtit	row	
+yndyr	yndyr		yndyrit	graze	
+6.3.	Major suffix patterns.
+6.3.1.	Verbs with verb nouns in -ey. NB -ey has a regular variant -ghey that is used after a base
+ending in a vowel. There are 249 verbs of this class, about 28 per cent of the total. Sixty-two
+of them have one or more alternative VN forms. Twenty-two of them have a base or Past, or
+both, in -ee (not including those with an alternative VN in -agh/-aghey.)
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+	aghiney			petition	
+argane	arganey			argue	
+baare	baarey	vaare	baarit	make bare	
+	babbaney			indulge	
+baih	baighey er vaih	vaih	baiht	drown	Perfect er vaih implies VN alternatives baih and baighey.
+bargane	barganey	vargane	barganit	bargain	
+basht	bashtey	vasht	bashtit	baptize	
+beagh bagh	beaghey baghey	veagh	beaghit beeit	dwell, live, feed	
+bioee bioghee	bioghey	vioee	bioit	enliven	
+(blaa(gh))	blaaghey		blaaghit	blossom	
+blake	blakey	vlake		stare	
+blass blayst	blasstey blastyn	vlayst		taste	
+	bluckaney			form into a ball	
+	bodjaley		bodjalit	cloud	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+21
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp	Notes	
+boir	boirey boiraghey	voir woir	boirit	trouble	
+bolg	bolgey	volg	bolgit	roast, blister	
+	braagey		braagit	shoe	
+brack	brackey	vrack	brackit	sharpen (not by grinding)	
+	braghey			malt	
+branl	branley branlagh branlaghey	vranl vranlee	branlit	fallow	Cf. §3, Epenthesis.
+brans	bransey bransal	vrans	bransit	dash	
+brasn brasnee	brasney brasnaghey	vrasn vrasnee	brasnit	provoke	Cf. §3, Epenthesis.
+	breagey			lie	
+	breckey		breckit	variegate	
+breearr	breearrey B	vreear	breearrit	vow	
+	breeghey			inspire	
+breig	breigey	vreig	breigit	coax	
+brish	brishey	vrish	brisht	break	
+brock	brockey broagey	vrock	brockit	make into refuse	
+brod	broddey	vrod	brodit	pierce, prick	
+broigh	broighey	vroigh	broighit	dirty	
+broill	broilley	vroill	broillit	bruise, hammer	
+	buighey			yellow	
+	buirrooghey buirroogh			roar	
+bwoaill	bwoalley	woaill	bwoailt bwoaillit built	strike, thresh	NB variation between indication of slender /lj/ <-il(l)-> and broad /l/ <-l(l)->.
+caartr	caartrey		caartrit	vilify	Cf. §3, Epenthesis.
+	caayney			taber	
+	cabbaney			tabernacle	
+cadd	caddey		caddit	defend	
+caddil	cadley	chaddil		sleep	Cf. §3, Epenthesis.
+cagg	caggey	chagg	caggit	make war	
+caign	caigney	chaign	caignit	chew	
+cart	cartey cartaghey	chart		rake mire	
+cas	casey	chas	cast casit	twist, wind	
+casherickee	casherickey			sanctify	
+cast	castey	chast	castit	defeat	
+çhaggle çhaggyl	çhaggley çhaglym	hagl haggil	çhaglit	gather	Cf. §3, Epenthesis.
+çheer	çheerey	heer	çheert çheerit	dry by heat	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+22
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+çhionn	çhionney	hionn	çhionnt çhionnit	tighten	
+çhiu	çhiuchey	hiu		thicken (intr?)	
+çhymn çhymnee	çhymney	hymn	chymnit B	bequeath	Cf. §3, Epenthesis.
+clagh	claghey	chlagh	claghit	stone	
+clam(e)	clamey	chlame chlaym	clamit	embrace, grasp	
+clamp	clampey	chlamp	clampit	patch	
+clann	clanney clannagh clannaghey	chlann	clahnit	thicken	
+cleayn cleaynee	cleayney cleaynaghey	chleayn	cleaynit	entice	
+clesp	clespey			clasp	
+cliaght	cliaghtey	chliaght	cliaghtit	accustom	
+clo	cloghey	chlo	cloit	chase	
+coagyr	(coagyrey)	choagyr	coagyrit	cook	
+coamr coamree	(coamrey)	choamr choamree	coamrit	clothe	Cf. §3, Epenthesis.
+combaase	combaasey combaasal	chombaase	combaasit	surround	
+	comyssey			copulate	
+conaant	conaantey		conaantit	covenant	
+	connaasey connaasagh connysson			scorn, sneer	
+	cooagey cauaigey			coo	
+cooat	cooatey cooatal		cooatit	coat	
+	cooidjaghey			gather together	
+cooilleen	cooilleeney	chooilleen	cooilleenit	fulfil	CF. lhieen ‘fill’
+coon cooin	cooney	choon chooin		help	NB spelling indicates broad and slender alternatives in the stem.
+coonre	coonrey	choonre choonree	coonrit	exchange	Cf. §3, Epenthesis.
+coont	coontey	choont	coontit	count	
+cosn cossyn	cosney	chosn(e) chossyn B	cosnit	gain	Cf. §3, Epenthesis.
+craid	craidey	chraid	craidit	mock	
+	crammaney			bulb	
+crapl craplee	crapley	chrapl chraplee	craplit	crumple	
+	creaghey		creaghit	furrow	
+	creaghey		creaghit	stack	
+creear	creearey	chreear	creeart	sift	
+creearit
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+23
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp	Notes	
+creoi creoigh creogh	creoighey creoghey	chreoi chreogh	creoit	harden	
+crib(b)	cribbey	chrib(b)	cribbit	shrink	
+crogh	croghey	chrogh	croghit	hang	
+cront	crontey crontal	chront	crontit	knot	
+cross crosh	crossey		crost	cross, thwart	
+croym	croymmey	chroym	croymmit	stoop	
+cryss	cryssey	chryss	cryssit	gird	
+cuir(r)	cuirrey	chuir(r)	cuirt cuirrit	invite	
+cuir(r)	cuirrey	chuir(r)	cuirt cuirrit	sow	
+cum(m)	cummey	chum(m)	cummit	form	
+curm currym	curmey curmaghey currymaghey curmal	churm churmee	curmit	enjoin, charge	Cf. §3, Epenthesis.
+custh custhee	custhey cushtey	chusht	custhit	whip	NB variation between indication of slender /ʃʧ/ <-sht-> and broad /st/ <-sth->.
+daah	daaghey	ghaah	daat daahit daahjit	dye, singe	
+dall	dalley	ghall		dazzle	
+deam	deamey	gheam	deamit	project	
+deayrt	deayrtey	gheayrt	deayrtit	pour, spill	
+deyr deyree	deyrey	gheyr	deyrit	condemn	
+dhonk	dhonkey dhonkal	ghonk	dhonkit	thump	
+	doghaney			cause disease	
+doll12	dolley doalley	gholl	dollit	blot, deface	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+doo	dooghey	ghoo	dooit	blacken	
+dooble	doobley	ghooble	dooblit	double	
+dooisht	doostey dooshtey	ghooisht	dooishtit	awaken	NB variation between indication of slender /ʃʧ/ <-isht-> and broad /st/ <-st->.
+12 doll, v. blot, dollagh, dollee, dolley, dolleyder, dolleyderyn, dollin, dollins, dollit, dollym, dollyms, dollys,
+gholl, ghollagh, ghollee, gholley, gholleyder, gholleyderyn, ghollin, ghollins, ghollit, ghollym, ghollyms, ghollys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+24
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+doon	dooney dooiney	ghooin	dooint dooinit	close	NB variation between indication of slender /nj/ <-in-> and broad /n/ <-n->.
+driaght	driaghtey		driaghtit	bind with chain	
+	drigey			drip	
+eek	eekey		eekit	stack	
+faark faarkee	faarkey	d-aark d-aarkee	faarkit	bathe	
+	faasaagey			get a beard	
+faast	faastey faast	d-aast d-aastee	faastit	wring	
+faill faillee	failley	d-aill	failt	hire	
+fann fannee	fanney	d-ann	fant	flay	
+farrar	farrarey		farrarit	wake, vigil	
+fasn fasin fasnee	fasney	d-asin d-asnee	fasnit	winnow	Cf. §3, Epenthesis.
+feaysl feayshil	feaysley	d-eayshil	feayslit	loosen, release	NB variation between indication of slender /ʃilj/ <-shil-> and broad /sl/ <-sl->.
+feysht	feyshtey	d-eysht d-eyshtee	feyshtit	question, examine	
+fill	filley	d-hill	fillit	fold	
+fiogh	fioghey		fioghit fiojit	fade	
+fliugh	fliughey		fliughit	wet	
+fload	floadey			float	
+foadd	foaddey	d-oad	foaddit	kindle	
+fockle focklee	fockley Ger. gockley	d-ockle	focklit	utter	The gerund gockley is derived as if from a base ockle.
+foshl foshil	fosley	d-oshil	foshlit	open	NB variation between indication of slender /ʃilj/ <-sh(i)l-> and broad /sl/ <-sl->.
+freayn	freayney			overflow	
+freill	freaylley freilley freayll	d-reayll d-reill	freilt freaylt	keep	NB variation between broad /l/ and slender /lj/.
+fuinn	fuinney	d-uinn	fuinnt fuinnit	bake	
+gaaig	gaaigey		gaaigit	crack, chafe	
+	gaghey			sting	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+25
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp	Notes	
+gaght (sic)	gaghtey			act	Apparently derived from aght, with the g- of the gerund incorporated into the stem.
+gaid	gaidey		gaidit	rope (with heather)	
+	gamley			speak ironically	
+gard	gardey		gardit	guard	
+	garveighey garveigagh			roar	NB irregular stem variation garveigh- ~ garveig-.
+gear13	gearey garaghtee	ghear	gearit	laugh	Cregeen lists all the forms in the footnote.
+The list includes
+deverbal nouns. In the
+list the VN is spelt
+gearaghtee, but in the
+text of the dictionary
+the VN is given as
+garaghtee, which is the
+form that occurs in the
+Manx Bible.
+geul	geuley		geulit	shackle
+giar	giarey giarrey	ghiare yiare	giarit	cut
+gioot	giootey giootal	ghioot yioot	giootit	bestow
+glack	glackey		glackit	grasp
+glass	glassey	ghlass	glast	lock
+glenn	glenney	ghlen	glent glennit	clean
+glioon	gliooney	ghlioon	glioont glioonit	kneel
+gloas	gloasey gloasaghey		gloasit	polish
+	gobbey			come up (out of the ground)
+grees greesee	greesey greesaghey	ghrees ghreesee	greesit	excite, provoke
+greigh greie	greighey		greit	equip
+greim	greimmey	ghreim	greimmit	bite, grip
+	grianey			sun, air in the sun
+grouig	grouigey		grouigit	frown
+13 gear, v. laugh, gearagh, gearaghtee, gearee, gearey, geareyder, geareyderyn, gearin, gearins, gearit, gearym,
+gearyms, gearys, ghear, ghearagh, ghearaghtee, ghearee, ghearey, gheareyder, gheareyderyn, ghearin, ghearins,
+ghearit, ghearym, ghearyms, ghearys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+26
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp	Notes	
+guin	guinney		guint	pain	
+	holtey holtal	holt		hold	
+	ingney		yngnit	cut with nails, hooves	
+jaagh	jaaghey	yaagh	jaaghit	smoke	
+jarrood	jarroodey jarrood	yarrood	jarroodit	forget	
+jeeig	jeeigey	yeeig	jeeigit	ditch	
+jeeill jeell	jeelley jeellal	yeel	jeellit	devastate	
+jeelt	jeeltey jeeltal	yeelt	jeeltit	saddle	
+jeennys	jeennysey jeennysal	yeennys	jeennyssit	wedge	
+(jesheen)	jesheeney	yesheen	jesheenit	adorn	
+jing	jingey	ying	jingit	cram, press	
+jioold	jiooldey	yioold	jiooldit	discard, turn off	
+joan14	joaney	yoan	joanit	dust	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+	joanlaghey			drizzle	
+junt	juntey juntal	yunt	juntit	joint	
+	jurnaghey			journey	
+	jymmoosey			anger	
+kaart	kaartey	chaart	kaartit	card	
+kalk	kalkey		kalkit	caulk	
+					
+keayn	keayney	cheayn	keaynit	weep	
+kelk	kelkey kelkal		kelkit	chalk	
+kere	kerey	chere	keret kereit	comb	
+kiadd	kiaddey	chiadd	kiaddit	form	
+kiangle	kiangley	chiangle	kianlt kianglt	tie, bind	
+kiaull	kiaulley		kiaullit	sound	
+kickl kickil	kickley	chickil	kicklit	tickle	Cf. §3, Epenthesis.
+	kishaney			hive	
+laad	laadey	laad B	laadit	load	
+laatçh	laatçhey		laatçhit	lace	
+lahn	lahney		lahnit	mash	
+leayst	leaystey		leaystit	stagger	
+14 joan,v. dust, joanagh, joanee, joaney, joaneyder, joaneyderyn, joanin, joanins, joanit, joanym, joanyms,
+joanys, yoan, yoanagh, yoanee, yoaney, yoaneyder, yoaneyderyn, yoanin, yoanins, yoanit, yoanym, yoanyms,
+yoanys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+27
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+lhead lheadee	lheadey			perish with cold	
+lhiaght	lhiaghtey		lhiaghtit	lay, lodge	
+lhieen	lhieeney B	lhieen B	lhieent	fill	
+lhieg	lhieggey B lhieggal B	lhieg B	lhieggit	fell	
+lhig	lhiggey	lhig B	lhiggit	let, gallop	
+lhoob	lhoobey		lhoobit	bend	
+lhott	lhottey	lhott B	lhottit	wound	
+lhun	lhunney lhunnaghey		lhunnit	launch	
+loaght loaghtee B	loaghtey	loaght B	loaghtit	handle	
+loam lhome lomm	lhoamey lommey		loamit lommit	make bare	
+losht	lostey	losht B	losht loshtit	burn	NB variation between indication of slender /ʃʧ/ <-sht-> and broad /st/ <-st->.
+loss	lossey			blaze	
+lout	loutey		loutit	loft, deck	
+lune	luney		lunit	slander	
+lutçh	lutçhey			lubber, carry in a clumsy manner	
+mast mest	mastey	vast	mastit mestit	mix	
+meek	meekey meekeyragh	veek	meekit	wink	
+meih	meihey meihaghey	veigh veih	meihit	weigh, balance	
+meiygh	meiyghey meiyghaghey		meiyght meiyghit	be tender	
+mhill	mhilley	vhill	mhillit	spoil	
+ming	mingey	ving	mingit	nip	
+miol	miolley miollagh miollaghey	viol viollee	miollit	tempt	
+moll	molley	voll	mollit	cheat, deceive	
+mong	mongey	vong	mongit	smile	
+moogh15	mooghey	voogh	mooghit	extinguish	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+mooirçhoor	mooirçhoorey		mooirçhoorit	wreck	
+15 moogh, v. quench, mooghagh, mooghaghyn, mooghee, mooghey, moogheyder, moogheyderyn, mooghin,
+mooghins, mooghit, mooghym, mooghyms, mooghys, voogh, vooghagh, vooghaghyn, vooghee, vooghey,
+voogheyder, voogheyderyn, voogin, vooghins, vooghit, vooghym, vooghyms, vooghys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+28
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+moost	moostey	voost	moostit	rouse	
+	moughaney			cough	
+moyll	moylley	voyll	moyllit	praise	
+naisht	naistey nastey naishtaghey		naisht naishtit	betroth	NB variation between indication of slender /ʃʧ/ <-sht-> and broad /st/ <-st->.
+niart niartee	niartey niartaghey	niartee B	niartit	strengthen	
+oanluck	oanluckey oanluck	d-oanluck	oanluckit	bury	
+	oghrishey		oghrishit	embosom	
+	oirrysey		oirrysit	fray, wear the edge	
+oltooan	oltooaney oltooan	d-oltooan	oltooanit	reproach	
+paag	paagey	phaag	paagit	kiss	
+pardoon	pardooney	phardoon	pardoonit	pardon	
+(pian)	pianey	phian	piant pianit	pain	
+piyr	piyrey piyral	phiyr	piyrit	pair	
+pleat plead	pleatey pleateil	phlead	pleatit	plead, prattle	
+ploogh	(plooghey)	phloogh	plooghit	smother	
+pohlld	pohlldey pohlldal	phohlld	pohlldit	uphold, warrant	
+poll	polley	pholl	pollit	mat, stick together	
+polt	poltey poltal	pholt	poltit	thump	
+poose16	poosey	phoose	poost	marry	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+pryssoon	pryssooney	phryssoon	pryssoonit	imprison	
+puht puit	puhtey	phutt	puhtit	push	
+puss	pussey pussal			puff (cheeks)	
+pyshoon	pyshooney		pyshoonit	poison	
+	quaaghey			get gruff	
+quaail	qualtey		qualtit	meet	
+raad	raadey			ride at anchor	
+raip	raipey	raip B	raipit	tear	
+16 poose, v. marry, poosagh, poosaghyn, poosee, poosey, pooseyder, pooseyderyn, poosin, poosins, poost,
+poosym, poosyms, poosys, phoose, phoosagh, phoosaghyn, phoosee, phoosey, phooseyder, phooseyderyn,
+phoosin, phoosins, phoost, phoosym, phoosyms, phoosys, boose, boosagh, boosaghyn, boosey, boosin, boosins,
+boost, boosym, boosyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+29
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+raise	raisey		raisit	grope	
+rass	rassey		rast	rip	
+reagh reaie	reaghey		reat reait	disentangle, decide	
+recort	recortey		recortit	register	
+reeall	reealley		reealt reallit	wriggle, cleanse corn	
+reill	reilley reill		reillt	govern	
+	reirey			reach	
+resoon	resooney		resoonit	reason	
+reuyr rouyr	reurey		reuyrit	dig	
+ribl ribil	ribley		riblit	ripple	
+riggan	rigganey			rut	
+roa	roaghey		roait	set in rows	
+rock	rockey		rockit	pucker	
+roost rooisht	roostey	rooisht B	rooishtit	strip bare	NB variation between indication of slender /ʃʧ/ <-sht-> and broad /st/ <-st->.
+	roostey		roostit	rob	
+(rugg)	ruggey ruggaghtyn	rugg ruggyr	ruggit	was born	NB Past tense variant ruggyr, with an obsolete passive voice suffix -yr.
+	ruyghey			get red	
+saill	sailley salley	haill	saillt	salt	
+sare	sarey	har haree	sarit	command	
+	scaalheaney			scatter	
+	scammyltey		scammyltit	scandalize	
+scar	scarrey	scarr B	scarrt scarrit	separate, spread	
+scelt skeilt scolt	scoltey	scelt B, skeilt B	scelt, skeilt B	split	
+schimmeig	schimmeigey		schimmeigit	streak	
+scolb	scolbey		scolbit	break open	
+scold	scoldey		scoldit	scald	
+scooir	scooirey		scooirit	scour	
+scoylg	scoylgey scoylgernee		scoylgit	shriek	
+	scrabey		scrabit	scrape	
+scraig	scraigey scra		scraait	scraw	NB alternative stems here: scraig and
+scra(a), the former
+with VN suffix -ey, the
+latter with Ø.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+30
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp	Notes	
+screeb	screebey		screebit	scratch	
+scriss	scrissey		scrist	pare	
+scrod	scrodey		scrodit	screw	
+scugh	scughey	scugh B	scughit	remove, move	
+scuirr	(scuirrey)	scuirr B		cease	
+seaghin seaghyn	seaghney	heaghn heaghnee	seaghnit	afflict	Cf. §3, Epenthesis.
+seyr	seyrey	heyr	seyrit	free	
+shaghn shaghin shaghyn	shaghney	haghn haghnee	shaghnit	avoid	Cf. §3, Epenthesis.
+	shanglaney			become empty- bellied	
+	sharmaney			sermon	
+sheayn	sheayney	heayn heaynee	sheaynt	pray (for)	
+sheeb	sheebey	heeb	sheebit	blow, blast, drive	
+sheel	sheeley sheelaghey	heel	sheelit	filter, sneak away	
+sheeyn	sheeney	heeyn	sheeynt sheeynit	stretch	
+sheid17	sheidey	heid	sheidit	blow	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+shiauill	shiaulley shiaullagh shiaullaghey	hiauill hioill	shiault shiaullit	sail	NB variation between indication of slender /lj/ <-ill-> and broad /l/ <-ll->.
+shill	shilley shiylley	hill hiyll hyll	shillit	spill, drain	NB variation between indication of slender /lj/ <-ill-> and broad /l/ <-yll->.
+	shioltaney			flock	
+shir	shirrey	hir	shirrt shirrit	seek, enquire	
+shuilg	shuilgey		shuilgit	nibble	
+shyml shymlee	shymley	hyml hymlee	shymlit	pine	Cf. §3, Epenthesis.
+skeab	skeabey		skeabit	sweep	
+skeayl	skeayley	skeayl B	skeaylt	spread	
+skihll	skihlley		skihlt	shell	
+skir skyrr	skirrey skirraghtyn		skirrit	slip	
+17 sheid, v. blow, sheidagh, sheidee, sheidey, sheideydcr, sheideyderyn, sheidin, sheidins, sheldit, sheidym,
+sheldyms, sheidyn, sheidys, heid, heidagh, heidee, heidey, heideyder, heideyderyn, heidin, heidins, heidit, heidym,
+heidyms, heidyn, heidys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+31
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+sleayd	sleaydey		sleaydit	drag	
+slug18	sluggey		sluggit	swallow	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+smaght	smaghtey smaghtaghey		smaghtit	chastise	
+smarr	smarrey		smarrt smarrit	grease	
+	smoghaney		smoghanit	smoulder	
+smooir	smooirey smooirooil			smile, titter	
+	smuggey		smuggit	snot, spit	
+sniem	sniemmey		sniemmit	knit, knot	
+soaill soill	soailley soilley	hoail hoaill	soaillit	wrap	
+soll sollee	solley sollagh sollaghey	holl hollee	sollit	defile, pollute	
+speeik	speeikey speeikeragh			pry	
+speein	speeiney		speeint speeinit	peel	
+sponk	sponkey		sponkit	parch	
+spooil spooill	spooilley	spooil B	spooilt spooillit	plunder	
+spooyt	spooytey		spooytit	squirt	
+spulg	spulgey		spulgit	peck	
+staayn	staayney		staaynt staaynit	stand firm against	
+staik	staikey		staikit	stake	
+stamp	stampey	stamp B	stampit	tread	
+sthole	stholey		stholit	sprout, ramify	
+sthook	sthookey		sthookit	stook	
+stiure	stiurey		stiurit	steer	
+stoyr	stoyrey stoyral storail		stoyrit	store	
+strep streb	strepey strebin		strepit	struggle, wallow	
+strig	striggey		strigit	draw milk	
+struge	strugey		strugit	stroke	
+strull	strulley		strult strullit	rinse	
+suggain	sugganey	huggain	sugganit	bind with	
+straw rope
+18 slug, v. swallow, sluggagh, sluggag, sluggee, sluggey, sluggeyder, sluggeyderyn, sluggin, sluggins, sluggit,
+sluggym, sluggyms, sluggyn, sluggys, lug, luggagh, luggag, luggee, luggey, luggeyder, luggeyderyn, luggin,
+luggins, luggit, luggym, luggyms, luggys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+32
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp		Notes
+symn	symney		symnit	cite, publish banns	Cf. §3, Epenthesis.
+taagh	taaghey	haagh	taaghit	frequent	
+taal	taaley	haal	taalit	flow (milk from the udder)	
+	taarnaghey			thunder	Cf. taarnagh, s. ‘thunder’
+taill	tailley B		taillit	tally	
+	tarmayney		tarmaynit	manage	
+tasht	tashtey	hasht	tashtit	store, treasure	
+teaum	teaumey	heaum	teaumit	pour out	
+teaystn teaystnee	teaystney	heaystn heaystnee	teaystnit	knead	Cf. §3, Epenthesis.
+thioll	thiolley	hioll hoyll	thiollit	bore	
+	thooaney			lath	
+thum	thummey	hum	thummit	dip	
+tilg	tilgey	hilg	thilgit	throw, throw up	
+toght	toghtey	hoght	toghtit	choke	
+	torcaney			stifle with fumes	
+	toshiaghey			forward	
+traast	traastey	hraast	traastit	squeeze	
+tranlaas	tranlaasey	hranlaas	tranlaasit	tyrannise	
+treickn	treickney	hreickn hreicknee	treicknit	strike with a beetle	Cf. §3, Epenthesis.
+treig	treigey treigeil	hreig	treigit	abandon	
+trein	treiney	hrein	treinnit	nail	
+troid	troiddey	hroid	troiddit	scold	
+trost trosht	trostey troshtey	hrosht		fast	NB variation between indication of slender /ʃʧ/ <-sht-> and broad /st/ <-st->.
+	trughaney trughanagh			murmur, grumble	
+tun	tunney	hunn	tunnit	fill (casks with ale)	
+	uilliney			elbow	
+	unnaneysey		unnaneysit	unite	
+walk	walkey		walkit	mill (woollen cloth)	
+whaal whayl	whaaley oaley	d-whaayl	whaalt whaaylt	sew	
+yeeal	yeealley	d-eeal	yeealt	beat	
+Ger. geealley
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+33
+Verbs with verbal nouns in -ey
+Base	Verbal noun	Past	Ptcp	Notes	
+yiarn	yiarney yiarnal		yiarnit	iron	
+ymmilt	ymmiltey	d-ymmylt	ymmltit	roll (a horse)	
+ymmylt	ymmilt				
+	ymmydey		ymmydit	use	
+ymmyrk19	ymmyrkey	d-ymmyrk	ymmyrkit	bear	Cregeen lists all the
+forms in the footnote.
+The list includes
+deverbal nouns.
+6.3.2.	Verbs with verbal nouns in -agh or -aghey (168 items, nearly 19% of the total). These
+two suffixes are in variation. It is probably not very significant whether Cregeen mentions one
+or the other, or both. For many of these Cregeen gives no base form or past tense form. Note
+the presence (often optional) in 88 of these verbs, over 52%, of an affix -ee, in the base, the
+past tense, or both. For some 33 verbs the VN suffix -agh or -aghey is in variation with a
+different suffix.
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp	
+aaitn	aaitnagh	d-aaitnee	aaitnit	gorse
+	aaitnaghey			
+aarl	aarlagh	d-aarl	aarlit	cook
+aarlee	aarlaghey	d-aarlee		
+aggle	agglagh	d-aggle	agglit	frighten,
+agglee	agglaghey	d-agglee		fear
+		j-aggle		
+		j-agglee		
+	annooinagh			weaken
+	annooinaghey			
+	appaghey			ripen
+arr	arragh	d-arree		move
+	arraghey			
+	ashlaghey			show by
+				vision
+	baneagh		banit	whiten
+	baneaghey			
+bann	bannaghey	vann	bannit	bless
+bannee		vannee		
+	beaynaghey			prolong
+	binjaghey			curdle
+bioyr	bioyraghey	vioyr	bioyrit	make brisk
+bioyree		vioyree		
+birr	birraghey			sharpen to a
+				point
+bish	bishagh	vish	bishit	increase
+bishee	bishaghey	vishee		
+19 ymmyrk, v. bear, ymmyrkagh, ymmyrkee, ymmyrkey, ymmyrkeyder, ymmyrkeyderyn, ymmyrkin, ymmyrkins,
+ymmyrkit, ymmyrkym, ymmyrkyms, ymmyrkys, dymmyrk, gymmyrkey, hymmyrkey, nymmyrk, nymmyrkagh,
+nymmyrkey, nymmyrkin, nymmyrkins, nymmyrkym, nymmyrkyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+34
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+bochil20	bochillagh bochillaghey bochillaght	vochil	bochillit	herd	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+bogg	boggaghey	vogg		soften	
+	boggyssagh			boast	
+boir	boiraghey boirey	voir woir	boirit	trouble	
+	bouyragh bouyraghey		bouyrit	deafen	
+branl	branlagh branlaghey branley	vranl vranlee	branlit	fallow	Cf. §3, Epenthesis.
+brasn brasnee	brasnaghey brasney	vrasn vrasnee	brasnit	provoke	Cf. §3, Epenthesis.
+breinn	breinnagh breinnaghey			stink	
+	burtagh burtaghey			fumble	
+camm	cammagh	(chamm)	cammit	bend	
+cart kart	cartaghey cartey kartey	chart	kartit	rake muck	
+çhirrym21 çhirm çhirmee	çhirmagh çhirmaghey	hirm hirmee	çhirmit	dry	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+çhyms çhymsee	çhymsagh çhymsaghey	hyms hymsee	çhymsit	gather	
+clann	clannagh clannaghey clanney	chlann	clahnit	thicken	
+cleayn cleaynee	cleaynaghey cleayney	chleayn	cleaynit	entice	
+clus clooeys	clusaghey		clusit	cover with feathers	The verb is related to clooie ‘small feathers’, with an unexpexted -s-.
+coad	coadaghey	choad	coadit	protect	
+cochruin cochruinee	cochruinaghey		cochruinit	assemble	cf. cruinn
+	connaasagh			scorn, sneer	
+connaasey
+connysson
+20 bochill, v. herd, bochillagh, bochlllaght, bochillee, bochilley, bochillin, bochillins, bochillit, bochillym,
+bochillyms, bochillyn, bochillys, mochillaght, mochilley, mochillyn, vochill, vochillagh, vochillaght, vochilley,
+vochillin, vochillins, vochillit, vochillym, vochillyms, vochillyn, vochillys.
+21 çhyrm. v. dry, çhyrmagh, çhyrmaghey, çhyrmaghyn, çhyrmee, çhyrmey, çhyrmeyder, çhyrmeyderyn, çhyrmid,
+çhyrmin, çhyrmins, çhyrmit, çhyrmym, çhyrmyms, çhyrmys, hyrm, hyrmagh, hyrmaghey, hyrmaghyn, hyrmee,
+hyrmey, hyrmeyder, hyrmeyderyn, hyrmid, hyrmin, hyrmins, hyrmit, hyrmym, hyrmyms, hyrmys, jyrm, jyrmagh,
+jyrmaghey, jyrmaghyn, jyrmee, jyrmid, jyrmin, jyrmins, jyrmym, jyrmyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+35
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+cood coodee	coodaghey	chood choodee	coodit	cover	
+coon	coonagh coonaghey			narrow	
+corm	cormagh cormaghey cormal	chorrym chormee	cormit	equalize, make even	Cf. §3, Epenthesis.
+cosoyl	cosoylaghey			compare	
+cowr	cowraghey	chowr chowree	cowrit	mark, betoken	
+coyrl coyrlee	coyrlaghey	choyrl choyrlee	coyrlit	advise	
+	creedlagh			shrug	
+creen	creenaghey	chreen chreenee	creent creenit	wither, ripen	
+cronn	cronnaghey	chronn chronnee	cronnit	detect	
+cruinn	cruinnaghey	chruinn	cruinnit	compact, besiege	
+curm currym	currymaghey curmaghey curmey curmal	churm churmee	curmit	enjoin, charge	Cf. §3, Epenthesis.
+	curthoollaghey			obscure (the air)	
+	dhoanaghey			make brown	
+diun	diunaghey	ghiun		deepen	
+ead eadee	eadagh eadaghey			be jealous	
+eaisht	eaishtagh eaishtaghey	d-eaisht d-eaishtee	eaishtit	listen	
+eam	eamagh eamaghey eam	d-eam		call	
+eayll eayllee	eayllagh eayllaghey	d-eayllee	eayllit	lime	
+eddrym eddrymee	eddrymagh eddrymaghey	d-eddrymee		lighten	
+eeass eeassee	eeassaghey eeassaght	d-eeassee	eeassit	lend, borrow	
+eeast yeeast	eeastagh eeastaghey	d-eeast d-eastee	eeastit	fish	
+eign eignee	eignagh eignaghey eginaghey	d-eign d-eignee	eignit	force	
+	eiraghey			inherit	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+36
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+eoyll eoyllee geoyll geoyllee	eoyllagh eoyllaghey	d-eoyll d-eoyllee	eoyllit	manure	In the base forms geoyll, geoyllee, the g- belongong to the gerund has been incorporated into the stem.
+etl etlee	etlagh etlaghey	d-ettyl d-etlee j-etlee		fly	Cf. §3, Epenthesis.
+faml famlee	famlagh famlaghey	d-aml d-amlee	famlit	wrack (manure with seaweed)	Cf. §3, Epenthesis.
+farb	farbagh		farbit	inflame	
+fark farkee	farkiaghey farkiaght	d-ark d-arkee	farkit	wait	NB unusual insertion of -i- in the VN before both -aght and -aghey.
+fass fassee	fassaghey fassaght		fassit	feed with grass	
+feayr feayree	feayraghey	d-eayree	feayrit	cool (tr/intr)	
+feddan feddanee	feddanagh			whistle	
+	flipperagh			tell fibs	
+foayr foayree	foayraghey foayral		foayrit	favour	
+foll follee	follaghey follaghtyn	d-oll d-ollee	follit	hide	
+folm folmee	folmaghey folmagh Ger. golmaghey golmagh	d-olm d-olmee	folmit follymit	empty	The gerund form golmagh(ey) is constructed as if the stem were olm- (as it appears in the Past). Cf. §3, Epenthesis.
+	foudaghey			become damaged	
+fuill fuillee	fuillagh fuillaghtyn	d-uillee		allow	
+	gargagh			make acrid	
+	garveigagh garveighey			roar	
+	geaynaghey			make green	
+gerj gerjee	gerjaghey	gherjee	gerjit	comfort	
+giall giallee	giallagh giallaghey	ghial ghiallee	giallit	whiten	
+yial
+yiallee
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+37
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+giall	gialtaghey gialdin gialdyn	ghiall yiall	giallit	promise	NB three stem variants: gial(l)-, giald- and gialt-, with the VNs built on the latter two.
+	gioalteeagh		gioaltit	pawn, mortgage	
+	girraghey			shorten	
+	glassagh glassaghey			grow pale	
+gleash	gleashaghey		gleashit	move	
+gloas	gloasaghey gloasey		gloasit	polish	
+gloyr	gloyraghey	ghloyr	gloyrit	glorify	
+(gorm)	gormaghey	ghorm	gormit gorrymit	make blue	Cf. §3, Epenthesis.
+gort gortee	gortagh gortaghey	ghort ghortee	gortit	hurt	
+grainn grainnee	grainnaghey	ghrainn ghrainnee	grainnit	carve	
+	granaghey			become ugly	
+grees greesee	greesaghey greesey	ghrees ghreesee	greesit	excite, provoke	
+grein greinnee	greinnaghey	ghrein ghreinnee	greinnit	encourage	
+gyere geayr	gyereagh gyereaghey geayraghey		gyerit geayrit	sour	
+(imlee)	imlagh imlaghey	d-imlee	imlit	humble	
+ingyr yngyr	ingyragh ingyraght	d-hingyr d-yngyr	yngyrit	fester	
+injil injillee inshl inshlee	injillaghey inshlagh inshlaghey	d-injilee	injillit	lower	Cf. §3, Epenthesis.
+jeer jeeree	jeeraghey	yeer yeeree	jeerit	straighten	
+jiarg jiargee	jiargagh jiargaghey	yiarg yiargee	jiargit	make red, redden	
+	joltagh			traverse	
+karr karrese	karragh karraghey	charree	karrit	mend	
+kerr kerree	kerraghey	cherr cherree	kerrit	punish	
+keyl	keylagh		keylit	make fine	
+kiart kiartee cairt	kiartagh kiartaghey cairtaghey	chiart	kiartey cairtey	fix	
+kionn kionnee	kionnagh kionnaghey	chionn chionnee	kionnit	buy	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+38
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+kirt	kirtagh			make haste	
+kiune kiunee	kiunagh kiunaghey	chiunee	kiunit	calm	
+laare	laareaghey		laareit	put on the floor	
+leod	leodaghey		leodit	devalue, be devalued	
+lhagg lhaggee	lhaggaghey		lhaggit	loosen	
+	lheanagh lheanaghey		lheanit	widen, sprain	
+	lheeaghey			go grey	
+lhiann	lhiannaghey		lhiannit	flatten	
+lhias lhiasee	lhiasaghey		lhiasit	amend, manure	
+lhiass lhiassee	lhiassaghey		lhiassit	feign	
+lhiuree	lhiuragh lhiuraghey			lengthen	
+lhuddyr	lhuddyraghey lhuddyral		lhuddyrit	maul	
+lhun	lhunnaghey lhunney		lhunnit	launch	
+lorg lorgee	lorgaghey		lorgit	drive forward with a stick, urge	
+lught	lughtagh lughtaghey		lughtit	load	
+	maihaghey		maiht	pardon	
+mark markee	markiaghey	vark varkee	markit	ride	NB. VN -iaghey
+meayll meayllee	meayllaghey		meayllit	make bald	
+meein meen	meeinaghey meenaghey	veein veeinee veenee	meeinit meenit	tame, make fine	NB variation between indication of slender /nj/ <-in-> and broad /n/ <-n->.
+meel meelee	meelagh meelaghey	veel veelee	meelit	soften	
+meer	meeraghey			piece	
+meih	meihaghey meihey	veigh veih	meihit	weigh, balance	
+meiygh	meiyghaghey meiyghey		meiyght meiyghit	be tender	
+mholm mholmee	mholmagh mholmaghey			moulder, crumble	
+	miljaghey			sweeten	
+miol	miollagh miollaghey	viol viollee	miollit	tempt	
+miolley
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+39
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+molk	molkagh molkaghey	volk	molkit	macerate, putrify	
+mooad mooadee	mooadagh mooadaghey	vooad	mooadit	enlarge	
+mooar mooaree	mooaragh mooaraghey	vooar vooaree	mooarit	begrudge, envy	
+	murtaghey			bungle	
+	mynaghey			make small	
+naar naaree	naaraghey		naarit	shame	
+niart niartee	niartaghey niartey	niartee B	niartit	strengthen	
+oard oardr oardee oardree	oardaghey oardrail	d-oardee	oarderit	order, ordain	
+obbr obbree	obbragh obbraghey	d-obbree	obbrit	work	
+olt oltee	oltaghey			salute, welcome with refeshment	
+ooashl ooashlee	ooashlagh ooashlaghey		ooashlit	worship	NB in the Manx Bible the gerund of ooashlaghey lacks the expected initial g-. The Apocrypha has two examples of gooashlaghey, though.
+ooill	ooillagh ooillaghey	d-ooilee d-ooillee	ooillit	oil, anoint	
+ooir ooirree	ooirragh ooirraghey	d-ooir d-ooirree	ooirrit	earth, mould	
+oonl oonlee	oonlagh oonlaghey	d-oonlee	oonlit	wash (body)	Cf. §3, Epenthesis.
+oor ooree	ooragh ooraghey	d-ooree	oorit	refresh	
+osn osnee	osnagh osnaghey	d-osnee	osnit	sigh	Cf. §3, Epenthesis.
+	peeikearagh			spy	
+	queeyllaghey		queeyllit	bind, wheel	
+reen reenee	reenaghey		reenit	toughen	
+rons ronsee	ronsagh ronsaghey		ronsit	search	
+runt	runtaghey		runtit	make round	
+saveen	saveenagh B			slumber	
+shang	shangagh		shangit	be lank, become lank	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+40
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+share	sharagh sharaghey			improve	
+sheel	sheelaghey sheeley	heel	sheelit	filter, sneak away	
+shiauill	shiaullagh shiaullaghey shiaulley	hiauill hioill	shiault shiaullit	sail	NB variation between indication of slender /lj/ <-ill-> and broad /l/ <-l(l)->.
+shickyr shickyree	shickyragh shickyraghey	hickyr hickyree	shickyrit	secure, confirm ensure	
+shirk	shirkagh shirkaghey	hirk hirkee	shirkit	shrink, shrivel	
+siyrree	siyrraghey	hiyree	siyrrit	hasten	
+slaan	slaanagh slaanaghey	laanee	slaanit	heal	
+smaght	smaghtaghey smaghtey		smaghtit	chastise	
+smooin smooinee	smooinagh smooinaghey	smooinee B	smooinit	think	Cregeen does not mention the verbal
+noun/gerund
+smooinaghtyn, though it
+occurs in several of the
+Bible passages he cites.
+Neither smooinagh nor
+smooinaghey is in the
+Bible.
+snagger	snaggeragh snaggeraght		gnash	
+soie	soiagh soiaghey	hoie	soit	set, plant
+soilsh	soilshagh	hoilsh	soilshit	enlighten,
+soilshee	soilshaghey	hoilshee		declare,
+				show
+soll	sollagh	holl	sollit	defile,
+sollee	sollaghey	hollee		pollute
+	solley			
+soor	sooragh		soorit	sour, leaven
+sooree	sooraghey			
+soyl	soylagh	hoylee	soylit	compare,
+soylee	soylaghey	hiollee	solit	match
+sol	solaghey			
+solee				
+styrk	starkagh		styrkit	stiffen
+stark	starkaghey			
+surl	surllaghey	hurl	surllit	toss,
+				tumble,
+				sprawl
+	tallagh		tallit	murmur
+tashagh
+get damp
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+41
+Verbs with verbal nouns in -agh/-aghey
+Base	Verbal Noun	Past	Ptcp		
+thann thannee	thannaghey	hann	thannit	thin	
+toar toarrey	toarragh toarraghey	hoar	toarrit	manure	Toarrey is apparently a unique case of a suffix -ey in a base form.
+torçh torçhee	torçhagh torçhaghey	horçh horçhee	torçhit	torment	
+	trughanagh trughaney			murmur, grumble	
+	tutleragh			tattle	
+usht ushtee	ushtagh ushtaghey	d-ushtee	ushtit	water	
+yll yllee	yllagh yllaghey	d-yll d-yllee	yllit	call	
+yns ynsee	ynsagh ynsaghey	d-ynsee	ynsit	teach, learn	
+yrj yrjee	yrjaghey			exalt	
+6.3.3.	Verbs with verbal nouns in -al. There are 109 such verbs (over 12%), of which 28 have
+alternative suffixes. Cases of the suffix -ee are extremely few
+Verbs with verbal nouns in -al
+Base	Verbal noun	Past	Ptcp	Notes	
+arr	arral		arrit	offer	
+astyr	gastyrt gast(y)r gastral	d-astyr	gastyrit (sic)	extirpate	Apparently the initial g- proper to the gerund has been extended by analogy to the verbal noun and the participle. NB stem variation between astr- and astyr-. Cf. §3, Epenthesis.
+behtt	behttal			bet	
+blest	blestal	vlest	blestit	blast	
+(boult)	boultal	voult	boultit	bolt	
+brans	bransal bransey	vrans	bransit	dash	
+breb	brebal	vreb	brebit	kick	
+buitçh	buitçhal	vuitçh wuitçh	buitçhit	bewitch	
+cant	cantal	chant	cantit	auction, bid at auction	
+carr	carral	charr	carrit	twist	
+cayrn	cayrnal	chayrn	cayrnit	trumpet	
+çheb(b)	çhebbal	heb(b)	çhebbit	offer	
+cled	cleddal	chled		overturn	
+clist	clistal	chlist		spring, bounce	
+combaase	combaasal chombaase combaasit surround
+combaasey
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+42
+Verbs with verbal nouns in -al
+Base	Verbal noun	Past	Ptcp		Notes
+cooat	cooatal cooatey		cooatit	coat	
+corm	cormal cormagh cormaghey	chorrym chormee	cormit	equalize, make even	Cf. §3, Epenthesis.
+cost	costal	chost		cost	
+couyr	couyral			recover, cure	
+crank	crankal		crankit	knock	
+creid credj-	credjal	chreid	creidit	believe	NB spelling alternation, with -eid word-finally (and in ptcp.), -edj- medially.
+cront22	crontal crontey	chront	crontit	knot	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+crow	crowal	chrow		hover	
+cruetçh	cruetçhal		cruetçhit	cower	
+cum(m)	cummal	chum(m)	cummit	hold, dwell	
+curm currym	curmal currymaghey curmaghey curmey	churm churmee	curmit	enjoin, charge	Cf. §3, Epenthesis.
+dell	dellal	ghell	dellit	deal	
+dhonk	dhonkal dhonkey	ghonk	dhonkit	thump	
+drap	drappal		drappit	climb	
+	dreamal			dream	
+drid	dridal		dridit	trot	
+faarge <j>	farral			fare	NB irregular stem alternation faarj- - farr-.
+fed	feddal			shake with laughter	
+feiyr	feiyral		feiyrit	sound	
+	femblal			take out here and there	
+fest festee ?	festal	d-est	festit	stick	With respect to the suffixed base festee, Cregeen gives only cha n’estee (alternative to cha n’est) ‘not stick’.
+foayr foayree	foayral foayraghey		foayrit	favour	
+	frappal frapperaght			crackle	
+gioot	giootal giootey	ghioot yioot	giootit	bestow	
+gull	gullal gullyrnee	ghull		howl	
+22 cront, v. knot, crontal, crontagh, crontee, crontey, cronteyder, cronteyderyn, crontin, crontins, crontit, crontym,
+crontyms, crontys, cruint, ir.[i.e. the noun plural], chront, chrontagh, chrontal, chrontee, chrontey, chronteyder,
+chrontin, chrontins, chrontit, chrontym, chrontyms, chrontys, gront, grontagh, grontal, grontee, gronteyder,
+gronteyderyn, grontin, grontins, grontym, grontyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+43
+Verbs with verbal nouns in -al
+Base	Verbal noun	Past	Ptcp	Notes
+gyrn	gyrnal			snarl
+	holtal holtey	holt		hold
+jeeill jeell	jeellal jeelley	yeel	jeellit	devastate
+jeelt	jeeltal jeeltey	yeelt	jeeltit	saddle
+jeennys	jeennysal jeennysey	yeennys	jeennyssit	wedge
+jerk	jerkal	yerk yerkee	jerkit	expect
+jok	jokal	yok	jokit	yoke
+joyn	joynal	yoyn	joynit	join
+	jummal		jummalit	waste
+junt	juntal juntey	yunt	juntit	joint
+kelk	kelkal kelkey		kelkit	chalk
+kesh	keshal	chesh	keshit	froth
+kest	kestal		kestit	cast, struggle
+kred	kredal kredyragh			grunt
+labb	labbal		labbit	strike
+	laccal			lack, want
+laiy	laiyal		laiyt	lay
+lhap	lhappal		lhappit	fold double
+lhieg	lhieggal B lhieggey B	lhieg B	lhieggit	fell
+lhiet	lhiettal	lhiett B		hinder
+lhuddyr	lhuddyral lhuddyraghey		lhuddyrit	maul
+liack laik	liackal		liackit	like
+list	listal		listit	list
+low	lowal B		lowit	allow
+luff	luffal			luff
+madyr	madyral			matter, import
+moar	moaral	voar	moarit	moor
+obb	obbal	d-obb	obbit	refuse, deny
+orçh	orçhal		orçhit	make refuse of
+pabyr	pabyral	phabyr	psbyrit	paper
+piyr	piyral piyrey	phiyr	piyrit	pair
+pohlld	pohlldal pohlldey	phohlld	pohlldit	uphold, warrant
+poll	pollal			prune
+polt	poltal poltey	pholt	poltit	thump
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+44
+Verbs with verbal nouns in -al
+Base	Verbal noun	Past	Ptcp		Notes
+poodyr poodyree	poodyral	phoodyr	poodyrit	powder	
+prayll	prayal			pray	
+prise	prisal		prisit	prise	
+prow	prowal	phrow	prowt prowit	try	
+puss	pussal pussey			puff (cheeks)	
+ratçh	ratçhal		ratçhit	sprint	
+rowl	rowlal		rowlit	roll	
+saaue	saaueal			saw	
+scuitçh	scuitçhal		scuitçhit	scourge	
+scuyr	scuyral		scuyrit	skewer	
+sett	settal		settit	plant	
+sheean	sheeanal		sheeanit	make noise	
+shu	shual		shuit	sue, prosecute	
+	sleetçhal			sneak	
+sleick	sleickal		sleickit	slake	
+smood	smoodal		smoodit	smooth	
+	snapperal			stumble	
+snog	snoggal		snoggit	nod	
+soar	soaral	hoar	soarit	smell	
+sogh	soghal		soghit	sob	
+spotçh	spotçhal spotçheraght		spotçhit	joke	
+spret	spretal		spretit	start	
+sthap	sthappal		sthappit	stop	
+stholl	sthollal		sthollit	station	
+stow	stowal		stowt stowit	bestow	
+stoyr	stoyral stoyrey storail		stoyrit	store	
+sur	surral surranse	hur	surrt surrit	suffer	
+talk	talkal	halk	talkit	walk slowly	
+tast	tastal	hast	tastit	notice, pay attention to	
+ther	therral	herr		tar	
+thow	thowal	how	thowit	tow	
+toig23	toiggal	hoig	toiggit	understand	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+trog	troggal	hrog	troggit	raise, build	
+warp	warpal		warpit	wrap	
+23 toig, v. understand, toiggagh, toiggal, toiggalagh, toiggaltagh, toiggaltys, toiggee, toiggeyder, toiggin,
+toiggim, toiggit, toiggym, toiggyms, toiggys, hoig, hoiggagh, hoiggal, hoiggaltagh, hoiggaltys, hoiggin, hoiggins,
+hoiggit, hoiggym, hoiggyms, hoiggys, doig, doiggagh, doiggal, doiggaltys, doiggin, doiggins, doiggym, doiggyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+45
+Verbs with verbal nouns in -al
+Base	Verbal noun Past	Ptcp	Notes
+yiarn	yiarnal yiarney	yiarnit	iron
+6.3.4.	Verbs with verbal nouns in -aght or -aghtyn. (See below for -eraght/-yraght.) There are
+26 verbs (under 3% of the total) in Cregeen with verbal nouns in -aght, nearly all of them with
+an alternative form, which, in most cases, is -aghtyn. I include here also four other verbs
+in -aghtyn: çherraghtyn, follaghtyn (alternative follaghey), fuillaghtyn (alternative fuillagh),
+and giennaghtyn (alternative gientyn). Six have a base or Past variant in -ee (without having a
+VN variant in -agh/-aghey).
+Verbs with verbal nouns in -aght
+Base	Verbal Noun	Past	Ptcp	Notes	
+berr	berraght berraghtyn bertyn	verr	berrit	overtake	
+bochil	bochillaght bochillagh bochillaghey	vochil	bochillit	herd	
+brie	briaght	vrie	briet	enquire	
+çherr)	çherraghtyn			perish	
+cooin cooinee	cooinaght cooinaghtyn	chooin chooinee	cooinit	remember	
+eeass eeassee	eeassaght eeassaghey	d- eeassee	eeassit	lend, borrow	
+enn ennee	ennaght ennaghtyn	d-enn d-ennee	ennit	feel	
+fark farkee	farkiaght farkiaghey	d-ark d-arkee	farkit	wait	NB unusual insertion of -i- in the VN before both -aght and -aghey.
+farr farree ?	farraght farraghtyn	d-arr		last	Cregeen’s cha n’arree (besides cha n’arr) ‘will not last’ implies a base farree.
+fass fassee	fassaght fassaghey		fassit	feed with grass	
+fen fenee	fenaght fenaghtyn	d-enee	fenit	enquire (after)	
+foll follee	follaghtyn follaghey	d-oll d-ollee	follit	hide	
+fuill fuillee	fuillaghtyn fuillagh	d-uillee		allow	
+fuirr fuirree	fuirraght fuirraghtyn	d-uirr d-uirree		stay	
+gient	giennaghtyn gientyn	ghient yient	gientit	conceive	
+immee	immeeaght	d-immee j-immee	immit immeeit	depart	NB irregular syncopated participle variant immit.
+ingyr yngyr	ingyraght ingyragh	d-hingyr d-yngyr	yngyrit	fester	See note on streighyr.
+myngyr	myngyraght	vyngyr		pilfer	See note on streighyr.
+(rugg)	ruggaghtyn ruggey	rugg ruggyr	ruggit	was born	NB Past tense variant ruggyr, with an obsolete passive voice suffix -yr.
+skir skyrr	skirraghtyn skirrey		skirrit	slip	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+46
+Verbs with verbal nouns in -aght
+Base	Verbal Noun	Past	Ptcp		Notes
+snagger	snaggeraght snaggeragh			gnash	See note on streighyr.
+streighyr streiyr	streigheraght streiyraght streighernee		streigherit streiyrit	sneeze	The VN forms resemble those with suffixes -[a]raght or -[a]rnee, though here -[a] r belongs to the stem.
+tann	tannaght tannaghtyn	hann hannee	tannit	last, continue	
+	thoreeaght			commit highway robbery	
+troagyr	troagyraght			trudge	See note on streighyr.
+6.3.5.	Verbs with verbal nouns in -ail or -eil. It is said that -ail belongs after broad consonants
+and -eil after slender ones, and this is generally the case, though there are apparently exceptions,
+e.g. dooyteil.
+6.3.5.1.	Verbs with verbal nouns in -ail. There are 17 in this class, of which two have
+alternatives with a different suffix. Three have a base or past variant in -ee without having a
+VN variant in -agh/-aghey.
+Verbal nouns in -ail
+Base	Verbal noun	Past	Ptcp		Notes
+baar	baarail	vaar	baarit	spend	
+coard	coardail	choard	coardit	agree	
+cumr cumree	cumrail	chumr chumree	cumrit	hinder, deter	Cf. §3, Epenthesis.
+	dhotail			dote	
+faag24	faagail	d-aag	faagit	leave	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+fordr fordree ford	fordrail		fordrit	afford	
+kiare	kiarail	chiare	kiarit	provide, intend	
+oard oardr oardee oardree	oardrail oardaghey	d-oardee	oarderit	order, ordain	
+paard paart	paardail paartail	phaard phaart	paardit	depart	
+plaastr plaastree	plaastrail	phlaastyr	plaastrit	plaster	
+	rouail			roam	
+24 faag, v. leave, faagagh, faagail, faagee, faageyder, faageyderyn, faagin, faagins, faagit, faagym, faagyms,
+faagys, aag, aagagh, aagail, aagee, aageyder, aageyderyn, aagin, aagins, aagit, aagym, aagyms, aagys, daag,
+naag, naagagh, naagail, naagee, naagin, naagins, naagym, naagyms, vaag, vaagagh, vaagail, vaagin, vaagins,
+vaagym, vaagyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+47
+Verbal nouns in -ail
+Base	Verbal noun	Past	Ptcp		Notes
+saue25	sauail	haue	sauit	save	Cregeen lists all the forms in the footnote. The list includes deverbal nouns.
+scape	scapail	scaap	scapit	escape	
+	sloatail			abate (rain)	
+spaar	spaarail		spaarit	spare, save	
+stoyr	storail stoyrey stoyral		stoyrit	store	
+	wandrail			wander	
+6.3.5.2.	Verbs with verbal nouns in -eil. Eighteen verbs, of which two with alternative suffixes
+(-ey). No base or Past variants in -ee.
+Verbs with verbal nouns in -eil
+Base	Verbal noun	Past	Ptcp	Notes
+	boasteil			boast
+broatçh	broatçheil	vroaçh	broaçhit	tap
+dooyt	dooyteil	ghooyt	dooytit	doubt
+	entreil			enter
+faill faillee	failleil	d-aill	faillit	fail
+fend	fendeil		fendit	defend
+	gurneil			govern
+leeid	leeideil	leeid B	leeidit	lead
+meeit	meeiteil B	veeit B		meet
+pleat plead	pleateil pleatey	phlead	pleatit	plead, prattle
+point poinsh	pointeil poinsheil	phoint phoinsh	pointit	appoint
+preaçh	preaçheil	phreaçh	preaçhit	preach
+tempr	tempreil	hempr	temprit	temper
+tend	tendeil	hend	tendit	attend
+tooill	tooilleil	hooill	tooillit	toil, tire
+treig	treigeil treigey	hreig	treigit	abandon
+treisht	treishteil	hreisht	treishtit	trust
+ventr	ventreil	ventr		venture
+6.3.6.	Verbal noun suffixes -[a]ragh or -[a]raght and -[a]rnee often with affective or
+frequentative sense, many on verbs denoting noises. Most of these have verbal nouns or
+gerunds only, that is, no base, past tense, or participle.
+25 saue v. save, sauagh, sauail, sauailtagh, sauee, saueyder, saueyderyn, sauin, sauins, sauit, sauym, sauyms,
+sauys, haue, hauagh, hauail, hauailtagh, hauee, haueyder, haueyderyn, hauin, hauins, hauit, hauym, hauyms,
+hauys.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+48
+6.3.6.1.	I include -[ǝ]ragh and -[ǝ]raght in the same table: 32 verbs.
+Verbs with verbal nouns in -[ǝ]ragh or -[ǝ]raght
+Base	Verbal Noun	Past	Ptcp		Notes
+	beealeraght			babble	
+blob	blobberaght			babble	
+breim	breimaragh	vreim		fart	
+	bryneraght			flatter	
+	clinkeragh			tinkle	
+clooid	clooideraght		clooidit	patch	
+corlheim	corlheimeraght corlheim			hop	Cf. lheim
+	flipperaght			drop into water	
+flout	floutyraght			taunt	
+	fooilleyraght			fribble	
+	frapperaght frappal			crackle	
+	gigleragh			giggle	
+	glugeraght glugernee			gurgle	
+	glutteraght			(be a) glutton	
+	grigyraght			tick	
+	grinderagh			taunt	
+	jeeassyragh jeeassyraght			glean	See jeeas ‘ear of corn’.
+jonse	jonseragh	yonse	jonsit	jolt	
+kred	kredyragh kredal			grunt	
+	leighderaght			go to law	
+lheim	lheimyragh lheimyraght lheim B	lheim B	lheimmit	leap	
+	neealeraght			change aspect	
+	nhedderagh			fidget	
+	pisheyragh			whisper	
+	pynteraght			drink pints	
+sannish	sansheraght			whisper	
+	shnoagyraght			sneak	
+	snaperaght			nap	
+	spinçhyraght			scullion	
+spotçh	spotçheraght spotçhal		spotçhit	joke	
+	tasteraght			thresh	
+tauint	tauintyraght			saunter	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+49
+6.3.6.2.	Verbs with verbal nouns in -[ǝ]rnee
+Base	Verbal Noun	Past	Ptcp	Notes	
+	bibbernee			shiver	
+	flustyrnee			faddle	
+	glugernee glugeraght			gurgle	
+	goanstyrnee gounstyrnee			bark	
+gull	gullyrnee gullal	ghull		howl	NB the base form gull properly belongs with the VN gullal.
+scoylg	scoylgernee scoylgey		scoylgit	shriek	NB the base form scoylg properly belongs with the VN scoylgey.
+	shutternee			neigh	
+	taauernee			retch	Cf. taaue, s. ‘retch’
+taaueynee
+6.3.6.3.	The three verbs in Cregeen with verbal nouns in -nee resemble those in §6.3.6.2, though
+here the element -[ǝ]r- is clearly part of the stem.
+Verbs with verbal nouns in -nee
+Base	Verbal Noun	Past	Ptcp		Notes
+jeestyr	jeestyrnee	yeestyr		creak	
+	londyrnee londernee			dazzle	CF. londeyr ‘lantern’
+streighyr streiyr	streighernee streigheraght streiyraght		streigherit streiyrit	sneeze	The VN forms resemble those with suffixes -[ǝ]raght or -[ǝ]rnee, though here -[ǝ]r belongs to the stem.
+6.3.7.	Verbal noun suffix -t. This is the only verbal noun suffix which is non-syllabic. It occurs
+only after stems that end in /r/. There are 10 in this class (including the irregular/suppletive
+verb coyrt). Two of them have -ee forms.
+Verbal nouns with suffix -t
+Base	Verbal Noun	Past	Ptcp	Notes	
+astyr	gastyrt gast(y)r gastral	d-astyr	gastyrit (sic)	extirpate	Apparently the initial g- proper to the gerund has been extended by analogy to the verbal noun and the participle. NB stem variation between astr- and astyr-.
+baggyr	baggyrt	vaggyr vaggyree		threaten	
+(coloayr)	coloayrt			converse	Cf. loayr.
+cur	coyrt cur	hug - dug chur	currit	give, put, send	Suppletive irregular verb. See above, §5.
+eebr eebree	eebyrt	d-eebr d-eebree	eebrit	banish	Cf. §3, Epenthesis.
+eiyr	eiyrt	d-eiyr	eiyrit	follow, drive	
+freggyr	freggyrt	d-reggyr	freggyrit	answer	
+loamr	lommyrt		loamrit lomrit	shear	
+loayr	loayrt	loayr B	loayrit	speak	
+taghyr	taghyrt	haghyr	taghyrit	happen	
+haghr
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+50
+6.3.8.	Verbal noun suffix -tyn. Eight examples, or nine if toilçhin is included.
+Verbal nouns with suffix -tyn
+Base	Verbal Noun	Past	Ptcp		Notes
+benn	bentyn	venn		touch	
+blass blayst	blastyn blasstey	vlayst		taste	If the base is blass the suffix is -tyn, but if the base is blayst, as appears in most of the derivatives of this root, the suffix is -yn
+clasht cluin clin	clashtyn	cheayll chluin	cluinit	hear	Suffix -tyn, if clashtyn is for *clashttyn. Or otherwise VN suffix -yn. NB irregular/suppletive verb.
+keill26	keiltyn	cheill	keillit	conceal	Cregeen lists all the forms in the footnote. They include deverbal nouns.
+lhian B lhiant [?]	lhiantyn	lhiann B		adhere	
+rosh	roshtyn	raink	roshit	reach, arrive	NB suppletive Past stem raink.
+shell shellagh	sheiltyn sheltyn shein	heill		suppose	NB variation between broad /l/ and slender /lj/.
+tayr taare taar	tayrtyn	hayr haare	tayrit taarit	catch	
+toill	toilliu toilçhin	hoill	toillit	deserve	It may be that -çhin is a ‘slender’ variant of -tyn. Otherwise -çhin is unique in
+Cregeen as a VN suffix, as also is -iu.
+6.3.9.	Minor and unique verbal noun patterns.
+6.3.9.1 Two verbs only have a verbal noun in -aghyn.
+Base	Verbal Noun	Past	Ptcp	Notes
+gwee	gweeaghyn	ghwee wee	gweeit	curse
+niee	nieeaghyn	niee B	nieet	wash
+niaghyn
+6.3.9.2 One verb only has a verbal noun in -anse.
+Base	Verbal Noun Past	Ptcp	Notes
+sur	surranse hur	surrt	suffer	NB abstract noun surranse surral	surrit	‘suffering’
+26 keil, v. conceal, keillagh, keillee, keilleyder, keilleyderyn, keillin, kelllins, keillit, keillym, keillyms, keillys,
+keiltyn, cheil, cheillagh, cheillee, cheilleyder, cheilleyderyn, cheillin, cheillins, cheillit, cheillym, cheillyms,
+cheillys, cheiltyn, geil, geillagh, geillee, geilleyder, geilleydelyn, geillin, geillins, geillym, geillyms.
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+51
+6.3.9.3	Verbs with verbal nouns in -in. The VN suffix -in is also found in the irregular verb
+fakin ‘seeing’.
+Base	Verbal Noun	Past	Ptcp	Notes	
+giall	gialdin gialdyn gialtaghey	ghiall yiall	giallit	promise	NB irregular stem variation giall- ~ giald- ~ gialt-. Maybe the stem is gial(l)- and the VN suffix -din/-dyn is a variant of -tin/-tyn.
+strep	strebin		strepit	struggle,	
+streb	strepey			wallow	
+6.3.9.4.	Verb with verbal noun in -iu or -çhin
+Base	Verbal Noun	Past	Ptcp	Notes
+toill	toilliu	hoill toillit deserve Both VN alternative suffixes are unique,
+toilçhin	though -çhin might be seen as a ‘slender’ version
+of -tyn.
+6.3.9.5.	Verbal noun with suffix -oil
+Base	Verbal Noun Past	Ptcp	Notes
+(brooight)	brooightoil vrooight	belch
+6.3.9.6.	Verbal noun with suffix -on
+Base Verbal Noun Past Ptcp	Notes
+connysson	scorn, sneer
+connaasagh
+connaasey
+6.3.9.7.	Verbal noun with suffix -ooil
+Base
+smooir
+Verbal Noun Past
+smooirooil
+Ptcp	Notes
+smile, titter
+smooirey
+6.3.9.8. Verbal nouns with suffix -oo				
+Base	Verbal Noun	Past	Ptcp	Notes
+jean jin	jannoo	ren	jeant do, make	Suppletive irregular verb. See above, §5.
+marr	marroo	varr	kill	
+shass	shassoo	hass	stand	
+6.3.9.9. Verbs with verbal nouns in -ym
+Base	Verbal Noun	Past	Ptcp	Notes
+çhaggle	çhaglym	hagl	çhaglit	gather	Cf. §3, Epenthesis.
+çhaggyl	çhaggley	haggil		
+geirr	geirrym	gheir	crow	
+	gerrym	gherr		
+tuitt	tuittym	huitt	fall	
+Manx Gaelic inflection, 5. Verbs Max Wheeler, January 2016
+52
+6.3.9.10. Verbs with verbal nouns in -yn
+Base	Verbal Noun	Past	Ptcp	Notes	
+blayst blass	blastyn blasstey	vlayst		taste	If the base is blass the suffix is -tyn, but if the base is blayst, as appears in most of the derivatives of this root, the suffix is -yn.
+giall	gialdyn gialtaghey gialdin	ghiall yiall	giallit	promise	NB three stem variants: gial(l)-, giald- and gialt-, with the VNs built on the latter two.
+jeeagh	jeeaghyn	yeeagh	jeeaghit	look, seem	
+gient	gientyn giennaghtyn	ghient yient	gientit	conceive	NB two variants of stem: gient- and gien(n)-. One might suggest that the VN
+forms are based on the latter, with variant
+suffixes -tyn and -aghtyn.
+6.3.9.11. Verbs with verbal nouns in -ys
+Base	Verbal Noun	Past	Ptcp	Notes
+boandyr	boandyrys		boandyrit	nurse
+	ganglanys			bicker
+	gannidys			deride
+togher	thogherys	hogher	togherit	wind

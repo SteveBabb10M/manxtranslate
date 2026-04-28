@@ -1,0 +1,225 @@
+﻿Christopher Lewin
+No. 10 - January 2012
+A series of short articles on Manx Gaelic grammar, idiom,
+vocabulary and pronunciation.
+Numbers
+Numbers in Manx can be tricky, so here are some notes on some of the details.
+Lenition after un and daa:
+Daa causes normal lenition. Un does not lenite dentals (t, çh, d, j, s), but unlike the
+definite article yn, it does not change s to t. Un theihll, for example, is therefore an
+error; it should be un seihll.
+cur ’syn un saagh ad - put them in one vessel (Ezekiel 4:9)
+’Syn un thie vees eh er ny ee - In one house shall it be eaten (Exodus 12:46)
+Un Chiarn, un chredjue, un vashtey - One Lord, one faith, one baptism (Ephesians
+4:5)
+As hrog ooilley’n pobble myr un dooinney - And all the people arose as one man
+(Judges 20:8)
+Dy vel un Jee ayn - That there is one God (Coyrle Sodjeh p. 60)
+Occasionally (normal) lenition of s is found:
+veih un heeloghe gys sheeloghe elley - from one generation to another (Ps. 72:5)
+Multiples of twenty:
+Until 59, the smaller number comes before the twenty:
+unnane as feed - twenty-one
+jeih as feed - thirty
+daeed - forty
+jeih as daeed - fifty
+nuy-jeig as daeed - fifty-nine
+From 60 to 199, the twenty comes first:
+three feed as kiare - sixty-four
+three feed as jeih - seventy
+kiare feed as jeih - ninety
+shey feed as queig-jeig - one hundred and thirty-five
+nuy feed as nuy-jeig - one hundred and ninety-nine
+bee curtanyn jeh jeih cubityn as daeed - shall be hangings of fifty cubits (Exodus
+27:12)
+three-feed bleïn as jeih - seventy years (Daniel 9:2)
+Myr shoh hooar Joseph baase, as va e eash queig-feed as jeih bleeaney - So Joseph
+died, being an hundred and ten years old (Genesis 50:26)
+As va Jared hoght feed as daa vleïn dy eash, as va echey Enoch - And Jared lived an
+hundred sixty and two years, and he begat Enoch (Genesis 5:18)
+As va Lamech nuy feed bleïn as jees dy eash - And Lamech lived an hundred eighty
+and two years (Genesis 5:28)
+Note that the system of twenties can (optionally) go up to 199 with nuy feed ‘nine
+twenties’ for 180, though keead is more common for ‘one hundred’ itself. Note also
+that with the numbers 60+ the noun can follow the twenty element (in which case it is
+singular) or the smaller element (in which case it is plural, unless the small number is
+un or daa). Nouns are singular in form when directly following un, daa, feed, keead
+and thousane, and plural with all other numbers.
+21,	41 etc.:
+When expressing saying 21, 41 and so on with a noun, un may be left out, i.e. laa as
+feed ‘twenty-one days’ instead of un laa as feed:
+Agh ren prince reeriaght Phersia shassoo m’oï, laa as feed - But the prince of the
+kingdom of Persia withstood me one and twenty days (Daniel 10:13)
+Va Zedekiah bleïn as feed dy eash tra ghow eh toshiaght dy reill - Zedekiah was
+twenty and one years old when he began to reign (2 Kings 24:18)
+As bleïn as da-eed ren eh reill ayns Jerusalem - And forty and one years reigned he in
+Jerusalem (1 Kings 15:10)
+Ghaa:
+The lenited form of daa is used:
+As would be expected after lenition triggers such as possessives:
+e ghaa ven - his two wives (1 Samuel 13:18)
+In ghaa-yeig when it stands alone without a noun, even when preceded by the article:
+Eisht hrog ad orroo, as hie ad harrish, ghaa yeig jeh Benjamin, v’er cheu Ish-bosheth
+mac Saul, as ghaa yeig jeh deiney Ghavid - Then there arose and went over by
+number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and
+twelve of the servants of David (2 Samuel 2:15)
+Yn ghaa-yeig shoh hug Yeesey magh - These twelve Jesus sent forth (Matthew 10:5)
+(With nouns, the non-lenited form daa X yeig or daa X jeig is found:)
+hoie eh sheese marish yn daa ostyl yeig - he sat down with the twelve (Matthew
+26:20)
+Gow-jee daa ghooinney jeig veih mastey yn pobble - Take you twelve men out of the
+people (Joshua 4:2)
+In other situations when ghaa stands alone without a directly following noun, namely
+when it is conjoined with other numbers by ny ‘or’, e.g. unnane ny ghaa ‘one or two’,
+ghaa ny three ‘two or three’, and in the expression ghaa wheesh ‘twice as much’:
+Ta creenaght ny share na greïnyn-caggee: agh ta un drogh-yantagh cur naardey saase
+mie ny ghaa [a good way or two] - Wisdom is better than weapons of war: but one
+sinner destroyeth much good (Ecclesiastes 9:18)
+Son raad ta ghaa ny three er nyn jaglym cooidjagh ayns m’ennym’s, shen y raad ta
+mish nyn mastey - For where two or three are gathered together in my name, there am
+I in the midst of them (Matthew 18:20)
+As ghow ny deiney yn gioot shen, as ghow ad ghaa wheesh dy argid ayns nyn laue -
+And the men took that present, and they took double money in their hand (Genesis
+43:15)
+myrgeddin hug y Chiarn da Job ghaa wheesh as v’echey roïe - also the Lord gave Job
+twice as much as he had before (Job 42:10)
+Since when two numbers are linked by ny the first is not directly followed by a noun
+but stands alone, it follows that these numbers are treated as nouns in themselves, and
+must be followed by dy plus a lenited plural noun:
+Noi shanstyr ny jean plaiynt y ghoaill, agh kiongoyrt rish ghaa ny three dy eanishyn
+- Against an elder receive not an accusation, but before two or three witnesses (1
+Timothy 5:19)
+lhig da mysh ghaa ny three dy housaneyn dooinney goll seose - let about two or
+three thousand men go up (Joshua 7:3)
+va shin l[h]ieeney ny baskadyn gys ve mean oie as cha row aynjee tra shen agh gha[a]
+ny three dy veishyn - we were filling the baskets until it was midnight but at that
+time there were only two or three measures in her (Ned Beg 3)
+As haink eh gy-kione, tra va Jehudi er lhaih three ny kiare dy ghuilliagyn, dy yiare
+yn ree eh lesh skynn-phenney - And it came to pass, that when Jehudi had read three
+or four leaves, he cut it with the penknife (Jeremiah 36:23)
+Ve son bleintyn [bleeantyn] ayns boayl ennagh ayns neryn [Nerin] raad va’n balley
+sn[i]essey kair [kiare] ny queig dy ve[e]ilaghyn jeh - He was for years in some
+place in Ireland where the nearest town was four or five miles off (Ned Beg 12)
+Lhisagh oo v’er woalley queig ny shey dy cheayrtyn - Thou shouldest have smitten
+five or six times (2 Kings 13:19)
+This dy appears in other situations where the numeral cannot be directly followed by
+the noun, as with collective nouns like cloan and sleih:
+T’ee-ish t’er n’ymmyrkey shiaght dy chloan raad y vaaish - She that hath borne
+seven [children] languisheth (Jeremiah 15:9)
+As haink ad huggey, cur lhieu fer va seaghnit lesh y chingys-craaee, v’er ny hroggal
+stiagh liorish kiare dy leih - And they come unto him, bringing one sick of the palsy,
+which was borne of [i.e. by] four [people] (Mark 2:3)
+With high numbers, the noun can optionally come at the end preceded by dy:
+thousane daa cheead as kiare-feed as jeih dy laghyn - a thousand two hundred and
+ninety days (Daniel 12:11)
+As va ooilley mec Pherez, va cummal ec Jerusalem, kiare cheead three-feed as hoght
+dy gheiney dunnal - All the sons of Perez that dwelt at Jerusalem were four hundred
+threescore and eight valiant men (Nehemiah 11:6)
+Ny feedyn, ny thousaneyn:
+When saying ‘thousands’, ‘hundreds’, ‘scores’ etc., without specifying the exact
+number, Gaelic puts the definite article in front of the noun:
+ta ny thusanyn [thousaneyn] feddin [feddyn] baase voish laanid beaghey, neu-
+heeltys, as beggan lheill - thousands die from fullness of living, insobriety, and
+inactivity (Mona’s Herald, 5 Jan. 1841, p. 3)
+there was ne [ny] feedyn more comes - scores (Mona’s Herald, 20 June 1835, p. 5. —
+this piece is in dialect English interspersed with Manx)
+Singular and plural with daa:
+The numeral daa is peculiar in that some of the elements that go with it in a noun
+phrase are singular and others plural, as the following table elucidates:
+article	numeral	noun	adjective
+SINGULAR	daa	SINGULAR	PLURAL
+yn	daa	ghooinney	aegey
+‘the two young men’			
+Examples:
+daa ghooinney aegey - two young men (2 Kings 5:22)
+daa feeaïh aegey - two young roes (Song of Solomon 4:5)
+yn daa ghooinney - the two men (Joshua 2:4)
+ec kione y daa raad - at the head of the two ways (Ezekiel 21:21)
+Singular article and plural adjective are also found with collective nouns such as sleih,
+cloan and mooinjer. Note that normal lenition applies if the nouns are feminine:
+yn vooinjer veggey - the little ones (Judges 18:21)
+yn vooinjer hingey - the sick [people] (Mark 6:56)
+yn chloan veggey eck - her little ones [children] (Jeremiah 48:4)
+’n chloan aegey - the young children (Psalm 127:5)
+yn sleih chingey - the sick [people] (Luke 9:10)
+nyn sleih-mooinjerey boghtey - their poor relatives (Wilson’s sermons p. 103)
+yn maase breckey - the speckled cattle (Genesis 31:8)
+yn ollagh - the cattle (Judges 18:21)
+yn chenndeeaght - the elders (Joel 1:14), also, the aged, the old, the ancients
+yn chanstyr - the elders (1 Kings 21:11), the aged (Job 29:8)
+yn sluight ayd’s - thy seed [descendents, posterity, progeny] (Genesis 13:16)
+yn tannys - the husbandmen [tenant farmers, tenantry] (Matthew 21:35)
+Singular nouns after other numbers:
+Nouns expressing time and quantity may remain singular after numbers other that un,
+daa, feed, keead and thousane. However, this is optional:
+Bee eshyn vennys rish corp marroo dooinney erbee, neu-ghlen shiaght laa - He that
+toucheth the dead body of any man shall be unclean seven days (Numbers 19:11)
+Cha nee un laa, ny daa laa, ny queig laa, chamoo jeih laa, ny feed laa nee shiu gee -
+Ye shall not eat one day, nor two days, nor five days, neither ten days, nor twenty
+days (Numbers 11:19)
+Q. Caid va Creest marroo? A. Three laa - Q. How long was Christ dead? A. Three
+days (Aght Giare p. 12)
+ta mee er vakin ad creck ad son she[y] punt y keead - I have seen them selling them
+for six pounds a hundred (Ned Beg 4)
+But: As lurg da v’er ny ghlenney, nee ad coontey dasyn shiaght laghyn - And after he
+is cleansed, they shall reckon unto him seven days (Ezekiel 44:26)
+Son myr va Jonas three laghyn as three oieghyn ayns bolg y whale: myr shen bee
+Mac y dooinney three laghyn as three oieghyn ayns cree yn thallooin - For as Jonas
+was three days and three nights in the whale’s belly; so shall the Son of man be three
+days and three nights in the heart of the earth (Matthew 12:40)
+Ordinals:
+‘Eleventh’ is expressed by yn un…jeig/yeig, not *yn chied…jeig/yeig (cf. Scottish
+Gaelic an t-aonamh latha deug etc.). This also applies to higher numbers containing
+11, e.g. 31st, 51st:
+yn un laa jeig - the eleventh day (Numbers 7:72)
+yn un vleïn jeig - the eleventh year (Ezekiel 31:1)
+’syn un vee yeig - in the eleventh month (Deuteronomy 1:3)
+’Syn un vleïn jeig as feed - In the thirty and first year (1 Kings 16:23)
+However, other ordinal numbers containing 1, such as 21st, 41st, use chied:
+Yn chied lot as feed - The one and twentieth [lot] (1 Chronicles 25:28)
+Though un may be used also:
+ayns yn un vleïn as da-eed - in the one and fortieth year (2 Chronicles 16:13)
+ec yn feedoo as un vierse as feed - at the twentieth and twenty-first verse (Wilson’s
+sermons p. 146)
+Quantifiers:
+Note, only when plural would be otherwise expected; some of these words can also be
+used with singulars, uncount and collective nouns. For example, ymmodee is
+normally used with a plural noun, but with sleih it may be (but is not always)
+followed by dy leih.
+Singular: shimmey, whilleen, caghlaaghyn [various, different], un, daa, feed, keead,
+thousane
+Plural: ymmodee, mooarane, lane, niart, ram, monney, rour, tooilley, ooilley, all other
+numbers
+‘dy’: paart, kuse, y bunnys [most], y chooid smoo, shiartanse, veg*, reggyryn, ny
+shlee, ny smoo, ny sloo, arragh, beggan, cha beg [so little], caghlaaghyn
+* veg is originally followed by dy, which is then shortened to y, which is confused
+with the definite article; in classical Manx this has become regular, and veg is
+generally found with following yn, y, or ny. By Late Manx dy is used once again by
+analogy with other quantifiers:
+cha jean shiu veg yn obbyr er: she doonaght y Chiarn eh ayns ooilley nyn gummallyn
+- ye shall do no work therein: it is the sabbath of the Lord in all your dwellings
+(Leviticus 23:3)
+cha jean shiu lostey veg y soorit, ny veg y vill, ayns oural erbee gys y Chiarn jeant
+lesh aile - ye shall burn no leaven, nor any honey, in any offering of the Lord made by
+fire (Leviticus 2:11)
+cha vel ayd veg ny saaseyn dy lheihys - thou hast no healing medicines (Jeremiah
+30:13)
+With dy in Late Manx:
+as lurg tammylt dy cra [hraa] ve eignyt [eginit] dy roie ersooyl voish ny shellanyn
+fego[o]ish gheddyn [geddyn] veg dy vill - and after a while he was forced to run away
+from the bees without getting any honey (Ned Beg 23)
+Ren shin chur [cur] ayns yn vaarney foddey voish dy chooilley unnane coointey
+[coontey] nagh row veg dy scaddan ayns shen - We cast in the gap far from everyone
+thinking that there weren’t any herring there (Ned Beg 3)
+vel veg dy yoar[r]eeyn mooie - are there any foreigners out (Ned Beg 21)
+Proverb of the Month:
+Laa’l Paul ghorrinagh gheayee
+Genney er y theihll as baase mooar sleih,
+Laa’l Paul aalin as glen,
+Palçhey er y theihll dy arroo as meinn.
+- Paul’s day stormy and windy,
+Famine in the world, and great death of mankind,
+Paul’s Day fair and clear,
+Plenty of corn and meal in the world.
+St Paul’s day is 25th January.
+(Cregeen)

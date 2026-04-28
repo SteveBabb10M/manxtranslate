@@ -1,0 +1,1230 @@
+﻿Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+1
+Manx Gaelic inflection, 2. Genitive case
+Most nouns in Manx Gaelic do not have a distinct inflected genitive case form. But a significant
+proportion, which tend to be relatively common concrete nouns, do have such a form. Note,
+though, that when such a form exists, it is not always used in preference to the base, nominative,
+form in constructions where it would be appropriate.1 The genitive case form is traditionally
+referred to as a genitive singular, but in the majority of its uses number is often irrelevant or
+unspecified.
+Cregeen’s Dictionary gives some 400 genitive case forms of nouns, which the author labels as
+adjective derivatives (a. d.). This terminology corresponds, to one aspect of how genitive case
+forms are used. But a difficulty arises in that Cregeen uses the same term for some of the Manx
+derived adjectives in -agh. Thus, in the Dictionary a number of words have two adjective
+derivatives, one corresponding to what is traditionally called the genitive case, and the other a
+true derived adjective. For example, under bing ‘jury’ we find “bingagh, a. d. of a jury; as,
+dooinney bingagh (a juryman); bingey, a. d. of a jury; as, deiney bingey (jurymen);” so, also,
+bolg ‘belly’ has adjective derivatives bolgey and bolgagh; cainle ‘candle’ has a genitive (as I
+would call it) in the compound lostey-chainley ‘churching of women’, but also an a. d.
+cainleagh or kainlagh; cass ‘foot’ has adjective derivatives coshey and cassagh, etc. There are
+96 examples of adjective derivatives ending in -agh in Cregeen. There is no doubt that some
+forms in -agh are indeed genitive case forms of nouns, as can be seen, for example, in kione ny
+lhiabbagh ‘the head of the bed’, or faiyr y vagheragh ‘the grass of the field’, where the noun
+with the -agh suffix is preceded by the definite article, and the head of the construction (kione,
+faiyr) is itself a noun. In other cases, though, Cregeen’s examples show that the form ending
+in -agh is really an adjective. Such is the case for cairagh “a. d. of justice, right, truth”, in that
+it can be preceded by a degree modifier (feer chairagh ‘very right, etc.’), or used in a copular
+or comparative construction (s’cairagh ‘how just, etc.’, s’cairee ‘more just, most just’); or, as
+Bible examples show, it is used predicatively: as lhig dasyn ta cairagh, ve kinjagh cairagh ‘and
+he that is righteous, let him be righteous still’ (Revelation 22.11). Another example is
+toilçhinagh, which is labelled by Cregeen both as an adjective (a.) ‘meritorious’ with copular
+examples “s’toilçhinagh, a. how meritorious; s’toilçhinee, a. id.”, and also, in the form
+hoilçhinagh, as an adjective derivative ‘of merit’, etc. Toilçhinagh is clearly an adjective.
+Another type of so-called “adjective derivatives” in -agh consists of those derived from parts
+of the body, as in skeilt-chassagh ‘cloven-footed’, trome-chreeagh ‘heavy-hearted’, creoi-
+wannalagh ‘stiff-necked’. In such cases, the apparent head of the construction, —skeilt, trome,
+creoi, in these examples— is not a noun, as it would need to be if the -agh form were a noun in
+the genitive case, but an adjective. Nor is there even reason to believe that there are actually
+adjectives *cassagh, *creeagh, or *mwannalagh, any more than that there are English
+(participial) adjectives *footed, *hearted or *necked. Rather, in each language, a suffix
+(Manx -agh, English -ed) is attached to a compound expression containing an adjective and a
+body-part noun, so as to make an adjective out of the whole: [trome-chree]-agh, [heavy-heart]-
+ed. For these reasons, I do not count among examples of genitive case forms those of Cregeen’s
+adjective derivatives in -agh that either (a) stand alongside another suffixed adjective derivative
+that has a better claim to be a genitive case form, (b) have copular or comparative forms, or (c)
+are found in the ‘trome-chreeagh’ construction. Twenty-six cases are excluded for these
+reasons. For most of the remaining 70 “adjective derivatives” in -agh, the examples of their use,
+1 For example, Cregeen offers “agglishagh, a. d. of the Church”, but his Dictionary has illustrations with agglish
+(= nominative): briw-agglish ‘an ecclesiastical judge; leigh ny hagglish ‘canon law’, meoir-agglish ‘beadle’.
+Alongside lossaghyn ailey ‘flames of fire’; we have lus yn aile ‘burnet’ (herb of the fire); beside “awiney, a. d. of
+a river or rivers” we have the example cabbag ny h-awin ‘colt’s-foot’ (dock of the river).
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+2
+where examples exist, either in Cregeen or in the Bible, are structurally ambiguous: in ny
+magheryn ourallagh ‘the fields of offerings’, ourallagh could be the (indefinite) genitive case
+of oural ‘sacrifice, offering’, or it could be a derived adjective = ‘sacrificial’. In the case of this
+example, the parallel construction ny magheryn arroo ‘the fields of corn’, where arroo is a noun
+in the (uninflected) genitive case, at least shows that the interpretation of ourallagh as a noun
+in the genitive case cannot be excluded. Only four -agh forms have examples in Cregeen or in
+the Bible where the grammatical structure points unequivocally to a genitive-case
+interpretation: cuillagh, killagh, lhiabbagh, and magheragh (examples below).
+Besides the genitive in -agh (class C in my classification, with 73 members), there are four
+other patterns of inflected genitive formation. Class A consists of nouns that form the genitive
+in -ey. There are some 93 of these, predominantly, but not exclusively of feminine gender. Class
+B consists of nouns that form the genitive in -ee. There are some 185 of these, of which about
+a dozen also have the plural in -ee, such as moddey ‘dog’, genitive moddee, plural moddee.
+Class D consists of nouns whose genitive has no suffix, but is formed by a change to the stem,
+generally changing the final consonant or consonant group from broad to slender, and/or raising
+or fronting the vowel of the stem. This pattern of formation is also found among noun plurals,
+and indeed, in half the members of Class D, the genitive and the plural is identical (as in kione
+‘head’, genitive king, plural king). Lastly, Class E contains a dozen or so nouns where the
+genitive is formed irregularly, and in a unique way. Just as with noun plurals, certain final
+unstressed syllables present in the nominative singular, such as -agh, -aght, -ee, -ey, may be
+lost before the genitive suffix.
+Though Cregeen does not draw attention to it, a bare handful of nouns in Manx have a genitive
+plural form, perhaps used only in lexicalized constructions (see below). One noun, cass ‘foot’
+retains dative case forms, after prepositions. The nouns with a genitive plural form in Cregeen
+or the Bible are these:
+Nom. sg.	Gen. sg	Nom. pl. cabbyl	cabbil	cabbil cainle	cainley	cainleyn keyrrey	keyrragh	kirree kiark	kirkey	kiarkyn	Gen. pl. gabbyl	horse gainle	candle geyrragh	sheep giark	hen
+All the examples happen to begin with /k/, which is ‘nasalized’ here after the plural article ny.
+Apart from the nasalization, for cabbyl, cainle and kiark, the genitive plural is the same as the
+nominative singular, while for keyrrey it is the same as the genitive singular.
+boynnyn ny gabbyl ‘horses’ heels’
+giat ny gabbyl ‘horses’ gate’
+raad ny gabbyl ‘the road of the horses’
+Re-Hollys Vooar ny Gabbyl ‘October
+Moon (after Harvest Moon)’
+streeanyn ny gabbyl ‘the horses’ bridles’
+Moirrey ny Gainle ‘Mary of the Candles’
+(Candlemas)
+ard-vochilley ny geyrragh ‘chief shepherd’
+bwoaillee ny geyrragh ‘sheepcote’
+bwoailtçhyn ny geyrragh ‘sheepcotes’
+dorrys ny geyrragh ‘the door of the sheep’
+giat ny geyrragh ‘sheep gate’
+lommyrtee ny geyrragh ‘sheepshearers’
+connagh ny giark, ‘henbane’ (hens’ flax-
+dodder)
+shirragh ny giark ‘falcon’ (hens’ kite)
+The relic dative case form of cass ‘foot’ — cosh— is found after prepositions in the following
+constructions:
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+3
+cha jem ny-hrooid agh rish my chosh ‘I
+shall go through only on my feet’
+chossyn eh ersooyl ry-chosh ‘he fled away
+on foot’
+deiyr ad er ry nyn gosh ‘they followed him
+on foot’
+ec cosh y clieau ‘at the foot of the
+mountain’
+fo chosh ‘under foot’
+goll ry chosh ‘go on foot’
+hed deiney harrish ry nyn gosh ‘men shall
+go across on foot’
+hem trooid rish my chosh ‘I will go
+through on my feet’
+lhig dooin ve dy moghey er nyn gosh ‘let us
+be early on our feet’
+myr shen dy jagh ad trooid yn ushtey rish
+nyn gosh ‘so that they went through the
+water on foot’
+roie ad gys shen rish nyn gosh ‘they ran
+afoot thither’
+In the lists that follow I give, for each noun that has a distinct genitive form in Cregeen (plus
+another 16 from J. J. Kneen’s Grammar of the Manx Language),2 its base form (singular), its
+genitive, its gender, where this can be ascertained, its meaning, its Plural class, and its Noun
+subclass (a sub-classification of noun paradigms linking the genitive inflection with the plural
+inflection — see Manx Gaelic Inflection, 3. Noun Paradigms). Genitive forms displaying some
+additional irregularity in the stem are in bold type.
+Class A. Genitive in -ey
+Singular	Genitive -ey	m/f		Pl. class	N class
+aile	ailey	m	fire	1	A1
+airh	airhey	f	gold	1	A1
+Albin	Albey (K)	f	Scotland		A1
+awin	awiney	f	river	1	A1
+bannish	banshey	f	wedding	1	A1
+bass	bassey	f	palm of hand	1	A1
+binnid	binjey ~ binshey	f	rennet	1	A1
+blein	bleeaney	f	year	1	A1
+braag	braagey	f	shoe	1	A1
+breag	breagey	f	lie	1	A1
+brein	breinney	f	womb	1	A1
+cainle	cainley	f	candle	1	A1
+cass	coshey	f	foot	1	A1
+cleaysh	cleayshey	f	ear	1	A1
+cloan	clienney	f	children	1	A1
+coayl	cailjey	m	loss	1	A1
+cooill	cooilley	f	hiding place	1	A1
+cooyrt	cooyrtey	f	court	1	A1
+creg	creggey	f	rock	1	A1
+crosh	croshey	f	cross	1	A1
+cuir	correy		sowing	1	A1
+drone	dronney	m	hump	1	A1
+eeym	eeym(m)ey	f	butter	1	A1
+ennym	enmey	m	name	1	A1
+2 Information derived from Kneen is indicated with K.
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+4
+Singular	Genitive -ey	m/f		Pl.	N
+				class	class
+faasaag	faasaagey	f	beard	1	A1
+feeyn	feeyney	m	wine	1	A1
+feill	foalley	f	meat	1	A1
+firrin	firriney	f	truth		A1
+fuill	folley	f	blood	1	A1
+Gaelg	Gaelgey	f	Manx		A1
+giat	giattey	f	gate	1	A1
+grian	greiney	f	sun	1	A1
+ingin	ingney	m/f	nail, hoof	1	A1
+injil	inshley	f	lowness		A1
+juist ~ jyst	juistey	m	dish	1	A1
+keeayl	keil(l)ey	f	sense	1	A1
+keeil	keeilley	f	jaw	1	A1
+keird	keirdey	f	trade	1	A1
+kennip	kennipey	f	hemp	1	A1
+kiark	kirkey	f	hen	1	A1
+laagh	laaghey	f	mud	1	A1
+laare	laarey	f	floor	1	A1
+laue	lauey	f	hand	1	A1
+leoaie	leoaiey	f	lead	1	A1
+lhesh	lheshey	f	hip	1	A1
+lhong	lhuingey	f	ship	1	A1
+lhune	lhionney	m	ale		A1
+meain	meainey	f	mine		A1
+meinn	meinney	f	meal	1	A1
+moayn ~-ain	moaney	f	turf		A1
+mooinjer	mooinjerey	f	household	1 K	A1
+muck	muickey ~ muigey	f	pig	1	A1
+noid	noidey	m	enemy	1	A1
+ollan	olley	f	wool	1	A1
+ooig	ooigey	f	pit	1	A1
+ooir	ooirrey	f	earth	1	A1
+ooyl	ooyley	f	apple	1	A1
+pabyr	pabyrey	m	paper	1	A1
+penn	penney	f	penn	1	A1
+prash	prashey	f	brass	1	A1
+rheynn	ronney (K)	f	division	1	A1
+ruillick	ruillickey	f	graveyard		A1
+side	sidey	f	arrow	1	A1
+snaid	snaidey	f	needle	1	A1
+sonnys	sonney	f	plenty		A1
+sooill	sooilley	f	eye	1	A1
+stiurt	stiurtey	m	steward	1	A1
+straid	straiddey	f	street	1	A1
+thoyn	thoanney	f	arse		A1
+stroin	stroaney	f	nose	1/1d2	A1/4
+dreeym	drommey	m	back	1/1c2	A1/7
+purt	purtey	f	port	1/4	A1/9
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+5
+Singular	Genitive -ey	m/f	Pl. class	N class
+ayr	ayrey	m	father	1a2	A2
+bing	bingey	f	jury	1a2	A2
+braar	braarey	m	brother	1a2	A2
+çheer	çheerey	f	country	1a2	A2
+gloyr	gloyrey	f	glory	1a2	A2
+moir	mayrey	f	mother	1a2	A2
+mooir	marrey	f	sea	1a2	A2
+Sauin	Souney	f	Hollantide	1a2 K	A2
+shuyr	shayrey	f	sister	1a2	A2
+balley	baljey	m	town	1b	A3
+keyll	keylley	f	wood	1b	A3
+mill	molley	f	honey	1b K	A3
+mwyllin	mwyljey	f	mill	1b	A3
+glion	glionney	f	valley	1d2	A4
+annym	anmey	f	soul	1e2	A5
+uhllin	uhlley	f	stackyard	1c2	A6
+beaynee	beayney	f	reaper	1e1	A7
+goayr	goayrey3	f	goat	3	A8
+seyir	seyirey	m	carpenter	3	A8
+bolg	bolgey	m	belly	4	A9
+corp	kirpey	m	body	4	A9
+Class B. Genitive in -ee				
+Singular	Genitive -ee	m/f	Pl.	N
+			class	class	
+boult	boltee	bolt		B1a
+boyn	boynnee	f	heel	1	B1a
+cayrn	cayrnee	f	trumpet	1	B1a
+clagh	cloaie	f	stone	1	B1a
+coyrle	coyrlee	f	advice	1	B1a
+dress	dressee	f	bramble	1	B1a
+faill	faillee	f	wages	1	B1a
+gioal	gioaldee	m	mortgage, pledge	1	B1a
+imbyl	imlee (K)	brewing		B1a
+inneen	innee	f	daughter	1	B1a
+kiaull	kiaullee	f	music	1	B1a
+maail ~ maill	maillee	m	rent		B1a
+3 In the Bible the genitive of goayr is goair, class D1.
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+6
+Singular	Genitive -ee	m/f		Pl.	N
+				class	class
+obb	obbee	f	enchantment		B1a
+scraig	scraaee	f	scraw	1	B1a
+			(turf for thatching)		
+smale	smalee	f	spark	1	B1a
+surranse	surranssee	f	suffering	1	B1a
+aiee	aae [?]	f	kiln	1e1	B1aV
+çharbaa	çharbaaee		weaning		B1aV
+çhiow	çhiowee		warming		B1aV
+craa	craaee	m	shaking		B1aV
+cray	craie ~ crayee		clay		B1aV
+lhoau	lhoauee		rot		B1aV
+raaue	raauee	m	warning	1	B1aV
+screeu	screeuee	m	writing		B1aV
+sneeu	sneeuee		spinning		B1aV
+traaue	traauee		ploughing		B1aV
+eeassaght	eeassee	m	lending, borrowing	1	B1b
+farkiaght	farkee		waiting		B1b
+feayraght	feayree	m	cold	1	B1b
+toshiaght	toshee	m	beginning	1	B1b
+caghlaa	caghlaaee	m	change	1a1	B2a
+geay	geayee	f	wind	1a1	B2a
+key	keyee	m	quay	1a1	B2a
+loo	looee	m	oath	1a1	B2a
+rio	rioee	m	frost	1a1	B2a
+skah	skahee	f	shedding, shaking	1a1	B2a
+thoo	thooee	m	thatch	1a1	B2a
+bashtey	bashtee	m	baptism	1a2	B2b
+beaghey	beaghee	m	dwelling	1a2	B2b
+brasn((agh)ey)	brasnee		provocation	1a2	B2b
+brishey	brishee	m	breaking	1a2	B2b
+bwoa(i)lley	bwoa(i)llee	m	striking	1a2	B2b
+cadley	cadlee	m	sleep	1a2	B2b
+caggey	caggee	m	war	1a2	B2b
+caigney	caignee		chewing	1a2	B2b
+cas(s)ey	cassee	m	twisting	1a2	B2b
+çheerey	çheeree	m	drying	1a2	B2b
+çhymney	çhymnee	m	bequeathing	1a2	B2b
+cleayn(ey)	cleaynee	m	enticement	1a2	B2b
+clo(ghey)	cloee		chasing	1a2	B2b
+coadey	coadee	m	protection	1a2	B2b
+coamrey	coamree	m	clothing	1a2	B2b
+coolley	coollee	f	leaf of a door	1a2	B2b
+cooney	coonee	m	help	1a2	B2b
+coonrey	coonree	m	exchange	1a2	B2b
+coontey	coontee	m	count	1a2	B2b
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+7
+Singular	Genitive -ee	m/f		Pl. class	N class
+cosney	cosnee	m	gain	1a2	B2b
+cowrey	cowree	m	sign	1a2	B2b
+croghey	croghee		hanging	1a2	B2b
+cuirrey	cuirree	m	invitation	1a2	B2b
+cummey	cummee	m	form	1a2	B2b
+custhey	custhee	m	whipping	1a2	B2b
+daaghey	daaghee		dying	1a2	B2b
+deamey	deamee	m	projection	1a2	B2b
+deyrey	deyree	m	condemnation	1a2	B2b
+faarkey	faarkee		bathing	1a2	B2b
+faastey	faastee		wringing	1a2	B2b
+fanney	fannee		flaying	1a2	B2b
+fasney	fasnee	m	winnowing	1a2	B2b
+feaysley	feayslee	m	releasing	1a2	B2b
+filley	fillee	m	folding	1a2	B2b
+fliaghey	fliaghee	m	rain	1a2	B2b
+fuinney	fuinnee	m	baking	1a2	B2b
+geurey	geuree	m	winter	1a2	B2b
+glenney	glennee		cleaning	1a2	B2b
+jerrey	jerree	m	end	1a2	B2b
+kaartey	kaartee		carding	1a2	B2b
+kiangley	kianglee		tying	1a2	B2b
+koinney	koinnee	m	ling (heather)	1a2	B2b
+lhoamey	lhoamee		baring	1a2	B2b
+~ lommey					
+lhongey	lhongee	m	meal	1a2	B2b
+loaght(ey)	loaghtee		handling	1a2	B2b
+losht(ey)	loshtee		burning	1a2	B2b
+lossey	lossee		blazing	1a2	B2b
+margey	margee	m	market	1a2	B2b
+	~ mergee				
+mastey	mastee		mixing	1a2	B2b
+mhilley	mhillee		spoiling	1a2	B2b
+moylley	moyllee	f	praise	1a2	B2b
+naishtey	nashtee		betrothal	1a2	B2b
+~ nastey					
+oanluckey	oanluckee	m	burial	1a2	B2b
+ooashley	ooashlee	m	worship	1a2	B2b
+oonl(agh)ey	oonlee	m	washing	1a2	B2b
+osney	osnee	m	sigh	1a2	B2b
+plooghey	plooghee		suffocating	1a2	B2b
+poosey	poosee	m	marrying	1a2	B2b
+raadey	raadee		anchoring	1a2	B2b
+raipey	raipee	m	tearing	1a2	B2b
+reaghey	reaghee	m	sorting out	1a2	B2b
+rubb(ey)	rubbee		rubbing	1a2	B2b
+scarrey	scarree	m	separation	1a2	B2b
+scoldey	scoldee	m	scalding	1a2	B2b
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+8
+Singular	Genitive -ee	m/f		Pl. class	N class
+scooirey	scooiree	m	scrubbing	1a2	B2b
+sheidey	sheidee	m	blowing	1a2	B2b
+sheshey	sheshee	m	companion	1a2	B2b
+shiaulley	shiaullee		sailing	1a2	B2b
+shymley	shymlee		pining	1a2	B2b
+skihlley	skihllee	m	shelling	1a2	B2b
+sluggey	sluggee		swallowing	1a2	B2b
+sniaghtey	sniaghtee	m	snow	1a2	B2b
+soailley	soaillee		wrapping	1a2	B2b
+soilshey	soilshee	m	light	1a2	B2b
+sourey	souree	m	summer	1a2	B2b
+spooilley	spooillee	m	plunder	1a2	B2b
+stiurey	stiuree	m	rudder	1a2	B2b
+tashtey	tashtee	m	treasure	1a2	B2b
+teaum(ey)	teaumee	m	pouring out	1a2	B2b
+teaystney	teaystnee		kneading	1a2	B2b
+tidey	tidee	f	tide	1a2	B2b
+tilgey	tilgee	m	throwing, vomiting	1a2	B2b
+toghtey	toghtee		choking	1a2	B2b
+trostey	trostee	m	fast	1a2	B2b
+walkey	walkee		fulling	1a2	B2b
+aarlagh(ey)	aarlee		cooking		B2c
+arragh	arree	f	spring		B2c
+banjagh	banjee	f	lea land		B2c
+bannaghey	bannee (K)		blessing		B2c
+çhiollagh	çhiollee		hearth	1a2	B2c
+çhyrmagh(ey)	çhyrmee		drying		B2c
+coodagh	coodee	m	covering	1a2	B2c
+cormagh(ey)	cormee		equalising		B2c
+eaynagh	eaynnee	m	wilderness		B2c
+eeastagh(ey)	eeastee	m	fishing		B2c
+faishnagh	faishnee	m	fortune-telling		B2c
+famlagh	famlee	m	seaweed	1a2	B2c
+feayraghey,	feayree	m	cooling		B2c
+cf. feayraght					
+freoagh	freoaie	m	heather		B2c
+gerjagh	gerjee	m	comfort		B2c
+giallagh(ey)	giallee	f	bleach(ing)		B2c
+giucklagh	giucklee	m	broom	1a2	B2c
+imbagh	imbee	m	season	1a2	B2c
+keeagh	kee	f	breast	1a2	B2c
+kionnagh(ey)	kionnee		buying		B2c
+lhiasagh(ey)	lhiasee	m	ransom		B2c
+lhiassagh(ey)	lhiassee		feigning		B2c
+ollagh	ollee	f	cattle		B2c
+ooragh(ey)	ooree		refreshing		B2c
+shaslagh	shaslee	f	bent-grass	1a2	B2c
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+9
+Singular	Genitive -ee	m/f		Pl.	N
+				class	class
+slaanagh(ey)	slaanee		healing		B2c
+ynsagh	ynsee	m	learning, instruction	1a2	B2c
+cleiy	cleiyee	m	hedge	2	B3a
+moddey	moddee	m	dog	2	B3b
+barragh	barree	f	tow (flax fibre)	2	B3c
+boynnagh	boynnee	f	foot strap	2	B3c
+cleragh	cleree	m	clerk	2	B3c
+collagh	collee	m	stallion	2	B3c
+kellagh	kellee	m	cock	2	B3c
+markiagh	markee (K)	m	rider	2	B3c
+sharragh	sharree	m	foal	2	B3c
+sheillagh	sheillee	f	black willow	2	B3c
+shynnagh	shynnee	m	fox	2	B3c
+bunney	bunnee (K)	f	sheaf	1e1	B4a
+losserey	losseree (K)	f	herb	1e1	B4a
+colbagh	colbee	f	heifer	1e1	B4b
+coonlagh	coonlee	f	straw	1e1	B4b
+curragh	curree	f	bog	1e1	B4b
+eaddagh	eaddee	m	clothes	1e1	B4b
+geinnagh	geinnee	f	sand	1e1	B4b
+gounagh	gounee	f	stripper4	1e1	B4b
+ingagh	ingee	f	train of nets	1e1	B4b
+keynnagh	keynnee	f	moss	1e1	B4b
+lhargagh	lhargee	f	slope down	1e1	B4b
+mullagh	mullee	m	top	1e1	B4b
+rhennagh	rhennee	f	fern	1e1	B4b
+rimlagh	rimlee	f	fishing line	1e1	B4b
+scoarnagh	scoarnee	f	throat	1e1	B4b
+streebagh	streebee	f	prostitute	1e1	B4b
+taarnagh	taarnee	f	thunder	1e1	B4b
+tarragh	tarree	m	girth	1e1	B4b
+tullagh	tullee (K)	f	instant	1e1	B4b
+ughtagh	ughtee	f	slope up	1e1	B4b
+curnaght	curnee	f	wheat	1e1	B4c
+Doonaght	Doonee	m	Sabbath	1e1 K	B4c
+shesheraght	shesheree	f	plough team	1e1	B4c
+eaynin	eaynnee	m	precipice	1c2	B5
+jeir	jeirree	f	tear	5	B6
+4 ‘a cow not in calf giving very little milk’
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+10
+Singular	Genitive -ee	m/f		Pl.	N
+				class	class
+carrick	carree	f	chancel		Bx
+fenish	fenee	m	presence		Bx
+Class C. Gender in -agh
+Singular	Genitive -agh	m/f	Pl. class		N class
+abane	abanagh	f	ankle	1	C1
+agglish	agglishagh	f	church	1	C1
+aspick	aspickagh	m	bishop	1	C1
+bodjal	bodjalagh	m	cloud	1	C1
+bussal	bussalagh	m	handkerchief	1	C1
+cabdil	cabdilagh	f	chapter	1	C1
+cainlere	cainlereagh	m	candlestick	1	C1
+coghal	coghalagh	m	core of sore	1	C1
+eaghtyr	eaghtyragh	m	surface	1	C1
+eeasteyr	eeasteyragh	m	fisherman	1	C1
+ennal	ennalagh	f	breath	1	C1
+farrane	farraneagh		fountain	1	C1
+fastyr	fastyragh	m	afternoon	1	C1
+fedjag	fedjagagh	f	feather	1	C1
+fidder	fidderagh	m	weaver	1	C1
+foghan	foghanagh	m	bud	1	C1
+foldyr	foldyragh	m	mower	1	C1
+foster	fosteragh	m	forester	1	C1
+ingyr	ingyragh	f	pus		C1
+jinnair	jinnairagh	m	dinner	1	C1
+kialter	kialteragh	m	unmilled woollen cloth		C1
+kiannoort	kiannoortagh	m	governor	1	C1
+lannoon	lannoonagh	m	twin	1	C1
+lhieuan	lhieuanagh	m	elm	1	C1
+lieckan	lieckanagh	f	cheek	1	C1
+lioar	lioaragh	f	book	1	C1
+londeyr	londeyragh	f	lantern	1	C1
+magher	magheragh	m	field	1	C1
+mwyllar	mwyllaragh	m	miller	1	C1
+oghyr	oghyragh	f	roe	1	C1
+ooyl	ooylagh	f	apple	1	C1
+ordaag	ordaagagh	f	thumb	1	C1
+oural	ourallagh	m	sacrifice	1	C1
+padjer	padjeragh	f	prayer	1	C1
+peedyr	peedyragh	m	pewter	1	C1
+pesson	pessonagh	m	rector	1	C1
+phadeyr	phadeyragh	m	prophet	1	C1
+pibbyr	pibbyragh	m	pepper	1	C1
+pishyr	pishyragh	f	pea	1	C1
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+11
+Singular	Genitive -agh	m/f		Pl.	N
+				class	class
+quallian	quallianagh	m	puppy	1	C1
+queeyl	queeylagh	f	wheel	1	C1
+quiggal	quiggalagh	f	distaff	1	C1
+saggyrt	saggyrtagh	m	priest	1	C1
+shibber	shibberagh	m	supper	1 (Bib.)	C1
+shlingan	shlinganagh	f	shoulder	1	C1
+shune	shunagh	f	rush	1	C1
+sideyr	sideyragh	m	archer	1	C1
+sidoor	sidooragh	m	soldier	1	C1
+sunder	sunderagh	m	sexton	1	C1
+tingleyr	tingleyragh	m	tinker	1	C1
+tuittym	tuittymagh	m	fall	1	C1
+turneir	turneiragh	m	attorney	1	C1
+unjin	unjinagh	m	ash (tree)		C1
+çhibbyr	çhibbyragh	f	well	1a2	C2a
+bainney	bainnagh	m	milk	1a2	C2b
+garey	garagh	m	garden	1a2	C2b
+kiebbey	kiebbagh	m	spade	1a2	C2b
+lurgey	lurgagh	f	leg	1a2	C2b
+sheeidey	sheeidagh	m	silk	1a2	C2b
+shilley	shillagh	m	sight	1a2	C2b
+stainney	stainnagh	m	tin	1a2	C2b
+lhiabbee	lhiabbagh	f	bed	1a2	C2c
+moayn	moanagh	f	turf	1d1 K	C3a
+bwoaillee	bwoaillagh	f	(sheep) fold	1d1	C3b
+lheeannee	lheeannagh	f	meadow	1d1	C3b
+keeill	killagh5	f	church	1d3	C4
+lugh	lughagh	f	mouse	2	C5a
+keyrrey	keyrragh	f	sheep	2	C5b
+ark	arkagh	f	piglet	4	C6
+maidjey	maidjagh	m	stick	1/1b	C7
+cuillee	cuillagh	f	back room, closet	1e1	C8
+kairdee	kairdagh	f	forge	1e1	C8
+lhiattee	lhiattagh	f	side	1e1	C8
+5 also killey, keilley
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+12
+Class D. Genitive with stem modification
+Singular	Genitive stem change	m/f	Pl. class		N class
+baase	baaish	m	death	1	D1
+bun	binn (K)	m	base	1 K	D1
+dorrys	dorrysh	m	door	1	D1
+eayl	eayil	f	lime	1	D1
+fouyr	fouyir	f	harvest	1	D1
+geayl	geayil	m	coal	1/4 K	D1
+jeeas	jeish (K)	f	ear of corn	1	D1
+keayn	keayin	m	sea	1	D1
+maase	maaish	m	cattle	1	D1
+moon	mooin	m	urine	1	D1
+rass	resh	m	seed	1/1c2 K	D1
+seihll	seihill	f	world	1	D1
+soalt	soailt	f	barn	1	D1
+soost	sooisht	f	flail	1	D1
+boayrd	buird	m	board, table	4	D2
+cabbyl	cabbil	m	horse	3	D2
+cayr	khyr (K)	m	knot (in timber)	4	D2
+cronk	crink (K)	m	hill	4	D2
+eayn	eayin (K)	m	lamb	4	D2
+edd	idd	m	hat, nest	4	D2
+glass	gleish6	m	lock	4	D2
+gob	gib	m	beak	4	D2
+kione	king	m	head	4	D2
+lhiannoo	lhiennoo	m	child	4	D2
+poht	puyt	m	pot	4	D2
+sack	saick ~ seick	m	sack	4	D2
+shiaull	shiauihll (K)	m	sail	4	D2
+stott	stitt (K)	m	bullock	4	D2
+towl	tuill	m	hole	4	D2
+6 Gen. glish (= pl.) in Kneen
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+13
+Class E. Irregular genitive
+Singular	Genitive irreg.	m/f		Pl. class	N class
+aailagh	aail	f	brood	1a2/2	E
+beeal	beealloo	m	mouth	4	E
+ben	mreih	f	woman	5	E
+booa	baa	f	cow	5	E
+bry	braghey	f	malt		E
+caggey	cah	m	war	1a2	E
+Colloo	Kylloo ~ Keylliu	f	(The) Calf (of Man)		E
+leoie	leoh	f	ash		E
+mark	markish		mark		E
+oayll	uyll	m	haunt	1b	E
+snaie	snaa	m	thread	1c1	E
+thalloo	thallooin	m	ground	1c2	E
+Thomaase	Thomys	m	Thomas		E
+traie	straie	f	shore	1	E
+Examples of the use of inflected genitive forms.
+The following examples are taken from Cregeen or from the Bible, to illustrate the use of as
+many as possible of the genitive case forms mentioned in the tables above. Do [Ctrl+Click] on
+the underlined link to move to the examples. Press [Alt + ←] to return to the table. Observe that
+in most of the examples, the noun in the genitive case is indefinite. It is virtualy never modified
+by an adjective.7
+lossaghyn ailey ‘flames of fire’
+ayns y chlaare airhey ‘in the dish of gold’
+cainlere slane airhey ‘a candlestick all of
+gold’
+e yallooyn airhey ‘his idols of gold’
+earroo airhey ‘golden number’
+er y voayrd glen airhey ‘on the pure gold
+table’
+ny fainaghyn airhey ‘the golden earrings’
+ny lheiyee airhey ‘the golden calves’
+ny loaghee airhey ‘the golden mice’
+ny scapeyn airhey ‘the shields of gold’
+ooilley ny siyn airhey ‘all the vessels of
+gold’
+ooylyn airhey ‘golden apples’
+bochilley-anmey ‘pastor’
+noid-ny-h-anmey ‘enemy of souls’
+taitnys my anmey ‘pleasure of my soul’
+yn sherriuid anmey shoh ‘this bitterness of
+soul’
+aker ny h-anmey an anchor of the soul’
+ayns ynnyd e ayrey ‘instead of his father’
+ennym e ayrey ‘his father’s name’
+gialdyn yn Ayrey ‘the promise of the
+Father’
+nearey braar dt’ayrey ‘the nakedness of
+thy father’s brother’
+sluight nyn ayrey ‘the seed of our father’
+thie dty ayrey ‘thy father’s house’
+ben-vanshey, ‘woman who attends a
+wedding’
+shiaght laa ny banshey ‘seven days of the
+feast’
+bwoailley-bassey ‘slap’
+lheead bassey ‘a hand’s breadth’
+7 The only example where it is is jough feeyney baasoil ‘a drink of deadly wine’.
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+14
+dty hraa beayney ‘thy time of reaping’
+laue veayney ‘hand of [a] shearer’
+deiney bingey ‘jurymen’
+lus ny binjey ‘dropwort’
+ayns traa fliaghey s’jerree ny bleeaney ‘at
+the last rain time of the year’
+car ny bleeaney ‘all the year round,
+throughout or during the year’
+çhiass vleeaney, ‘heat of the year’
+imbagh ny bleeaney ‘the return of the year’
+jerrey ny bleeaney ‘the end of the year’
+keesh cour ny bleeaney ‘a tax throughout
+the year’
+kione ny bleeaney ‘the end of the year’
+laa-bleeaney ‘anniversary day’
+laghyn ny bleeaney ‘the days of the year’
+lioar bleeaney ‘book of chronicles’
+maaill bleeaney Vannin ‘a year’s rent of
+Man’
+toshiaght ny bleeaney ‘the start of the
+year’
+y cheesh bleeaney ‘the annual tax’
+yn oural bleeaney ‘the yearly sacrifice’
+strap-braagey ‘shoe-latchet’
+currym braarey my heshey ‘the duty of my
+husband’s brother’
+thie dty vraarey ‘thy brother’shouse’
+oaseir my vraarey ‘my brother’s keeper’
+yn brinneen ass sooill dty vraarey ‘the
+mote out of thy brother’s eye’
+inneen braarey my vainshtyr ‘my master’s
+brother’s daughter’
+t’eh ny breagerey, as ayr ny breagey ‘he is
+a liar, and the father of [a lie]’
+lostey-chainley ‘churching of women’
+boyn e choshey ‘the sole of his foot’
+crie-jee veue joan nyn goshey ‘shake off
+the dust of your feet’
+kesmad-coshey ‘foot step’
+kesmadyn dty choshey ‘thy footsteps’
+ordaagyn coshey ‘big toes’
+ordaagyn ny coshey ‘the toes of the feet’
+stoyl-coshey ‘foot-stool’
+va boyn nyn goshey myr boyn-coshey lheiy
+‘the sole of their feet was like the sole of
+a calf’s foot’
+va nyn ordaagyn laue as coshey giarit jeu
+‘their thumbs and big toes were cut off’
+ard-gheiney ny çheerey ‘the mighty of the
+land’
+balley-beg-çheerey ‘village’
+boghtyn y çheerey ‘the poor of the land’
+cagliagh ny çheerey ‘the border of the
+land’
+cha nee cliaghtey ny cheerey eh ‘it is not
+the custom of the country’
+çhiarn ny çheerey ‘the lord of the land’
+cliaghtey ny çheerey ‘the custom of the
+country’
+cummaltee ny çheerey ‘the inhabitants of
+the land’
+dooinney-çheerey ‘countryman’
+eebyrt-çheerey ‘banishment’
+fud ny çheerey ‘throughout the land’
+jaagh ny çheerey ‘the smoke of the
+country’
+jee ny çheerey ‘the god of the land’
+kiannoort ny çheerey ‘the governor of the
+land’
+ny baljyn çheerey ‘the villages’
+ooilley pobble ny çheerey ‘all the people of
+the land’
+reeaghyn ny çheerey ‘the kings of the
+land’
+sleih ny çheerey ‘the people of the
+country’
+trooid mean y çheerey ‘through the midst
+of the land’
+yn boanlagh s’boghtey jeh pobble ny
+çheerey ‘the poorest sort of the people
+of the land’
+jewellyn cleayshey ‘earrings’
+liorish clashtyn cleayshey ‘by the hearing
+of the ear’
+arran ny clienney ‘the children’s bread’
+baase clienney ‘death of children’
+brooillagh ny clienney ‘the children’s
+crumbs’
+cloan dty chlienney ‘thy children’s
+children’
+cloan nyn glienney ‘their children’s
+children’
+cooid chailjey erbee ‘any manner of lost
+thing’
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+15
+dy chooileey chooid cailjey ‘all lost things’
+yn cheyrrey chailjey ‘the sheep that is gone
+astray’
+giat ny cooyrtey ‘the gate of the court’
+çheeid voalley ny cooyrtey ‘the thickness
+of the wall of the court’
+kiare corneilyn ny cooyrtey ‘the four
+corners of the court’
+lhiurid ny cooyrtey ‘the length of the
+court’
+er baare ny creggey ‘on the tip of the rock’
+sheean chreggey ‘noise or sound of the sea
+on rocks’
+scoltaghyn ny creggey ‘the clefts of the
+rock’
+lus ny croshey ‘cudwort’
+scammylt ny croshey ‘the offence of the
+cross’
+arroo-correy ‘seed corn’
+ayns brein y ven chorrey ‘in the womb of
+her that is with child’
+ben chorrey ‘woman with child’
+traa-correy ‘shooting time’
+gour e ghrommey ‘backwards’
+gour nyn drommey ‘backwards’
+y chraue drommey ‘the backbone’
+braghtan-eeymey ‘butter cake’
+berrish-feeyney ‘grape’
+boteil feeyney ‘bottle of wine’
+daa haagh feeyney ‘two bottles of wine’
+fuill ny smeïr feeyney ‘the blood of grapes’
+iuder feeyney ‘winebibber’
+jough feeyney baasoil ‘a drink of deadly
+wine’
+ny banglaneyn-feeyney ‘the vine branches’
+ny berrishyn feeyney ‘the grapes’
+ny garaghyn-feeyney ‘the vineyards’
+ny ourallyn feeyney ‘the drink offerings’
+ny teiyderyn feeyney ‘the grape gatherers’
+siyn-feeyney ‘wine bottles’
+y billey feeyney ‘the vine’
+y doagh feeyney ‘the wine press’
+y fouyr feeyney ‘the vintage’ (wine
+harvest)
+y stampeyder feeyney ‘the treader of
+grapes’
+y yien feeyney ‘the banquet of wine’
+yn cappan feeyney ‘the cup of wine’
+goan ny firriney ‘words of truth’
+goan yn irriney ‘words of truth’
+meillyn ny firriney ‘the lips of truth’
+Spyrryd ny firriney ‘the Spirit of truth’
+raad yn irriney ‘the way of truth’
+er coontey yn irriney ‘because of the truth’
+undin yn irriney ‘the ground of the truth’
+aigney ny foalley ‘the will of the flesh’
+annooinid ny foalley ‘the weakness of the
+flesh’
+briwnys ny foalley ‘the judgement of flesh’
+cree foalley ‘heart of flesh’
+dooghys ny foalley ‘the nature of flesh’
+eederyn-foalley ‘eaters of flesh’
+(carnivores)
+fakin nagh vel eh hene myrgeddin agh
+foalley ‘seeing that he himeslf also is
+only flesh’ [nb predicate]
+fo reill ny foalley ‘under the rule of the
+flesh’
+goaill-foalley ‘incarnation’
+jeh aigney ny foalley ‘of the will of the
+flesh’
+lurg yn dooghys foalley ‘according to the
+flesh’
+nheeghyn foalley ‘things of the flesh’
+oardaghyn foalley ‘carnal ordinances’
+sayntyn ny foalley ‘the lusts of the flesh’
+shen t’er ny ruggey jeh’n eill, te foalley8
+‘that which is born of the flesh, is flesh’
+yeearreeyn molteyragh ny foalley ‘the
+deceitful lusts of the flesh’
+bineyn mooarey folley ‘great drops of
+blood’
+deayrtey folley ‘shedding of blood’
+giarrey-folley ‘the bloody flux’
+loght folley ‘blood guilt’
+ourallyn-iu folley ‘drink-offerings of
+blood’
+peccaghyn folley ‘bloody crimes’
+8 This is the only example (John 3:6) I have
+identified in which an apparent genitive case form
+is used as a predicate.
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+16
+ta nyn laueyn lane folley ‘your hands are
+full of blood’
+y cooilleeneyder folley ‘the avenger of
+blood’
+yn magher foalley ‘the field of blood’
+currym giattey yn thie ‘charge of the gates
+of the house’
+ny three arreyderyn giattey ‘the three
+keepers of the door’
+raad giattey yn ynnyd-casherick ‘the way
+of the gate of the sanctuary’
+raad ny giattey ‘the way of the gate’
+shamyryn beggey ny giattey ‘the little
+chambers of the gate’
+traa dooney ny giattey ‘the time of the
+shutting of the gate’
+fiee ny glionney ‘the ravens of the valley’
+giat ny glionney ‘the valley gate’
+jeelym ny glionney ‘the remnant of the
+valley’
+cassan-ny-greiney ‘the zodiac’
+çhiass ny greiney ‘the heat of the sun’
+gerjagh ny greiney the comfort of the sun’
+irree-ny-greinney ‘the rising of the sun’
+lhie ny greiney ‘sunset’
+lhie-ghreiney ‘sunset’
+lostey greiney ‘sunburn’
+ooreyder-greiney ‘sun-dial’
+scell-greiney ‘sun-beam’
+shass-greiney geuree ‘winter solstice’
+shass-greiney souree ‘summer solstice’
+bossan ingney ‘nailwort’
+çheu ny h-inshley ‘the low side’
+ec kione nyn geilley ‘at their wits end’
+merre-cheilley ‘deadness of wit or sense’
+caigney-cheeilley ‘chewing the cud’
+feeacklyn-keeilley ‘molars’
+thammagyn ny keylley ‘the thickets of the
+forest’
+maase ny ke[y]lley ‘the beasts of the
+forest’
+phadeyryn ny keylley ‘the prophets of the
+groves’
+kellagh keylley ‘woodcock’
+ny ynnydyn laaghey ‘the miry places’
+sloghyn laaghey ‘slime pits’
+ayns jerrey ny lhuingey ‘in the stern of the
+ship’
+coayl-lhuingey ‘shipwreck’
+greïnyn ny lhuingey ‘the tackle of the ship’
+jerrey ny lhuingey ‘the stern of the ship’
+ny buird lhuingey ‘the ship boards’
+ny seyir lhuingey ‘the shipwrights’
+toshiaght ny lhuingey ‘the foreship’
+yn çheshaght lhuingey ‘the ship’s
+company’
+thie lhionney ‘ale house’
+koir veinney ‘meal box’
+varrel veinney ‘barrel of meal’
+y kere volley, pl. ny kerenyn molley ‘the
+honeycomb’
+creagh voaney ‘stack of turf’
+grunt moaney ‘turfy ground’
+ayns shilley my vayrey ‘in the sight of my
+mother’
+baase e vayrey ‘his mother’s death’
+çhengey ny mayrey ‘the mother tongue’
+keeayll-vayrey ‘mother’s wit’
+veih brein nyn mayrey ‘from their
+mother’s womb’
+fer-mooinjerey¸ pl. fir-vooinjerey ‘man-
+servant’
+ny mraane-mooinjerey ‘the kinswomen’
+briw marrey ‘water bailiff’
+eeastyn ny marrey ‘fish of the sea’
+fannag varrey ‘cormorant’
+grunt ny marrey ‘bottom of the sea’
+lane marrey ‘high water’
+oirr ny marrey ‘sea shore’
+sidoor marrey ‘marine’
+stroin muickey ‘pig’s snout’
+bochilley muickey ‘swineherd’
+lhott noidey ‘the wound of an enemy’
+eaddagh olley ‘woollen garments’
+snaie-olley ‘woollen yarn’
+oirryn ny h-ooigey ‘the sides of the pit’
+altar ooirrey ‘earthen altar’
+skynn phenney ‘penknife’
+boardrymyn prashey ‘greaves of brass’
+pillaryn prashey ‘pillars of brass’
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+17
+siyn prashey ‘brazen vessels’
+leeideilagh purtey ‘pilot’
+cooid ronney ‘portion’
+mac shayrey ‘sister’s son’
+mac e hayrey ‘his sister’s son’
+orraghey sidey ‘arrow shot’
+obbyr snaidey ‘needlework’
+croae snaidey ‘the eye of a needle’
+arkan sonney ‘hedgehog’ [piglet of plenty]
+clagh ny sooilley ‘the apple of the eye’
+feanish-sooilley ‘eye witness’
+meekey sooilley ‘twinkling of an eye’
+shilley sooilley ‘eyesight’
+jewellyn stroaney ‘nose jewels’
+-EE
+pot aarlee ‘seething pot’
+cormid-traa-arree ‘spring equinox’
+laa’l Parick arree ‘St Patrick’s day in
+spring’ (17 March)
+yn tobbyr vashtee ‘the baptismal font’
+aght beaghee ‘occupation’
+lowanse beaghee ‘maintenance’
+ynnyd-veaghee ‘dwelling place’
+ushag voltee ‘wagtail’
+oashyr-voynnee ‘stocking without a foot
+but having a string under the foot’
+glaare vrasnee ‘provoking language’
+peccaghyn brasnee ‘sins of provocation’
+greïnyn brishee ‘battering rams’
+jeshaghtyn bwoallee ‘threshing
+instruments’
+laare-voaillee ‘threshing or winnowing
+floor’
+greie woaillee ‘threshing instrument’
+gorley cadlee ‘lethargy’ (sleeping
+sickness)
+bayrn caggee ‘helmet’
+lhong-chaggee ‘man of war’
+sheshaght caggee ‘army’
+fir charree ‘those that minister in the
+chancel’
+greeishyn cassee ‘spiral staircase’
+geay chassee ‘whirlwind’
+fer cayrnee ‘trumpeter’
+keeil çhiollee ‘fire side’
+feanish çhymnee ‘testament’
+boallaghyn cloaie ‘stone walls’
+daa voayrd chloaie ‘two stone tables’
+kiare coorsyn cloaie ‘four rows of stones’
+cree cloaie ‘heart of stone’
+kiebbey cleiyee ‘hedge spade’
+fer coadee ‘protector’
+curtan coodee ‘covering veil’
+fer coonee ‘helper’
+faiyr-choonlee ‘stubble grass’
+fer coontee ‘accountant’
+fer coyrlee ‘counsellor’
+cron-craaee ‘aspen tree’ (mast of shaking)
+çhingys craaee ‘palsy’
+siyn craie ‘earthenware pots’
+shlig craie ‘potsherd’
+fer-craie ‘potter’
+laa Doonee ‘Sabbath day’
+oie Ghoonee ‘night preceding the Sabbath
+or Sunday’
+slat-eeastee ‘fishing rod’
+giat ny h-eeastee ‘the fish gate’
+loghanyn eeastee ‘fish pools’
+croaganeyn eeastee ‘fish hooks’
+fer ny faillee ‘hireling’
+ben-aishnee ‘female fortune teller’
+spyrrydyn faishnee ‘familiar spirits’
+Bock-Yuan-Fannee ‘Shanks’s pony’
+(John’s flayed gelding)
+blein-feayslee ‘year of Jubilee’
+cairys feayslee ‘right of redemption’
+deayrtey fliaghee ‘fall of rain’
+frassyn fliaghee ‘showers of rain’
+laa fliaghee ‘day of rain’
+scaa-liaghee ‘umbrella’
+koinney-freoaie ‘heather ling’
+ben uinnee ‘female baker’
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+18
+siyn fuinnee ‘kneading troughs’
+bun-ny-geayee ‘the wind’s eye’
+gollan-geayee ‘swallow’
+lus ny geayee ‘anemone’
+mwyllin geayee ‘wind mill’
+skianyn ny geayee ‘the wings of the wind’
+car y gheuree ‘throughout the winter’
+oie gheuree ‘winter’s night’
+purt sauçhey geuree ‘safe winter harbour’
+fer gerjee ‘comforter’
+mac ny gerjee ‘the son of consolation’
+eaddagh gioaldee ‘pawned clothes’
+laghyn glennee ‘days of purification’
+yn lieh jerree ‘the hinder parts’
+boandyr kee ‘wet nurse’
+gerrym kellee ‘cock crow’
+gerrym y chellee ‘the voice of the bird’
+fer kiaullee ‘musician’
+greïnyn kiaullee ‘musical instruments’
+bargane kionnee ‘evidence of purchase’
+feeagh y phing chionnee ‘the purchasing
+value of a penny’
+fer kionnee ‘redeemer’
+beishteig loauee ‘centipede’
+çhiass loshtee ‘burning heat’
+stoo loshtee ‘inflammable material’
+traa-longee ‘meal-time’
+eirinagh maillee ‘tenant farmer’
+e hie maillee ‘his rented house’
+thie margee ‘market house’
+y laa lurg y vargee ‘the day after the fair’
+ynnyd margee ‘market place’
+maidjey mastee ‘mixing stick’
+arraneyn moyllee ‘praise songs’
+dooiney moyllee ‘applauder’
+screeuyn moyllee ‘letters of
+commendation’
+clagh vullee ‘headstone’
+coodagh mullee ‘covering above’
+gour e vullee ‘headlong’
+ny linteyryn mullee ‘the upper lintels’
+bargane nashtee ‘matrimonial contract’
+grunt oanluckee ‘burial place’
+ynnyd oanluckee ‘burial place’
+fer obbee ‘sorcerer’
+breck ollee ‘cow pox’
+oltaghey ollee ‘a cattle salute, a fight’
+thie ollee ‘cow house’
+thie ooashlee ‘mansion’, ‘house of
+worship’[?]9
+tobbyr oonlee ‘bath tub’
+gorley-plooghee ‘quinsy’
+ben phoosee ‘bride’
+ben y phoosee ‘bride’
+dooinney-poosee ‘bridegroom’
+lhiabbee phoosee ‘marriage bed’
+y stayd phoosee ‘the state of marriage’
+fer raauee ‘warner’
+kiark rhennee ‘partridge’ (fern hen)
+clooid-rubbee ‘towel’
+curtan scarree yn çhiamble ‘the veil of
+separation of the temple’
+screeuyn scarree ‘bill of divorce’
+gorley scoldee ‘venereal disease’
+boayrd screeuee ‘writing table’
+fedjagh screeuee ‘quill pen’
+plaityn smalee ‘snuff dishes’
+laair harree ‘brood mare’
+builg-sheidee ‘bellows’
+geay heidee ‘rushing wind’
+ben heshee ‘female partner’
+greïe hesheree ‘plough team gear’
+yiarnyn shesheree ‘ploughshares’
+leagh shiaullee ‘fare (for sea voyage)’
+gorley-shymlee ‘tuberculosis’
+poyll sluggee ‘whirlpool’
+claghyn sniaghtee ‘hail stones’
+9 In the Bible thie ooashlee is used (in Ezekiel
+43:8) where the AV has ‘threshold’.
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+19
+earish sniaghtee ‘time of snow’
+feayraght sniaghtee ‘the cold of snow’
+cryss soaillee ‘swaddling band’
+car y touree ‘throughout the summer’
+coau yn laare-vooie-souree ‘the chaff of
+the summer threshing floors’
+ny messyn souree ‘the summer fruits’
+thie souree ‘summer house’
+troar souree ‘summer fruits’
+y fliaghey souree ‘the summer rain’
+y sniaghtey souree ‘the summer snow’
+lhong-spooillee ‘pirate ship’
+deiney-stiuree ‘pilots’
+çhentyn taarnee ‘flashes of lightning’
+cloan ny taarnee ‘the sons of thunder’
+sheean haarnee ‘sound of thunder’
+fer tashtee ‘treasurer’
+y thie tashtee ‘the treasure house’
+fer toshee ‘the foremost one’
+ny deiney toshee ‘the mighty men’
+yn vess toshee ‘the first fruit’
+mwyllin walkee ‘tucking mill’
+fer ynsee ‘male teacher’
+-AGH
+muc arkagh ‘sow’
+bayrn bussallagh ‘a cap or hood with a
+neck-band attached’
+dorrys ny cuillagh ‘back door’
+thalloo farraneagh ‘land abounding with
+springs’
+spaal fidderagh ‘a weaver’s shuttle’
+cront-fidderagh, ‘a weaver’s knot’
+yiarn-foldyragh, ‘scythe’ (mower’s iron)
+bainney keyrragh ‘sheep’s milk’
+bochilley keyrragh ‘shepherd’
+bwoailtçhyn keyrragh ‘folds for sheep’
+coamrey keyrragh ‘sheep’s clothing’
+craitnyn keyrragh ‘sheepskins’
+lommyrtee keyrragh ‘sheep shearers’
+meeyl cheyrragh ‘sheep-louse’
+shioltaneyn keyrragh ‘flocks of sheep’
+eggey chialteragh, ‘web of unmilled
+woollen cloth’
+clagh ny killagh ‘stone of the church’
+lugh killagh ‘church mouse’
+kione ny lhiabbagh ‘the head of the bed’
+shamyr lhiabbagh ‘bed room’
+sthoc lhiabbagh ‘bedstead’
+jeelt lhiattagh ‘side saddle’
+caslys lieckanagh ‘profile likeness’
+ynsagh lioaragh ‘book learning’
+arreyderyn magheragh ‘keepers of a field’
+beishtyn feïe y vagheragh ‘the wild beasts
+of the field’
+beïyn y vagheragh ‘the beasts of the field’
+coggyl yn vagheragh ‘the tares of the field’
+dagh beisht y vagheragh ‘every beast of
+the field’
+dooinney magheragh ‘a man of the field’
+faiyr meiygh yn vagheragh ‘the tender
+grass of the field’
+faiyr y vagheragh ‘the grass of the field’
+fud y vagheragh ‘throughout the fields’
+imraghyn y vagheragh ‘the furrows of the
+field’
+lossreeyn y vagheragh ‘the herbs of the
+field’
+maase y vagheragh ‘the beasts of the field’
+mess cadjin y vagheragh ‘the common
+fruit of the field’
+messyn y vagheragh ‘the fruits of the field’
+obbyr magheragh ‘work of the field’
+ooilley biljyn y vagheragh ‘all the trees of
+the field’
+shelg ny feeaïhee sleitagh as magheragh
+‘hunting the deer of the mountains and
+fields’
+troayr y vagheragh ‘the harvest of the
+field’
+blaa ny magheragh ‘the flower of the
+field’
+lilleeyn ny magheragh ‘the lilies of the
+field’
+ny siyn ourallagh ‘the sacrificial dishes’
+yn lheiy ourallagh ‘the sacrificial calf’
+ny magheryn ourallagh ‘the fields of
+offerings’
+traa shibberagh ‘supper time’
+Manx Gaelic inflection, 2. Genitive case Max Wheeler, April 2015
+20
+askaidyn yngyragh ‘sore boils’
+çhingyn yngyragh ‘putrefying sores’
+STEM CHANGE
+aggle y vaaish ‘fear of death’
+ayns raad y vaaish ‘on the way to death’
+blass y vaaish ‘the savour of death’
+briwnys y vaaish ‘sentence of death’
+builley baaish ‘death blow’
+çhaghteryn baaish ‘messengers of death’
+cragh baaish ‘deadly destruction’
+ec dorrys y vaaish ‘at death’s door’
+gah yn vaaish ‘the sting of death’
+gaue baaish ‘danger of death’
+greinyn baaish ‘instruments of death’
+laa dty vaaish ‘the day of thy death’
+laa nyn maaish ‘the day of their death’
+lhot baaish ‘deadly wound’
+marre-vaaish ‘pall’
+oyr baaish ‘cause of death’
+pooar y vaaish ‘the power of death’
+ribbaghyn y vaaish ‘the snares of death’
+scadoo yn vaaish ‘the shadow of death’
+y lhiabbee-vaaish ‘the deathbed’
+keeil dorrysh ‘the side of the door’
+aiee eayil ‘lime kiln’
+meealys eayin ‘fat of lambs’
+aile geayil ‘fire of coals’
+gour e ghib ‘mouthwards, mouth
+foremost’
+guilley glesh ‘lockman’
+craitnyn goair ‘goatskins’
+fynney ghoair ‘goat’s hair’
+geaysh goair ‘goat’s hair’
+ynsagh-keayin ‘navigation’
+folt e ching ‘the hair of his head’
+folt y ching ‘the hair of the head’
+gour e ching ‘headlong’
+ayr y lhiennoo ‘the father of the child’
+lus y vooin ‘stinking gladwin’
+arroo resh ‘seed corn’
+snaie resh ‘the vital thread’
+IRREGULAR
+guiy aail ‘brood goose’
+bainney baa ‘cow’s milk’
+caashey baa ‘cow’s cheese’
+eeym ny baa ‘cow’s butter’
+meil-baa ‘cowslip’
+çheu veealloo ‘front side’
+coamrey-vraghey ‘an old custom of going
+to drink ale or beer in the person’s house
+where the malt-seller sold his malt’
+fir charree ‘ministers of the chancel’
+laa yn chah ‘the day of battle’
+ardjyn sodjey-magh y thallooin ‘the ends
+of the earth’
+ayns mean y thallooin ‘in the midst of the
+earth’
+ayrnyn s’inshley yn thallooin ‘lower parts
+of the earth’
+craa-hallooin ‘earthquake’
+eaghtyr y thallooin ‘the surface of the
+ground’
+joan y thalloin ‘the dust of the earth’
+meeaylys y thallooin ‘the fat of the land’
+messyn dty hallooin ‘the fruits of thy land’
+ooilley cretooryn snauee y thallooin ‘all
+creeping things of the earth’
+pick hallooin ‘bitumen’
+reeriaghtyn y thallooin ‘the kingdoms of
+the earth’
+logh uyll ‘drinking pool’

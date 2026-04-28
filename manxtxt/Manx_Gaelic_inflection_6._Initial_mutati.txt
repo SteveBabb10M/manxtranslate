@@ -1,0 +1,227 @@
+﻿Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’
+1
+Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’ in the Manx
+Bible
+Max Wheeler, July 2015
+The pattern of initial mutation of verbal nouns after er in the perfect tense construction is
+anomalous, in that some consonants are subject only to Lenition 1, while others may undergo
+either Lenition 1 or Nasalization. In the Manx Bible including the Apocrypha there are enough
+examples of the er Perfect construction to get a good perspective on the nature and scope of
+the variation in question in ‘Classical’ Manx.
+Initial p-, b-, m-, and s-, are invariably subject to Lenition 1.1
+To initial vowels, including yee-, n’ is added, an outcome elsewhere characteristic of
+Nasalization in the inflection of verbs.2
+Verbs beginning with t-, çh-, d-, j-, k-, g-, f- are subject to variable lenition, that is, varying
+between Lenition 1 and Nasalization. Or, to be more precise, some verbs beginning with these
+consonants are subject to variable lenition. Most verbs beginning with t-, d-, k-, or g-, and some
+with initial çh-, undergo Lenition 1 invariably. Some verbs with initial f- undergo Nasalization
+invariably. Where there is variation, there are, for the most part, very clear lexical preferences,
+for instance, goll strongly favours Nasalization —er n’gholl— (79%), whereas goaill strongly
+favours Lenition 1 —er ghoaill— (95%).
+1.	Consonants t- and çh-
+The following verbs beginning with t- are found only with Lenition 1 in the Perfect tense er
+construction in the Bible. The figures are for the number of occurrences in the er construction.
+tannaghtyn: er
+hannaghtyn (8)
+tashtey: er hashtey (2)
+teaymey: er heaymey (1)
+thoylley: er ho(y)lley (4)
+tilgey: er hilgey (27)
+toilchin: er hoilchin (3)
+tooilleil: er hooilleil (4)
+towse: er howse (1)
+traastey: er hraastey (1)
+traaue: er hraaue (2)
+treishteil: er hreishteil
+(4)
+trial: er hrial (1)
+tummey: er hummey (2)
+Table 1 is of t-initial verbs subject to variable initial mutation in the er construction, with the
+number of occurrences of each, and the percentage of Nasalization cases (rounded to whole
+1 E.g. P: er phaagey, er phaartail, er phardooney, er phlaiynt, er phluckey, er phointeil, er phoosey, er
+phreacheil, er phrowal, er phuttey;
+B: er vaarail, er vaarey, er vaghey, er vaih, er vannaghey, er vashtey, er ve, er veaghey, er ventyn, er
+verraghtyn, er vioghey, er vishaghey, er voandyrys, er voggysagh, er voirey, er vrah, er vrasnaghey, er
+vreearrey, er vriaght, er vrishey, er vriwnys, er vroie, er vroo, er vuinn, er vuirroogh;
+M: er vainshtyragh, er varkiagh, er varroo, er veeooashlaghey, er violaghey, er volley, er vooadaghey, er
+vooghey;
+S: er hagney ‘shunned’, er harey, er hassoo, er hauail, er heaghney ‘grieved’, er heebey, er heeyney, er heidey,
+er heiy, er heyrey, er hiaulley, er hickyraghey, er hirrey, er hirveish, er hoaral, er hoiaghey, er hoie, er
+hoilshaghey, er hoilshean, er hooyl, er hoyllaghey, er huill ‘trodden’, er hurranse.
+2 A: er n’aarlaghey, er n’aase, er n’ansoor, er n’astyrt, er n’att;
+E: er n’eaishtagh, er n’eam, er n’eamagh, er n’earroo, er n’ee, er n’eeasaght, er n’eebyrt, er n’eeck, er
+n’êginagh, er n’eginaghey, er n’eiyrt, er n’enmys, er n’etlagh;
+I: er n’imman, er n’immeeaght, er n’injillaghey, er n’insh, er n’irree, er n’iu;
+O: er n’oanluckey, er n’oardaghey, er n’oardrail, er n’obbal, er n’obbraghey, er n’ooillaghey, er n’ouralley,
+Y: er n’yllagh, er n’ymmyrkey, er n’ymmyrt, er n’ynsaghey;
+YEE: er n’yeearree, er n’yeeasagh.
+Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’
+2
+numbers). While tuittym and taghyrt strongly favour Nasalization, troggal, tayrn and treigeil
+favour Lenition 1, though somewhat less strongly. Troailt and trostey, neither verb having
+many examples, are evenly divided between the two mutations. The strongly favoured variants
+are indicated in bold.
+In Cregeen’s dictionary, Nasalization after er is indicated also for talkal: er dalkal,
+tannaghtyn: er dannaght ~ er dannaghtyn, teaystney: er deaystney, theinniu: er de(i)nniu,
+tummey: er dummey, tilgey: er dhilgey, toghtey: er doghtey, toiggal: er doiggal, toilliu: er
+doilliu, toilchin: er doilchin or er hoilchin.
+	Nasalization	N	Lenition 1	L1	Total	%N
+tuittym	er duittym	95	er huittym	2	97	98
+taghyrt	er daghyrt	27	er haghyrt	1	28	96
+troailt	er droailt	1	er hroailt	1	2	50
+trostey	er drostey	2	er hrostey	2	4	50
+troggal	er droggal	33	er hroggal	111	144	23
+tayrn	er dayrn	6	er hayrn	38	44	16
+treigeil	er dreigeil	8	er hreigeil	60	68	12
+toiggal	er doiggal	1	er hoiggal	20	21	05
+Table 1. Variation in t-initial verbs in the Perfect tense er construction
+The following four verbs beginning with çh- are found only with Lenition 1 in the Perfect tense
+er construction in the Bible. The figures are for the number of occurrences in the er
+construction.
+çharbaa: er harbaa (3)	çhionney: er hionney (1)
+çhea: er hea (5)	çhymney: er hymney (1)
+Table 2 is of çh-initial verbs subject to variable initial mutation in the er construction, with the
+number of occurrences of each, and the percentage of Nasalization cases (rounded to whole
+numbers). Çheet and çherraghtyn strongly favour Nasalization, while çhaglym and çhebbal
+strongly favour lenition 1. Çhyrmaghey, çhyndaa and çhymsagh are more evenly balanced
+between the two mutations.
+	Nasalization	N	Lenition 1	L1	Total	%N
+çheet	er jeet	633	er heet	3	636	100
+çherraghtyn	er jerraghtyn	8	er herraghtyn	3	11	73
+çhyrmaghey	er jyrmagh(ey)	3	er hyrmaghey	3	6	50
+çhyndaa	er jyndaa	39	er hyndaa	50	89	44
+çhymsaghey	er jymsaghey	1	er hymsagh	2	3	33
+çhaglym	er jaglym	4	er haglym	20	24	17
+çhebbal	er jebbal	4	er hebbal	19	23	17
+Table 2. Variation in çh-initial verbs in the Perfect tense er construction
+Cregeen’s dictionary also gives çhiuchey: er jiughey (sic); he mentions only Nasalization forms
+for çherraghtyn, çhymsagh(ey) and çhyrmaghey.
+Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’
+3
+2.	Consonants d- and j-.
+Verbs beginning with d- are subject to Lenition 1.
+daunsin: er ghaunsin (2)
+deayrtey: er gheayrtey3
+(26)
+dellal: er ghellal 4 (38)
+deyrey: er gheyrey (10)
+dobberan: er ghobberan
+(4)
+dolley: er gholley (3)
+dooney: er ghooney (2)
+doostey: er ghoostey (4)
+dreamal: er ghreamal (1)
+dunverys: er ghunverys
+(3)
+Of the verbs beginning with initial j-, jarrood and jeeaghyn exclusively take Lenition 1: er
+yarrood, er yeeaghyn. Of the remainder in Table 3, jannoo and jiooldey strongly favour
+Nasalization, while jeigh favours Lenition 1, in 8 cases out of 13.
+	Nasalization	N	Lenition 1	L1		Tot	%N
+jarrood		0	er yarrood	26		26	0
+jeeaghyn		0	er yeeaghyn	41		41	0
+jannoo	er n’yannoo	919	er yannoo	16		935	98
+jiooldey	er n’yiooldey	9	er yiooldey	3		12	75
+jeigh	er n’yeigh	5	er yeigh	8		13	38
+Table 3. Variation in j-initial verbs in the Perfect tense er construction
+Cregeen also mentions Lenition 1 outcomes for juail: er yuail, and jummal: er yummal. For
+jannoo he gives only er n’yannoo.
+3.	Consonants k- (c-) and g-
+Nearly all verbs beginning with /k/ (k- or c-) undergo solely Lenition 1 in the Perfect tense er
+construction. Only five verbs (Table 4) attest any case of Nasalization in this construction, and
+only for cosney: er gosney are the numbers more than negligible.
+	Nasalization	N	Lenition 1	L1	Tot	%N
+creenaghey	er greenaghey	1	er chreenaghey	1	2	50
+cosney	er gosney	5	er chosney	53	58	08
+kionnaghey	er gionnaghey	1	er chionnaghey	12	13	08
+cuirr	er guirr	1	er chuirr(ey)	14	15	07
+coyrt	er goyrt	2	er choyrt	645	647	00
+Table 4. Variation in /k/-initial verbs in the Perfect tense er construction
+Cregeen gives Nasalization outcomes for kiangley: er giangley, and kionnaghey: er
+gionnaghey.
+3 There is one case of unmutated er deayrtey: Dy vod ooilley yn uill chairagh hie er deayrtey er y thalloo tuittym
+erriu, veih fuil[l] Abel cairagh, gys fuill Zecharias ‘That upon you may come all the righteous blood shed upon
+the earth, from the blood of righteous Abel unto the blood of Zacharias; Matthew 23.35.
+4 There is one exceptional case of ‘Nasalization’ of dellal to n’ghellal: mastey ooilley e ainjyssee cha vel unnane
+dy gherjaghey ee, ta ny caarjyn eck er n’ghellal dy foalsey r’ee, t’ad er hyndaa dy ve e noidyn. ‘among all her
+lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her
+enemies.’ Lamentations 1.2. No doubt this is a hypercorrection, based on the observation that some cases of
+Perfect er gh- (though from radical g-) are in variation with er n’gh-, e.g. er ghoaill ~ er n’ghoaill. Though taken
+literally, Nasalization of initial d- would give n-, this outcome seems never to be found in Manx.
+Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’
+4
+The great majority of verbs beginning with g- undergo exclusively Lenition 1 in the Perfect
+tense er construction, e.g. geid: er gheid, gloyraghey: er ghloyraghey, gra: er ghra. In the case
+of verbs beginning with gi- followed by a vowel, the mutated form is spelt either ghi- or yi-,
+which I take to be purely orthographic variants. Thus, for example, gialdyn: er ghialdyn ~ er
+yialdyn, giarey: er ghiarey ~ er yiarey, gientyn: er ghientyn ~ er yientyn, giootal: er ghiootal ~
+er yiootal. The yi- variant is notably more frequent: 79% of cases in the Bible. Nasalization
+variants are found for only five verbs: geddyn, gialdyn, gialtaghey, goll, and goaill, and for only
+one of these —goll— is the Nasalized variant significantly more frequent (79%) than the
+Lenition 1 variant; see Table 5. Goaill has the opposite preference, with 80% Lenition 1: er
+ghoaill.5 Gialtaghey occurs only once in the Perfect construction, with a Nasalized outcome: er
+n’ghialtaghey.
+	Nasalization	N	Lenition 1	L1	Tot	%N
+gialtaghey	er n’ghialtaghey	1		0	1	100
+goll	er n’gholl	252	er gholl	68	320	79
+goaill	er n’ghoaill	68	er ghoaill	272	340	20
+gialdyn	er n’yialdyn	3	er yialdyn	20	32	09
+			er ghialdyn	9		
+geddyn	er n’gheddyn	12	er gheddyn	208	220	05
+Table 5. Variation in g-initial verbs in the Perfect tense er construction
+In addition to its Lenition 1 variants mentioned above, gialdyn has an infrequent Nasalized
+variant, spelt er n’yialdyn.
+4.	Consonant f-
+The treatment of f-initial words in the Perfect tense er construction differs from that of the
+consonants mentioned previously. There are some verbs that are only found with Nasalization:
+failleil: er vailleil (9), failley: er vailley (7), fendeil: er vendeil (1), and folmaghey: er
+volmaghey (1). In several others Nasalization is predominant; see Table 6. Only fockley magh
+shows a very strong preference for Lenition 1. Observe, though, that the variant of Lenition 1
+found in the case of f- verbs might rather be seen as Lenition 1 (f- → zero) plus Nasalization
+(n’ before initial vowel).
+	Nasalization	N	Lenition 1	L1	Tot	%N
+fakin	er vakin	200	er n’akin6	12	212	94
+fosley	er vosley	31	er n’osley	2	33	94
+fuirriaght	er vuirriaght	6	er nuirraght	1	7	86
+feaysley	er veaysley	5	er n’eaysley	1	6	83
+freayll(ey)	er vreayll(ey)	42	er reayll(ey)	26	68	62
+foaddey	er voaddey	6	er n’oaddey	6	12	50
+faagail	er vaagail	12	er n’aagail	19	31	39
+follaghey	er vollaghey	3	er n’ollaghey	6	9	33
+fockley	er vockleymagh	1	er n’ockley(magh)	28	29	03
+Table 6. Variation in f-initial verbs in the Perfect tense er construction
+5 There is one case (in the Apocrypha) where the Nasalized variant is spelt er n’goaill; there are also two cases of
+unmutated er goaill.
+6 There are 5 cases of er akin, that is, Lenition 1 without prevocalic n’, all of them in the Apocrypha.
+Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’	5
+Cregeen’s dictionary generally gives both alternatives for f-initial verbs. This is the case for:
+faagail, faarkey, faastey, fakin, failleil, failley, fanney, farkiaghey, feayraghey, feaysley,
+feddanagh, fendeil, festal, foaddey, fockley, follaghey, folmagh(ey), fosley, and fuirraghtyn.
+For the following verbs, Cregeen gives only the Nasalization variant: farbagh, fasney,
+fassaghey, feiyral, fenaghtyn, feyshtey, fliughey, fordrail, foudaghey, and freaylley ~ freilley.
+For these verbs Cregeen gives only the Lenition 1 variant: farraght, foayraghey,
+fuillaghtyn, and fuinney.
+Studies in Manx Gaelic inflection, 6. Initial mutation after er ‘Perfect tense’
+6
+Appendix.
+Cregeen F
+er vaagail ~ er n’aagail	er vassaghey	er vockley ~ er n’ockley
+er vaarkey ~ er n’aarkey	er veayraghey ~ er	er vollaghey ~ er
+er vaastey ~ er n’aastey	n’eayraghey	n’ollaghey
+er vakin ~ er naikin	er veaysley ~ er n’eaysley	er volmagh(ey) ~ er
+er vailleil ~ er n’ailleil	er veddanagh ~ er	n’olmagh(ey)
+er vailley ~ er n’ailley	n’eddanagh	er vordrail
+er vamlagh ~ er	er veiyral	er vosley ~ er n’osley
+n’amlaghey	er venaghtyn	er voudaghey
+er vanney ~ er n’anney	er vendeil ~ er n’endeil	er vreaylley ~ er vreilley
+er varbagh	er vestal ~ er n’estal	er n’uillaghtyn
+er varkiaghey ~ er	er veyshtey	er n’uinney
+n’arkiaghey	er vliughey	er vuirraght(yn) ~ er
+er n’arraght	er voaddey ~ er n’oaddey	n’uirraghtyn
+er vasney	er n’oayraghey	
+Cregeen G:		
+er n’gheddyn	er n’ghialtaghey	er ghlenney
+er gherrym	er ghirraghey	er gholl ~ er n’gholl
+er ghiallagh(ey)	er ghiennaghtyn	er ghrainney
+er ghialdyn ~ er	er yiennaghtyn	er ghreimey
+n’ghialdyn ~ er	er ghiootal	er ghreinnaghey
+yialdyn	er ghleashaghey	

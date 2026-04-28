@@ -1,0 +1,1303 @@
+﻿Fin as Ossian revisited:
+A Manx ballad in Belanagare and its significance
+Zusammenfassung
+Der Artikel behandelt eine Fassung der Ballade Fin as Ossian, die im Nachlass von Charles
+O’Conor aus Belnagare in der Royal Irish Academy aufbewahrt wird. Bei der Ballade
+handelt es sich um eine Variante (in Manx) der Erzählung vom Brand des Hauses Finns,
+die in Schottland und Irland weit verbreitet war. Der Artikel enthält den Text der Ballade
+mit einer Übersetzung ins Englische, sprachwissenschaftlichen Anmerkungen und einer
+Erörterung ihrer Herkunft. Der Artikel spricht sich dafür aus, dass der hier vorgelegte
+handschriftliche Text aus dem Jahr 1771 und von dem Altertumsforscher Charles Vallancey
+stammt. Seine Bewahrung steht im Zusammenhang mit der Tätigkeit des Philologen und
+Sammlers Rev. James MacLagan auf der Insel Man im Sommer 1771.
+Introduction
+The ballad known to modern scholars as Fin as Ossian¹ ranks highly in the
+relatively small corpus of Manx literature. It was, at one time, thought to be
+the oldest piece of verse in the Manx language (cf. Wood 1920); however, R.L.
+Thomson (1960–61) has since convincingly demonstrated that the song known
+as the Manannan Ballad or Manx Traditionary Ballad (henceforth MTB) is, in
+strictly linguistic terms, older. Nonetheless, Fin as Ossian retains its importance
+in the small literary canon of Manx, not least because it is one of very few extant
+examples of fiannaigheacht literature from the Isle of Man, a genre of heroic
+literature concerning the hero Finn mac Cumaill, his son Oisín and their retinue,
+a genre common to the entire Gaelic-speaking world.² There is a further reason
+1	The eighteenth-century English-based spelling Ossian (Irish Oisín, Scottish Gaelic
+Oisean), made familiar by the various publications of James Macpherson (see Gaskill
+2004: xviii–xix), has been retained here and throughout this article because it is the
+form of the name found in the three earliest of the four manuscripts containing the
+ballad. Broderick (1990), Wood (1920) and A.W. Moore (1896) spell the name as one
+might expect it to occur in Manx orthography (Oshin); however, there is no evidence
+for this spelling in any of the eighteenth-century copies of the ballad.
+2	For an excellent overview of the literary tradition of fiannaigheacht in Ireland and
+Scotland see the various contributions in Arbuthnot and Parsons (2012). Other
+examples of fiannaigheacht material in Manx have been edited by Broderick (1981;
+1982; 1983). These include a short Manx tale from Edward Farragher, a version of
+the tale known in Irish as Fionn sa Chliabhán (Broderick 1981; 1982). Another ver-
+Brought to you by | AberystwythUniversity06
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+96
+Peadar Ó Muircheartaigh
+to regard Fin as Ossian as being of central importance to the Manx literary
+tradition. As will be argued below, the circumstances around the collection of
+this eighteenth-century ballad provide a unique insight into the preservation
+and cultivation of secular Manx literature in the late eighteenth century.
+It is generally accepted that much of the interest in the collection and pub-
+lication of the Gaelic literature of Ireland and Scotland in the eighteenth and
+even into the nineteenth century was driven by the controversy triggered by
+the publications of James Macpherson (cf. Meek 2004; Ní Mhunghaile 2009).
+Although he was not the first to collect fiannaigheacht material in Scotland —
+Jerome Stone, Rev. James McLagan and others had already amassed significant
+collections of heroic ballad material³ before the idea had even been suggested
+to Macpherson — it was Macpherson’s international success and the ensuing
+controversy which gave rise to a market for the publication of genuine Gaelic
+heroic literature. This new-found interest in Gaelic literature in the second
+half of the eighteenth century quite remarkably spread to the Isle of Man, in
+Gaelic terms a culturally remote outpost largely isolated from the rest of the
+Gaelic world since the thirteenth century (R.L. Thomson, apud Greene 1976:
+67). While a number of variants of this single Manx ballad were published by
+Broderick (1990) a quarter ofa century ago, the purpose of this contribution is
+to draw attention to one which was not noticed at that time, but is perhaps the
+most important variant in helping us to appreciate the late eighteenth-century
+cultural and social milieu in which the ballad was ‘collected’, and for the under-
+standing of the history of the ballad and the history of Manx secular literature
+more generally.
+A copy of the Manx ballad Fin as Ossian, in a hitherto unidentified hand,
+is found in a composite manuscript of the Royal Irish Academy: RIA ms E ii 1
+(746), pages 134; 135. The manuscript in question is a scrap book once belong-
+ing to Charles O’Conor of Belanagare (1710–1791), the eighteenth-century Irish
+historian, antiquarian and beacon of the Gaelic Enlightenment. Although not
+examined by Broderick (1990), scholarship was not entirely unaware of the
+existence of this version of the ballad in the Royal Irish Academy. The material
+was catalogued by Rev. Charles O’Conor, grandson of Charles O’Conor of Bel-
+anagare, in the early nineteenth century (see O’Conor 1818: 171) and is also
+mentioned briefly in M‘Lauchlan and Skene (1862: lxxxiv). Most remarkable
+of all is the appearance of a transcription of the Royal Irish Academy text in the
+Manx Sun newspaper, 27 November 1897, in a contribution by Rev. T. Talbot,
+sion of this same tale was collected from a native Manx speaker but published in
+English by Morrison (1911: 42–6; cf. Broderick 1982: 171, n. 1). A further example
+of a fiannaigheacht narrative in Manx, again from Edward Farragher, Boddagh yn
+Cooat Laaghagh, has been shown to be heavily indebted to contemporary nineteenth-
+century Irish models found in printed sources (cf. Broderick 1983: 2) and so cannot
+be counted as one traditionally found in the Isle of Man.
+3	For further discussion and references, see Dunbar (2013: 53–54) and Gunderloch
+(2013: 74–84).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+97
+who was aware of the ballad being mentioned by O’Conor and M‘Lauchlan and
+Skene.⁴ Most recently, however, it is listed in RIA Cat., where the history of the
+manuscript as a whole is described by Gerard Murphy and Winifred Wulff as
+follows:
+The difference in size of the pages, the number of scribes, and the wide
+range of dates within the limits of the 18th century, as also the con-
+stant recurrence of Charles O’Conor’s handwriting throughout the whole
+volume, suggest that the ms consists of scraps collected or written by
+Charles O’Conor of Belanagare from boyhood on (RIA Cat. 2289).
+The relevant portion of the manuscript consists of two adjacent folios
+(numbered pages 134 and 135). The first contains a transcription of the ballad
+in Manx orthography. The second folio, in the same hand as the first, contains
+a transliteration of the Manx text which aims, not always successfully, to con-
+form to a more traditional Gaelic orthography. A diplomatic edition of both
+folios is given below, along with linguistic notes and my own translation of the
+text into English.
+4	Talbot’s contribution was part of a larger critique of A.W. Moore’s (1886) edition
+of the British Library text (referred to as Text T below). It can be noted that Talbot
+thought the entire poem to be an eighteenth-century fabrication. This suggestion can,
+I think, be dismissed; the narrative of the ballad diverges sufficiently from Irish and
+Scottish models for it to be uniquely Manx but I know ofno suitable English model on
+which it might be based. Further, as will be demonstrated below, the ballad appears
+to have been part of a larger collection of secular Manx poetry made at the same
+time. It can be noted that Talbot was an ultracritical character, even going so far as
+to suggest that MTB was an eighteenth-century forgery (cf. R.L. Thomson 1960–61).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+98
+Peadar Ó Muircheartaigh
+Texts and Translation
+[Page 134: In Manx orthography]
+Fin & Ossian
+A Manx Cronaght
+5
+10
+15
+20
+25
+Hie Fin as Ossian magh dy helg.
+Cha rou ad dooiney ayn, sloo ny keayd
+Qui da daag ad ec y thie, agh Orree beg
+Daag ec y thie, da chead coo as da chead quellàn
+As three chead ben aag, & three chead shen chellagh —
+Doort inneen Fin rish inneen Ossian.
+Cre’s nee mad craid rish yn Roiee gOrree.
+Kienle mad yn olt eckey dys ny cleäyn
+As kerree mad yn aile dys y chassyn
+Clissht dy dug Orry beg as
+Dennee yn smuir ree as y chass.
+Hie Orree beg magh roish son y chell
+As y spie choinne er y gheallin.
+Hoght buirt moarey hug eh lesh as
+[gloss: ‘oile: a fire’]
+[gloss: ‘spaidh connadh: a bill hook]
+[for cutting scrubly or bushwood’]
+As hoght cannonyn ayns dagh burt.
+Hug eh bart ayns dagh Unniag & dagh Dorryss
+Agh er mean y laar, hug eh yn bart sollys.
+Va Fin as Ossian, sy tra shoh shelg
+Cha row doinney ayn sloo keayd.
+Jeagh woar ren cheeney orroo as y ghlen near.
+As cheene orroo ny smoo lesh y ghea.
+Ree Fin as ree Ossian, derrey daase Ossian skee
+Agh Fin moar hene sodjey chum rish ree.
+Agh dullee Fin rish Ossian, ’gra dy trome
+Cha vel fagit ain, agh Toltanyn follum.
+Desunt cetera
+Translation:
+Fin and Ossian went out hunting / There were no less than a hundred men /
+Who did they leave at home but Gorree Beg / They left at home two hundred
+hounds and two hundred pups / And three hundred young women, and three
+hundred old women / Said Fin’s daughter to Ossian’s daughter: / How shall we
+make a mockery of King Gorree / We will tie his hair to the harrows / And we
+will put the fire to his feet / Whenever Gorree made a move / [He] felt the bone
+marrow running from his foot / Gorree headed out, making for the wood / With
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+99
+5
+10
+15
+20
+25
+[Page 135: In ‘Gaelic’ orthography]
+An Gaoidhligh
+Thigh Fin is Ossian amach do shealg
+Cha roibh a daoinne ann, sluagh na cead.
+Ci do dfhag=ad ag a thigh, ach Orree beg.
+Dfhag ag a thigh, da cead cù, is da cead cuilleàn
+Is tri chead ben-og, is tri cead sean chailleagh —
+Dubhairt ingean Fin ris ingean Ossian
+Creas na mad cradh ris an Ri gOrree.
+Cengal mad an fholt aige do as an cliathan
+As curri mad an oile do as a chossan.
+Clist do ttug Orri beg as.
+An tan an smaoir rith as a chos.
+Thigh Orry beg amach ris an choill
+As a spaidh connadh ar a gualan.
+Ocht beart mora thug e leis as.
+[line not transcribed]
+As ocht beart anns da fhinniog is da dorras.
+Ach ar meadhon a làr, thug e an beart solluis.
+Da Fin as Ossian sa tra so shealg.
+Cha roibh daoine ann sluagh na cead.
+Deathach mhor rinn sìneadh orra, as a glen n’iar.
+As sineadh orra nios mo leis a ghaoth.
+Rith Fin, is rith Ossian, deirigh dfhàse Ossian scìth
+Ach Fin mor fhein soda cum rish rith
+Ag dul Fin ris Ossian, ag radh, do trom
+Cha bhfhuil fagad ann, ach Toltanin folamh
+[gloss: ‘Toltanin: a fabrick in Ruins’]
+his bill hook on his shoulder / He took eight large loads with him from it [the
+wood] / With eight bundles in each load / He placed a load in every window
+and every door / But in the middle of the floor he placed the lighting load /
+Fin and Ossian were hunting at this time / There were no less than a hundred
+[with them] / A great smoke spread over them from the glen in the west / and
+spread further still over them on account of the wind / Fin ran and Ossian ran,
+until Ossian grew tired / But it was the great Fin himself who kept running the
+longest / But Fin cried to Ossian, saying sadly / We have nothing left, but empty
+ruins.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+100
+Peadar Ó Muircheartaigh
+Fig. 1: RIA ms E ii 1 (746), p. 134. By permission of the Royal Irish Academy © RIA.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+101
+Fig. 2: RIA ms E ii 1 (746), p. 135. By permission of the Royal Irish Academy © RIA.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+102
+Peadar Ó Muircheartaigh
+Notes to the text:
+1	This line in the ms is followed by ‘Fala-loo & fala-lee’, and the next line is
+followed by ‘–Do–’ indicating that this refrain was to be sung after every line.
+These are the only two references to the refrain contained in this copy of the
+text.
+2	Cha rou ad dooiney ayn. Broderick (1990: 58) takes this to be a conflation
+of two constructions: cha row ayn dooinney ‘there was not a man’ and cha row
+ad dooinney ‘they were not a man (less)’. For Manx (ny) sloo cf. Irish níos / is
+lú. Rev. Philip Moore, dealing with another version of the ballad, translates this
+line as ‘with not less than a hundred rangers’ (see below and Figure 4).
+7	Cre’s nee mad craid rish. The Manx interrogative pronoun crys is not found
+in Late Spoken Manx, nor in the Manx Bible but is known elsewhere in the
+literature (cf. Broderick 1990: 58). It may have developed from kys ‘how’ (cf.
+Irish conas) by analogy with other interrogative pronouns in initial /kr-/ such
+as c’red ‘what’, cre ‘where’, c’radd ‘where’, cre’n acht ‘how’, etc. described in
+Williams (1994: 719).
+Manx craid ‘mockery, derision, humiliation’ (cf. Scottish Gaelic cnàid) is
+often combined with the verb jannoo ‘do’, as here with the future tense, cf.
+t’eh jannoo craid jeh baggyrt y shleiy ‘he laugheth at the shaking of a spear’
+(Job 41:29). Its use with the preposition rish is less common. The line is most
+accurately translated as ‘how shall we make a mockery of King Gorree’.
+10	Clisst. Kelly (s.v.) defines clysht as ‘a quick sudden and violent motion, a
+start, a spring, a gambol’, cf. clis in Irish and Scottish Gaelic. Final <t> here is
+a reflex of the tendency, found in other Gaelic dialects, for final /ʃ/ to become
+/ʃtʹ/, note also Manx reesht ‘again’ (cf. Irish arís); eisht ‘then’ (cf. Irish éis).
+11	Dennee is the preterite of (g)ennaghtyn ‘feel, sense’, (cf. Scottish Gaelic
+aithneachadh) and is often used in the corporal sense, e.g. t’ad er my yeeaylley,
+as cha dennee mee eh ‘they have beaten me and I felt it not’ (Proverbs 23:35).
+16	Hug eh is to be understood as ‘he put’ rather than ‘he gave’. In Manx the
+verbs corresponding to Irish cuir ‘put’ and tabhair ‘give’ fall together (cf. Lewin
+2015: 76).
+18	Va: the ms has Da; this is an obvious mistake for the past tense of the
+Manx substantive verb va.
+20	ren cheeney orroo. The tendency in Manx is for the verb jannoo ‘do’ to be
+used as an auxiliary. Here the preterite ren ‘did’ is combined with the verbal
+noun spelt sheeyney ‘stretch, extend’ in the Manx Bible (cf. Irish síneadh). Ex-
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+103
+amples of comparable usage are: ren ny cherubim sheeyney magh nyn skianyn
+‘they [cherubims] stretched forth their wings’ (1 Kings 6: 27); T’eh sheeyney
+magh e laue er y chreg ‘He putteth forth his hand upon the rock’ (Job 28: 9). In
+this regard our text differs from other versions of the ballad which use lhieeney
+‘fill, flood’ (cf. Irish líonadh). This variation is likely to have arisen in the copying
+process; cheeney could easily be interpreted as lheeney and vice versa without
+affecting the overall sense.
+22	derrey daase Ossian skee. Manx derrey functions as a preposition and
+conjunction with the meaning ‘until’, earlier naggydere mirroring Irish nó go
+dtara ‘that it may come’, according to Broderick (1984: 120). The preterite
+daase, from aase ‘grow’, has a secondary meaning ‘become’, as in Irish and
+Scottish Gaelic so that the phrase is to be translated as ‘until Ossian grew tired’.
+23	sodjey ‘farthest, longest’ mirrors Scottish Gaelic as fhaide meaning that
+the entire line should be translated as ‘but it was the great Fin himself who kept
+running the longest’.
+24	Agh dullee Fin rish Ossian, ’gra dy trome. The Manx preterite verb dyllee,
+as it occurs in the Manx Bible, is to be connected with the earlier substantive
+ilach ‘a shout of lamentation’ (eDIL s.v., cf. yllagh and gyllach in Manx, iolach
+in contemporary Irish and Scottish Gaelic). As far as I am aware, only in Manx
+does this substantive appear to have undergone verbing: As dyllee ad wheesh
+shen s’elgyssee, Jean y chrossey eh ‘And they cried out the more exceedingly,
+Crucify him’ (Mark 15: 14).
+The burning of Finn’s house by Ree Gorree
+The core narrative of the ballad is a familiar one of the fiannaigheacht genre,
+although with a decidedly Manx flavour. The ballad recounts the story of the
+destruction of Finn’s house by Garadh mac Morna after his being humiliated
+by the women of the fían. In most versions of the story this results in Garadh
+killing the women and then Garadh in turn being killed by the men of the
+fían. This narrative is found in both Irish and Scottish Gaelic oral traditions,
+in both song and story, as well as in manuscript sources.⁵ The earliest extant
+version of the story is that found in the late twelfth- or early thirteenth-century
+compilation known as Acallam na Senórach (Stokes 1900: 38–41; translated in
+Dooley and Roe 1999: 42–43). Within the Acallam, the narrative has been
+described by Ó hÓgáin as
+a startling story of how Fionn and the Fianna went hunting one day and
+left their womenfolk…in the care of Garadh mac Morna, who was then
+an old man. The women demanded that Garadh play chess with them, and
+5	See, for instance, Gwynn (1904), J.F. Campbell (1872: 175–180).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+104
+Peadar Ó Muircheartaigh
+when he refuses they teased him, saying that all his strength and vigour
+was gone. Angered by this, Garadh lit a great fire in the palace and walked
+out, having locked the seven doors (Ó hÓgáin 1988: 154).
+Unlike later oral versions such as the Manx ballad, there is no explicit reference
+within the Acallam to Garadh having killed the women. With this in mind,
+Dooley (2012: 98) sees this narrative within the Acallam ‘as a warning exem-
+plum about sources of social unrest: a paradigm of domestic restraint directed
+at two potentially verbally uncontrollable sources, women and old men’. To
+what extent this really can have been ‘a paradigm of domestic restraint’ is not
+at all clear, however. Nagy (2010: 313, n. 14) holds ‘that the telling of the story
+in the Acallam renders the conclusion ambiguous at best’ (cf. Nagy 1985: 73–4).
+The later oral versions of the narrative, including the Manx version given above,
+show no such restraint and listeners are left in no doubt but that Garadh, or in
+the Manx case his avatar Gorree, exacted a cruel revenge on his female com-
+panions. It therefore seems likely, as suggested by Nagy (2010: 310–11), that
+the ambiguity of the Acallam is in fact part of a ‘process of chivalrisation’ of
+a pre-existing, and if later distributions are to be trusted, ubiquitous and more
+gruesome narrative (cf. Ó Corráin 1987; hÓgain 1988: 154).⁶
+There is one development particular to the Manx narrative that must be
+noted. In all Manx versions of the ballad a legendary character of the fían,
+Garadh mac Morna, has been conflated with the eleventh century Godred
+Crovan († 1095), king of Mann and the Hebrides, known as Guðrøðr in Norse
+and as Gofraid Méránach⁷ in the Gaelic of the period. This eleventh-century
+dynast gained legendary status in Manx tradition as the patriarch of a Manx
+dynasty lasting nearly two centuries (McDonald 2007: 64; Hudson 2005: 170–
+174; Woolf 2005). Known in Manx as Ree Gorree or Ree Orree,⁸ it is as a dynastic
+patriarch that Godred Crovan is most famously described in MTB, where he is
+also alleged to have been the first king of Mann:
+Myr shen eisht ren adsyn beaghey
+Gyn dooinney ayn yinnagh orroo corree
+Agh goll dy gheddyn pardon veih’n Raue
+Er-derrey haink eh huc Ree Gorree
+Lesh e Lhuingys hrean as Pooar y Ree
+As ghow eh Thalloo ec y Laane
+6	For detailed discussion of the importance of this narrative within the larger structure
+of the Acallam see Parsons (2008: 18–21).
+7	On this name and epithet, see Ó Maolalaigh (2014).
+8	Both bynames occur in the present text: Orree at lines 2, 10 and 12; Gorree at line
+7. The lower case <g> followed by upper case <O> in line 7 might be indicative
+of a process of editorial revision which will be discussed in greater detail below.
+On the development of King Orree from King Gorree due to misplaced juncture, see
+Broderick (1990: 58).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+105
+Shen y chied er ec row rieau ee
+Dy ve ny Ree er yn Ellan
+Cha geayll mee dy ren eh skielley ec Purt
+Chamoo ren eh marroo aynjee
+Agh aym ta fys dy daink jeh Sluight
+Three Reeaghyn jeig jeh Ree Gorree
+Now the land was in peace and prosperity, and no one at all troubling
+them, but going to seek forgiveness at Rome at last there came to them
+King Orry.
+With a mighty fleet and the king’s power he landed at the Lhen; he was
+the first whose fate it ever was to be a king in the island.
+I have not heard that he did any damage in harbour, neither did he slay
+therein, but I know that there came of his seed thirteen kings from King
+Orry (R.L. Thomson 1960–61: 542–545).
+In this important sense Fin as Ossian represents an interesting synthesis of
+the Gaelic fiannaigheacht tradition and Norse traditions of the Isle of Man not
+found in either Ireland or Scotland⁹ but seen elsewhere in Manx oral literature
+(cf. Bruford 1986–87: 43–44; A.W. Moore 1891: 27–29).
+The manuscript and relationship to other variants
+As the Royal Irish Academy text has not previously been examined in any detail,
+it is useful in the first instance to place it in the context of the other copies of
+the ballad. Broderick (1990) counts three manuscripts containing the ballad;
+the details are worth revisiting:
+Manuscript M: This manuscript is now lost but was ‘written on the back of a
+leaf of an old copy book’, according to Wood (1920: 297). The text is in
+the hand of Rev. Philip Moore (1705–1783), best-known as the general
+editor of the Manx Bible.¹⁰ It consists of 27 lines in total. The last two
+of these lines appear scribbled on the reverse of the page, indicating
+that they were added later. The Manx text was published in facsimile by
+Wood (1920), along with a translation into English, also in the hand of
+Moore. The English translation contains material not found in Text M but
+corresponding to Text W.¹¹
+9	There is also a Manx folk-tale incorporating some elements of the basic narrative of
+the burning of Finn’s house, conflated with yet another tale (cf. Christiansen 1931:
+213–214).
+10	For a short biographical account of Rev. Philip Moore, see Butler (1799: 186–205).
+11	See figures 3 and 4.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+106
+Peadar Ó Muircheartaigh
+Fig. 3: Facsimile of Text M as published in Wood (1920), in the hand of Rev. Philip
+Moore.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+107
+«rft ,4 Mrf,
+*# ^ ^ ^'^"fl, ';
+.4*/- ii/^rtS &*&%&&■ *
+pMA y. ^ »^‘;
+"• t^-Z' - zz ^r
+“«* 4-zp^
+Fig. 4: Facsimile of a translation of Text W as published in Wood (1920), in the
+hand of Rev. Philip Moore.
+:»./ AM
+* Jr^t i,
+Jj£0*
+^^ ^ & Jfo4 /^ Jfrif
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+108
+Peadar Ó Muircheartaigh
+Fig. 5: p. 1 of MNHL ms 1487(d)C (Text W), in the hand of John Kelly. © Manx
+National Heritage.
+Manuscript W: Preserved as Manx National Heritage ms 1487(d)C and written
+in a hand which neither Wood (1920) nor Broderick (1990) identified.
+The text consists of 29 lines in total, ‘the last [line] being inserted at
+a slightly later date by a different hand according to Broderick (1990:
+51). This manuscript does not contain a translation of the text but the
+translation enclosed along with the Manx Text M corresponds closely to
+this text.¹²
+12	See figures 4, 5 and 6.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+109
+Fig. 6: p. 2 of MNHL ms 1487(d)C (Text W), in the hand of John Kelly. © Manx
+National Heritage.
+
+Manuscript T: This is part of the Thorkelin Collection in the British Library,
+Add. 11215, in the hand of Peter John Heywood (1739-1790).¹³ It consists
+of 41 lines.
+13	This is one of a small number of Manx texts and vignettes sent to the eighteenth-
+century antiquarian G.J. Thorkelin during his tour of Britain and Ireland (cf. Flower
+1926: 604–606). For further information on Thorkelin’s tour see Kiernan (1983). For
+an insight into Thorkelin’s interaction with late-eighteenth century Gaelic literary
+culture, most especially in a Scottish context, see Ó Muircheartaigh (2014).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+110
+Peadar Ó Muircheartaigh
+The manuscripts containing Text M and Text W are dated by Broderick (1990)
+to 1762 or 1763, but this dating of both manuscripts is essentially unsound, as
+will be set out below. Manuscript T is part of a larger collection of Manx material
+sent by Peter John Heywood to Professor Grímur J. Thorkelin in October 1789.
+The texts of M and W are closely related. Text T, on the other hand, has the
+appearance of a significantly elaborated text. As to the relationship between M
+and W, Broderick has noted that:
+The similarity of the texts in M and W suggest that they have been taken
+down from the same informant, and the irregularity of metre and the
+incompletion of couplets, if that is what it is, would suggest imperfect
+memory on the part of the informant and/or that the text was not very
+well noted down (Broderick 1990: 54).
+Rather than suggesting that the text ‘was not very well noted down’, the mean-
+ing of which is ambiguous, it might be more accurate to suggest, in light of the
+close relationship between M and W, that they were transcribed from the oral
+recitation of the same informant and that the orthographic differences between
+them indicate Text W was the subject of editorial revision. The copy in the hand
+of Moore accompanies a translation of the final lines of W that are, curiously,
+not found in M.¹⁴ This serves to emphasise once again the close relationship
+between Texts M and W. Although neither Wood (1920) nor Broderick (1990)
+identified the hand of Text W, comparison with other material in the Manx Na-
+tional Heritage Library indicates it is in fact that of John Kelly (1750–1809).¹⁵
+Kelly was the amanuensis of Philip Moore and was centrally important to the
+final stages of the production of the Manx Bible.¹⁶ This then accounts for the
+similarity between the two texts. If, as seems likely, Text W is the product of
+an editorial revision of Text M, then the most notable editorial intervention, be-
+sides the addition of the final lines, in Text W is the exclusive use of Gorree (x5)
+rather than Orree. These facts suggest that Text M and Text W were produced
+around the same time.
+To the texts discussed by Broderick we may now add that printed above
+and once in the possession of Charles O’Conor of Belanagare, which I will call
+14	These lines recount Gorree hiding from Fin and Ossian under a rock before being
+found and killed (see Broderick 1990: 55–56), reminiscent of other versions of the
+ballad where Garadh hides in a cave before being found by his pursuers (cf. J.F.
+Campbell 1872: 176).
+15	This alone is sufficient to negate Broderick’s (1990) suggestion that Text W was
+written in the first years of the 1760s; Kelly would have been too young to be the
+scribe.
+16	Moore, in a letter dated 1 May 1772, noted that he could not have so readily completed
+the work ‘without the assistance of Mr Kelly, a very ingenious young man, trained
+up for this service, and a candidate for holy orders; who has been from the first my
+adjutant in revising, and correcting, and now transcribing a fair copy of the whole
+Bible’ (quoted in R.L. Thomson [1969]: 185–6, n. 5).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+111
+Text B.¹⁷ It is immediately clear that the Royal Irish Academy text, Text B, does
+share a common source with Text M, the now-lost text in the hand of Moore.
+This is perhaps most clear in the title of the ballad in both manuscripts: ‘Fin &
+Ossian a Manx cronaght’.¹⁸ The punctuation of lines 2 and 3 along with the use
+of the ampersand & instead of Manx as ‘and’ at lines 5 and 16 also indicate that
+Text B was copied either directly from M or from an extremely close copy (see
+figure 3). Neither this title, punctuation, nor the use of the ampersand is found
+in the other versions (Text W or Text T). By way of further explication of the
+relationship between Texts B and M, one can note that the initial line of Text M
+reads: Hie Fin as Ossian magh Lhaa dy Helg. The word Lhaa here, however, is a
+later addition to the text (see figure 3). Its inclusion is not seen in Text B but does
+occur in W. The occurrence of Da at line 18 of Text B, an obvious mistake for Va,
+the past tense of the substantive verb, might be indicative of two things. First,
+the transcriber of Text B was not very familiar with Manx (a fact supported
+by the many misunderstandings that are apparent in the ‘Gaelic’ transcription).
+Second, the transcriber certainly did not have recourse to a speaker of Manx
+when undertaking the transcription and transliteration.
+Of all the eighteenth-century manuscript copies of the poem it is Text B in
+the possession of Charles O’Conor of Belanagare and Text M in the hand of
+Philip Moore which are the most closely related. This is clearly an important
+point in determining the provenance of Text B and in the explication of the
+history of the ballad more generally and requires further elaboration.
+Provenance of Text B
+The immediate source of Text B was Charles O’Conor’s close associate, the en-
+gineer and amateur linguist Charles Vallancey (1731–1812).¹⁹ Not only is this
+indicated by a comparison of Text B with Vallancey’s hand in the Vallancey-
+O’Conor correspondence in the Royal Irish Academy, but Vallancey obligingly
+17	The presence of an item of fiannaigheacht material in Charles O’Conor’s papers is
+noteworthy in light of his description of the genre as ‘amusement for the vulgar,
+recited in various shapes to this day among them’ (O’Conor 1783: 653–654; see also
+Mac Craith 2015: 185–186).
+18	Broderick (1990: 51, n. 3) is correct in his observation that the facsimile image of
+Text M is not as clear as one might like. Nonetheless, he appears to be mistaken in his
+interpretation of the title of Text M as ‘A Manx ronag’. This is to assume the existence
+of a Manx word **ronag ‘short song/poem’, not otherwise attested in Manx as far as
+I am aware. This assumption appears to rest on a misunderstanding of Irish rannóg
+as being derived from rann ‘quatrain, stanza, verse’. The word rannóg does exist in
+Irish but it is not derived from rann ‘quatrain, stanza, verse’. Comparison with Text B
+allows one to confirm that the word is in fact cronnaght, defined in Kelly’s dictionary
+as ‘a catch, a glee, a short and witty air or song, a dirge or ditty’ (Kelly 1866, s.v.
+cronnane).
+19	For an account of Vallancey’s very varied life, see Nevin (1993).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+112
+Peadar Ó Muircheartaigh
+confirms it in the same correspondence. In a letter to O’Conor dated 3 Septem-
+ber 1771 Vallancey notes that:
+My correspondent in the Isle of Man has picked up a curious fragment
+of Ossian, I have attempted to correct the orthography on the opposite
+page, which wants your further correction – I am certain you will think
+the matter interesting enough to thank me for communicating it – he
+promises more which is in the hands of some old people in the island
+(RIA ms B i 2).
+Vallancey was fascinated by the Manx language and went on to gain some
+awareness of the repertoire of Manx literature. Later in the 1770s, Philip Moore
+was in touch with Vallancey and may have even visited Vallancey in Dublin in
+1774 (see Butler 1799: 657; 670). Vallancey also had a little-known pioneering
+role in publishing Manx literature; his is the earliest surviving printing of a
+section of the MTB, in the fourth volume of his Collectanea de Rebus Hibernicis
+(511; 551) in 1786.²⁰ All of these manifestations of Vallancey’s interest in Manx
+are later than the date of his letter to O’Conor, suggesting that at the time of
+his obtaining the poem, Vallancey was still a mere novice in terms of Manx
+language. His attempt at a transcription of the ballad into Gaelic orthography
+supports this assessment.²¹ While Vallancey’s interest in and treatment of Manx
+sources is deserving of a much fuller treatment it is sufficient for present pur-
+poses to note that Text B of Fin as Ossian was communicated to O’Conor by
+Vallancey in September 1771. This does not answer the question of who sent
+the ballad to Vallancey in 1771, however. Who was Vallancey’s ‘correspondent
+in the Isle of Man’ and was this person the conduit through which Vallancey’s
+subsequent interest in Manx literature was developed?
+It is indicative of Charles O’Conor’s wide-ranging interests, not to mention
+correspondents that the provenance of the Manx text should be bound up with
+the provenance of another non-Irish Gaelic text in the collection: Alasdair mac
+Mhaighstir Alasdair’s Birlinn Chlann Raghnaill. Both texts occur side by side in
+20	This text of the MTB which was published by Vallancey is taken from what he de-
+scribed as ‘an ancient chronicle of Man, printed in the Manks, 1778’. R.L. Thomson
+(1960–61: 521) noted that no copy of this 1778 publication could be found but it would
+appear that there was one copy known to Gill (1932: 433) who claimed that ‘[o]nly
+one copy of the Rhymed Chronicle in Manx, printed in Douglas as a popular pamphlet
+in 1778, is known to exist’. Unfortunately, Gill did not elaborate on the location of
+the volume but it may yet come to light.
+21	It appears, perhaps unsurprisingly, that Vallancey never made much real headway in
+terms of being able to understand Manx (cf. R.L. Thomson [1969]: 206–207, n. 2). That
+Vallancey employed the services of the scribe Muiris Ó Gormáin to teach him Irish is
+well known and often cited in the literature (cf. Ó Cuív 1986: 416; McCaughey 1967–
+68: 203; Mac Cathmhaoil 2013: 27). That Vallancey appears to have made minimal
+progress in his acquisition of the language is acknowledged less-often (cf. Ó Muraíle
+2015: 208).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+113
+O’Conor’s composite manuscript. As noted in RIA Cat., the manuscript is essen-
+tially a scrap book of items collected from O’Conor’s childhood onwards.²² The
+Manx and Scottish Gaelic texts have not only been set beside one another in this
+scrapbook, they are written on the same sized paper and have the appearance
+of having been folded together at some point prior to binding. Both poems are
+written on paper bearing a common ‘Maid of Holland’ watermark with a ‘Pro
+Patria’ motto.²³ Rev. Charles O’Conor, possibly aware of this, thought both
+poems to have been written in the same hand, giving the following somewhat
+acerbic description of the poem in his catalogue of his grandfather’s manu-
+scripts:
+‘Fin and Ossian, a Manx Coronacht’. This is the title of one sheet of paper
+in the Manx language on one side, with a version in common Irish on
+the other. It is in the same modern hand and characters with the preced-
+ing [Birlinn Chlann Raghnaill], and is the composition of some ignorant
+schoolmaster who blunders ris for re, and makes Fin and Ossian, and their
+300 young women, and their 300 hags, 100 dogs, and 100 whelps, keep
+company together, whilst the former are cutting faggots with their bill
+hooks! Perhaps the poems of Ossian are not founded on better authorities
+(O’Conor 1818: 171).
+While both hands unmistakably belong to the eighteenth century and do share
+certain similarities, RIA Cat. correctly distinguishes between the hand of the
+Scottish Gaelic text and that of the Manx text. Further, although both texts
+are written on paper bearing similar watermarks, a closer examination reveals
+that the countermarks are in fact distinct. The Manx text is written on paper
+bearing the countermark of Jan van der Ley, a Dutch papermaker of the eigh-
+teenth century, while the Birlinn bears that of the famous French papermaker
+J. Villedary.²⁴ The distinction in the hands and in the paper notwithstanding, it
+would appear that the both the Manx and the Scottish Gaelic texts are intim-
+ately connected in another way, as will now be demonstrated.
+The hand of Birlinn Chlann Raghnaill is that of Rev. James McLagan (1728–
+1805), the Scottish scholar, clergyman and prolific collector of Gaelic litera-
+ture.²⁵ This is clear when the text is compared to the McLagan-O’Conor letters
+22	I have no knowledge as to when these materials were bound together but they had
+been arranged and bound in this order by 1818 at the latest, for they are catalogued
+as such by Rev. Charles O’Conor (1818: 171).
+23	For examples, see Churchill (1935: xciii–cxviii).
+24	For further information on these paper makers, see Gravell & Miller (1983: 241–
+242; 230).
+25	This Royal Irish Academy text of Birlinn Chlann Raghnaill was edited by J.L.
+Campbell (1961), who was unable to identify the hand. For a fuller discussion of
+the implications of the identification of McLagan as the scribe in question, see
+Ó Muircheartaigh (forthcoming a).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+114
+Peadar Ó Muircheartaigh
+in RIA.²⁶ McLagan spent much of the late 1760s in Ireland as a military chaplain
+to the 42nd (Royal Highland) Regiment of Foot, better-known in some quarters
+as the Black Watch, and appears to have been based in Dublin in 1769 and
+1770. McLagan soon took advantage of this posting to acquaint himself with a
+number of Irish scholars and antiquarians with similar Gaelic literary interests.
+In his letters to O’Conor, McLagan mentions Charles Vallancey, Dr Carpenter
+(Catholic Archbishop of Dublin),²⁷ and Muiris Ó Gormáin²⁸ by name, indicating
+that he was firmly ensconced in O’Conor’s Dublin circle of savants, scholars
+and scribes. McLagan was not to remain in Dublin, however. After spending
+part of the summer of 1770 in Scotland, he was posted to Belfast and from June
+1771 to the Isle of Man.²⁹
+While interesting fragments of the McLagan-O’Conor correspondence are
+preserved among O’Conor’s papers in the Royal Irish Academy, no correspond-
+ence between McLagan and Vallancey has survived, as far as I can ascertain.
+They undoubtedly did correspond, however, and they certainly shared texts of
+mutual interest. McLagan mentions Vallancey in his letter to O’Conor in the
+spring of 1771, implying that Vallancey had promised to obtain a copy of Bul-
+let’s Celtic dictionary for him.³⁰ Sìm Innes (2016) has also recently presented
+evidence suggesting that McLagan and Vallancey exchanged texts. For reasons
+that will now be outlined, one can be confident that Text B of Fin as Ossian,
+and a transliteration into a more ‘Gaelic’ orthography came to Vallancey via
+McLagan during the summer of 1771, not long after McLagan arrived in the is-
+land, and that McLagan was Vallancey’s mysterious ‘correspondent in the Isle
+of Man’.
+26	These letters are contained in RIA ms B i 2.
+27	It was around the time of McLagan’s visit to Dublin that Carpenter became arch-
+bishop of Dublin. For a useful discussion of Carpenter’s life and career, see Mac
+Giolla Phádraig (1976).
+28	McLagan mentions ‘Gorman’; I take this to be Muiris Ó Gormáin, the Gaelic scribe
+rather than the Chevalier Thomas O’Gorman. Muiris Ó Gormáin spent much of 1771
+in the employ of O’Conor transcribing material in Belanagare (cf. Ní Mhunghaile
+2015: 215; Flower 1926: 144). Innes (2016) has recently argued persuasively that
+material from Ó Gormáin came into McLagan’s possession via Vallancey; material in
+Ó Gormáin’s hand is also to be found among other papers once belonging to McLagan
+but not preserved in Glasgow (see Ó Muircheartaigh, forthcoming b).
+29	R.L. Thomson (1961: 9) suggested that McLagan was stationed as chaplain to the
+42nd Regiment in the Isle of Man ‘about the year 1770’ (cf. D.S. Thomson 1958: 180,
+n. 1). Reference to the correspondence of McLagan and O’Conor in the Royal Irish
+Academy (ms B i 2) allows for the more precise date of the middle of June 1771. The
+letters also confirm that McLagan spent at least the summer of 1770 in Scotland.
+30	The publication in question was Jean-Baptiste Bullet’s Mémoire sur la langue celtique,
+contenant l’histoire de cette langue et un dictionnaire des termes qui la composent
+(Besançon, 1754).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+115
+Linguistic Profiling
+In order to fully appreciate the history of the ballad, the close textual relation-
+ship between Text B and Text M must now be examined. Text M, as we have
+seen, is in the hand of Rev. Philip Moore, part-translator and general editor
+of the Manx Bible. Moore is not the scribe of Text B, however, Vallancey is.
+One could not expect a Manxman of this period to be able to ‘Gaelicize’ the
+orthography of the Manx original (cf. R.L. Thomson [1969]: 193–194) and it is
+clear from both his transcription of the Manx and his attempt to ‘correct the
+orthography’ that Vallancey did not understand much if any of the original text.
+One or two examples will suffice to demonstrate this. The opening word of the
+ballad in Manx hie ‘went’ (cf. Irish chuaigh; Scottish Gaelic chaidh) is rendered
+into ‘Gaelic’ orthography by Vallancey as thigh. Vallancey also misinterprets
+the past tense of the substantive verb, va, copying instead da. These features of
+his copy show that Vallancey did not understand even the most basic parts of
+the text.³¹ Yet there are other examples of more obscure (to an Irish audience
+at least) linguistic features of the text which have been faithfully transmitted
+in Vallancey’s pseudo-Gaelic orthography, suggesting that the transliteration
+was not entirely the work of Vallancey. The retention of forms like the nega-
+tive particle cha and the preposition ris suggests that Vallancey had been sent a
+transliteration into a more traditional Gaelic orthography which he further ‘cor-
+rected’. Alongside cha and ris, there are a number of other features which sug-
+gest that this more traditional orthography was that of Scottish Gaelic rather
+than Irish:
+Jeagh woar ren cheeney orroo as y ghlan near
+‘a great smoke spread over them from the glen in the west’
+Is relatively accurately transliterated as
+Deathach mhor rinn sìneadh orra, as a glen n’iar
+The word deatach ‘smoke’ is disyllabic and retains intervocalic [t] intact in
+all Irish dialects in which the lexeme is commonly used (cf. Wagner 1958:
+160). This is not the case in Scottish Gaelic, where deathach is well-attested
+(Borgstrøm 1940: 178; Ó Murchú 1989: 325; cf. McLeod 2004: 32), correspond-
+ing with the situation in Manx (Broderick 1984: s.v. jaagh). One can also note
+the occurrence of the grave accent throughout the text, in line with the Scottish
+Gaelic New Testament of 1767, as indicative of Scottish origins (cf. D.S. Thom-
+son 1983: 100; Black 1994: 134–135). The same can be said for the title given to
+the Gaelic transliteration; ‘An Gaoidhligh’ is best understood as Scottish Gaelic
+meaning ‘in Gaelic’. Most clearly indicative of the origins of the text sent to Val-
+31	I think they are also sufficient to indicate that Vallancey was equally ignorant of the
+narrative.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+116
+Peadar Ó Muircheartaigh
+lancey are three glosses on Text B, ones which must have been made in a very
+specific environment. These glosses will now be examined.
+Gloss 1
+The Manx word aile meaning ‘fire’ is glossed as such in our text. Manx does
+not use a reflex of the Old Irish lexeme tene ‘fire’ found as the usual word for
+‘fire’ not only in the other Gaelic languages³² but also in Welsh and Breton
+(cf. Wagner 1953). This lexeme, aile, which Wagner (1953) noted had strong
+nasalization of the initial vowel, is, etymologically speaking, identical with an
+earlier form, aingel, meaning ‘light’ or ‘bright’, a lexeme etymologically distinct
+from but homophonous with the Latin loanword aingeal ‘angel’. The former
+occurs in Sanas Cormaic and is glossed solus nó grianda nó fáilid ‘light or
+sunny or joyous’ (Meyer 1913: 8). It has the appearance of a rare lexeme, even
+in the early period, and eDIL (s.v.) only records its use twice, both times in
+glossaries, a fact which further supports the suggestion that the lexeme was
+not common. The Manx lexeme aile displays the loss of intervocalic <ng>, a
+phonological development also found in Ulster and Scotland, and is confirmed
+by the nasalization of the vowel (Ó Baoill 2001; cf. Broderick 1986: 105–6).
+The use of the lexeme aingeal as the usual word for ‘fire’ appears as rare in
+Modern Irish as in Old Irish (cf. Wagner 1958: 164). Dinneen (s.v.) defines
+it as ‘a burnt out cinder taken from the fire sometimes given in their hands
+as a protection to children going out at night, is called an aingeal, as it is
+supposed to represent an angel’, a definition which demonstrates how two
+once distinct lexemes have become conflated in folk etymology. In Scottish
+Gaelic the situation is perhaps a bit more complex in that there are a number
+of realisations of the lexeme, none of which is particularly common: The word
+aingeal specifically meaning ‘the fire in a kiln’ was known in South Uist and
+Skye³³ and Lhuyd recorded it meaning ‘fire’ in Argyll at the very start of the
+eighteenth century (Campbell and Thomson 1963: 223–223). Phonologically
+related ain and aine are noted by Carmichael (1887: 85) as forms particular
+to the Western Isles, meaning ‘bright fire, red fire’. Dieckhoff (s.v. aingir) in
+his dictionary of the dialect of Glengarry notes the related form aingir as a
+word meaning ‘fire’ he further notes that it is ‘not in common conversation’. In
+short, while certain Gaelic dialects show phonological variations of an original
+aingeal ‘fire’ only in Manx does a form akin to aile occur and only in Manx
+is it the usual generic term for ‘fire’. The evidence indicates clearly, then, that
+from the Manx orthography, a speaker of Irish or Scottish Gaelic would not be
+32	Although there are reflexes of this lexeme in Manx: çeeney-jee ‘ringworm’
+(Broderick 1984: s.v.), cf. teine-dè in Scottish Gaelic and tine dhia in Irish; chent ‘a
+flash’ (Cregeen 1835: s.v.).
+33	Fieldwork Archive, Digital Archive of Scottish Gaelic (DASG). University of Glasgow
+http://www.dasg.ac.uk/fieldwork/?q=aingeal+ [accessed 15 June 2016]. Cf. McDon-
+ald (1958: s.v.).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+117
+reasonably expected to be able to decipher the Manx word aile. This lexeme
+is, within a larger Gaelic context, distinctly and exclusively Manx and explains
+why it is glossed in our text.
+Gloss 2
+The second gloss on the text consists of the following: ‘spaidh connadh: a bill
+hook for cutting scrubly or bushwood’. The term spie choinne is described by
+Broderick (1990: 59) as ‘a mattock for hooking gorse’, broadly agreeing with
+the gloss in our text. The specification of a tool used for hooking gorse seems to
+be reliant on one speaker of Late Spoken Manx (cf. Broderick 1984: s.v. speiy
+conney). It may be better to describe it as an implement for cutting firewood
+more generally as conney in Late Spoken Manx incorporates ‘heather, furze,
+gorse; fuel, firewood’ (cf. Broderick 1984: s.v.). The term used in other versions
+of the ballad is tuaigh chonnaigh:
+Éirghes Garaidh thall astoigh
+Gabhas n-a láimh tuaigh chonnaidh
+Do bhain san gcoill gan tséna
+Naoi ngúala fuinnsiona imthréna
+Garaid arose and went forth from the house: he took in hand the wood-
+man’s axe: he cut in the wood, ’tis past denial nine stout faggots of ash
+(Gwynn 1904: 18–19).
+This initial element, spie, is entirely incomprehensible to speakers of Irish and
+Scottish Gaelic³⁴ and therefore can be viewed as uniquely Manx.
+Gloss 3
+The third gloss on the text consists of the following: ‘Toltanin: a fabrick in ruins’.
+The Manx word tholtan is described by Kelly (1866: s.v. tultan) in his dictionary
+as meaning ‘a ruin, a decayed house’, it is glossed in our text as ‘a fabrick in
+ruins’. The lexeme is unknown in Irish and Scottish Gaelic but was common
+in both Late Spoken Manx (Broderick 1984: s.v. tholtan) and the Anglo-Manx
+of the last century (Moore 1924, s.v. thalthan). Broderick (1984: s.v. tholtan)
+has been suggested that it is related to older tolltach ‘sharp, piercing’ but if so
+the Manx lexeme shows a significant semantic development not seen in either
+Scottish Gaelic or Irish.
+This linguistic digression is important in elucidating the identity of Vallan-
+cey’s ‘correspondent in the Isle of Man’. The fact that words which are common
+34	Broderick (1984: s.v. spoi; 1990: 59) suggests that this element might be a doublet of
+spoiy ‘castrating’ (cf. Irish spochadh). This etymology is far from certain.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+118
+Peadar Ó Muircheartaigh
+in Manx but unknown in Irish and Scottish Gaelic are glossed in the text indic-
+ates that whoever sent it was not only drawing on knowledge of Manx, but
+also on knowledge of Scottish Gaelic and/or Irish. This indicates that the text
+as sent to Vallancey has its origins in a collaborative effort between a Manx
+speaker or speakers and someone familiar with Irish or Scottish Gaelic in the
+Isle of Man. There is no other viable way of accounting for the glosses. Moore
+had insufficient knowledge of Irish to be aware of what needed to be glossed
+and Vallancey’s mutilated transcription of the original and transliteration into
+‘Gaelic’ orthography indicates that he did not understand it. And yet some fea-
+tures in Vallancey’s ‘corrected’ transliteration of the Manx text betray a Scottish
+source. These facts lead us back to Rev. James McLagan (1728–1805), a friend
+of Vallancey and a Scottish-Gaelic speaking clergyman intensely interested in
+fiannaigheacht literature (cf. D.S. Thomson 1958) who, as already pointed out,
+was posted to the Isle of Man in the summer of 1771 as a military chaplain to
+the 42nd Regiment.
+The linguistic profile outlined above is supported by the fact that McLagan
+and Moore, the scribe of Text M, the version most closely related to our Text
+B, were very well acquainted. John Kelly (1750–1809), scribe of Text W, acted
+as a copyist, editor and assistant to Moore during the translation of the Manx
+Bible.³⁵ Kelly would go on to compile a dictionary of Manx, noting the following
+in his description of the Gaelic languages:
+When the Rev. Philip Moore and myself [i.e. Kelly] were engaged in pre-
+paring the Manks translation of the Holy Scriptures for the press, the Rev.
+— McLagan, chaplain to his Majesty’s 42nd Regiment of Highlanders, fre-
+quently visited us and often assisted us in the recovery or the application
+of obsolete words…(Kelly 1866, s.v. Gaelck).
+McLagan’s interests were every bit as literary as they were biblical, however,
+and these interests were not allowed to fade during his time in the Isle of Man.
+McLagan was not one to miss an opportunity to add to his already substantial
+collection of Gaelic literature. R.L. Thomson has noted that:
+The traffic between the Gael and the Manxman was not all in one dir-
+ection…for if McLagan assisted them…there is also among McLagan
+manuscripts [in Glasgow University Library] one piece of evidence that
+Philip Moore communicated Manx popular verse to their visitor, who
+had no doubt been inquiring after the oral literature of the island (R.L.
+Thomson 1961: 10).
+This small Manx manuscript, in the possession of McLagan but in the hand
+of Philip Moore is preserved in Glasgow University Library (GUL ms Gen
+1042/180).³⁶ In light of the evidence of Fin as Ossian presented here, this Glasgow
+35	For more on Kelly see R.L. Thomson ([1969]: 185–186; 1987–89).
+36	For discussion see R.L. Thomson (1961).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+119
+manuscript may be just the tip of a more substantial iceberg of collaboration.
+The evidence then points squarely at collaboration between McLagan, Moore
+and Kelly in the collection of Manx literature and its commitment to writing.
+This is the context from which Text B emerged. McLagan had met Vallancey
+the previous year when stationed in Dublin and had no doubt been party to the
+debates around the veracity of Macpherson’s Ossian in which both Vallancey
+and Charles O’Conor were participants (cf. Ó Muircheartaigh, forthcoming
+b). The correspondence with both men continued after McLagan had left Dub-
+lin.³⁷
+The date of the ballad
+With a greatly enhanced understanding of the provenance of the existing copies
+of the ballad, it may now be possible to usefully discuss the question of its
+date, or more accurately the date it was first collected from oral recitation.
+Broderick (1990: 51) dated Text W and M to circa ‘1762/1763’.³⁸ That date is
+entirely reliant on the following account of Peter John Heywood (1739–1790)
+communicated to Grímur Thorkelin in October 1789:
+Several years ago, when the first Edition of the Poem of Fingal and Os-
+sian by Mr. McPherson appeared, a Revd. Clergyman of my acquaintance,
+(since deceased) was then at the Bishop’s Country Seat [Bishop’s Court]
+in this Isle, engaged with one of the Vicar’s Genl in revising and correct-
+ing a translation of the Scriptures into the Manx Language, and telling the
+Vicar Genl. of that new production (of which he read him some Episodes
+in the hearing of the Bishop’s Gardiner, an old Man, who was at work
+near the Door of their Laboratory and listening. He stept in on hearing
+frequent mention of Fingal and Oshian & Cuchullin &c and told him he
+knew who could sing a good song about those men & C[u]chullin, and
+that was his Brother’s Wife, a very antient Woman. (on which they sent
+for the old Dame, who very readily sung them eight or ten verses which
+my friend immediately took down in writing, and the next day on recol-
+lection she bro[ugh]t them the rest, and of which he obliged me with a
+copy…. My friend asked her, wher she learned this song, and she said
+from her Mother & Grandmother & many more (that they used to sing
+them at their work and wheels…(quoted in Broderick 1990: 52; cf. BL
+Add. 11215).
+Macpherson published Fragments of ancient poetry, collected in the Highlands
+of Scotland, and translated from the Gaelic or Erse language in 1760 and this
+37	For discussion of the relationship between McLagan and Vallancey after the latter’s
+departure from Ireland, see Innes (2016).
+38	In doing so he follows Flower (1926: 605) who states that ‘[t]his seems to have been
+in 1762, when the Rev. Philip Moore and the Rev. Matthias Curghey (Vicar General)
+were at work on the translation of the Bible’.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+120
+Peadar Ó Muircheartaigh
+was followed by others.³⁹ Taking Heywood’s account at face value, Broderick
+(1990: 52) dated the collection of the ballad to 1762 or 1763. The comments of
+Heywood, however, relate to Text T. If Text T did indeed come to Heywood
+directly from Moore it seems likely that it did so much later than 1771. There
+is certainly an attraction in the suggestion that all versions of the ballad have
+their ultimate origin in a single encounter with ‘the old Dame’, however, similar
+to that described by Heywood, not least because all extant copies bear a version
+of the same title: Fin as Ossian. Nonetheless there is reason to doubt much of
+the other details provided by Heywood.⁴⁰
+The clergyman described in Heywood’s account is obviously Rev. Philip
+Moore, the scribe of Text M, of which our Text B is most likely a copy. Moore,
+as already pointed out, was responsible for the translation of the Bible into
+Manx. The identity of the second clergyman mentioned in the account is not so
+certain.⁴¹ Such is the vagueness of Heywood’s description of the episode that
+I do not believe one can pin down a date for the events described in the letter.
+If, however, one assumes that all manuscript copies of the ballad have their
+origin in a single encounter similar to that described by Heywood in his letter
+to Thorkelin, then it may be that James McLagan, Philip Moore and John Kelly
+were all present. Would it have been possible for a native Manx-speaker in the
+eighteenth century to have been completely unaware the existence of Ossianic
+lore on the island? This is the scenario implied by Heywood in his letter to the
+Icelandic antiquarian. The survival of remnants of Ossianic material in Manx
+oral culture into the twentieth century would surely argue against any such
+interpretation of the admittedly meagre evidence. Moore and his Manx clerical
+counterparts may not have been able to recite Ossianic ballads in Manx but is
+it not farfetched to suggest they would not know of their existence? It is easier
+to imagine that the type of encounter described by Heywood could have been
+brought about by the presence of the inquisitive McLagan, who within a matter
+of months of his arrival on the island was already communicating its Ossianic
+lore to Vallancey. McLagan’s reference, reported by Vallancey in the latter’s
+39	For a useful outline of Macpherson’s subsequent publications see Gaskill (2004:
+xviii–xix).
+40	One further reason to doubt Heywood’s account may be that he claims the source of
+the ballad was ‘an old dame’. Traditionally, in Ireland at least, fiannaigheacht material
+seems to have been the preserve of men, although not exclusively so (cf. Ó Duilearga
+1942: 43). If Heywood’s account in this regard is accurate, however, it challenges
+the traditional interpretation of the fiannaigheacht genre as being the preserve of
+men, at least as far as the Isle of Man is concerned. One can also note the following
+observation of Edward Faragher (1831–1908), the last native writer of Manx, and a
+source of much Manx folklore: ‘I have heard an old woman saying when I was a child
+something about Fin McCooil, but I’ve forgotten most of it. It was a bit like a song;
+she would sing it to the children to keep them quiet…It seemed to me that the kids
+were afraid of Fin MacCooil’ (translated in Broderick 1982: 171).
+41	Broderick (1990: 52) assumes it was the Rev. James Wilks (1719–1777) although no
+evidence for this being the case is presented.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+121
+letter to Charles O’Conor, stated that ‘there is more in the hands of some old
+people in the island’. This comment does not indicate that Moore had amassed
+a collection of verse before McLagan’s arrival in the island.
+With the central role of McLagan in the collection of the ballad Fin as Ossian
+now secure, one can return to Text W, the text now known to be in the hand of
+John Kelly. One of the most notable differences between Text W and all others
+is the exclusive use of the name Gorree in Text W where Text T uses Orree, or a
+variation there of, exclusively (x5), and Text M has four instances or Orree and
+one instance of Goree. The fact that Garadh mac Morna, a legendary character
+of the fían, became conflated with Godred Crovan, an early king of Mann, has
+already been noted. The exclusive use of Gorree (as opposed to Orree) in Text W
+is unusual and one may well ask if the scribe was aware that in the greater
+part of the Gaelic world the character in question was Garadh, with initial
+<G>. There is, of course, only one relevant person that would have had that
+knowledge at his disposal.⁴² McLagan was intimately familiar with the Scottish
+Gaelic ballad; there are two different Scottish Gaelic versions of the ballad in
+his collection, now preserved in Glasgow University Library.⁴³ One need only
+recall John Kelly’s description of McLagan having helped Kelly and Moore ‘in
+the recovery of obsolete words’ to see clearly the context in which Orree might
+be ‘restored’ to Gorree.⁴⁴
+McLagan was a remarkable character, so much so that his is, I believe, a
+unique achievement. He had been collecting Gaelic ballads and songs as early
+as the 1750s so that by the time Macpherson was thinking about publishing
+his works, McLagan was already acknowledged as a leading expert on Gaelic
+oral literature.⁴⁵ Everywhere McLagan went he sought out texts of songs and
+poetry; his Scottish collection is the most extensive, for obvious reasons, but
+he also collected material in Ireland and the Isle of Man (Innes 2016; Thomson
+1961; Ó Muircheartaigh forthcoming b). For these reasons, it is unthinkable
+that McLagan would not have taken advantage of an opportunity to obtain ‘a
+fragment of Ossian’ in the summer of 1771. Ifmy interpretation of the evidence
+is valid, then Texts B and M are to be dated to the second half of 1771, by which
+42	It has already been noted above that Vallancey displayed a remarkable ignorance of
+both the narrative and language of the ballad.
+43	GUL Gen ms 1042/82 contains 22 quatrains bearing the rather long title Oran a rinnead
+air na Fionnaibh an uair a Dhagadh Garrie maille re Mnaibh na feine an ann Tigh
+Thormaig agus a loisg è an Tigh nan Tiomchiol; GUL Gen ms 1042/95 is simply titled
+Tigh Formail and consists of 26 quatrains (see D.S. Thomson 1958). The second of
+these has been printed in Cameron (1892: 352–355).
+44	For discussion of a similar sort of ‘restoration’ on the part of Kelly and Moore, ap-
+parently on account of McLagan, see R.L. Thomson (1961: 9). This relates to the use
+of muc-awin (literally meaning ‘river-pig’) in the Manx Bible where English ‘bear’
+is intended. This Thomson attributes to McLagan’s suggestion of mathghamhain (as
+found in Bedell).
+45	See James Macpherson’s letters to McLagan published in Saunders (1968: 146–147).
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+122
+Peadar Ó Muircheartaigh
+time McLagan had taken up residence in the Isle of Man. Text W most likely
+dates from not long after and probably represents a version which was akin to
+Texts M and B but which has undergone some editorial revision, possibly with
+input from McLagan, and the addition of five further lines at the end of the
+ballad. Text T which is greatly elaborated appears to represent this original
+version of the ballad after having been added to by subsequent informants
+and/or redactors in the two decades between McLagan’s arrival on the island
+and Heywood’s letter to Thorkelin. This scenario is suggested by the fact that
+all versions of the poem use the title Fin as Ossian (spelt Oshian in the case of
+Text T) and by Heywood’s claim that the ultimate source of Text T was Philip
+Moore.⁴⁶
+Conclusion
+The limited size of the Manx corpus of fiannaigheacht literature might lead
+one to believe that the genre did not enjoy the same popularity in the Gaelic-
+speaking Isle of Man that it so obviously did in Ireland and Scotland. The discus-
+sion of the ballad here, however, cautions against such a reading of the evidence.
+The literary output of the Isle of Man throughout the entire eighteenth century
+is if not exclusively then certainly overwhelmingly religious (cf. Broderick
+2007). It is remarkable that any secular literature at all was preserved. Of that
+extant secular literature, fiannaigheacht, it could be argued, is appropriately
+represented relative to the Irish and Scottish material.
+The arrival of a charismatic, energetic and learned Scottish Gaelic-speaking
+clergyman in the Isle of Man accounts for the preservation of the present ballad
+and others (cf. R.L. Thomson 1961). McLagan had, by the time of his posting in
+the Isle of Man, amassed a wealth of knowledge of fiannaigheacht literature (in
+both Irish and Scottish Gaelic) which has hardly been matched, before or since.
+His presence in the Isle of Man is likely to have had an invigorating effect. It
+now seems likely that the arousal of interest in Manx secular literature in the
+early 1770s (cf. Broderick 2007: 41) was directly connected with the presence
+of a major collector of Gaelic literature in the Isle of Man from the summer of
+1771 onwards. McLagan’s role in this Manx enterprise is, like so many other
+aspects of his varied career, deserving of further analysis.⁴⁷
+This re-examination of Fin as Ossian has shed significant light on the history
+not only of this ballad but on an important period in the history of secular
+literature in Manx. It is especially worth recalling that the observations made
+here would not be possible but for the presence of this single ballad among
+46	This seems to have been acknowledged more recently by Broderick (2007: 41) who
+states that ‘[t]he manuscript [sic] dates from ca. 1770’, although the reasons for this
+change of heart are not specified. Further examination of the process by which Text
+T was ‘elaborated’ would prove worthwhile.
+47	I intend to discuss McLagan’s role in the preservation of Manx secular literature more
+generally elsewhere in the near future.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+123
+the papers of Charles O’Conor. The text examined here, in the hand of an
+Anglo-Irish antiquarian, is preserved among the papers of an Irish historian and
+Gaelic scholar, but was collected by a Scottish collector in collaboration with at
+least two Manxmen. The circumstances of its collection and preservation shed
+further light on the complex intricate personal networks of antiquarians and
+native scholars which throughout the late eighteenth century salvaged so much
+Gaelic literary heritage from ruin. Further, the story of Fin as Ossian emphasises,
+once again, the extent to which so many aspects of Gaelic language, literature
+and culture from Ireland, Scotland and the Isle of Man shed mutual light on one
+another and are often only best examined in their fuller, pan-Gaelic, context.
+Acknowledgement:
+I am very grateful to Culture Vannin for the award of a grant which made
+archival research for this article possible. I am also grateful to Christopher
+Lewin, Wilson McLeod, Geraldine Parsons and an anonymous reviewer who
+read and offered comments on an earlier draft of this article. My thanks to
+library and archival staff at the Royal Irish Academy and Manx National Heri-
+tage for their assistance. Portions of this article have been presented in Dub-
+lin, Aberystwyth and Douglas. I am grateful to those who offered comments
+on those occasions, most especially Liam Breatnach and Ian Hughes, and to
+Adrian Caine for much practical assistance in Douglas. All remaining errors
+and inaccuracies are mine alone.
+References
+Arbuthnot, Sharon, & Geraldine Parsons (ed.), 2012: The Gaelic Finn tradition.
+Dublin: Four Courts Press.
+Black, Ronald, 1994: ‘Bog, loch and river: the nature of reform in Scottish Gaelic’, in:
+I. Fodor & C. Hagège (ed.): Language reform: history and future, Vol. 6. Hamburg:
+Helmut Buske Verlag, 123–148.
+Borgstrøm, Carl, 1940: The dialects of the Outer Hebrides. Oslo: H. Aschehoug &
+Co.
+Broderick, George, 1981: ‘Manx stories and reminiscences of Ned Beg Hom Ruy
+(introduction and texts)’, Zeitschrift für celtische Philologie 38, 113–178
+Broderick, George, 1982: ‘Manx stories and reminiscences of Ned Beg Hom Ruy
+(translation and notes)’, Zeitschrift für celtische Philologie 39, 117–194
+Broderick, George, 1983: ‘Boddagh yn Cooat Laaghagh: A Manx version of a
+Fenian tale’, Béaloideas 51, 1–10.
+Broderick, George, 1984: A handbook of late spoken Manx: dictionary. Tübingen:
+Niemeyer.
+Broderick, George, 1986: A handbook of late spoken Manx: phonology. Tübingen:
+Niemeyer.
+Broderick, George, 1990: ‘Fin as Oshin’, Celtica 21, 51–60.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+124
+Peadar Ó Muircheartaigh
+Broderick, George, 2007: ‘Manx Gaelic literature: an overview’, in: Jan Erik Rek-
+dal & Ailbhe Ó Corráin (ed.): Proceedings of the Eighth Symposium of Societas
+Celtologica Nordica. Uppsala: Acta Universitatis Upsaliensis, 39–49.
+Bruford, Alan, 1986–87: ‘Oral and literary Fenian tales’, Béaloideas 54/55, 25–56.
+Butler, Weeden, 1799: Memoirs of Mark Hildesley, D.D. Late lord bishop of Sodor and
+Mann; and master of Sherburn hospital under whose auspices the Holy Scriptures
+were translated into the Manks language. London.
+Cameron, Alexander, 1892: Reliquiae Celticae: texts, papers, and studies in Gaelic
+literature and philology. Ed. Alexander Cameron & John Kennedy. Inverness:
+Northern Chronicle.
+Campbell, John Francis, 1872: Leabhar na Féinne: heroic Gaelic ballads. London:
+Spottiswoode & Co.
+Campbell, John Lorne, 1961: ‘The Royal Irish Academy text of Birlinn Chlann Ragh-
+naill’, Scottish Gaelic Studies 9, 39–79.
+Campbell, John Lorne & Derick S. Thomson, 1963: Edward Lhuyd in the Scottish
+Highlands 1699–1700. Oxford: The Clarendon Press.
+Carmichael, Alexander, 1887: ‘The place-names of Iona’, Scottish Geographical
+Magazine 3.2, 80–87.
+Christiansen, R.T., 1931: The Vikings and the Viking wars in Irish and Gaelic tradi-
+tion. Oslo: Dybwad.
+Cregeen, Archibald, 1835: A dictionary of the Manks language with the correspond-
+ing words or explanations in English. Douglas: J. Quiggan.
+Churchill, W.A., 1935: Watermarks in paper in Holland, England, France etc., in the
+XVII and XVIII centuries and their interconnection. Amsterdam: Hertzberger.
+Dieckhoff, Henry Cyril, 1932: A Pronouncing Dictionary of Scottish Gaelic based on
+the Glengarry dialect. Edinburgh: W. & A.K. Johnston.
+Dooley, Ann, 2012: ‘The deployment of some hagiographical sources in Acallam na
+senórach’, in: Geraldine Parsons & Sharon Arbuthnott (ed.): The Gaelic Finn
+tradition. Dublin: Four Courts Press, 97–110.
+Dooley, Ann & Harry Roe. 1999: Tales of the elders of Ireland. Oxford: Oxford
+University Press.
+Dunbar, Robert, 2013: ‘Vernacular Gaelic tradition’, in: Sarah Dunnigan & Suz-
+anne Gilbert (ed.): The Edinburgh companion to Scottish traditional literatures.
+Edinburgh: Edinburgh University Press, 51–62.
+eDIL: Electronic dictionary of the Irish language. <www.dil.ie> [accessed 29
+June 2016]
+Fieldwork Archive, Digital Archive of Scottish Gaelic (DASG). University of
+Glasgow <http://dasg.ac.uk/fieldwork> [accessed 29 June 2016]
+Flower, Robin, 1926: Catalogue of Irish manuscripts in the British Museum, volume
+2. London: British Museum.
+Gaskill, Howard (ed.), 2004: The reception of Ossian in Europe. London and New
+York: Thoemmes.
+Gill, W.W., 1932: A second Manx scrapbook. London and Bristol: Arrowsmith.
+Gravell, T. & G. Miller, 1983: A catalogue of foreign watermarks found on paper
+used in America 1700–1835. New York: Garland.
+Greene, David, 1976: ‘The preposition i n- as subject marker’, Celtica 11, 61–67.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+125
+Gwynn, E.J., 1904: ‘The burning of Finn’s house’, Ériu 1, 13–37
+Gunderloch, Anja, 2013: ‘The heroic ballads of Gaelic Scotland’, in: Sarah Dun-
+nigan & Suzanne Gilbert (ed.): The Edinburgh companion to Scottish traditional
+literatures. Edinburgh: Edinburgh University Press, 74–84.
+Hudson, Benjamin, 2005: Vikings, pirates and Christian princes: dynasty, religion
+and empire in the North Atlantic. Oxford: Oxford University Press.
+Innes, Sìm, 2016: ‘Fionn and Ailbhe’s riddles between Ireland and Scotland’, in:
+Matthieu Boyd (ed.): Ollam: a Festschrift for Tomás Ó Cathasaigh. Madison, NJ:
+Fairleigh Dickinson University Press, 271–285.
+Kelly, John, 1866: The Manx dictionary. Douglas: The Manx Society.
+Kiernan, K. 1983: ‘Thorkelin’s trip to Great Britain and Ireland, 1786–1791’, The
+Library 5.1, 1–21.
+Lewin, Christopher, 2015: ‘A Manx sermon from 1696’, Zeitschrift für celtische Philo-
+logie 62, 45–96.
+Mac Cathmhaoil, Nioclás, 2013: Muiris Ó Gormáin: beatha agus saothar fileata.
+Indreabhán: An Clóchomhar.
+Mac Craith, Mícheál, 2015: ‘Charles O’Conor and the Macpherson controversy’,
+in: Luke Gibbons & Kieran O’Conor (ed.): Charles O’Conor of Ballinagare: life
+and works. Dublin: Four Courts Press, 165–185.
+Mac Giolla Phádraig, Brian, 1976: ‘Dr. John Carpenter: Archbishop of Dublin,
+1760–1786’, Dublin Historical Record 30.1, 2–17.
+McCaughey, Terence P., 1967–68: ‘ Muiris Ó Gormáin’s English-Irish phrasebook’,
+Éigse 12, 203–227.
+McDonald, A., 1958: Gaelic words and expressions from South Uist and Eriskay. Ed.
+John Lorne Campbell. Oxford: Oxford University Press.
+McDonald, R., 2007: Manx kingship in its Irish Sea setting 1187–1229. Dublin: Four
+Courts Press.
+McLeod, Wilson, 2004: ‘“Feumaidh sinn a’ Ghàidhlig a chumail pure”: problems of
+linguistic purism in Scottish Gaelic’, in: D. Ó Riagáin & T. Stolz (ed.): Purism,
+second helping: papers from the conference on purism in the age of globalisation.
+Bochum: Universitätsverlag Brockmeyer, 25–45.
+Meek, Donald, 2004: ‘The Sublime Gael: The impact of Macpherson’s Ossian on lit-
+erary creativity and cultural perception in Gaelic Scotland’, in: Howard Gaskill
+(ed.): The reception of Ossian in Europe. London: Thommes, 140–166.
+Meyer, Kuno, 1913: Sanas Cormaic: an Old-Irish glossary compiled by Cormac Úa
+Cuilennáin. Halle: Max Niemeyer.
+M‘Lauchlan, Thomas & William Skene (ed.), 1862: The Dean of Lismore’s book: a
+selection of ancient Gaelic poetry from a manuscript collection made by Sir James
+McGregor, Dean of Lismore, in the beginning of the sixteenth century. Edinburgh:
+Edmonston and Douglas.
+Moore, A.W., 1886: ‘Fin as Ossian: heroic poem with introductory notice’, Manx
+notebook 2, 80–84.
+Moore, A.W., 1891: The folk-lore of the Isle of Man. Douglas: Brown & Son.
+Moore, A.W., 1896: Manx ballads and music. Douglas: G & R Johnson.
+Moore, A.W., 1924: A vocabulary of the Anglo–Manx dialect. Oxford: Oxford Uni-
+versity Press.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+126
+Peadar Ó Muircheartaigh
+Morrisson, Sophia, 1911: Manx Fairy Tales. London: David Nutt.
+Nagy, Joseph, 1985: The wisdom of the outlaw: the boyhood deeds of Finn in Gaelic
+narrative tradition. Berkeley and Los Angeles: University of California Press.
+Nagy, Joseph. 2010: ‘Fenian female food and other health and beauty secrets’, in:
+W. McLeod et al. (ed.): Bile ós chrannaibh: a Festschrift for William Gillies. Clann
+Tuirc: Ceann Drochaid, 307–314.
+Nevin, Monica 1993: ‘General Charles Vallancey 1725–1812’, The Journal of the
+Royal Society of Antiquaries of Ireland 123, 19–58
+Ní Mhunghaile, Lesa (ed.), 2009: Charlotte Brooke’s Reliques of Irish Poetry. Dublin:
+Irish Manuscripts Commission.
+Ní Mhunghaile, Lesa, 2015: ‘Charles O’Conor’s contribution to Irish-language
+scholarship’, in: Luke Gibbons & Kieran O’Conor (ed.): Charles O’Conor of Bal-
+linagare: life and works, Dublin: Four Courts Press, 211–226.
+Ó Baoill, Dónall. 2001: ‘The historical development of <ng> in an Ulster
+Irish/Scottish Gaelic continuum’, in: J.M. Kirk & D. Ó Baoill (ed.): Language
+Links: the languages of Scotland and Ireland, Belfast: Queens University Belfast,
+101–115.
+O’Conor, Charles (ed.), 1775: The Ogygia vindicated: against the objections of Sir
+George Mac Kenzie King’s advocate for Scotland in the reign of King James II (a
+posthumous work) by Roderick O’Flaherty, Esq. Dublin.
+O’Conor, Charles, 1783: ‘Observations on the heathen state and ancient topo-
+graphy of Ireland’, Collectanea de Rebus Hibernicis 3.12, 647–675.
+O’Conor, Rev. Charles, 1818: Bibliotheca ms Stowenensis: a descriptive catalogue of
+the manuscripts in the Stowe library. Buckingham: Seeley.
+Ó Corráin, Donnchadh, 1987: ‘Legend as critic’, in: Tom Dunne (ed.): The writer as
+witness: historical studies xvi. Cork: Cork University Press, 23–38.
+Ó Cuív, Brian, 1986: ‘Irish language and literature, 1691–1845’, in: T.W. Moody &
+W. E. Vaughan (ed.): A new history of Ireland iv: eighteenth-century Ireland 1691–
+1800. Oxford: Clarendon Press, 374–423.
+Ó Duilearga, Seamus, 1942: ‘Irish stories and storytellers: some reflections and
+memories’, Studies 31, 31–46.
+Ó hÓgáin, Daithí, 1988: Fionn mac Cumhaill: images of a Gaelic hero. Dublin: Gill
+& MacMillan.
+Ó Maolalaigh, Roibeard, 2014: ‘Am buadhfhacal meadhan-aoiseach meranach
+agus meran, mearanach, dàsachadh, dàsan(n)ach na Gàidhlig’, Scottish Studies 37,
+183–206.
+Ó Muircheartaigh, Peadar, 2014: ‘Donnchadh Bàn air a chuairt: From Glen Orchy
+to London, calling at Edinburgh, Dublin and Copenhagen’, Aiste 4, 114–130.
+Ó Muircheartaigh, Peadar, (forthcoming a): ‘Observations on the textual history
+of Birlinn Chlann Raghnaill‘.
+Ó Muircheartaigh, Peadar, (forthcoming b): ‘Rev. James McLagan and his ‘other’
+manuscripts’.
+Ó Murchú, Máirtín, 1989: East Perthshire Gaelic. Dublin: Dublin Institute for Ad-
+vanced Studies.
+Parsons, Geraldine, 2008: ‘The structure of Acallam na Senórach’, Cambrian Medi-
+eval Celtic Studies 55, 11–40.
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Fin as Ossian revisited…
+127
+RIA Cat. = Murphy, G. & Wulff, W., 1936: Catalogue of Irish manuscripts in the
+Royal Irish Academy: fasciculus xviii. Dublin: Royal Irish Academy.
+Saunders, Bailey, 1968: The life and letters of James Macpherson. New York: Haskell
+House.
+Stokes, Whitley, 1900: ‘Acallamh na Senórach’, in: Whitley Stokes & Ernst Win-
+disch (ed.): Irische Texte mit Übersetzungen und Wörterbuch, 4th Series, Volume
+1. Leipzig: S. Hirzel, 1–438.
+Thomson, Derick S., 1958: ‘A catalogue and indexes of the Ossianic ballads in the
+McLagan mss’, Scottish Gaelic Studies 8, 177–224.
+Thomson, Derick S. 1983: ‘Gaelic: orthography’, in: D.S. Thomson (ed.): The Com-
+panion to Gaelic Scotland. Oxford: Blackwell, 99–101.
+Thomson, Derick S. 1994: ‘The McLagan mss in Glasgow University Library: A
+Survey’, Transactions of the Gaelic Society of Inverness 58, 406–42.
+Thomson, Robert L., 1960–61: ‘The Manx traditionary ballad [1]’, Études Celtiques
+9, 521–548.
+Thomson, Robert L., 1961: ‘McLagan manuscript 180’, Scottish Gaelic Studies 9, 9–22.
+Thomson, Robert L., 1962–63: ‘The Manx traditionary ballad [2]’, Études Celtique
+10, 60–87.
+Thomson, Robert L., 1969: ‘The study of Manx Gaelic’, Proceedings of the British
+Academy 40, 177–210.
+Thomson, Robert L., 1987–89: ‘ The Revd Dr John Kelly as a lexicographer’, Proceed-
+ings of the Isle of Man Natural History and Antiquarian Society 9.4, 443–458.
+Wagner, Heinrich. 1953. ,Zum Manx-Wort für Feuer’, Lexis 3, 133–134.
+Wagner, Heinrich, 1958: Linguistic atlas and survey of Irish dialects, volume 1. Dub-
+lin: Dublin Institute for Advanced Studies.
+Williams, Nicholas, 1994: ‘An Mhanainnis’, in: McCone et al. (ed.). Stair na Gaeilge
+in ómós do Phádraig Ó Fiannachta. Maynooth: Roinn na Sean-Ghaeilge, Coláiste
+Phádraig.
+Wood, G.W., 1920: ‘Fin as Oshin: the oldest ballad in the Manx language’, Proceed-
+ings of the Isle of Man Natural History and Antiquarian Society 23, 296–301.
+Woolf, Alex, 2005: ‘The origins and ancestry of Somerled: Gofraid mac Fergusa and
+“The Annals of the Four Masters”’, Mediaeval Scandinavia 15, 199–213.
+Aberystwyth	Peadar Ó Muircheartaigh
+peo5@aber.ac.uk
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
+Brought to you by | Aberystwyth University
+Authenticated | peo5@aber.ac.uk author's copy
+Download Date | 10/3/16 2:01 PM
