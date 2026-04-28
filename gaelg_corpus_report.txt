@@ -1,0 +1,12 @@
+
+============================================================
+GAELG CORPUS SCRAPE COMPLETE
+============================================================
+Documents found:      804
+Bilingual documents:  612
+Monolingual documents:0
+Errors:               0
+
+Parallel pairs:       83,913
+Monolingual lines:    0
+============================================================
