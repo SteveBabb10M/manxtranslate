@@ -8,7 +8,7 @@ SQLite-backed reference toolkit for translating *The Revestment* into Manx Gaeli
 |-------|------|--------|
 | dictionary | 22,351 | Scannell gv2ga.po (Manx→Irish→English) |
 | inflections | 8,213 | Scannell focloir.txt (verb/noun/adj forms) |
-| parallel_sentences | 136,497 | JSONL corpus + manx-search-data CSVs |
+| parallel_sentences | 146,178 | JSONL corpus + manx-search-data CSVs |
 | grammar_rules | 73 | Wheeler studies, Coonceil ny Gaelgey |
 | phrases | 40,919 | Scannell multi-gv.txt |
 | mutations | 27,349 | Computed lenition/eclipsis from focloir.txt |
