@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+*.tmp
+
+# Built database — rebuild with: python scripts/build_all.py
+*.db
+data/processed/

@@ -1,25 +1,135 @@
 #!/usr/bin/env python3
 """
-Comprehensive DB builder: populates all 6 tables from available sources.
+Comprehensive DB builder: populates all 6 tables from repo data.
+
+Run from anywhere — all paths are relative to the repo root.
+
+Usage:
+    python scripts/build_all.py
+
+Sources:
+    data/scannell/gv2ga.po       -> dictionary (Manx-Irish word mappings)
+    data/scannell/focloir.txt    -> inflections (verb/noun/adj forms)
+    data/scannell/multi-gv.txt   -> phrases (multi-word expressions)
+    data/scannell/leniter.pl     -> mutations (computed lenition/eclipsis)
+    data/scannell/focloir.txt    -> mutations (word list for computation)
+    *.jsonl in repo root + data/raw/ -> parallel_sentences
+    Hardcoded rules              -> grammar_rules
 """
 import sqlite3
 import re
 import json
 import os
+import sys
 
-DB_PATH = '/home/claude/manxtranslate/scripts/manx.db'
-GAELG = '/home/claude/gaelg'
-CAIGHDEAN = '/home/claude/caighdean'
-MANXTXT = '/home/claude/manxtranslate/manxtxt'
+# ============================================================
+# PATHS - all relative to repo root
+# ============================================================
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.dirname(SCRIPT_DIR)
+SCANNELL = os.path.join(REPO_ROOT, 'data', 'scannell')
+MANXTXT = os.path.join(REPO_ROOT, 'manxtxt')
+RAW_DIR = os.path.join(REPO_ROOT, 'data', 'raw')
+DB_PATH = os.path.join(REPO_ROOT, 'data', 'processed', 'manx.db')
+
+# Ensure output directory exists
+os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
+
+# Remove old DB for clean rebuild
+if os.path.exists(DB_PATH):
+    os.remove(DB_PATH)
+    print("Removed existing database")
+
+# ============================================================
+# SCHEMA
+# ============================================================
+SCHEMA = """
+CREATE TABLE IF NOT EXISTS dictionary (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    english TEXT NOT NULL,
+    manx TEXT NOT NULL,
+    part_of_speech TEXT,
+    gender TEXT,
+    source TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_dict_english ON dictionary(english);
+CREATE INDEX IF NOT EXISTS idx_dict_manx ON dictionary(manx);
+
+CREATE TABLE IF NOT EXISTS inflections (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    base_form TEXT NOT NULL,
+    inflected_form TEXT NOT NULL,
+    inflection_type TEXT NOT NULL,
+    part_of_speech TEXT,
+    pattern_class TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_infl_base ON inflections(base_form);
+CREATE INDEX IF NOT EXISTS idx_infl_type ON inflections(inflection_type);
+
+CREATE TABLE IF NOT EXISTS parallel_sentences (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    english TEXT NOT NULL,
+    manx TEXT NOT NULL,
+    source TEXT,
+    domain TEXT,
+    quality TEXT DEFAULT 'unreviewed'
+);
+CREATE INDEX IF NOT EXISTS idx_par_english ON parallel_sentences(english);
+CREATE INDEX IF NOT EXISTS idx_par_manx ON parallel_sentences(manx);
+
+CREATE VIRTUAL TABLE IF NOT EXISTS parallel_fts USING fts5(
+    english, manx, content='parallel_sentences', content_rowid='id'
+);
+
+CREATE TRIGGER IF NOT EXISTS parallel_ai AFTER INSERT ON parallel_sentences BEGIN
+    INSERT INTO parallel_fts(rowid, english, manx) VALUES (new.id, new.english, new.manx);
+END;
+CREATE TRIGGER IF NOT EXISTS parallel_ad AFTER DELETE ON parallel_sentences BEGIN
+    INSERT INTO parallel_fts(parallel_fts, rowid, english, manx) VALUES('delete', old.id, old.english, old.manx);
+END;
+CREATE TRIGGER IF NOT EXISTS parallel_au AFTER UPDATE ON parallel_sentences BEGIN
+    INSERT INTO parallel_fts(parallel_fts, rowid, english, manx) VALUES('delete', old.id, old.english, old.manx);
+    INSERT INTO parallel_fts(rowid, english, manx) VALUES (new.id, new.english, new.manx);
+END;
+
+CREATE TABLE IF NOT EXISTS grammar_rules (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    category TEXT NOT NULL,
+    rule_text TEXT NOT NULL,
+    examples TEXT,
+    source TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_gram_cat ON grammar_rules(category);
+
+CREATE TABLE IF NOT EXISTS phrases (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    english TEXT NOT NULL,
+    manx TEXT NOT NULL,
+    category TEXT,
+    source TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_phrase_english ON phrases(english);
+
+CREATE TABLE IF NOT EXISTS mutations (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    base_form TEXT NOT NULL,
+    mutated_form TEXT NOT NULL,
+    mutation_type TEXT NOT NULL,
+    trigger_context TEXT,
+    notes TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_mut_base ON mutations(base_form);
+"""
 
 conn = sqlite3.connect(DB_PATH)
+conn.executescript(SCHEMA)
+print(f"Created database at {DB_PATH}")
 
 # ============================================================
-# 1. DICTIONARY from gv2ga.po (Manx→Irish) bridged to English
+# HELPER: POS tag parser
 # ============================================================
-print("=== 1. DICTIONARY (gv2ga.po) ===")
-
-# Parse POS tags
 POS_MAP = {
     '_nm': ('noun', 'm'), '_nf': ('noun', 'f'), '_n': ('noun', None),
     '_v': ('verb', None), '_a': ('adjective', None), '_adv': ('adverb', None),
@@ -33,50 +143,48 @@ def parse_pos(headword):
     for suffix, (pos, gender) in sorted(POS_MAP.items(), key=lambda x: -len(x[0])):
         if headword.endswith(suffix):
             word = headword[:-(len(suffix))].replace('-', '').replace('_', ' ')
-            # Skip numbered variants like word1, word2
             word = re.sub(r'\d+$', '', word)
             return word, pos, gender
     return headword, None, None
 
-# Build a simple Irish→English lookup from pairs-gv.txt approach
-# Actually, we'll use the gv2ga.po directly - Manx headword → Irish gloss
-# and note that for now we store Irish as the "english" field with a note
-# Better: just store the Manx word with POS and gender from the PO file
+# ============================================================
+# 1. DICTIONARY from gv2ga.po
+# ============================================================
+print("=== 1. DICTIONARY (gv2ga.po) ===")
 
 dict_count = 0
 seen_words = set()
 
-with open(os.path.join(GAELG, 'gv2ga.po'), 'r', encoding='utf-8') as f:
-    content = f.read()
+po_path = os.path.join(SCANNELL, 'gv2ga.po')
+if os.path.exists(po_path):
+    with open(po_path, 'r', encoding='utf-8') as f:
+        content = f.read()
 
-# Parse PO file
-entries = re.findall(r'(?:^#[^\n]*\n)*^msgid "([^"]+)"\nmsgstr "([^"]*)"', content, re.MULTILINE)
+    entries = re.findall(r'(?:^#[^\n]*\n)*^msgid "([^"]+)"\nmsgstr "([^"]*)"', content, re.MULTILINE)
 
-for msgid, msgstr in entries:
-    if not msgstr or msgstr == msgid:
-        continue
-    
-    manx_word, pos, gender = parse_pos(msgid)
-    if not manx_word or len(manx_word) < 2:
-        continue
-    
-    # Parse Irish translations (semicolon separated)
-    irish_glosses = [g.strip() for g in msgstr.split(';') if g.strip()]
-    
-    for gloss in irish_glosses:
-        irish_word, irish_pos, _ = parse_pos(gloss)
-        if irish_word and len(irish_word) >= 2:
-            key = (manx_word, irish_word)
-            if key not in seen_words:
-                seen_words.add(key)
-                conn.execute(
-                    "INSERT INTO dictionary (english, manx, part_of_speech, gender, source, notes) VALUES (?,?,?,?,?,?)",
-                    (irish_word, manx_word, pos, gender, 'scannell_gv2ga', f'Irish gloss: {gloss}')
-                )
-                dict_count += 1
+    for msgid, msgstr in entries:
+        if not msgstr or msgstr == msgid:
+            continue
+        manx_word, pos, gender = parse_pos(msgid)
+        if not manx_word or len(manx_word) < 2:
+            continue
+        irish_glosses = [g.strip() for g in msgstr.split(';') if g.strip()]
+        for gloss in irish_glosses:
+            irish_word, irish_pos, _ = parse_pos(gloss)
+            if irish_word and len(irish_word) >= 2:
+                key = (manx_word, irish_word)
+                if key not in seen_words:
+                    seen_words.add(key)
+                    conn.execute(
+                        "INSERT INTO dictionary (english, manx, part_of_speech, gender, source, notes) VALUES (?,?,?,?,?,?)",
+                        (irish_word, manx_word, pos, gender, 'scannell_gv2ga', f'Irish gloss: {gloss}')
+                    )
+                    dict_count += 1
 
-conn.commit()
-print(f"  Inserted {dict_count:,} dictionary entries")
+    conn.commit()
+    print(f"  Inserted {dict_count:,} dictionary entries")
+else:
+    print(f"  SKIPPED - {po_path} not found")
 
 # ============================================================
 # 2. INFLECTIONS from focloir.txt
@@ -84,385 +192,264 @@ print(f"  Inserted {dict_count:,} dictionary entries")
 print("\n=== 2. INFLECTIONS (focloir.txt) ===")
 
 infl_count = 0
-with open(os.path.join(GAELG, 'focloir.txt'), 'r', encoding='utf-8') as f:
-    for line in f:
-        line = line.strip()
-        if not line:
-            continue
-        parts = line.split('\t')
-        if len(parts) < 4:
-            continue
-        
-        headword = parts[0]
-        col2, col3, col4 = parts[1], parts[2], parts[3]
-        
-        base_word, pos, gender = parse_pos(headword)
-        if not base_word or len(base_word) < 2:
-            continue
-        
-        # Col2: for verbs = verbal noun, for nouns = genitive singular
-        if col2 and col2 != '0':
-            vn_word, _, _ = parse_pos(col2)
-            if vn_word and vn_word != base_word:
-                if pos == 'verb':
-                    conn.execute(
-                        "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
-                        (base_word, vn_word, 'verbal_noun', 'verb', f'from focloir.txt')
-                    )
-                    infl_count += 1
-                elif pos == 'noun':
-                    conn.execute(
-                        "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
-                        (base_word, vn_word, 'genitive', 'noun', f'gender: {gender}')
-                    )
-                    infl_count += 1
-                elif pos == 'adjective':
-                    conn.execute(
-                        "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
-                        (base_word, vn_word, 'comparative', 'adjective', 'from focloir.txt')
-                    )
-                    infl_count += 1
-        
-        # Col3: for nouns = plural; '1' means regular -yn plural
-        if col3 and col3 != '0':
-            if col3 == '1':
-                # Regular -yn plural
-                plural = base_word + 'yn'
-                conn.execute(
-                    "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, pattern_class, notes) VALUES (?,?,?,?,?,?)",
-                    (base_word, plural, 'plural', 'noun', 'regular_-yn', f'gender: {gender}')
-                )
-                infl_count += 1
-            else:
-                pl_word, _, _ = parse_pos(col3)
-                if pl_word and pl_word != base_word:
-                    conn.execute(
-                        "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
-                        (base_word, pl_word, 'plural', 'noun', f'gender: {gender}')
-                    )
-                    infl_count += 1
-        
-        # Col4: cross-reference to standard form
-        if col4 and col4 != '0':
-            ref_word, _, _ = parse_pos(col4)
-            if ref_word and ref_word != base_word:
-                conn.execute(
-                    "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
-                    (ref_word, base_word, 'variant', pos or 'unknown', 'cross-reference in focloir.txt')
-                )
-                infl_count += 1
+focloir_path = os.path.join(SCANNELL, 'focloir.txt')
+if os.path.exists(focloir_path):
+    with open(focloir_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            parts = line.split('\t')
+            if len(parts) < 4:
+                continue
 
-conn.commit()
-print(f"  Inserted {infl_count:,} inflection entries")
+            headword = parts[0]
+            col2, col3, col4 = parts[1], parts[2], parts[3]
+            base_word, pos, gender = parse_pos(headword)
+            if not base_word or len(base_word) < 2:
+                continue
+
+            if col2 and col2 != '0':
+                vn_word, _, _ = parse_pos(col2)
+                if vn_word and vn_word != base_word:
+                    if pos == 'verb':
+                        conn.execute(
+                            "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
+                            (base_word, vn_word, 'verbal_noun', 'verb', 'from focloir.txt')
+                        )
+                        infl_count += 1
+                    elif pos == 'noun':
+                        conn.execute(
+                            "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
+                            (base_word, vn_word, 'genitive', 'noun', f'gender: {gender}')
+                        )
+                        infl_count += 1
+                    elif pos == 'adjective':
+                        conn.execute(
+                            "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
+                            (base_word, vn_word, 'comparative', 'adjective', 'from focloir.txt')
+                        )
+                        infl_count += 1
+
+            if col3 and col3 != '0':
+                if col3 == '1':
+                    plural = base_word + 'yn'
+                    conn.execute(
+                        "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, pattern_class, notes) VALUES (?,?,?,?,?,?)",
+                        (base_word, plural, 'plural', 'noun', 'regular_-yn', f'gender: {gender}')
+                    )
+                    infl_count += 1
+                else:
+                    pl_word, _, _ = parse_pos(col3)
+                    if pl_word and pl_word != base_word:
+                        conn.execute(
+                            "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
+                            (base_word, pl_word, 'plural', 'noun', f'gender: {gender}')
+                        )
+                        infl_count += 1
+
+            if col4 and col4 != '0':
+                ref_word, _, _ = parse_pos(col4)
+                if ref_word and ref_word != base_word:
+                    conn.execute(
+                        "INSERT INTO inflections (base_form, inflected_form, inflection_type, part_of_speech, notes) VALUES (?,?,?,?,?)",
+                        (ref_word, base_word, 'variant', pos or 'unknown', 'cross-reference in focloir.txt')
+                    )
+                    infl_count += 1
+
+    conn.commit()
+    print(f"  Inserted {infl_count:,} inflection entries")
+else:
+    print(f"  SKIPPED - {focloir_path} not found")
 
 # ============================================================
-# 3. PHRASES from multi-gv.txt  
+# 3. PHRASES from multi-gv.txt
 # ============================================================
 print("\n=== 3. PHRASES (multi-gv.txt) ===")
 
 phrase_count = 0
-with open(os.path.join(CAIGHDEAN, 'multi-gv.txt'), 'r', encoding='utf-8') as f:
-    for line in f:
-        line = line.strip()
-        if not line or line.startswith('#'):
-            continue
-        parts = line.split(' ', 1)
-        if len(parts) < 2:
-            continue
-        
-        manx_phrase = parts[0].replace('_', ' ')
-        irish_phrase = parts[1].strip()
-        
-        if len(manx_phrase) > 2 and len(irish_phrase) > 1:
+multi_path = os.path.join(SCANNELL, 'multi-gv.txt')
+if os.path.exists(multi_path):
+    with open(multi_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            parts = line.split(' ', 1)
+            if len(parts) < 2:
+                continue
+            manx_phrase = parts[0].replace('_', ' ')
+            irish_phrase = parts[1].strip()
+            if len(manx_phrase) > 2 and len(irish_phrase) > 1:
+                conn.execute(
+                    "INSERT INTO phrases (english, manx, category, source) VALUES (?,?,?,?)",
+                    (irish_phrase, manx_phrase, 'multi-word', 'scannell_caighdean')
+                )
+                phrase_count += 1
+
+    conn.commit()
+    print(f"  Inserted {phrase_count:,} phrases")
+else:
+    print(f"  SKIPPED - {multi_path} not found")
+
+# ============================================================
+# 4. PARALLEL SENTENCES from JSONL files
+# ============================================================
+print("\n=== 4. PARALLEL SENTENCES ===")
+
+parallel_count = 0
+seen_pairs = set()
+
+def ingest_jsonl(filepath):
+    """Ingest a JSONL file of parallel sentences."""
+    global parallel_count
+    file_count = 0
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+
+            en = obj.get('source', obj.get('en', obj.get('english', ''))).strip()
+            gv = obj.get('target', obj.get('gv', obj.get('manx', ''))).strip()
+            source = obj.get('ref', obj.get('source_name', os.path.basename(filepath)))
+
+            if not en or not gv:
+                continue
+
+            pair_key = (en.lower(), gv.lower())
+            if pair_key in seen_pairs:
+                continue
+            seen_pairs.add(pair_key)
+
             conn.execute(
-                "INSERT INTO phrases (english, manx, category, source) VALUES (?,?,?,?)",
-                (irish_phrase, manx_phrase, 'multi-word', 'scannell_caighdean')
+                "INSERT INTO parallel_sentences (english, manx, source) VALUES (?,?,?)",
+                (en, gv, source)
             )
-            phrase_count += 1
+            parallel_count += 1
+            file_count += 1
+    return file_count
+
+# Search repo root and data/raw for JSONL files
+jsonl_files = []
+for search_dir in [REPO_ROOT, RAW_DIR]:
+    if os.path.exists(search_dir):
+        for f in sorted(os.listdir(search_dir)):
+            if f.endswith('.jsonl'):
+                full = os.path.join(search_dir, f)
+                if os.path.getsize(full) > 0:
+                    jsonl_files.append(full)
+
+for jf in jsonl_files:
+    count = ingest_jsonl(jf)
+    print(f"  {os.path.basename(jf)}: {count:,} sentences")
 
 conn.commit()
-print(f"  Inserted {phrase_count:,} phrases")
+print(f"  Total: {parallel_count:,} parallel sentences (deduplicated)")
 
 # ============================================================
-# 4. PARALLEL SENTENCES from UD usage/pairs.txt
-# ============================================================
-print("\n=== 4. PARALLEL SENTENCES (ud/usage/pairs.txt) ===")
-
-pairs_file = os.path.join(GAELG, 'ud/usage/pairs.txt')
-existing = set()
-for row in conn.execute("SELECT english, manx FROM parallel_sentences"):
-    existing.add((row[0][:50], row[1][:50]))
-
-par_count = 0
-current_en = None
-manx_tokens = []
-irish_tokens = []
-
-with open(pairs_file, 'r', encoding='utf-8') as f:
-    for line in f:
-        line = line.strip()
-        if not line:
-            continue
-        
-        # Sentence boundary marker
-        m = re.match(r'^<div text="(.+?)"/>\s*=>\s*<div text="(.+?)"/>', line)
-        if m:
-            current_en = m.group(1)
-            manx_tokens = []
-            irish_tokens = []
-            continue
-        
-        if line == '\\n':
-            # End of sentence pair - reconstruct
-            if current_en and manx_tokens:
-                manx_sent = ' '.join(manx_tokens)
-                key = (current_en[:50], manx_sent[:50])
-                if key not in existing and len(manx_sent) > 3:
-                    conn.execute(
-                        "INSERT INTO parallel_sentences (english, manx, source, domain, quality) VALUES (?,?,?,?,?)",
-                        (current_en, manx_sent, 'scannell_ud_usage', 'phrasebook', 'curated')
-                    )
-                    existing.add(key)
-                    par_count += 1
-            current_en = None
-            manx_tokens = []
-            irish_tokens = []
-            continue
-        
-        # Token pairs: manx => irish
-        parts = line.split(' => ')
-        if len(parts) == 2:
-            manx_tok = parts[0].strip()
-            irish_tok = parts[1].strip()
-            if manx_tok and manx_tok not in ('.', ',', '!', '?', ';', ':'):
-                manx_tokens.append(manx_tok)
-                irish_tokens.append(irish_tok)
-
-conn.commit()
-print(f"  Inserted {par_count:,} new parallel sentences")
-
-# ============================================================
-# 5. GRAMMAR RULES from Wheeler studies + writing standard
+# 5. GRAMMAR RULES (hardcoded from Wheeler studies + corpus)
 # ============================================================
 print("\n=== 5. GRAMMAR RULES ===")
 
 grammar_count = 0
 
-# --- 5a. Lenition rules (from leniter.pl + Wheeler study 6) ---
-lenition_rules = [
-    ("MUTATION", "LENITION", "b, m → v (bw, mw → v)", "b/m (or bw/mw) lenites to v: *ben* → *ven*, *moar* → *voar*", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "c, k → ch (before non-h)", "*caashey* → *chaashey*, *kione* → *chione*. Note: ch, çh already lenited → h", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "ç → h", "*çheer* → *heer*", "leniter.pl"),
-    ("MUTATION", "LENITION", "d → gh (dh → gh)", "*dooinney* → *ghooinney*, *dty* remains *dty*", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "f → zero (f disappears)", "*fer* → *er*, *feer* → *eer*", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "g → gh before a,o,u and non-h consonants; g → y before e,i", "*goll* → *gholl*, *geurey* → *yeurey*", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "j → y", "*jannoo* → *yannoo*", "leniter.pl"),
-    ("MUTATION", "LENITION", "p → ph (before non-h)", "*peccah* → *pheccah*", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "qu → wh", "*quoi* → *whoi*", "leniter.pl"),
-    ("MUTATION", "LENITION", "s → h before vowels (sh → h); sl → l; sn → n; str → hr", "*shoh* → *hoh*, *slane* → *lane*, *snaie* → *naie*, *stroo* → *hroo*", "leniter.pl + Wheeler"),
-    ("MUTATION", "LENITION", "t, th → h", "*thie* → *hie*, *toshiaght* → *hoshiaght*", "leniter.pl + Wheeler"),
+all_grammar_rules = [
+    # --- Lenition triggers ---
+    ("LENITION:TRIGGER", "After definite article yn + feminine singular noun", "*yn vlein* (the year, < blein), *yn chabbane* (the cabin, < cabbane)", "Wheeler study 6"),
+    ("LENITION:TRIGGER", "After daa (two)", "*daa vlein* (two years, < blein), *daa hie* (two houses, < thie)", "Wheeler study 6"),
+    ("LENITION:TRIGGER", "After possessive adjectives my (my), dty (your sg.), e (his)", "*my vlein* (my year), *dty hie* (your house), *e charrey* (his friend)", "Wheeler study 6"),
+    ("LENITION:TRIGGER", "After prepositions: er (on), fo (under), ny (than), ro (too), dy (to/particle)", "*er vullagh* (on top, < mullagh), *fo halloo* (underground, < thalloo)", "Wheeler study 6"),
+    ("LENITION:TRIGGER", "After verbal particles dy/nagh in dependent clauses", "*dy voddin* (that I might, < foddin), *nagh vel* (that is not, < vel)", "Wheeler study 6"),
+    ("LENITION:TRIGGER", "Past tense of regular verbs", "*hug* (gave, < tug/cur), *hilg* (threw, < tilg)", "Wheeler study 5"),
+    ("LENITION:TRIGGER", "After particles cha (not) and nagh (that...not)", "*cha vel* (is not), *cha jarg* (cannot, < jarg)", "CO"),
+    ("LENITION:TRIGGER", "After vocative particle y/a", "*y harvaant* (O servant, < sharvaant)", "CO"),
+    ("LENITION:TRIGGER", "Adjective lenited after feminine singular noun", "*ben vie* (good woman, < mie), *blein vooar* (great year, < mooar)", "Wheeler study 4"),
+    # --- Eclipsis triggers ---
+    ("ECLIPSIS:TRIGGER", "After plural definite article ny", "*ny girree* (the cocks, < kirree - but eclipsis rare in modern Manx)", "Wheeler study 6"),
+    ("ECLIPSIS:TRIGGER", "After possessive nyn (our/your pl./their)", "*nyn gione* (our head, < kione), *nyn dhie* (our house, < thie)", "CO"),
+    ("ECLIPSIS:TRIGGER", "After preposition ayns yn (in the)", "*ayns yn gharey* (in the garden, < garey)", "CO"),
+    # --- Lenition consonant mappings ---
+    ("LENITION:MAP", "b -> v: *ben* -> *ven*", "b -> v, bw -> v", "leniter.pl"),
+    ("LENITION:MAP", "m -> v: *mooar* -> *vooar*", "m -> v, mw -> v", "leniter.pl"),
+    ("LENITION:MAP", "c -> ch: *cabbane* -> *chabbane*", "c/k -> ch (before non-h)", "leniter.pl"),
+    ("LENITION:MAP", "ch/ch -> h: *chengey* -> *hengey*", "already-aspirated forms reduce to h", "leniter.pl"),
+    ("LENITION:MAP", "d -> gh: *dooinney* -> *ghooinney*", "d/dh -> gh", "leniter.pl"),
+    ("LENITION:MAP", "f -> zero (disappears): *fer* -> *'er*", "f drops entirely", "leniter.pl"),
+    ("LENITION:MAP", "g -> gh/y: *garey* -> *gharey*, *geurey* -> *yeurey*", "g -> gh (before a,o,u,cons), g -> y (before e,i)", "leniter.pl"),
+    ("LENITION:MAP", "j -> y: *jannoo* -> *yannoo*", "j -> y", "leniter.pl"),
+    ("LENITION:MAP", "p -> ph: *peccah* -> *pheccah*", "p -> ph (before non-h)", "leniter.pl"),
+    ("LENITION:MAP", "qu -> wh: *quoi* -> *whoi*", "qu -> wh", "leniter.pl"),
+    ("LENITION:MAP", "s -> h/l/n: *sleityn* -> *leityn*, *sniaghtey* -> *niaghtey*", "sl->l, sn->n, sh->h, s->h (before vowel)", "leniter.pl"),
+    ("LENITION:MAP", "str -> hr: *stroo* -> *hroo*", "str -> hr", "leniter.pl"),
+    ("LENITION:MAP", "t -> h: *thie* -> *hie*, *thalloo* -> *halloo*", "t/th -> h", "leniter.pl"),
+    # --- Eclipsis consonant mappings ---
+    ("ECLIPSIS:MAP", "b -> m: *boayl* -> *moayl*", "b -> m", "CO"),
+    ("ECLIPSIS:MAP", "c/k -> g: *kione* -> *gione*", "c/k -> g", "CO"),
+    ("ECLIPSIS:MAP", "d -> n: *dorrys* -> *norrys*", "d -> n", "CO"),
+    ("ECLIPSIS:MAP", "f -> v: *fockle* -> *vockle*", "f -> v", "CO"),
+    ("ECLIPSIS:MAP", "g -> n'gh: *garey* -> *n'gharey*", "g -> n'gh (nasal + lenited)", "CO"),
+    ("ECLIPSIS:MAP", "j -> n'y: *jannoo* -> *n'yannoo*", "j -> n'y", "CO"),
+    ("ECLIPSIS:MAP", "p -> b: *peccah* -> *beccah*", "p -> b", "CO"),
+    ("ECLIPSIS:MAP", "t -> d: *thie* -> *dhie*", "t -> d", "CO"),
+    ("ECLIPSIS:MAP", "vowel -> n'+vowel: *awin* -> *n'awin*", "prefixed n' before vowels", "CO"),
+    # --- Verb system ---
+    ("VERB:TENSE", "Present: ta + subject + verbal noun. Habitual: bee + subject + verbal noun", "*Ta mee goll* (I am going), *Bee eh cheet* (He comes [habitually])", "CO"),
+    ("VERB:TENSE", "Past: synthetic past form (often lenited), or ren + subject + VN", "*Honnick mee* (I saw), *Ren mee fakin* (I saw [periphrastic])", "CO"),
+    ("VERB:TENSE", "Future: bee/vees + subject + VN, or synthetic future", "*Hig eh* (He will come), *Bee eh cheet* (He will be coming)", "CO"),
+    ("VERB:TENSE", "Conditional: yinnagh/veagh + subject + VN", "*Yinnin shen* (I would do that), *Veagh eh goll* (He would be going)", "CO"),
+    ("VERB:NEGATIVE", "cha + lenition + verb for simple negative", "*Cha nel mee* (I am not), *Cha jarg mee* (I cannot)", "CO"),
+    ("VERB:QUESTION", "vel/row/bee etc. for interrogative; nagh for negative interrogative", "*Vel oo cheet?* (Are you coming?), *Nagh vel eh ayn?* (Is he not there?)", "CO"),
+    ("VERB:IRREGULAR", "10 irregular/suppletive verbs: goll (go), cheet (come), cur (give/put), geddyn (get), jannoo (do/make), fakin (see), gra (say), clashtyn (hear), toiggal (understand), ec (at/have)", "Each has distinct past, future, conditional, imperative stems", "Wheeler study 5"),
+    # --- Noun system ---
+    ("NOUN:GENDER", "Two genders: masculine and feminine. Gender affects article, lenition of adjectives, and pronoun agreement", "*yn dooinney mooar* (the big man, no lenition), *yn ven vooar* (the big woman, lenition)", "CO"),
+    ("NOUN:PLURAL", "7 plural classes: -yn (regular), -aghyn, -yn with vowel change, -eeyn, -tyn, vowel change only, irregular", "*thieyn* (houses), *cabbil* (horses < cabbyl), *kirree* (sheep < keyrrey)", "Wheeler study 1"),
+    ("NOUN:GENITIVE", "Genitive formed by juxtaposition: possessed + possessor", "*dorrys y thie* (door of the house), *bainney ny baa* (milk of the cow)", "CO"),
+    ("NOUN:ARTICLE", "yn (the) before singular; ny before plural. No indefinite article", "*yn dooinney* (the man), *ny deiney* (the men), *dooinney* (a man)", "CO"),
+    # --- Adjective rules ---
+    ("ADJECTIVE:POSITION", "Adjectives follow the noun", "*thie beg* (small house), *moddey mooar* (big dog)", "CO"),
+    ("ADJECTIVE:LENITION", "Adjective lenited after feminine singular noun", "*ben vie* (good woman, < mie), *blein vooar* (great year, < mooar)", "Wheeler study 4"),
+    ("ADJECTIVE:COMPARISON", "Comparative: ny + s-form or analytical ny smoo + adj", "*ny stroshey* (stronger), *ny smoo taitnyssagh* (more pleasant)", "CO"),
+    ("ADJECTIVE:SUPERLATIVE", "Superlative: y/yn + s-form", "*yn stroshey* (the strongest)", "CO"),
+    # --- Pronoun rules ---
+    ("PRONOUN:PERSONAL", "Independent: mee (I), oo (you), eh (he), ee (she), shin (we), shiu (you pl.), ad (they)", "Used as subject/object in verbal constructions", "CO"),
+    ("PRONOUN:POSSESSIVE", "my (my)+len, dty (your)+len, e (his)+len, e (her, no len, h- before vowel), nyn (our/your pl./their)+ecl", "*my vlein* (my year), *e charrey* (his friend), *e carrey* (her friend)", "CO"),
+    ("PRONOUN:PREPOSITIONAL", "Prepositions inflect for person: ec->aym/ayd/echey/eck/ain/eu/oc, er->orrym/ort/er/urree/orrin/erriu/orroo", "*t'eh aym* (I have it, lit. it is at-me)", "CO"),
+    ("PRONOUN:DEMONSTRATIVE", "shoh (this), shen (that), shid (yonder); used after noun", "*yn dooinney shoh* (this man), *yn lioar shen* (that book), *yn thie shid* (yonder house)", "CO"),
+    ("PRONOUN:RELATIVE", "Relative pronoun not usually expressed; relative clause formed by verb alone or with 'ta'", "*yn dooinney haink* (the man who came), *yn ven ta cummal ayns shoh* (the woman who lives here)", "CO"),
+    # --- Preposition rules ---
+    ("PREPOSITION:LENITION", "Many prepositions trigger lenition: er (on), fo (under), dy (to), ny (than), ro (too), veih (from)", "*er vullagh* (on top), *fo halloo* (underground), *dy vie* (well, lit. to good)", "CO"),
+    ("PREPOSITION:INFLECTION", "Prepositions inflect for person/number (prepositional pronouns)", "*ec* -> aym, ayd, echey, eck, ain, eu, oc", "CO"),
+    ("PREPOSITION:COMPOUND", "Common compound prepositions: er-ash (back), er-lheh (separate), mysh (about), trooid (through)", "*Haink eh er-ash* (He came back), *mysh tree bleeaney* (about three years)", "CO"),
+    # --- Copula rules ---
+    ("COPULA:PRESENT", "she (is) - identifies, classifies, emphasises; often in cleft constructions", "*She Manninagh mee* (I am Manx), *She dooinney mie eh* (He is a good man)", "CO"),
+    ("COPULA:NEGATIVE", "cha nee (is not)", "*Cha nee Manninagh mee* (I am not Manx)", "CO"),
+    ("COPULA:PAST", "by/ba (was) + lenition", "*By vie lhiam shen* (I liked that, lit. was good with-me that)", "CO"),
+    ("COPULA:QUESTION", "nee (is it?) in questions", "*Nee Manninagh oo?* (Are you Manx?)", "CO"),
+    ("COPULA:VS_TA", "she classifies/identifies ('is a'), ta describes state/location ('is being/is at')", "*She fer-Loss eh* (He is a gardener) vs *T'eh gobbragh* (He is working)", "CO"),
+    # --- Word order rules ---
+    ("WORD_ORDER:VSO", "Basic word order is Verb-Subject-Object", "*Honnick yn dooinney yn kayt* (The man saw the cat - lit. saw the man the cat)", "CO"),
+    ("WORD_ORDER:COPULA_FIRST", "Copula sentences: She + predicate + subject", "*She Manninagh mee* (I am a Manxman - lit. Is Manxman I)", "CO"),
+    ("WORD_ORDER:ADJECTIVE_AFTER", "Adjectives follow the noun", "*thie beg* (small house), *moddey mooar* (big dog)", "CO"),
+    ("WORD_ORDER:GENITIVE_AFTER", "Genitive noun follows the possessed noun", "*dorrys y thie* (the door of the house)", "CO"),
+    ("WORD_ORDER:ADVERB_POSITION", "Adverbs typically follow the verb or come at end of clause", "*Haink eh dy-tappee* (He came quickly)", "CO"),
+    ("WORD_ORDER:FRONTING", "Fronting for emphasis using copula cleft: She + fronted element + relative clause", "*She ayns Doolish v'eh cummal* (It was in Douglas he was living)", "CO + UD corpus"),
+    # --- Numeral rules ---
+    ("NUMERAL:SYSTEM", "Manx traditionally uses vigesimal (base-20) counting; decimal also used in modern Manx", "Vigesimal: *feed* (20), *daeed* (40 = 2x20), *tree feed* (60 = 3x20)", "CO"),
+    ("NUMERAL:UN", "un (one) + singular noun + lenition", "*un vlein* (one year, < blein)", "CO"),
+    ("NUMERAL:DAA", "daa (two) + singular noun + lenition", "*daa vlein* (two years), *daa hie* (two houses)", "CO"),
+    ("NUMERAL:TREE_TO_JEIH", "tree (3) to jeih (10) + plural noun", "*tree thieyn* (three houses), *queig bleeantyn* (five years)", "CO"),
+    ("NUMERAL:COUNTING_FORM", "Counting form (no noun): nane, jees, tree, kiare, queig, shey, shiaght, hoght, nuy, jeih", "Traditional: *nane-jeig* (11), *daa-yeig* (12), *tree-jeig* (13)...", "CO"),
 ]
 
-for cat, subcat, rule, examples, source in lenition_rules:
+for cat, rule, examples, source in all_grammar_rules:
     conn.execute(
         "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5b. Lenition trigger contexts ---
-lenition_triggers = [
-    ("MUTATION", "LENITION_TRIGGER", "After the article yn with feminine singular nouns", "*yn ven* (the woman, < ben), *yn çheer* → *yn heer* (the land)", "Wheeler/CO"),
-    ("MUTATION", "LENITION_TRIGGER", "After possessive adjectives my (my) and dty (your sg.)", "*my voir* (my mother, < moir), *dty hie* (your house, < thie)", "Wheeler/CO + leniter.pl"),
-    ("MUTATION", "LENITION_TRIGGER", "After dy (to/that) + verbal noun", "*dy yannoo* (to do, < jannoo), *dy gholl* (to go, < goll)", "Wheeler/CO"),
-    ("MUTATION", "LENITION_TRIGGER", "Past tense independent form (synthetic)", "*ghow* (took, < gow), *hrog* (built, < trog)", "Wheeler study 5"),
-    ("MUTATION", "LENITION_TRIGGER", "After er (after/perfect) with most consonants", "*er vrishey* (having broken), *er hashtey* (having saved)", "Wheeler study 6"),
-    ("MUTATION", "LENITION_TRIGGER", "After cha/nagh (negative particles)", "*cha nel* (is not), *cha jarg* → *cha yarg* (cannot)", "Wheeler/CO"),
-    ("MUTATION", "LENITION_TRIGGER", "Adjective after feminine singular noun", "*ben vie* (good woman, < mie)", "Wheeler/CO"),
-    ("MUTATION", "LENITION_TRIGGER", "After preposition + article (in some combinations)", "*'sy valley* (in the town, < balley → valley after 'sy)", "Wheeler/CO"),
-    ("MUTATION", "LENITION_TRIGGER", "Vocative (direct address)", "*Vummig!* (Mother!), *Vanninagh!* (Manxman!)", "traditional usage"),
-    ("MUTATION", "LENITION_TRIGGER", "After certain numerals (un, daa)", "*un vlein* (one year, < blein), *daa vlein* (two years)", "Wheeler/CO"),
-]
-
-for cat, subcat, rule, examples, source in lenition_triggers:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5c. Eclipsis/Nasalisation rules ---
-eclipsis_rules = [
-    ("MUTATION", "ECLIPSIS", "b → m", "*boayrd* → *moayrd*", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "c, k → g", "*kione* → *gione*", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "d → n", "*dooinney* → *nooinney*", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "f → v", "*fockle* → *vockle*", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "g → n (ng before vowels)", "*goll* → *n'gholl* (after er)", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "j → n", "*jannoo* → *yannoo* (lenition) or *n'yannoo* (nasalisation after er)", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "p → b", "*peccah* → *beccah*", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "t → d", "*toshiaght* → *doshiaght*", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS", "Vowels: n' prefix added", "*ee* → *n'ee*, *immee* → *n'immee* (after er)", "Wheeler study 6"),
-]
-
-eclipsis_triggers = [
-    ("MUTATION", "ECLIPSIS_TRIGGER", "After nyn (our/your pl./their possessive)", "*nyn moayrd* (their table, < boayrd), *nyn gione* (their head, < kione)", "Wheeler/CO"),
-    ("MUTATION", "ECLIPSIS_TRIGGER", "After er with some verbs (variable, lexically conditioned)", "*er n'gholl* (having gone), *er n'ee* (having eaten) — but many verbs take lenition instead", "Wheeler study 6"),
-    ("MUTATION", "ECLIPSIS_TRIGGER", "Dependent verb forms (after cha, nagh, nee, row, etc.)", "*cha dug* (did not give, < tug), *nagh row* (was not, < row)", "Wheeler study 5"),
-]
-
-for cat, subcat, rule, examples, source in eclipsis_rules + eclipsis_triggers:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5d. Article rules ---
-article_rules = [
-    ("ARTICLE", "FORM", "yn before singular nouns; ny before plural nouns and genitive singular feminine", "*yn dooinney* (the man), *ny deiney* (the men), *kione ny bleeaney* (end of the year)", "CO/Wheeler"),
-    ("ARTICLE", "MUTATION_MASC", "yn does NOT cause lenition on masculine singular nouns", "*yn fer* (the man), *yn thie* (the house) — no mutation", "CO/Wheeler"),
-    ("ARTICLE", "MUTATION_FEM", "yn causes lenition on feminine singular nouns (except d, t, s+vowel which take t-prefix)", "*yn ven* (the woman, < ben), *yn chlagh* (the stone, < clagh)", "CO/Wheeler"),
-    ("ARTICLE", "T_PREFIX", "yn + feminine noun beginning with s+vowel: s replaced by t", "*yn traie* (the beach, from *straie*) — but this pattern is limited in Manx", "CO/Wheeler"),
-    ("ARTICLE", "H_PREFIX", "ny + plural beginning with vowel: h-prefix", "*ny h-eiyrt* (the followers)", "CO/Wheeler"),
-    ("ARTICLE", "GENITIVE_MASC", "Genitive of masculine: yn + lenition of following noun", "*kione yn tholtain* (the ruin's head), but see individual declensions", "CO/Wheeler"),
-    ("ARTICLE", "GENITIVE_FEM", "Genitive of feminine: ny + (no lenition or eclipsis)", "*bun ny creg* (the foot of the rock)", "CO/Wheeler"),
-]
-
-for cat, subcat, rule, examples, source in article_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5e. Verb rules ---
-verb_rules = [
-    ("VERB", "STRUCTURE", "Four principal parts: base, verbal noun, past tense, participle", "*cur* (base), *cur* (VN), *hug* (past), *currit* (participle); many verbs are defective", "Wheeler study 5"),
-    ("VERB", "INDEPENDENT_DEPENDENT", "Independent forms in positive main/relative clauses; dependent forms after cha, nagh, nee, row", "Independent: *honnick mee* (I saw); Dependent: *cha vaik mee* (I didn't see)", "Wheeler study 5"),
-    ("VERB", "PAST_SYNTHETIC", "Synthetic past = lenited base (consonant) or d'+base (vowel)", "*ghow* (took, < gow), *hie* (went, < goll), *d'ee* (ate, < ee)", "Wheeler study 5"),
-    ("VERB", "PAST_PERIPHRASTIC", "Periphrastic past = ren + verbal noun", "*ren mee goll* (I went), *ren ad toshiaght* (they began)", "Wheeler study 5"),
-    ("VERB", "FUTURE_SUFFIX", "Future: base + -ee (3rd person), -ym (1st sg), -mayd (1st pl)", "*ver-ym* (I will give), *hig-ee* (he/she will come)", "Wheeler study 5"),
-    ("VERB", "CONDITIONAL", "Conditional: base + -in (1sg), -agh (other persons)", "*verrin* (I would give), *harragh eh* (he would come)", "Wheeler study 5"),
-    ("VERB", "IMPERATIVE", "Imperative: singular = base; plural = base + -jee (biblical) or base + shiu (modern)", "*tar!* (come!), *tar-jee!* / *tar shiu!* (come! pl.)", "Wheeler study 5"),
-    ("VERB", "PERFECT", "Perfect: ta + subject + er + verbal noun (lenited/nasalised)", "*ta mee er n'gholl* (I have gone), *ta eh er vrishey* (he has broken)", "Wheeler study 5/6"),
-    ("VERB", "PROGRESSIVE", "Progressive: ta + subject + gerund (ag/ec + VN)", "*ta mee cloie* (I am playing), *v'eh screeu* (he was writing)", "Wheeler study 5"),
-    ("VERB", "RELATIVE_FUTURE", "Relative future: used in subordinate clauses and proverbs; suffix -ys/-s", "*brishys accyrys trooid boallaghyn cloaie* (hunger will break through stone walls)", "Wheeler study 5"),
-]
-
-for cat, subcat, rule, examples, source in verb_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5f. Noun rules ---
-noun_rules = [
-    ("NOUN", "DECLENSION_CLASSES", "Five basic noun declension classes based on genitive: A (-ey), B (-ee), C (-agh), D (stem change), E (irregular)", "A: *braag/braagey*, B: *blein/bleeaney*→ actually B is -ee, C: genitive -agh, D: stem vowel change", "Wheeler study 3"),
-    ("NOUN", "PLURAL_REGULAR", "Most common plural: -yn suffix added to singular", "*thie/thieyn* (houses), *fer/fir* (men — irregular)", "Wheeler study 1"),
-    ("NOUN", "PLURAL_CLASSES", "Plural classes: 1 (-yn), 1a (-ghyn/-aghyn), 1b (-jyn), 1c (-inyn), 1d (-tyn/-teeyn), 1e (-eeyn/-eenyn), 2 (-ee), 3 (stem change), 4 (vowel change)", "See Appendix C for full tables", "Wheeler study 1"),
-    ("NOUN", "GENITIVE_USE", "Genitive case used after another noun (compound), after verbal nouns, and after certain prepositions", "*baatey eeasteyragh* or *baatey yn eeasteyr* (the fisherman's boat), *screeu lioar* (writing a book → *lioar* could take genitive)", "Wheeler study 2"),
-    ("NOUN", "GENDER", "Two genders: masculine (nm) and feminine (nf). Gender affects article mutation and adjective agreement", "Masc: *yn dooinney mooar* (the big man); Fem: *yn ven vooar* (the big woman, < mooar lenited)", "Wheeler/CO"),
-]
-
-for cat, subcat, rule, examples, source in noun_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5g. Adjective rules ---
-adj_rules = [
-    ("ADJECTIVE", "POSITION", "Adjective follows the noun in Manx", "*thie beg* (small house), *fer mooar* (big man)", "Wheeler study 4/CO"),
-    ("ADJECTIVE", "MUTATION_AFTER_FEM", "Adjective lenites after feminine singular noun", "*ben vie* (good woman, < mie), *ben vooar* (big woman, < mooar)", "Wheeler study 4/CO"),
-    ("ADJECTIVE", "COMPARATIVE", "Comparative: ny + comparative form (often -ey ending for -agh adjectives)", "*ny smoo* (bigger, < mooar), *ny s'berçhee* (richer)", "Wheeler study 4"),
-    ("ADJECTIVE", "SUPERLATIVE", "Superlative: yn + comparative form (same as comparative but with yn)", "*yn smoo* (the biggest)", "Wheeler study 4"),
-    ("ADJECTIVE", "PREDICATIVE", "Predicative adjective uses copula: She ... eh/ee", "*She mie eh* (it is good), *T'eh mooar* (it is big — with *ta* for temporary state)", "CO"),
-]
-
-for cat, subcat, rule, examples, source in adj_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5h. Copula rules ---
-copula_rules = [
-    ("COPULA", "FORM", "She (is) — used for identification, classification, and emphasis", "*She dooinney mie eh* (he is a good man), *She Manninagh mee* (I am a Manxman)", "UD corpus + CO"),
-    ("COPULA", "NEGATIVE", "Cha nee (is not)", "*Cha nee shen yn aght* (that is not the way)", "UD corpus + CO"),
-    ("COPULA", "PAST", "By (was — copula)", "*By vie lhiam shen* (I would like that / I liked that)", "CO"),
-    ("COPULA", "CLEFT", "Cleft sentences: She ... (da/ec) + relative clause", "*She ec y trass laa haink eh* (It was on the third day he came)", "UD corpus"),
-    ("COPULA", "VS_TA", "She for permanent identity/classification; ta for temporary state/location", "*She fer-Loss eh* (he is a herbalist — identity); *T'eh skee* (he is tired — state)", "CO"),
-]
-
-for cat, subcat, rule, examples, source in copula_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5i. Preposition rules ---
-prep_rules = [
-    ("PREPOSITION", "INFLECTED_PREPS", "Prepositions inflect for person/number: ec (at), er (on), da (to), jeh (of), lesh (with), rish (to/against), veih (from), ayn (in), fo (under), harrish (over), mysh (about), roish (before), trooid (through)", "ec: aym, ayd, echey, eck, ain, eu, oc; er: orrym, ort, er, urree, orrin, erriu, orroo", "Wheeler/CO + UD mwtokens.tsv"),
-    ("PREPOSITION", "COMPOUND_PREPS", "Compound prepositions: er son (for), er-y-fa (because), kyndagh rish (because of), mastey (among), mysh (about), trooid (through)", "*er son shen* (for that), *kyndagh rish yn emshyr* (because of the weather)", "CO"),
-    ("PREPOSITION", "MUTATIONS_AFTER", "Some prepositions trigger lenition of following noun (see mutation tables)", "*dy + VN: dy yannoo* (to do); *'sy + noun: 'sy valley* (in the town)", "Wheeler/CO"),
-]
-
-for cat, subcat, rule, examples, source in prep_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5j. Pronoun rules ---
-pronoun_rules = [
-    ("PRONOUN", "PERSONAL", "Personal pronouns: mee (I), oo (you sg), eh (he), ee (she), shin (we), shiu (you pl), ad (they)", "Emphatic forms: mish, uss, eshyn, ish, shinyn, shiuish, adsyn", "CO"),
-    ("PRONOUN", "POSSESSIVE", "Possessive adjectives: my (my, + lenition), dty (your sg, + lenition), e (his, + lenition), e (her, + h-prefix before vowels, NO lenition), nyn (our/your pl/their, + eclipsis)", "*my voir* (my mother), *e hie* (his house), *e thie* (her house — no lenition, h-prefix: *e hEnnym*)", "CO + UD corpus"),
-    ("PRONOUN", "DEMONSTRATIVE", "shoh (this), shen (that), shid (yonder); used after noun", "*yn dooinney shoh* (this man), *yn lioar shen* (that book), *yn thie shid* (yonder house)", "CO"),
-    ("PRONOUN", "RELATIVE", "Relative pronoun not usually expressed; relative clause formed by verb alone or with 'ta'", "*yn dooinney haink* (the man who came), *yn ven ta cummal ayns shoh* (the woman who lives here)", "CO"),
-]
-
-for cat, subcat, rule, examples, source in pronoun_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5k. Word order rules ---
-word_order_rules = [
-    ("WORD_ORDER", "VSO", "Basic word order is Verb-Subject-Object", "*Honnick yn dooinney yn kayt* (The man saw the cat — lit. saw the man the cat)", "CO"),
-    ("WORD_ORDER", "COPULA_FIRST", "Copula sentences: She + predicate + subject", "*She Manninagh mee* (I am a Manxman — lit. Is Manxman I)", "CO"),
-    ("WORD_ORDER", "ADJECTIVE_AFTER", "Adjectives follow the noun", "*thie beg* (small house), *moddey mooar* (big dog)", "CO"),
-    ("WORD_ORDER", "GENITIVE_AFTER", "Genitive noun follows the possessed noun", "*dorrys y thie* (the door of the house)", "CO"),
-    ("WORD_ORDER", "ADVERB_POSITION", "Adverbs typically follow the verb or come at end of clause", "*Haink eh dy-tappee* (He came quickly)", "CO"),
-    ("WORD_ORDER", "FRONTING", "Fronting for emphasis using copula cleft: She + fronted element + relative clause", "*She ayns Doolish v'eh cummal* (It was in Douglas he was living)", "CO + UD corpus"),
-]
-
-for cat, subcat, rule, examples, source in word_order_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
-    )
-    grammar_count += 1
-
-# --- 5l. Numeral rules ---
-numeral_rules = [
-    ("NUMERAL", "SYSTEM", "Manx traditionally uses vigesimal (base-20) counting; decimal also used in modern Manx", "Vigesimal: *feed* (20), *daeed* (40 = 2×20), *tree feed* (60 = 3×20); Decimal: *jeih, feed, jeih as feed* etc.", "CO"),
-    ("NUMERAL", "UN", "un (one) + singular noun + lenition", "*un vlein* (one year, < blein)", "CO"),
-    ("NUMERAL", "DAA", "daa (two) + singular noun + lenition", "*daa vlein* (two years), *daa hie* (two houses)", "CO"),
-    ("NUMERAL", "TREE_TO_JEIH", "tree (3) to jeih (10) + plural noun", "*tree thieyn* (three houses), *queig bleeantyn* (five years)", "CO"),
-    ("NUMERAL", "COUNTING_FORM", "Counting form (no noun): nane, jees, tree, kiare, queig, shey, shiaght, hoght, nuy, jeih", "Traditional: *nane-jeig* (11), *daa-yeig* (12), *tree-jeig* (13)...", "CO"),
-]
-
-for cat, subcat, rule, examples, source in numeral_rules:
-    conn.execute(
-        "INSERT INTO grammar_rules (category, rule_text, examples, source) VALUES (?,?,?,?)",
-        (f"{cat}:{subcat}", rule, examples, source)
+        (cat, rule, examples, source)
     )
     grammar_count += 1
 
@@ -470,55 +457,26 @@ conn.commit()
 print(f"  Inserted {grammar_count:,} grammar rules")
 
 # ============================================================
-# 6. MUTATIONS TABLE - systematic mapping of base → mutated forms
+# 6. MUTATIONS - computed lenition/eclipsis for all known words
 # ============================================================
 print("\n=== 6. MUTATIONS ===")
 
 mut_count = 0
 
-# Build lenition mappings from leniter.pl regex rules
-lenition_map = [
-    # (initial_pattern, lenited_result, description)
-    ('b', 'v', 'b → v'),
-    ('bw', 'v', 'bw → v'),
-    ('m', 'v', 'm → v'),
-    ('mw', 'v', 'mw → v'),
-    ('ch', 'h', 'ch → h (already aspirated)'),
-    ('çh', 'h', 'çh → h'),
-    ('c', 'ch', 'c → ch (before non-h)'),
-    ('k', 'ch', 'k → ch (before non-h)'),
-    ('d', 'gh', 'd → gh'),
-    ('dh', 'gh', 'dh → gh'),
-    ('f', '', 'f → zero (disappears)'),
-    ('g', 'gh', 'g → gh (before a,o,u or consonant)'),
-    ('g', 'y', 'g → y (before e,i)'),
-    ('j', 'y', 'j → y'),
-    ('p', 'ph', 'p → ph (before non-h)'),
-    ('qu', 'wh', 'qu → wh'),
-    ('sl', 'l', 'sl → l'),
-    ('sn', 'n', 'sn → n'),
-    ('str', 'hr', 'str → hr'),
-    ('sh', 'h', 'sh → h (before vowels)'),
-    ('s', 'h', 's → h (before vowels)'),
-    ('t', 'h', 't → h'),
-    ('th', 'h', 'th → h'),
-]
+# Collect all known words from focloir.txt
+words = set()
+if os.path.exists(focloir_path):
+    with open(focloir_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            parts = line.strip().split('\t')
+            if parts:
+                word, _, _ = parse_pos(parts[0])
+                if word and len(word) >= 2 and word[0].isalpha():
+                    words.add(word.lower())
 
-# Now apply these to actual words from focloir.txt to build the mutations table
-with open(os.path.join(GAELG, 'focloir.txt'), 'r', encoding='utf-8') as f:
-    words = set()
-    for line in f:
-        parts = line.strip().split('\t')
-        if parts:
-            word, _, _ = parse_pos(parts[0])
-            if word and len(word) >= 2 and word[0].isalpha():
-                words.add(word.lower())
-
-# For each word, compute its lenited and eclipsed forms
 def lenite(word):
     """Apply Manx lenition rules (from leniter.pl)."""
     w = word
-    # Order matters - more specific patterns first
     if re.match(r'^[bm]w', w, re.I):
         return re.sub(r'^[bBmM]w?', lambda m: 'V' if m.group()[0].isupper() else 'v', w, count=1)
     if re.match(r'^[bm]', w, re.I):
@@ -551,7 +509,7 @@ def lenite(word):
         return re.sub(r'^[dD]h?', lambda m: 'Gh' if m.group()[0].isupper() else 'gh', w, count=1)
     if re.match(r'^[fF]', w):
         return re.sub(r'^[fF]', '', w, count=1)
-    return w  # no change
+    return w
 
 def eclipse(word):
     """Apply Manx eclipsis/nasalisation rules."""
@@ -576,7 +534,6 @@ def eclipse(word):
         return "n'" + w
     return w
 
-# Apply to all words and store
 for word in sorted(words):
     lenited = lenite(word)
     if lenited != word:
@@ -585,7 +542,7 @@ for word in sorted(words):
             (word, lenited, 'lenition', 'general', 'computed from leniter.pl rules')
         )
         mut_count += 1
-    
+
     eclipsed = eclipse(word)
     if eclipsed != word and eclipsed != lenited:
         conn.execute(
@@ -600,13 +557,17 @@ print(f"  Inserted {mut_count:,} mutation entries")
 # ============================================================
 # FINAL STATUS
 # ============================================================
-print("\n" + "="*50)
+print("\n" + "=" * 50)
 print("=== FINAL DATABASE STATUS ===")
-print("="*50)
+print("=" * 50)
 for table in ['dictionary', 'inflections', 'parallel_sentences', 'grammar_rules', 'phrases', 'mutations']:
     count = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
-    status = '✓' if count > 0 else '✗ EMPTY'
+    status = 'OK' if count > 0 else 'EMPTY'
     print(f"  {table}: {count:,} {status}")
+
+db_size = os.path.getsize(DB_PATH)
+print(f"\nDatabase size: {db_size / 1024 / 1024:.1f} MB")
+print(f"Database path: {DB_PATH}")
 
 conn.close()
 print("\nDone!")
