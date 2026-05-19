@@ -1094,6 +1094,27 @@ def html_to_text(content: str) -> str:
     return html.unescape(''.join(p.parts))
 
 
+def _first_manx_word(cell: str) -> str:
+    """Take the first Manx token from a cell like 'Sooill, an eye, or y tooill...'
+
+    Strip leading articles (ny, yn, y), prepositions ('da'n, gyn), and the
+    initial mutation prefix (h-, ch- on aspiration).
+    """
+    cell = re.sub(r"^[\s,;:.]+", '', cell)
+    # Drop leading article-like words
+    leading_strip = re.compile(
+        r"^(?:y|yn|ny|da'?n|da|gyn|o|of|the|a|an)\s+", re.IGNORECASE)
+    while True:
+        new = leading_strip.sub('', cell, count=1)
+        if new == cell:
+            break
+        cell = new
+    m = re.match(r"([A-Za-zçÇ][A-Za-zçÇ’'\-]+)", cell)
+    if not m:
+        return ''
+    return clean_token(m.group(1))
+
+
 def ingest_source_6_kelly_ch9(conn, dedup) -> tuple[int, int]:
     content = fetch_url(KELLY_CH9_URL)
     if content is None:
@@ -1102,39 +1123,61 @@ def ingest_source_6_kelly_ch9(conn, dedup) -> tuple[int, int]:
     infl_added = 0
     rules_added = 0
 
-    # Heuristic: find dictionary-style table rows of the form
-    # "Manx-word, English-gloss" or paradigm lines.
-    # The page lists declensions; look for arrow-like patterns and "gen."/"plur." markers.
-    text_lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    # Reflow the text: turn each chunk between blank-line gaps into one cell.
+    # Tables in this HTML have row label, then two columns (Singular, Plural).
+    raw_cells: list[str] = []
+    buf: list[str] = []
+    for ln in text.splitlines():
+        if ln.strip():
+            buf.append(ln.strip())
+        else:
+            if buf:
+                raw_cells.append(' '.join(buf))
+                buf = []
+    if buf:
+        raw_cells.append(' '.join(buf))
 
-    # Look for explicit paradigms in the prose, e.g.
-    # "Nom. ben, Gen. mna, Plur. mnaa"
-    paradigm_re = re.compile(
-        r"\bNom\.\s*([A-Za-zçÇ’'\-]+).*?Gen\.\s*([A-Za-zçÇ’'\-]+)"
-        r"(?:.*?(?:Plur|Pl)\.\s*([A-Za-zçÇ’'\-]+))?",
-        re.IGNORECASE,
-    )
-    for ln in text_lines:
-        for m in paradigm_re.finditer(ln):
-            nom = clean_token(m.group(1))
-            gen = clean_token(m.group(2)) if m.group(2) else ''
-            plur = clean_token(m.group(3)) if m.group(3) else ''
-            if not is_plausible_manx(nom):
-                continue
-            if is_plausible_manx(gen) and gen.lower() != nom.lower():
+    nom_re = re.compile(r"^Nom\.?\*?$", re.IGNORECASE)
+    gen_re = re.compile(r"^Gen\.?\*?$", re.IGNORECASE)
+    # When we see a column-header "Singular." we know a new paradigm is starting:
+    # invalidate current_nom so subsequent Gen. without a preceding Nom. is ignored.
+    sing_header_re = re.compile(r"^Singular\.?$", re.IGNORECASE)
+
+    current_nom: str | None = None
+    i = 0
+    while i < len(raw_cells):
+        cell = raw_cells[i].strip()
+        if sing_header_re.match(cell):
+            current_nom = None
+            i += 1
+            continue
+        if nom_re.match(cell):
+            sing = _first_manx_word(raw_cells[i + 1]) if i + 1 < len(raw_cells) else ''
+            plur = _first_manx_word(raw_cells[i + 2]) if i + 2 < len(raw_cells) else ''
+            if is_plausible_manx(sing):
+                current_nom = sing
+                if (is_plausible_manx(plur) and plur.lower() != sing.lower()):
+                    if dedup.add_inflection(
+                        base=sing, inflected=plur, infl_type='plural',
+                        pos='noun', pattern_class='kelly_declension',
+                        notes='Kelly Grammar Ch.9 (online)',
+                    ):
+                        infl_added += 1
+            i += 3
+            continue
+        if gen_re.match(cell) and current_nom:
+            gen_sing = _first_manx_word(raw_cells[i + 1]) if i + 1 < len(raw_cells) else ''
+            if is_plausible_manx(gen_sing) and gen_sing.lower() != current_nom.lower():
                 if dedup.add_inflection(
-                    base=nom, inflected=gen, infl_type='genitive',
+                    base=current_nom, inflected=gen_sing,
+                    infl_type='genitive',
                     pos='noun', pattern_class='kelly_declension',
                     notes='Kelly Grammar Ch.9 (online)',
                 ):
                     infl_added += 1
-            if is_plausible_manx(plur) and plur.lower() != nom.lower():
-                if dedup.add_inflection(
-                    base=nom, inflected=plur, infl_type='plural',
-                    pos='noun', pattern_class='kelly_declension',
-                    notes='Kelly Grammar Ch.9 (online)',
-                ):
-                    infl_added += 1
+            i += 3
+            continue
+        i += 1
 
     # Add a few overview rules summarizing Kelly's chapter
     summary_rules = [
