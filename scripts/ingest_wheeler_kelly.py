@@ -929,9 +929,12 @@ def ingest_source_5(conn, dedup) -> tuple[int, int]:
     rules_added = 0
 
     text = open(WHEELER_6, encoding='utf-8', errors='replace').read()
+    # Strip out "(x)" epenthesis markers inside forms (e.g. "ho(y)lley" -> "hoylley")
+    # while keeping enclosing punctuation outside the form intact.
+    text_clean = re.sub(r"\(([a-zçÇ]+)\)", r"\1", text)
 
     # Catch "verb: er XXX (N)" pattern anywhere — the most reliable signal
-    for m in PERFECT_ENTRY_RE.finditer(text):
+    for m in PERFECT_ENTRY_RE.finditer(text_clean):
         verb = clean_token(m.group('verb'))
         mut = clean_token(m.group('mut'))
         # Reconstruct full perfect: "er <mut>" (mut already contains optional n')
@@ -939,6 +942,9 @@ def ingest_source_5(conn, dedup) -> tuple[int, int]:
             continue
         # Reject if mut is just "n" or a bare prefix
         if len(mut.replace("’", '').replace("'", '').strip('n -')) < 2:
+            continue
+        # Reject category labels like "YEE:" (all uppercase, used as section headers)
+        if verb.isupper() and len(verb) <= 4:
             continue
         perfect_form = f"er {mut}"
         count = m.group('count')
