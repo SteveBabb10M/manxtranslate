@@ -1,0 +1,4369 @@
+﻿" » .	'1
+' ^ M ^ X í
+!	/^ .'^ V.;
+i	' Ki >> .
+í® 4
+^b.--».- • • • ’^<\\y'
+A PRACTICAL GRAMMAR
+OF THE
+OK
+language ok % Me ok Um,
+USUALLY CALLED
+MANK S.'
+BY THE REV. JOHN KELLY, LL.D.,
+VICAR OF ARDLEIGH, AND RECTOR OF COPFORD,
+IN THE COUNTY OF ESSEX.
+EDITED, TOGETHER
+WITH AN INTRODUCTION, LIFE OF DR. KELLY, AND NOTES,
+BT THE
+REV. WILLIAM GILL
+VICAR OF MALEW.
+DOUGLAS, ISLE OF MAN:
+PRINTED FOR THE MANX SOCIETY.
+MDCCCLIX.
+Facsimile reprint for BERNARD QUARITCH, 15 Piccadilly, London.
+1870.
+PJ3
+líll
+Ku.
+I «10
+
+EDITOR’S INTRODUCTION.
+mHE Manx Grammar, like the language itself, was fast
+hastening to decay. The original and only edition had
+become extremely scarce; insomuch that a copy could with
+difficulty be found from which to re-edit the work. At this
+crisis The Manx Society opportunely intervened for its preserva-
+tion. The Society was formed in 1858, "for the publication of
+National Documents of the Isle of Man.” Among the first
+works to which it turned its attention was Dr. Kelly's Manx
+Grammar, which it deemed deserving of a place among its early
+publications. In the restoration of this book, the Society
+acknowledges its obligations to a lady, a warm friend of the Island
+and a relative of the deceased author, for the generous donation
+of half the cost of the impression.
+Besides the Grammar, Dr. Kelly had prepared two works of
+great labour, and, in a philological point of view, great value,—
+a Manx and English Dictionary, and a Triglot Dictionary of
+Manx, Gaelic, and Irish, based upon English. These works are
+still lying in manuscript, but complete, and ready for the press.
+iv
+editor’s introduction.
+The Society considers the publication of these too heavy an
+undertaking for its present funds; but it is not without hope
+that it may at some future, perhaps not distant, time be able to
+aid in giving them to the world, and that the present publication
+may open the way to such a result.
+This reprint of the Grammar is an accurate transcript of the
+original work, with corrections only of errors of the press and of
+some obvious inaccuracies of the pen. The old plan of making
+an English Grammar was to reduce the structure of the language
+to a rigid conformity to Latin and Greek, in the number and
+names of cases, and of moods and tenses. In Manx the same
+thing was thought imperative. The modern rule is, to have just
+as many cases, and as many moods and tenses, as there are actual
+variations of the words, without the admission of prepositions or
+of auxiliary verbs. To this rule the laws of grammar seem to
+require the Manx, as well as the English, to be conformed. As,
+however, the adoption of such a principle in the present instance
+would involve the rearrangement, to a considerable extent, of
+the Grammar, it is thought advisable not to attempt the change,
+but to give the work in its original integrity. Dr. Kelly’s
+Grammar thus presented, especially viewed as an original pro-
+duction, unaided by any pre-existent grammar, cannot fail to
+strike the intelligent reader as reflecting the highest credit on
+the author’s industry and ingenuity.
+The object of this reprint is not to uphold the Manx as a
+spoken language,—that were a hopeless attempt, were the end
+ever so desirable; but to afford some assistance to the student of
+this interesting branch of the ancient Celtic, and to obtain for it,
+when its lifetime is gone by, a place among the records of the
+editor's introduction.
+V
+dead languages of Europe. The decline of the spoken Manx,
+within the memory of the present generation, has been marked.
+The language is no longer heard in our courts of law, either from
+the bench or the bar, and seldom from the witness-box. The
+courts are indeed still fenced in Manx, according to ancient tra-
+ditionary form; and the Island laws are still promulgated in
+that language on the Tynwald Mount, where the last lingering
+accents of the Gaelic in Man—once the language of Europe, the
+universal language of the British Isles—will probably be heard.
+In our churches the language was used by many of the present
+generation of clergy three Sundays in the month. It was after-
+wards restricted to every other Sunday; and is now entirely dis-
+continued in most of the churches. In the schools throughout
+the Island the Manx has ceased to be taught; and the introduc-
+tion of the Government system of education has done much to
+displace the language. It is rarely now heard in conversation,
+except among the peasantry. It is a doomed language,—an ice-
+berg floating into southern latitudes.
+Let it nut, however, be thought that its end is immediate.
+Among the peasantry it still retains a strong hold. It is the
+language of their affections and their choice,—the language to
+which they habitually resort in their communications with each
+other. And no wonder; for it is the language which they find
+most congenial to their habits of thought and feeling. In Eng-
+lish, even where they have a fair knowledge of the tongue, they
+speak with hesitation and under restraint. In Manx they are
+fluent, and at ease. There is little probability, therefore, of their
+soon forgetting their cliengey-ny-mayrey (mother-tongue).
+A language thus dear to the peasantry from its innate adap-
+vi
+editor's introduction.
+tation to their use, possesses at the same time no small recom-
+mendations to the attention of the philologist and antiquary,
+and especially of those whose office it is to instruct the people in
+morals and religion. A few of its distinctive qualities may be
+here noticed.
+The language is peculiarly forcible and expressive, as far as
+the range of its vocabulary extends. For the purposes of devo-
+tion it is especially adapted.* There is a solemnity and sim-
+plicity in the Manx Liturgy of which the intelligent worshipper
+cannot but feel conscious. In the Manx Scriptures the idiom of
+the language seems to bear a strong affinity to that of the
+originals, especially of the Old Testament.
+The poetical capabilities of the language are beautifully ex-
+hibited in many of the effusions of the native muse. The follow-
+ing fugitive production of the pen of a late native clergyman
+(the Rev. T. Stephen), which appeared many years ago in an
+Island newspaper, and is now (at the time of writing this Intro-
+duction) probably lost to every person but the Editor, will bear
+comparison, for pathos and idiomatic beauty, with any passage
+that can be produced from English poetry :—
+“ As ere ta gloyr, agh aalid ennym vie,—
+Ennym l ta myr y ghall ta sheidey shaghey ?
+Shoh moylley’n pobble, my she moylley shen.
+Son ere ta’n pobble, agh yurnaag anreaghit,—
+Earroo neuchinjagh, ta son jannoo mooar
+Jeh nheeghyn eddrym nagh vel toilchin scansh,
+As coontey cadjin reddyn ta seen arrym ?
+Ta’d moylley as ta’d ooashlagh shen nagh nhione daue ;
+As shen ta’d gloyragh jiu, ta’d jiooldey mairagh;
+* An eminent Scotch nobleman is said to have expressed himself thus: — “If I
+wish to speak on philosophy, I employ the Greek language. If I utter commands, the
+Latin is best to express them. If I make love, I speak in French. But if I address my
+Maker, I have recourse to the Gaelic.”
+editor's introduction.	vii
+Cha ’soc eer quoi, agh eer myr tad’yr leeidit;'
+Fer er fer elley geiyrt, myr guoiee trooid doarlish.
+As cre’n cooilleen t’ayns soiagh vooar nyn Iheid ?
+Dy veaghey er nyn ennal,—goo yn sleih !
+Marvanee Iheaystagh, myr y gheay neuhiggyr !
+Quoi echey la resoon veagh blakey lurgh oc ?
+Lioroo dy ve Iheamysit te moylley.”
+Literal translation :—
+" And what is glory, but the radiance of a name,—
+A name 1 which, as a vapour, blows unheeded by ?
+This is the people’s praise, if praise it be.
+For what is the people ? An entangled skein,—
+A fickle mob, who greatly prize
+Things vain and worthless ;
+While they contemn what merits veneration,
+They praise and they esteem the things they know not.
+And whom they praise to-day, they blame to-morrow;
+They know not whom, but just as they are led ;
+One following another, as geese through a gap.
+And what advantage is in the esteem of such ?
+To live upon their breath,—the people’s praise I
+Poor wavering mortals, as the wind inconstant!
+Their blame is commendation.”
+■ The language abounds in strong figurative expressions. Of
+this the lines above quoted afford an illustration. The following
+are additional examples:—
+Cassam, - ny - greiney.
+The footpath of the sun (the zodiac).
+- Goll twoaie.
+The going north (the rainbow, which always appears in or towards the north).
+Feallagh ny firrinys.
+The people of the truth (the perfect).
+Cre-erbee Veh dy yammoo, te cheet lesh.
+Whatsoever he doeth, it comes with him (prospers).
+Ny cur dty aigney Ihieu.
+Not give thy mind with them (consent not).
+Shass er dty chione hene.
+Stand on thy head own (rely on your own understanding).
+Bwitchoorys er hene.
+Slaughtering on him - self (on his own account).
+Goll sheese ny lhargagh.
+Going down the declivity (failing).
+viii	editor's introduction.
+S’mie Ihiam shen dy-jarroo.
+Very good to me is that indeed (very pleasing to me).
+Shooyl ny thieyn.	-
+Going on the houses (begging).
+Ta’n ushtey dole.
+The water is playing (boiling).
+Bock Yuan fannee.
+The horse of John the flayer (one Juan, who flayed his horse, and took to his stick—
+walking stick).
+Craue - leg - ’sy - chleeau.
+A bone little in the breast (remorse).
+Lhiam - Ihiat.
+With me, with thee (an inconstant person).
+Chengey lhiam, chengey Ihiat.
+Tongue with me, tongue with thee (blowing hot and cold).
+In proverbial lore the Manx language has its traditionary
+stores. The figures which give point and beauty to its proverbs
+are, as in all primitive languages, taken from nature. The fol-
+io ving will serve as specimens of its popular sayings :—
+Keecvyl chionnit yn cheecvyl share,
+Wit bought is the wit best,
+Mannagh vet ee kionnit ro gheyr.
+If it be not bought too dear.
+Ta cree dooie ny share na kione croutagh.
+Is a heart kindly better than a head crafty.
+Tra to un dooinney boght cooney lesh dooinney boght elley, ta Jee hene garaghtee.
+When one man poor helps man poor another, God himself laughs
+(for delight).
+Tra hig yn laa hig yn coyrle lesh.
+When come the day will come its counsel with it.
+Clagh ny killagh ayns kione dty Ivie vooar.
+A church stone be in the head of thy house great (thy punishment be that of the
+man who commits sacrilege).
+Ta’n aghcvue veg shuyr da’n^aghaue vooar.
+Is the hemlock little sister to the hemlock big (a small sin is akin to a great one).
+Lovik Ihiat ve mcvrish y chioltane ; agh ta’n eamagh ayd eamagh
+Thou wouldest fain be numbered with the flock; but is bleat thy the bleat
+ny goair.
+of the goat.
+editor’s introduction.	ix
+Ta ynsagh coamrey stoamey yn dooinney berchagh; as le berchys yn
+Is learning the attire comely of the man rich ; and it is the riches of the
+dooinney boght.
+man poor.
+Cronk ghlass foddey voym; loam loam tra roshym eh.
+The hill green far away ; bare bare when I reach it. (“ Distance lends en-
+chantment to the view.”—Campbell’s Pleasures 0/ Hope.)
+Myr Vdoo yn feeagh yiow eh sheshey.
+However black the raven, will find he a mate.
+Eshin nagh gow rish	briw erbee, Veh deyrey eh hene.
+He who will not take with (notallow) judge any, he does condemn him- self.
+Caghlaa obbyr aaish.
+Change of work is rest.
+Easht lesh dagh cleaysh, eisht jean briwyns.
+Listen with each ear, then do judgment.
+Yn loam leigh loam aggair.
+Summum jus summa injuria.
+Shegin goaill ny eairkyn ma/rish y cheh.
+You must take the horns with the hide. (Job ii. 10.)
+In the study of the language, the antiquary will find scope
+for the exercise of his ingenuity in tracing the origin and signi-
+fication of many of the proper nouns and peculiar expressions.
+To suggest a few hints in this direction:—
+Gaelic, Gailck, Gaelgagh, evidently indicate the affinity of the language and the
+race to the old Celtic, or Keltic. “ The Galic,” says Mr. Shaw, in his Galic Dic-
+tionary, “ is the language of Japhet, spoken before the Deluge, and probably the
+speech of Paradise.”
+Bretnee, or Brethnee, the Welsh, the old British ; from breck, brith, spotted
+(Latin, the Picts).
+Sasonee, or Saxonee, the English, the Anglo-Saxons.	.
+Albin, Nolbin, Albinee, Alpinee, the Scotch (Albania).
+Erinee, the Irish.
+Frungee, the French, Franks.
+Keeil, a church ; probably from keyll, a grove ; the Druids’grove being turned into
+a Christian church.
+Laa-Boayld/yn or Baaltine, May-day, when the inhabitants burn fires on the moun-
+tains ; the day of Baal’s fire, or of the sun,—from chenan, the sun, or chen or teinne
+(Scotch), the fire of the sun, which our ancestors worshipped as the medium of
+adoration of the Supreme Being. (See Kelly’s Dictionary, Baaltine.)
+Brut, a charmer, a druid. Hence, dpvg, an oak.
+Bruiaghtagh, an enchanter. (Jer. xxvii. 9.)
+X
+EDITORS INTRODUCTION.
+Cloagey-druiagh, a druidical cloak, supposed to confer on the person wearing it
+the power of healing, prophesying, and becoming invisible.
+Ma lew, the name of a parish in Man ; from Moyl-Loup, or Moylley-Lupus, in
+honour of Lupus,—the church being dedicated to St. Lupus.
+Ballakeeil-Woirrey, the estate of Mary’s Church.
+S’nioal, the name of the highest mountain in Man. (Cornish, niull, a cloud ;
+Scotch, neull, a cloud.)
+Padjer, prayer. (Latin, pater, Italian, padre, Cornish, padar, the Lord’s Prayer
+—a going to the Father.)
+AggUsh, the church. (Greek, eKKXyaia.)
+Saggyrt, a priest. (Latin, sacerdos.')
+Corp as amnym, body and soul. (Latin, corpus et animus.)
+Oirr ny marrey, the sea-coast. (Latin, ora maris.)
+Airh as argid, gold and silver. (Latin, aurum et argentum.)
+Ennym, a name. (Greek, ovopa.)
+Paitchey, a child. (Greek, naiq.)
+JPeayrd, a trade. (Greek, KepSoq, gain.)
+Meshtey, drunk. (Greek, psaroq, full.)
+Booa, a cow. (Greek, /3oaw, to bellow.)
+Fer, a man. (Lat. vir.)
+Colmane, a drove. (Lat. columba.)
+Arroo, corn. (Lat. aro, to plough.)
+Soltys, light. (Lat. sol, the sun.)
+Peccagh, a person. (Lat. peccator, a sinner.)
+Phadeyr, a prophet. (Gr. 0aw, to speak.)
+Booys, give me. (Gr. Soaiq, a giving.)
+The habits of the people may be traced in many of the terms
+and peculiar expressions of their tongue :—
+Staa, a band of three men making a hedge together—twó of them cutting the sod,
+and one lifting.
+Fer feayree, one above the number wanted at work, to cool while the others are
+working.
+Oie mooie as oie elley sthie.,
+A night out and night another in,
+Oik son cdbbil agh son kirree mie.
+Bad for horses but for sheep good.
+Oashyryn-voynnee, stockings without soles, strapped under the foot, used without
+shoes.	■
+Cooillee, the withdrawing-room ; from cooill, a corner, as being but a corner of
+the great house {yn thie mooar) to which it is joined.
+Carrane, a raw-hide sandal.
+Chiollagh, the floor-hearth.on which the turf or log was burned.
+editor's introduction.
+xi
+' As in Scotland and Ireland, so in the Isle of Man, the
+patronymic is in common use :—
+Ma/nnanan - mac - y Lheirr.
+Mannanan, the son of Lheirr (an ancient necromancer).
+Dick	Quay'll	Vessey.
+Dick, the son of Quayle the son of Bess (which Bess was no doubt a notable in her
+day, as Dick is in his).
+Men are also designated from their domain :—
+Veib-ben, to Ballacbamane Wooar cheet.
+See, Ballacarnane the Great comes.
+Or from their degree of society :—
+Tan Donaghey ny ghooinney ooasle
+The Donaghey is a man honourable.
+Or from some quality pertaining to them:—
+Illiam Dhone, Swarthy William.
+Juan Gorrym, Purple John.
+Among the idiomatic forms which render the language de-
+serving of attention may be enumerated the following :—
+The article has a plural number :
+Yn l/ioa/r. Ny Uoaryn
+The book. The books.
+The adjective follows the noun (its natural and proper place),
+except drogh} evil, and shenn, old, which go before the noun :
+Yn dooinney mie.	Ben aalin.
+The man good.	A woman fair.
+The adjective has a plural form:
+Red leg.
+A thing little.
+Magher glass.
+A field green.
+Reddyn beggey.
+Things little.
+Magheryn glassey.
+Fields green.
+Nouns have an emphatic form:
+Dty obbyr bene.	Dty obbyrs	bene.
+Thy work own.	Thy work (emphatic) own.
+xii
+editor's introduction.
+Pronouns have an emphatic form:
+Mee,	mish	Oo,	uss.	Eh, esh/yn.	Ee, ish.
+I,	I (emphatic).	Thou,	thou.	He. he.	She. she.
+Gow rish. Gow rishyn.
+Acknowledge him^ Acknowledge him (emphatic).
+Pronouns are compounded, with prepositions : •
+Orrym ;	ort; Ihiam; llviat; lesh; echey; huggey; huggeysyn.
+Upon me; upon thee; with me; with thee; with him; at him; to him; tohim(emph.)
+The initial letters of a word adapt themselves to the final
+letters of the preceding word, for euphony:
+Bea vea/yn (vot tea beayn).
+Life long..
+Billy dy vea (not bea).
+Tree of life.
+Dty hie (not dty thie)~
+Thy house.
+Aym pene (not hene).
+At my self.
+Nouns have a dual number when the numeral daa is used:
+Un hooil. Daa hooil. Tree sooillyn.
+One eye. Two eyes. Three eyes.
+The spelling of the Manx tongue had remained unsettled till
+1772, when the Manx Bible was first printed. That translation
+has been since recognised as the standard of orthography. " The
+Celtic language," observes the writer of an anonymous manu-
+script among Dr. Kelly's papers, “ everywhere losing ground,
+had degenerated in Man in a ratio proportionate to its narrow
+territory, and the increased intercourse of its inhabitants with
+Britain. In the Manx dialect many terms were lost, many
+Anglicisms adopted, many corruptions introduced. The trans-
+lators had now an opportunity to apply the remedy. By due
+attention to the orthography and structure of the language, the
+connexion between roots and compounds might have been pre-
+served, and its original energy and purity restored. But the
+translators did not consult the structure of the language. By
+editor's INTRODUCTION.	Xlii
+adjusting the orthography to pronunciation, roots are wholly
+lost. ... It must, however, be allowed, agreeably to the
+argument of a learned friend of mine, who was one of the com-
+mittee of correction and publication, that had not the words been
+written as they are pronounced, the body of the people must
+' have continued uninstructed. The Irish orthography would
+have presented insurmountable difficulties; it would have been
+to the multitude an unknown tongue."
+The translators, therefore, adopted the wise alternative. They
+regarded the utility of their work rather than the elucidation of
+the language; and accordingly took the spoken sound as their
+rule of orthography.*
+Upon a review of these notices of the language, it is presumed
+the reader who is capable of appreciating its qualities will be
+disposed to concur in the following eulogy upon the language,
+which is quoted from the introduction to the Manx Dictionary,
+by the late Archibald Cregeen, a native Manxman of great
+sagacity and judgment:—
+" In concluding my observations and remarks, I cannot but admire the construction,
+texture, and beauty of the Manks language, and how the words initially change their
+cases, moods, tenses, degrees, &c. It appears like a piece of exquisite network, inter-
+woven together in a masterly manner, and framed by the hand of a most skilful work-
+man, equal to the composition of the most learned, and not the production of chance.
+* There is one marked peculiarity which distinguishes the grammar of the Manx
+from that of other dialects of the Celtic language. The orthography or spelling of the
+Irish and the Scottish Gaelic is constructed on the principle of preserving the deriva-
+tion of the words ; and therefore the spelling often differs from the pronunciation.
+The Manx spelling, on the other hand, is based on phonography. The words are
+written as they are pronounced. The etymology of the words is often obscured and
+hidden by this system of spelling ; but the spoken sound is preserved. Consequently,
+the Manx orthography will hand down to posterity the sounds of the spoken language
+better than the Irish and Scottish modes of spelling. The orthography of these
+dialects will preserve the etymology ; while that of the Manx will hand down to
+future generations the phonography of a Celtic dialect.—Rev. W. Mackenzie.
+xiv	editor’s introduction.
+The depth of meaning that abounds in many of the words must be conspicuous to
+every person versed in the language.”
+At the risk of exceeding the reasonable bounds of an Intro-
+duction, the Editor ventures here to introduce some notices of
+Manx literature and of the Manx people, which he is glad to be
+able to quote from a living authority of note. The author of
+The Bible in Spain, &c., in his advertisement of a book pro-
+posed to be published by him under the title of Bayr Jiargey,
+containing the narrative of his wanderings in the Isle of Man,
+in quest of Manx literature, thus writes :—
+“ The Manx have a literature,—a native vernacular Gaelic literature. This fact
+has been frequently denied, but it is now established beyond the possibility of doubt.
+Some time ago a gentleman went to Man with the express purpose of discovering
+whether the Manx had a literature or not. He possessed a slight knowledge of
+Manx, and was tolerably well acquainted with the Irish and Scotch Gaelic. The
+Manx tongue, it will be necessary to observe, is called Gailk, and is closely connected
+with the vernacular speech of the Highlands; and also with that of Ireland,—bearing
+a closer resemblance to the former than the latter. It has, however, certain peculiarities;
+amongst others, it has a dual number. The gentleman in question visited every
+part of the island on foot, and was a great deal amongst the peasantry of the mountain
+districts, whose confidence he contrived to win. He was not slow in discovering
+that they possessed a literature of their own, entirely manuscript. This literature
+consists of ballads on sacred subjects, which are called carvols, a ..corruption of the
+English word carol. It was formerly the custom in the Isle of Man for young people
+who thought themselves endowed with the poetic gift to compose carols some time
+before Christmas, and to recite them in the parish churches. Those pieces which
+were approved of by the clergy were subsequently chanted by their authors through
+their immediate neighbourhoods, both before and after the holy festival. Many of
+these songs have been handed down by writing to the present time. Some of them
+possess considerable merit, and a printed collection of them would be a curious addition
+to the literature of Europe. . . The carvals are preserved in uncouth-looking,
+smoke-stained volumes, in low farm-houses and cottages situated in mountain gills
+and glens. They constitute the genuine literature of Elian Vannin. ... Of the
+carval books the gentleman procured two, though not without considerable difficulty,
+the peasantry not being at all willing in general to part with their volumes. He says
+that in the whole world there is not a more honest, more kindly race than the
+genuine Manx. Towards strangers they exercise unbounded hospitality, without
+the slightest idea of receiving any compensation. ... It seems that the Manx
+language is falling fast into disuse; and it is probable that within sixty years it will
+have ceased to exist as a spoken language. . . . The Manx may occasionally
+prove of great use to the antiquary and philologist; some knowledge of it is indis-
+pensable for understanding some of the inscriptions on the runic stones.”
+editor’s introduction.
+XV
+- In a letter from this author, the Editor is favoured with the
+following remarks, which deserve to be appended to the fore-
+going extracts :—
+" The carvals are all in manuscript. There is, however, a small, but not uninter-
+esting, poetic Manx literature existing in print, though not easily procurable. First
+of all, there is the grand historic ballad, in which the fortunes of the various races
+and families, which have at different times held the island, are narrated. Then
+there is the noble ballad concerning the death of Brown William, and the vengeance
+inflicted by God on his murderers and their progeny. Then there is the ballad of
+Motley Charane, the miser, a humorous and satirical piece of great poignancy ;
+and the one of a similar character, and very little inferior to it in any respect, called
+Kirree so Sniaghtey ; or, the Sheep beneath the Snow. These four are the most
+remarkable compositions in the printed vernacular literature of Man : though there
+are other pieces of considerable merit,—for example, a little piece commencing with
+" Ushag beg ruy,” and two or three elegies on drowned seamen. Besides original,
+the Manx language contains translated poetry. There is the Phargys Caillit of a
+rector of Marown, who flourished about the commencement of the present century;
+which is, however, not a translation of the whole of Paradise Lost, as the name
+would seem to imply, but consists of translations of particular parts of Paradise Lost
+into Manx rhyme, neatly and smoothly done, but with very little vigour, and not
+much fidelity. Then there is the Lioar dy Hymnyn, or Book of Hymns, from
+Wesley, Watts, and others, by George Killey, of Kirk Onchan ; which is done in
+a manner which shews that the poor Methodist, who, singular enough, was parish
+cleric, possessed powers of versification of the very highest order.”
+The only other topic to which the Editor would now advert is
+the learning of the language. Though he is not prepared to
+recommend the study of Manx to the general reader, on account
+of the merits of the language, or for the stores of literature which
+it contains.; he would yet strongly impress upon those whose
+sphere of duty lies, or is to lie, among the peasantry, the im-
+portance of possessing a knowledge of the tongue with which
+the country people are most conversant. The younger clergy
+and candidates for the ministry, especially, should feel it im-
+perative upon them to possess this qualification for intercourse
+with the people. If a knowledge of the language is no longer
+necessary for the ministrations of the Church, it is very import-
+ant for the efficient discharge of the work of pastoral visitation.
+xvi
+editor’s introduction.
+Much time is spent in learning two or three of the dead lan-
+guages ; why may not some pains be taken to master a living
+language, the knowledge of which would open to the minister a
+more easy access to the understandings of many of his flock, and
+recommend him to the hearts of all ? Bishop Bedell learned the
+Irish language when upwards of sixty years of age, " in order,”
+says his biographer, " that he might personally carry forward
+the good work of conversion” among his people; " and although
+he did not converse in that tongue, he was able to read, write,
+and translate it. The first Irish grammar that ever was com-
+posed was written by him.” Bishop Hildesley also is related to
+have been " very fond of the language of the Island over which
+he presided; and not only used to read part of the service, but
+always dismissed the congregation with the Blessing in Manks.
+He frequently expressed a wish to be assisted in learning it, * and
+this,’ says Dr. Kelly, * was my primary inducement for drawing
+up a Manks Grammar, and for composing a Dictionary also of
+that tongue, for the use of his Lordship and others / which was
+in a great degree of forwardness "at the time of his death.”
+Bishop Short, in later days, though decidedly opposed to the
+continuance of the language, yet was so convinced of the im-
+portance of an acquaintance with it, for present purposes, that
+he instituted prizes at King William’s College for proficiency in
+Manx.
+In learning the language, the Editor would by no means
+recommend an application to the Grammar in the first instance.
+That would be found a perplexing and disheartening process.
+Let the student rather betake himself to some living Manx-
+speaking native, if he is fortunate enough to have such an advan-
+editor's introduction.
+xvii
+tage within reach, and learn the rudiments of the language, as
+a child learns its first vocables, from the living voice. Let him
+also, with the same assistance, read the Manx Bible side by side
+with the English, or one of Bishop Wilson's books,—as, e.g., his
+Principles and Duties of Christianity, with Manx and English in
+parallel columns; and when he has acquired some knowledge in
+this way, then he will find the benefit of the Grammar in
+reducing what may have appeared to him arbitrary changes of
+words to method and order.
+October, 1859.
+WILLIAM GILL,
+Vicar of Malew.
+L
+LIFE OF DR. KELLY.
+TT is to be lamented that, in common with many other men
+who have raised themselves to distinction by their works,
+but little is known of the personal history of Dr. Kelly. This
+volume, however, would be very incomplete if it did not contain
+some biographical notice of the learned author. The following
+brief account of him is drawn up from such materials as are
+extant, collected with much zeal and industry by Paul Bridson,
+Esq., of Douglas, a member of the Council, and Honorary Secre-
+tary of The Manx Society.
+John Kelly, the author of the Manx Grammar, was the son
+of William Kelly, wine-cooper, and Alice Kewley, his wife. He
+was born at Algare, or, as he himself writes it, Aal-caer, in
+Baldwin, in the parish ofBraddan, Isle of Man, in 1750. After
+receiving the first rudiments of his education in the Douglas
+Grammar School, under the Rev. Philip Moore, chaplain and
+schoolmaster, of Douglas, and afterwards rector of Kirk Bride,
+he entered St. John's College, Cambridge. He took Holy Orders
+in the year 1776. His first ministerial appointment was to the
+charge of the Scotch Episcopal Church in the town of Ayr,
+B 2
+XX
+LIFE OF DR. KELLY.
+which ho held for three years. In 1779 he engaged as tutor to
+the Marquis of Huntley, last Duke of Gordon. At that time
+the Duke of Gordon had been stationed at Ayr with his regiment
+(AberdeenshireFencibles),andhadinthis way become acquainted
+with Mr. Kelly. In 1791 Mr. Kelly was appointed vicar of
+Ardleigh, near Colchester. He proceeded LL.D, at Cambridge
+in 1799; and became rector of Copford, not far from Ardleigh,
+in 1800.
+Dr. Kelly is best known as the author of the Manks Grammar,
+and the reviser of the Manx translation of the Scriptures. He
+also published the life of his wife's grandfather, John Dollond,
+F.R.S., the inventor of the achromatic telescope ; and two ser-
+mons preached on public occasions, one of which is printed here-
+with as a specimen of his pulpit powers, and of the liberal and
+enlightened views which led him to labour so earnestly for the
+improvement of his native country and its literature.
+While yet a student at the Douglas Grammar School, the
+aptitude which he displayed for learning, and his knowledge of
+the vernacular language of the Isle of Man, marked him out for
+important service in furthering the translation of the Holy
+Scriptures into Manx, a work in which his worthy preceptor had
+so large a share. It would appear that at the age of sixteen he
+entered on the arduous task of revision assigned to him ; and for
+the space of eight years was incessantly employed in that under-
+taking. He transcribed the whole version, from Genesis to
+Revelation, superintended the impression, and corrected the
+proof-sheets, as well as examined and corrected subsequent
+editions of the New Testament. In an autograph letter of the
+Rev. P. Moore's to the Christian Knowledge Society, in May,
+LIFE OF DR. KELLY.
+XXL
+1772, in the editor's possession, the following mention is made
+of Mr. Kelly, in connection with an account of the work:—" I
+have, by the blessing of God, finished the revisions of the last
+tome of our Manx Bible. I say revisions, because it has had
+two, literatim et verbatim, with all the severity and attention of a
+critical reviewer: first, the several portions as translated by our
+clergy; next, the fair copy for the press, collating and comparing
+every sentence with all possible care and fidelity. Since the death
+of my learned friend and fellow-labourer, the Rev. Mr. Curphy,
+the whole of this second volume has devolved on myself, with
+the assistance of a very ingenious young man, my amanuensis,
+trained up to the work, and now ready to embark for White-
+haven with his fair transcript of the second tome, to attend the
+printing and correct the press."
+In Butler's Memoirs of Bishop Hildesley (page 231) we have
+the following record:—“In October, 1772, not many weeks
+previous to Bishop Hildesley's decease, the Society (for Pro-
+moting Christian Knowledge) read a letter from his lordship,
+expressing the hope that some handsome gratuity might be
+thought of for Mr. John Kelly, a young gentleman, native of
+the Isle of Man, * who has been,' says the good prelate, f a
+most assiduous and useful assistant to Mr. Moore, in transcribing
+fair the whole translation of the Hanks Bible for the press; of
+which he had been likewise a most indefatigable corrector, and
+for which he has hitherto received no emolument.' His lordship
+further hoped that the Society would the rather consider Mr. Kelly
+in an especial manner, as Mr. Moore had generously declined to
+accept anything for his pains. The Society, upon this, very
+much to their honour, referred the business entirely to his lord-
+LIFE OF DE. KELLY.
+xxii
+ship, only requesting him to make Mr. Kelly a suitable acknow-
+ledgment, and rather to exceed than fall short of a due liberality.”
+Out of this work of revision the Manx Grammar took its rise,
+as appears by the following note in Dr. Kelly's handwriting, in
+a rough draught of the Grammar :—" N.B. I began to correct,
+revise, and transcribe the translation of the Manks Bible in June,
+1766; and at that time began to collect and form the rules of
+this Grammar for my assistance, having no printed or written
+documents to instruct me, except the four Gospels.”
+While the Manx Scriptures were in preparation for the press,
+a disaster occurred which threatened greatly to retard the good
+work. It is thus relatedby Dr. Kelly himself (Bishop Hildesley’s
+Life, page 230):—" The Pentateuch was nearly ready for the
+press; and we arrived at Whitehaven, where the work was
+printed, on the 13th of April, 1770. On our next return from
+the Island to Whitehaven, the 19th of March, 1771, charged
+with another portion, from Deuteronomy to Job inclusive, we
+were shipwrecked in a storm. With no small difficulty and
+danger, the manuscript was preserved, by holding it above the
+water for the space of five hours ; and this was almost the only
+article saved.” " His lordship,” says the Bishop's biographer,
+" and the Rev. Philip Moore, whenever the subject afterwards
+came into conversation, were jocularly pleased to compare the
+corrector to Cæsar, who, during the sea-fight at Alexandria, is
+said to have saved his Commentaries by holding them in one hand,
+and swimming with the other.”
+While thus engaged upon the Manx translation and the Manx
+Grammar, a work of a still more arduous nature occurred to Dr.
+Kelly, viz., the composition of two copious Dictionaries—the
+LIFE OF DR. KELLY.
+xxiii
+one, Manx and English; the other, a triglot of Manx, Gaelic,
+and Irish, based upon English. Nothing daunted at the magni-
+tude of the undertaking, ho entered upon it with zeal, and pur-
+sued it with untiring perseverance to the end of his days. Both
+these works are still lying in manuscript, but complete, and
+ready for the press.
+The printing of the Triglot, more properly Polyglot, had
+actually commenced in 1807, and had proceeded as far as the
+letter L, when a fire broke out in the printing-office, that of
+Nichols and Son, Red Lion-passage, Fleet-street, London, and
+destroyed the whole impression, except one or two copies. The
+manuscript was happily preserved. We of the present day have
+perhaps no cause to regret the accident, as it afforded opportunity
+to the indefatigable author to go on, as he did to the end of his
+life, enlarging and correcting his work, and leaving us his latest
+emendations.
+A writer in the Mona’s Herald, of Feb. 2, 1859, speaking of
+the Triglot, says—" It consists of four columns in each page.
+The first contains the English word - the second, the Manx; the
+third, the Irish; and the fourth, the Scottish Gaelic. It is the
+only attempt ever made to publish a complete triglot comparison
+of the three branches of the Celtic language. If another column
+were added for the Welsh, the dictionary would be more perfect
+and national, exhibiting atone view the four great living branch es
+of the language of the Gael or Cwmry, the original inhabitants
+of the British Isles. Surely, the publication of such a work as
+this ought to be encouraged. The Isle of Man, as the central
+island, and the ancient seat of Celtic religion, literature, and
+laws, may be expected to take the lead; and Dr. Kelly's Manx
+Dictionary may be the basis of the work. But, Irish, Gaelic,
+LIFE OF DR. KELLY.
+xxiv
+and Welch scholars ought to unite in the undertaking, and
+render each their own column as perfect as possible.”
+In the Manx Sun, of July 24, 1858, the following announce-
+ment appeared, which deserves to be transferred to this Memoir,
+as a tribute to the memory of Dr. Kelly, and at the same time
+as commemorating a generous act of his surviving relative:—
+KWe have been informed that Mrs. Gordon Kelly, widow of the
+late Gordon William Kelly, Esq., recorder of Colchester, only
+son of the well-known Dr. Kelly, a native of this Island, has
+transmitted to the Venerable the Archdeacon of this diocese, the
+sum of £1000, for the purpose of founding at our Insular College
+an exhibition to the Universities from that institution, open to
+all competitors; and another gum of £100, the interest of which
+Mrs. Kelly wishes to be given annually as a Manx Prize. The
+Kev. Dr. Kelly was an old alumnus of the Douglas Grammar
+School, where he was a very favourite pupil of the Rev. Philip
+Moore; and afterwards took a large share in the general revision
+of the translation of the Manx Scriptures.”
+Copy of inscription on *a tablet lately set up in the parish
+church of Braddan, Isle of Man :—
+In Memory of
+THE REV. JOHN KELLY, LL.D.,
+OF ALGAER, IN THIS PARISH,
+VICAR OF ARDLEIGH, RECTOR OF COPFORD,
+AND ONE OF HIS MAJESTY'S JUSTICES OF THE PEACE,
+IN THE COUNTY OF ESSEX J WHO DIED 12TH NOV., 1809,,
+IN THE 60tH YEAR OF HIS AGE.
+LIFE OF DR. KELLY.
+XXV
+LOUISA,
+WIDOW OF DR. KELLY, ELDEST DAUGHTER OF
+PETER DOLLOND, ESQ., OF ST. PAULAS CHURCHYARD, LONDON,
+DIED 18tH OF APRIL, 1844, IN THE 84tH YEAR OF HER AGE.
+GORDON WILLIAM KELLY,
+THEIR ONLY CHILD, DIED 4<TH APRIL, 1858,
+IN THE 73rD YEAR OF HIS AGE.
+
+RELIGIOUS, MORAL, AND POLITICAL ADVANTAGES OF
+INSTRUCTING THE POOR.
+A SERMON,
+PREACHED BEFORE THE GOVERNORS OF THE CHARITY SCHOOL,
+On SUNDAY, 15th JULY, 1798.
+IN ST. JAMES'S CHURCH, COLCHESTER.
+B Y THE BEV. JOHN KELLY, LL.D,
+0/ Lt. Johns College, Cambridge, and Vicar of Ardleigh, Essex.
+PUBLISHED AT THE REQUEST OF THE GOVERNORS, AND FOR THE BENEFIT OF
+THE CHARITY.
+A SERMON.*
+For the poor shall never cease out of the land ; therefore, I com-
+mand thee, saying, Thou shalt open thinehand wide unto thybrother,
+to thy poor, and to thy needy in thy land.—Deut. xv. 11.
+TO the superficial observer of the Divine laws, it may appear
+unaccountable that the Almighty, in His intended partition
+of .the land of Canaan among the twelve tribes of Israel, should
+not have adjusted the portion of bach individual, and guarded
+against the alienation and abuse of property in such a manner
+as to have precluded the necessity of appealing to the humanity
+of man to remedy and supply the inadequacy of the benevolence
+of God; but that, at the instant He was introducing them to a
+good land—" a land flowing with milk and honey,”f He should
+pronounce the severe sentence, that" the poor should never cease
+out of the land.”
+A small degree of attention to the dispensations of God and
+the nature of man, will remove this difficulty. To produce a
+perfect state, or perfect men, was not in the contemplation of the
+Deity. His laws under the Jewish economy were for the most
+part general; they placed béfore the children of Israel blessings
+and cursing, good and evil; they restrained not absolutely the
+human will, but in every instance left man a moral agent. It
+[• The above is the sermon referred to in the Biography, page xx.] t Exodus iii. 8.
+XXX
+A SERMON.
+might as reasonably be demanded, Why the law, written by the
+finger of God, and promulgated from Mount Sinai " out of the
+midst of the fire, of the cloud, and of the thick darkness,”* did
+not produce the effect of restraining the people from the commis-
+sion of sin, as that the Divine partition of the land should long
+prevent individuals from becoming poor. " Thus shall God be
+justified in His ways, and clear when He is judged.”! And
+if within the narrow limits of Judea, and under the Divine theo-
+cracy, no particular rules were devised sufficient to secure to
+individuals their respective portions for ever, we are prepared to
+receive these truths :—that the same law applies to mankind in
+general; that their wants are a condition of their being; and
+that, although the Almighty had " blessed the earth that it
+brought forth abundantly,”! yet made He no certain provision
+against particular instances of want and distress, whether they
+should arise from natural or moral evil.
+But, notwithstanding He permits both these kinds of evil to
+exist in the world, yet “can we not charge the Lord with folly;”§
+for we may perceive that natural evil is rather incidental than
+necessary; that it is nowhere systematical, but produced; that
+it is the effect of causes, which in themselves are generally good;
+and that moral evil arises principally from the free-agency of
+man, which, instead of constituting the excellence of his nature,
+when perverted, misapplied, and abused, becomes its disgrace,
+and enables him to choose the evil and to refuse the good. And
+in like manner, although the benevolent Father of the universe
+should suffer misery to obscure His works, and that " the poor
+should never cease out of the land,” though He has made no
+immediate, no appropriate provision for them, yet “lest He not
+Himself without witness in the world ;”|| for He has planted
+jn the breast of man a powerful advocate, to plead the cause—
+" the cause of him who has no helper,”^ and formed his heart of
+such exquisite materials, that while he is engaged in communi-
+cating happiness to others he most effectually increases his own.
+* Dent. v. 22. f Ps. li. 4. t Gen. i. § Job i. 22. || Acts xiv. 17. ^- ps. Ixxii. 12.
+A SERMON. XXXÍ
+As there is therefore no evil without its remedy,—as the
+quantity of happiness in human life exceeds the sum of misery,
+" shall the thing formed say to him who formed it, Why hast
+thou made me thus ?”* And if we inquire further, we may dis-
+cover, by the ultimate advantage resulting to society, that this
+apparent and individual evil is a real and general blessing.
+There is no creature accompanied into life with so much in-
+firmity and so many necessities as man; and this arises from his
+becoming the inhabitant of every climate. Were his existence,
+like that of other creatures, confined to one particular soil and
+sky, he too might " take no thought for the morrow, and neither
+sow, nor reap, nor toil, nor spin/’f But, as an inhabitant of the
+universe, every species of labour, art, and science, every exertion
+of his reason, and every energy of his mind, are requisite to
+obviate the evils of his condition : protection from the elements,
+clothing for his body, and food to sustain life, are absolutely
+necessary to his existence. But in the progress of acquiring
+these he acquires not only the necessaries for his being, but pro-
+duces those articles which constitute his well-being and the dig-
+nity of his nature; for, reasoning on his wants, he lays the very
+foundation of society; and, having removed distress, he proceeds
+to acquire comforts; having subdued the pressures of the body,
+he cultivates the powers of his mind; having overcome the evils,
+he studies the elegancies of life; and, by a sure and certain
+gradation, improves his condition, until, from the rudest begin-
+nings, he rises to the summit of human perfection.
+Thus, labour is coeval with the necessities of man, and like
+them, to be considered rather as a condition of his being, than
+an evil appendant to it; and the curse that " in the sweat of his
+face man should eat his bread,”! in this point of view loses all
+its malignity, “for the earth is full of the goodness of the Lord,”§
+" as the waters cover the sea;" || “ He bringeth good out of evil;
+He turneth all things to good.”1[
+t Gen. iii. 19.
+^ Rom. viii. 28.
+j Matt. vi. 26, 28, 34.
+U Is. xi. 9.
+* Rom. ix. 20.
+§ Ps. xxxiii. 5.
+xxxii
+A SERMON.
+If labour is thus natural and necessary to man, and the origin
+of all separate property, inequality of condition, arising from
+moral or natural causes, will necessarily take place in the forma-
+tion of every society; and the necessities of one man will be
+greater than those of another; " there will be high and low, rich
+and poor, one with another.”* And though this law of provi-
+dence may, at first sight, appear to be " a sore evil under
+the sun” f to individuals, yet, from this principle, and from this
+circumstance of the mutual convenience and reciprocal depend-
+ence of the various denominations of men in society upon one
+. another, are produced general good and universal happiness.
+Under this conviction, the poor man should be resigned to his
+lot, and, far from accusing Heaven for the hardships or difficul-
+ties he endures, should make the best use of those means with
+which he is endowed to remove them. Under this impression,
+likewise, " the man who is at ease in his possessions'” should
+contemplate his elevation with gratitude, and reflect that the
+same hand which humbled his poor brother might have depressed
+him also. They should consider well their respective situations,
+and meet each other's expectations in such a manner that, in the
+event of a change of places, they should only have to pray that,
+" as they' had done to others, even so it should be done unto
+them.”J And if ever this rule of universal justice, with respect
+to the inferior orders of society, was attended to,—if ever the
+condition of the poor was rendered capable of comfort,—it is so
+at this period, and in this country, where the humane and mild
+disposition of the law unites with the kind and tender genius of
+the people, who, as they excel the rest of mankind in every other
+virtue, excel them yet more in the practice of that Divine charity
+which was brought to light by the Gospel of Christ - for not
+only a public and legal provision is established throughout the
+kingdom for the maintenance of the poor, but the private bounty
+of individuals has instituted various means, in aid of the popular
+establishments, to correct the inequalities and alleviate the dis-
+» Fs. xjx. 2. t Eccl. v. 13. J Matt. vii. 12.
+A SERMON.
+xxxiii
+tresses which may and must always increase in proportion to the
+extent, and to the prosperity also, of every community ; and, not
+content to limit their attention to their corporeal wants, they
+extend their care to their mental and spiritual concerns—“ to
+the poor in spirit; to the blind in the truth and knowledge of the
+Gospel; to the ignorant, and those who are gone out of the way;
+to teach them the way, the truth, and the life.”* And such in
+particular is the nature of that institution which I am now called
+upon to recommend to your patronage and protection, and to
+exhort you " not to faint in this labour of love, nor be weary
+of well-doing.”f
+I have known but one wretched philosophers who ever at-
+tempted to prove that institutions for the instruction of the poor
+were injurious to the community; for that education (he reasoned)
+rendered the poor, who were designed by nature to discharge the
+meanest offices, superior to the duties of their situation. How a
+man could thus abuse his feelings ! But as charitable institu-
+tions are among the blessed fruits of Christianity, and unknown
+to the world before its introduction, it is no wonder that an
+enemy to revelation and Christianity itself should dare to deny
+the utility of its best institutions. He might as well have argued
+that the poor should not be fed, because they might prove too
+strong for the great to keep them in subjection, as that learning
+would make them too wise to labour. The abuse of a blessing is
+no argument against the use of it; and experience shews that
+learning is a friend to industry, especially that useful learning
+which is generally taught and usually acquired atx charity-
+schools. But, whatever objections may be made to the more
+public and greater hospitals and schools, they apply not to our
+present charity.
+The mode of education which you have chosen for these poor
+children, and your manner of assisting their wants, must be con-
+sidered as an excellent auxiliary, at least, to those more public,
+and extensive foundations, and, in some respects, attended with
+* Mat', v. 3. t Gal. hi. 13. J Mandeville.
+C
+xxxiv
+A SERMON.
+advantages which are not to be found in them. There, the child
+is taken away from his parents and his friends, and fed, clothed,
+and taught, without any care, thought, or industry of his own;
+where his filial and domestic affections have not their natural
+objects to exercise themselves upon; the child is estranged from
+his parent, and the parent deprived of all interest in the acts and
+conduct of his child: whereas, according to this excellent in-
+stitution, the sweet sympathies of natural affection are. daily
+cherished, and the moral principle more certainly preserved;
+habits of industry are gradually acquired by the child, and the
+influence of imitation operates powerfully on his mind; and as
+he beholds, in the labour of his parents, the source and means of
+their general subsistence, he naturally applies to the same cause
+to produce the same effect.
+Such is the advantage of the children of the poor being
+domesticated, and not altogether separated from their families.
+And the governors of this charity should not lament that they
+can only instruct, clothe, and apprentice these poor; it is, per-
+haps, all that is left for them to do ; it is certainly what is most
+beneficial for the children to receive. In the present improved
+state of arts and manufactures, strength alone is not sufficient
+for the artist, the manufacturer, or even the peasant in the fields;
+a certain quantity of education furnishes them with the means of
+accomplishing many objects, to which mere strength and ignor-
+ance would be unequal. And when we look into society, and
+observe the men who succeed best in their several occupations,
+we find that they generally come from those parts of the king-
+dom where institutions of this kind have been the longest estab-
+lished ; nay, manufactures themselves, and that ingenuity which
+can invent or improve them, seem to be peculiar to them also,
+where useful instruction is almost gratuitously imparted to the
+body of the people.
+From the loom and the plough, I would turn your attention
+to other essential points. In the navy, the army, the counting
+house, and the garden, who are the men whose humble labours
+A SERMON.
+XXXV
+are attended with the greatest benefit to themselves, their em-
+ployer's, and the public ? Those who have been taught the ele-
+ments of navigation; those who hold " the pen of the ready
+writer/’* who can calculate and survey: and all these men will
+be found, on inquiry, to derive their origin from the same coun-
+try, and owe their excellence to the same means. The most
+menial servant in a man’s house is the more valuable for a little
+knowledge; whereas an ignorant person is generally crafty, sus-
+picious, and idle. The very circumstance of not having been
+subject to the restraints attending the first years of instruction
+renders him restless and irksome under every degree of control;
+and, as a great modern divine and philosopher expresses himself,
+" To send an uneducated child into the world is injurious to the
+rest of mankind; it is little better than to turn out a mad dog
+or a wild beast into the streets ."f No children, whether of the
+rich or poor, should ever be able to remember a time when they
+have had nothing to do.
+I have advanced thus much in support of this institution, so
+far as it concerns the male children; but when I reflect that
+females also are partakers of its benefits, " my heart glows within
+me,” and I am convinced that no man, who possesses those
+qualities which render him estimable in society, will hesitate to
+grant to the weaker sex every advantage possessed by the other,
+and every protection which their defenceless state may require.
+For if the cultivation of the moral principle,—if a knowledge
+of religious duty,'—if instruction in useful learning, be necessary
+all, they are surely so to them. They are, by nature, weak
+and exposed to temptation; and a careful attention to the im-
+provement of their minds can alone enable them to resist those
+allurements to which they are subject; and, by resisting them,
+everything which is dear to man, everything that unites and
+preserves society together, is alone preserved. For the poor man
+requires the same proofs of fidelity, the same security for his
+honour and his property, with the greatest. These poor girls will
+f Paley. Moral Philosophy.
+C 2
+* Ps. xlv. 1.
+XXX vi
+A SERMON.
+have their duties to perform in the interesting situations of wives
+and mothers, and upon their conduct the happiness of their re-
+spective families must depend; by their virtuous lives, the virtue
+of the community be preserved; and from the decent behaviour
+of this humble class of persons together, the very character of the
+nation be deduced.
+But if the advantage to be derived from communicating to
+them wisdom, particularly that " wisdom which cometh from
+above, and maketh them wise unto salvation,”* may not be con-
+sidered by some as producing a good equal to the expense, reflect
+ye upon the innumerable evils which are by these means avoided,
+and which would naturally flow from ignorance,—which would
+destroy all the happiness of the lower orders, and corrupt the
+higher. Let the good, therefore, to be acquired, and the evil to
+be avoided, determine your conduct. And stop not here, but in
+life follow up the good work which you have here begun; and
+carefully reserve for them such employments and such labour as
+may be suited to their sex.
+It has become, most unaccountably, the prevailing fashion to
+employ the labour of men where women would serve with more
+propriety, with more delicacy, and more effect. There is scarcely
+a province, either in trade or husbandry, where men, fitted for
+more hardy employments, have not obtruded themselves. It
+rests with you, within your respective circles, to reform and
+remedy these evils, to prevent such a detrimental interference,
+and secure for the helpless females constant employment. For
+be assured that, next to ignorance, idleness is most fatal to them;
+and sorry am I to observe that in this county women are not
+sufficiently employed, particularly in the inexhaustible labours of
+the field ; for there is scarcely a part in husbandry in which they
+are not capable of assisting: whereas, to glean, and not to earn
+their bread, is their only annual occupation,—an occupation that
+tends to sow the seeds of corruption, if not of dishonesty, in their
+own and their children's hearts ; and the fatal consequence is,
+* James iii. 17 ; 2 Tim. iii. 15.
+A SERMON.
+xxxvii
+that they become of less value in the eyes and minds of their
+husbands: whereas, when they partake and divide nearly their
+labours, they become more necessary to one another, and -their
+affectionsand esteem will bear some proportion to their respective
+usefulness in promoting their common comfort; for, an equality
+of uesfulness is the stronger cement of conjugal affection.
+There is a gradation in the scale of society, from the barbarous
+state to the most refined and luxurious; and though this grada-
+tion is influenced in some measure by climate, we may easily
+observe that wherever women are not permitted to divide and
+partake of the common labour, that this exemption proceeds, not
+from tenderness or compassion for their sex, but from contempt
+and the unworthy idea that they are sent into the world to serve
+only the pleasures and appetites of man.
+If now the education which you enable these children of both
+sexes to acquire tends to render them more useful servants and
+more moral characters, infinitely superior are those advantages
+which they shall derive from this and similar institutions in their
+capacity of citizens and Christians; for if a man shall serve his
+masters upon earth with more fidelity, because he is instructed
+that " his and their Master is in heaven, and that He has com-
+manded him to be obedient, and not with eye-service, as men-
+pleasers, but as the servant of Christ, doing the will of God from
+the heart,”* shall he not also, when he is instructed to be " sub-
+ject to every ordinance of man for the Lord’s sake ; to the king,
+as supreme, and to governors, as to those who are. sent by Him,”f
+submit to civil subordination and respect the laws ?
+And when we behold the convulsed state of Europe, and the
+desire of change which has manifested itself in several countries,
+nay, even in our own, there appears to be no natural barrier
+against this overflowing torrent, except in the mass of the people
+possessing well-informed and enlightened minds, in understand-
+ing the excellence of the constitution of their country, the value
+of their liberties, and the goodness, of their laws.. There will be
+* Eph. v. 6.
+j 1 Peter ii. 15.
+XXXVÍÍÍ A SERMON.
+no danger of an innovation while we can appeal to the good-
+sense of the people. The great body of the people is always
+influenced by opinion; and as that opinion may or may not be
+right, an ignorant people will, in the hands of designing men, be
+made the instruments of irremediable mischief: whereas the con-
+stitution of our country challenges investigation, and the better
+we understand it, and the more we examine it, the more it must
+excite our admiration, attachment, and zeal. Ignorance alone
+can be its enemy - and the best guard to our established govern-
+ment, both in Church and State, and their true security, will
+arise from instructing the poor, and from preventing those vices
+and melancholy distresses which ignorance brings in its train;
+for " the destruction of the poor is their poverty
+But if we add to all these considerations the advantages to be'
+derived to individuals and the public, from the mode of religious
+instruction intended more particularly to be communicated by
+this institution, the utility of it will be placed in the most con-
+vincing light; for if ignorance be an enemy to labour, to the
+arts, and to regular government, this is but a temporary evil,
+and of short duration, affecting only this world, and " the things
+of the world but that evil which affects the soul, and is of
+eternal duration, demands our most serious attention; and, as
+St. James has pronounced, if Let them know, that he who con-
+verteth a sinner from the error of his way, shall save a soul
+from death :” and we then most effectually remedy those in-
+equalities and evils which the Almighty permits to exist among
+mankind when we become to the poor as the providence of God;
+when we attend not only to their temporal wants, but administer
+to them the spiritual manna; when, like the Saviour of mankind,
+" we go about doing good /^ for He divested himself of His
+superior nature, and assumed the human; He appeared upon
+earth in the garb of a servant, that He might teach the poor
+contentment, and the great humility. He came indeed to teach
+His kingdom to the poor, and to hold out to them, in a more
+* Prov. x. 15. t-Actsx. 38. .
+A SERMON.
+xxxix
+especial manner, the prospects of a future state, where the in-
+equalities of this life should be remedied; and to assure them
+that " theirs was the kingdom of heaven.”* But these are bene-
+fits which we cannot bestow upon them, unless we prepare their
+minds by useful learning; for the illiterate person is incapable of
+understanding or receiving some of the most important truths of
+Christianity; and in that very essential point, the exercise of
+public social-worship, instead of his mind being warmed by de-
+votion and elevated to God by a sympathetic. union with the
+body of the congregation in prayer, praise, and thanksgiving,
+" he will be unto him that speaketh a barbarian, and he that
+speaketh shall be a barbarian unto him.”f Let not the governors,
+therefore, let not the contributors to this institution, " faint in
+their work, but proceed from strength to strength,” J as in no
+other possible manner can they do so much good at so small an
+expense - for eighty children are instructed by this plan and in
+this manner for a sum which, by any other mode of application,
+would be scarcely sufficient to educate ten.
+Thus, every motive which can influence human action comes
+in aid of the application which I am now making to you in
+behalf of these children; and having, I hope, convinced your
+understanding, let no selfish consideration prevent your benevo-
+lence. Think how fortunate you are who have to give, and how
+miserable they must be without your aid; think of the goodness
+of that God who made them and made you; think of the mercy
+of that Christ who shed His blood to redeem them as well as to
+redeem you; think of your respective conditions in the worlds
+and see the great demand there is upon your gratitude I If your
+contribution should deduct something from your property, it will
+amply repay you by the thrilling pleasures which it will com-
+municate to your bosom. Other expenses may indeed shew you
+pleasure; they may promise it, but they will not give it; they
+will not leave it in your heart; they may satiate, indeed, but
+they will not satisfy : while inexhaustible and inexpressible is;
+* Matt. v. 3. I 1 Cor. xiv. 11. J Ps. Ixxxiv. 7.
+xl	A SERMON.
+that delight which arises from being the authors of good to the
+necessitous !
+Observe the simplicity of those children, and let pity move
+your feelings ! Observe their supplicating innocence ! Oh, save
+their innocence, and let God-like charity melt your souls !
+When I behold the respectableness of this congregation, and
+that approving earnestness depicted on every countenance, I per-
+ceive the cause of the poor to have prevailed. " May much peace
+and happiness rest upon the head and heart of every one of
+you !"* And, as " the poor shall never cease out of your land, I
+command you, saying, Ye shall open your band wide unto your
+brethren, to your poor, and to the needy in your landand rest
+assured that, though you " cast your bread upon the waters, you
+shall find it after many days /^ " you shall eat the labour of
+your hands, and see the goodness of the Lord in the land of the
+living ;"| but if nof in the land of the living, doubtless you
+shall hereafter; for I have the authority of God himself to de-
+clare that in that great and solemn day, when you and all the
+nations of the earth shall stand before the tribunal of Christ, to
+give an account of the things done in the body, the charity§
+which you shall bestow this day shall cover a multitude of sins,
+and it shall, “like the blood of Jesus,” plead for you, until
+you shall hear from Him the joyful sound, " Inasmuch as you
+have done it unto one of the least of these My brethren, you have
+done it unto Me : well done, good and faithful servants, enter ye
+into the joy of your Lord ”||
+* Sterne. f Eccl. xi. 1.	$ Ps. cxxviii. 2; xxvii. 15»
+§ 1 Peter iv. 7, 8.	[| Matt. xxv. 21, 40.
+THE DEDICATION.
+TO THE MOST NOBLE
+GEORGE, MARQUIS QE HUNTLEY,
+&C., &C., &c.
+jyjT Y LORD,—Popular favour, in different countries, arises
+from different causes; and rare must be the felicity of
+that man who has acquired universal admiration. Your Lord-
+ship's humanity in Ireland, amidst the cruelties of civil war, is
+recorded in history; the courage which you displayed on the
+plains of Lincelles, and the'wounds which you received on the
+sand-banks of Holland, have rendered you dear to England;
+whilst a sociable disposition, a love of your native country, an
+attachment to your people, their customs, and their language,
+have made you the pride and boast of Scotland.
+An author desirous of selecting a patron for the ancient Celtic,
+whether distinguished by the appellation of Welsh, Scots, Irish,
+or Manks Gaelic, would certainly choose the most popular noble-
+man in His Majesty's .dominions. How fortunate, therefore, is
+it for me, restricted as I am in my choice, that such a nobleman
+should be your Lordship, over whose youth I have watched with
+anxious solicitude, and whose mind I have endeavoured to adorn
+xliv	THE DEDICATION.
+with every good, every honourable principle ! With an honest
+pride, therefore, I place this work under your Lordship’s protec-
+tion.
+The present Grammar, and a Gaelic Dictionary, which has
+been for many years in the hands of his Grace the Duke of
+Atholl, were composed, in the year 1760, for the instruction of
+that great and pious prelate, the Rev. Dr. Hildesley, Lord Bishop
+of Sodor and Mann; and were likewise intended to assist and
+direct my fellow-labourers and myself in that arduous and im-
+portant work, the translation of the Manks Bible. Why the
+Grammar has not been sent sooner to the press, and the occasion
+of its appearance at this moment, are circumstances well known
+to your Lordship; and I hope the time is not far distant when
+I shall again solicit your Lordship’s favour for the Dictionary of
+a people who alone in the great revolutions of ages have pre-
+served the government, the laws, the monuments, and the lan-
+guage of the ancient Druids.
+In the meantime, I have the honour to be, with the most
+sincere esteem and affection,
+Your Lordship’s most obliged
+And faithful servant,
+Ardleigh, Nov. 22, 1803.	JOHN KELLY.
+A GRAMMAR OF THE MANKS LANGUAGE.
+CHAPTER I.
+Of the Letters»
+The Capital Letters»
+ABC Ch*D E F GHIJKLMNOPPhQUSTUVWY.
+Small Letters»
+a b cchdefghijklmnopphqrstiivwy.
+The Alphabet consists of seventeen single and two double con-
+sonants, and seven vowels, viz., a, e, i, o, n, w, y.
+Of the consonants fourteen are mutable, viz., b, c, ch, d,f, g,j,
+k, m, p, ph, q, ^, L
+The immutables are I, n, r, which always retain their sound
+and alter not.
+The j, k, and q consonants are properly no Manks letters; yet,
+as we have no single characters of our own to express their
+sounds, we have adopted those of the Roman alphabet, and
+instead of di, according to the Irish, and si, according to the
+Welsh, we usej; as Jee, God; Juan, John—Ir. Dia, &c. The
+- * This letter does not originally belong to our alphabet; but, like the Welsh
+is a modern corruption of t; as, instead of teas, heat, we say chiass.
+2
+A GRAMMAR OF
+sound of 6 we often express by k ; as, instead of done, we read
+kione, a head. For cw in cwaiyl, we use q; as, quaiyl, a court.
+The diphthongs, or union of two vowels, are twenty-three,,
+and the triphthongs fourteen.
+Diphthongs.
+Diphthongs.	Examples.	Diphthongs.	Examples-
+ae . .	. . aeg	iu . .	. . giu
+ai . .	. . baih	iw . .	. . briwwips
+au . .	. . craue	v • •	. . siyr
+aw . .	. . aw	oa . .	. . oastyz
+ay . .	. . cray	oe . .	. . oe
+ea . .	. . sea	oi . .	. . stroider
+ei . .	. . leigh	ou . .	. . sou
+eo . .	. . feoh	ow . .	. . grow
+eu . .	. .	j eushan	ui . .	. . guilley'
+ew . .	. . hew	wa . .	. . bwane
+ie . .	. . crie	wi . .	. . bwilleen-
+io . .	. . bio Triphthongs.		
+Triphthongs.	Examples.	Triphthongs	Examples-
+aie . .	. . traie	ieu . .	. . scrieu
+aue . .	. . raue	iou . .	. . kiou
+eau . .	. . ceau	iwe . .	. Z cliwe
+eie . .	. . spreie	oie . .	. . oie
+eoi . .	. . creoi	oue . .	. . roue
+eue . .	. . reue	uiy . .	. - g^iy
+iau . .	. . niau	woa . .	. . bwoalley-
+Sciopius and Carisius have- remarked that a			syllable may be
+formed of two or three vowels;;		as, aquae ; yet Quintilian will not-	
+allow that three vowels can be		united in one	syllable. But a-
+syllable of three vowels, nay of four, as rieau, &c., is easy and
+natural to the Manks and Irish, as also to many other branches
+of the great Celtic language. But, contrary to the spirit of that
+language, and to the disguising of many of the roots, we have
+admitted into our orthography unnecessary and superfluous
+double vowels; such as oo, es/&o.
+THE MANKS LANGUAGE.
+3
+CHAPTER IL
+Of the Pronunciation of the Manks Letters.
+A is ranked among the broad vowels; and in ancient manu-
+scripts, a, o, and u, are written indifferently one for the other; as
+clagh* or clogh^, a stone—goan or goun, scarce ; thus, among the
+Latins, forreus is written for farreus, &c. It is pronounced aS a
+English in man, pan, lad, bad; as, sap, lab, bob ; and when cir-
+cumflexed, as in dame, pale, ale; as maroo.
+B is a labial letter, and pronounced as b English; as, bare,
+boayl,
+. 0 preserves a strong sound in its unaspirated state, equal to
+the Greek Kappa, or the English A, or as c in can ; as, cam, cab,
+cappan. It never usurps the pronunciation of s, as in cistern,
+city, cedar.
+Ch has a soft sound; as in chingys, chiass, chaghter ; like ch in
+English, in cherry, charcoal.
+D is pronounced as d English; as doal, dowin. D and t are
+found in ancient manuscripts written indifferently one for the
+other; as y diunid, or y diunit, the profound.
+E is reckoned a small vowel; but is sometimes long, sometimes
+short, and thus answers to the Greek Epsilon and Eta. When
+it is acuted, it is pronounced as e English in men; as ben, shen,
+ren; circumflexed, as ea in fear; as mériu.
+F is called a weak consonant; because when aspirated it loses
+all its force : as fer-ynsee, a teacher, e er-ynsee, his teacher. It
+corresponds in many cases with the Latin v ; as fer, a man, Lat.
+* Northside pronunciation. j Southside pronunciation.
+4
+A GRAMMAR OF
+vir ; feeyn, wine. Lat. vimim ; fochle, a word. Lat. vocalis ; and
+is pronounced as / English; as faase, foays.	'
+G is a heavy consonant; and pronounced as the Greek Gamma,
+or as g English in gain, get, go; as gammari, goaill, garfish. It
+has no soft sound, as in the English gentle.
+JET is pronounced as h in the English hand, hind. Note.—Some
+would rather call this an auxiliary than a letter, because it* serves
+only to aspirate the foregoing consonants; as ch, ph, th, or the
+following vowels, as ha, he ; and in nouns of the feminine gender
+beginning with a vowel, though not always written, is always
+strongly expressed; as e eddin, her face, pronounced as if written
+e heddin.
+/ is one of the small vowels, and pronounced as i English in
+pin ; as shillish, shimmey, shid.
+L is a letter which admits of no aspiration. When it begins
+a feminine noun it is pronounced liquid and double, though
+written single, as e laue, her hand, pronounced el laue or s llaue.
+3f is naturally one of the strong consonants, but is often
+changed into its soft v. It is pronounced as m English.
+N as n English. It is never aspirated nor eclipsed; and is -
+called a light consonant. It is often doubled, to give the
+stronger sound. In nouns plural, and feminines, n is pronounced
+like gn in seigneur; thus, s niart, her strength, is pronounced en
+niart; nyn yannoo, our doings; nyn nyannoo.
+0 is a broad vowel. When acuted, it is pronounced as u in
+gone ; thus, cron, son ; when circumflexed, as o in bone; thus,.
+oney. And thus it answers to the Greek Omicron and Omega.
+P is a hard consonant, and pronounced as p English.
+Ph as the Greek Phi; or ph English, in philosophy, physic ;
+as phadeyr, phaal.
+P is a light consonant, and pronounced as r English ; as maroo,
+sarey; but when an initial, it is always aspirated as the Greek
+Rho, as if it were written rh, and is pronounced double (rr), like
+I and n in feminine and plural nouns.
+S as s in the English savour, sense; as saggyrt, sollan ; and is
+THE MANKS LANGUAGE.
+5
+called the queen of consonants, because it is subject to no change,
+like the Greek Sigma, suæ potestatis Utera, except it be followed
+by a vowel, or of the feminine gender, and then it suffers a
+change, vid. Chap. III.
+T is a hard consonant, naturally commutable with the letter d
+(as has been already observed). It has been much abused and
+corrupted in modern manuscripts, &c., and ch often substituted
+in its place, entirely destroying the Celtic root; as chengey, a
+tongue, for teanga, Irish; chiarn, a lord, for tiearn, Irish - cum
+multis aliis.
+U is one of the three broad vowels, and used indifferently for
+a and o; as goll, or gall, or gout, a fork or ray.
+T is not properly a radical consonant, but only a secondary
+mute; however, we have some words which begin with v as a
+radical, therefore it is admitted as such; as vaidyn, a while ago,
+varrey mish, I warrant, voalley, a wall.
+W is pronounced as oo, as in boot; as bwoaill, wardoon, warp,
+warree.
+y is pronounced as u in the English turn, hunt; or as i in
+bird, third; as spyrryd, ymmyrchagh. Alone, as forming the
+article y, it has the sound of e in the English met.
+6
+A GRAMMAR OF
+CHAPTER III.
+Concerning the Variation of Initial Letters in Manks ; or
+the Pronunciation of Secondary Mutes.
+In the Manks are no redundant consonants as in the Irish;
+these non-radicals are thought to clog the language, and render
+it disagreeable in use, and difficult to acquire a knowledge of.
+Some of these mutable consonants become other consonants,
+which may, therefore, be called secondary or auxiliary mutes.
+The force of the pronunciation of secondary or auxiliary mutes
+(as they are called) is so different from that of the primary or
+radical, that they are expressed by different letters in the Manks,
+as is commonly done in other languages, except the Irish, where
+only the aspirate h is added; from whence arises often the diffi-
+culty of finding the etymology in ours, where that usage pre-
+vails, and the reason why the Irish language has been so well
+preserved. .
+Such words as begin with mutable consonants, viz., d, c, ch, d,
+/, g, j, k, m, p, ph, g, ^ in their primary use, change these their
+radical initial letters as occasion requires, and according to the
+effect which the words preceding have on them, as follows:—
+Words primarily beginning with b have three initials, viz., &,
+v, m ; as bea veayn, long life, 6 vea, his life, nyn mea, our, your,
+their life. So the Greek Bharrhon is written by the Latius
+Varro; Birgilius, Virgilius; biote, vita (in Manks, bea or vea).
+Words beginning with c have three initials, viz., c, ch, g ; as
+carrey, a friend; e charrey, his friend; nyn garrey, our, your, or
+their friend.
+Words beginning with ch have also three initials, viz., ch, h,j;
+THE MANKS LANGUAGE.
+7
+as chiarn pooaral} a powerful lord; 6 hiarn, his lord; nyn jiarn,
+our, &c., lord.
+Words beginning with d have two initials, viz., d and gh; as
+dooinney ró, a good man; e ghooinney, his man.
+Words beginning with/have three initials, viz.,/, v, and the
+first vowel or consonant in the word, casting away or making
+the/quiescent; as foays, advantage; e oays, his advantage; nyn-
+voays, their, &c., advantage.
+Words beginning with g have two initials, viz., g and gh; as
+goo mie, a good report; e ghoo, his report.
+Words beginning with j have two initials, viz., j and y ; as
+Jee ooilley-niartal, Almighty God; e yee, his god.
+Words beginning with k, like c, have three initials, viz., 7c, ch,
+g ; as Idunid aalin, a serene calm; e chiunid, his calmness; nyn
+giunid, our, &c., calmness.
+Words beginning with m have two initials, viz., m and v; as
+moyrn vooaralagh, haughty pride; e voyrn vooaralagh,his haughty
+pride.
+Words beginning with p have three initials, viz., p, ph, b ; as
+padjer jeean, earnest prayer; epTiadjer, his prayer; nyn badger,
+our, &c., prayer.
+Words beginning with ph have three initials, viz., ph, n, and
+the first vowel or consonant of the word, the ph being eclipsed
+or made quiescent; as phreeney vooar, a large pin; e reeney, his
+pin; nyn vreeney, our pin : phaal heyrragh, a sheep-pen; e aal, his
+pen; nyn vaal, our pen.
+Words beginning with q have three, viz., q, wh, g ; as quing
+hr dune, a heavy yoke; e whing, his yoke; nyn guing, their yoke.
+Words beginning with s have three, viz., s, h,t; if the first
+letter s be followed by a vowel, or if the word be of the feminine
+gender it has two; 'as sooill vie, a good eye; e hooillj his eye;
+y tooillfthc eye; slingan vooar, a big shoulder, y tlingan the
+shoulder; otherwise the initial remains unchanged; as sporran, a
+purse; e sporran, his purse.
+Words beginning with t have three initials; viz., t, h, dh; as
+D 2
+8
+A GRAMMAR OF
+taggloo ard, high discourse; 6 hag gio o, his discourse; nyn
+dhaggloo, our discourse.
+The variation of the initial letters is always regular and con-
+stant betwixt letters of the same organ of pronunciation; for a
+labial letter is never changed to a dental, nor a dental to
+a labial, &c.
+Adverbs, being formed of adjectives, become such for the most
+part by putting dy in apposition to the adjectives, without effect-
+ing any change in their mutable initial consonants; as mie (adjec-
+tive) good; dy mie (adverb) well; boght (adj.) poor; dy boght
+(adv.) poorly; gennal (adj.) merry; dy gennal (adv.) merrily.
+Whereas the preposition dy, of; or dy, the sign of the infinitive
+mood; or dy, to, (a contraction of gyn) always change the mut-
+able initials; thus, in traagh, pobble, goaill, bailey ; as rybbag dy
+hraagh, a wisp of hay; earroo dy phobble, a multitude of people;
+dy ghoaill coyrle, to take counsel; goll dy valley, going home.
+Initial vowels are also capable of occasional changes, by taking
+the aspirate h before them after the genitive article ny ; as ayns
+diunid ny hushtaghyn, in the depth of the waters. Besides, in
+pronunciation, the last consonant of the preceding word is trans-
+ferred to the following vowel; thus yn oo, the egg; yn arragh,
+the spring; yn agh the horse, are pronounced as if they were
+yn noo, yn niarragh, yn niagh.
+THE MANKS LANGUAGE.
+9
+CHAPTER IV.
+The Parts of the Mauks tongue are nine.
+Article,	>	Adverb,	}
+Noun,	/	Conjunction,	(
+Pronoun,	>declined.	Preposition,	( undeclined.
+Verb,	\	Interjection,	J
+Participle,	J
+Of the Articles.
+The Articles* are two, y and yn, the, and are declined in the
+following manner:—
+Singular.	Plural.
+Nom. Y or yn, masc. and fem.	N. Ny, masc. and fem.
+Gen. Y or yn, masc. ny, fem.	G. Ny.
+Dat. Da }n,	D, Da ny,
+Acc. Y or yn,	A .Ny,
+Voc. Y or o,	V. Y or o,
+Abi. Gyn.	A. Gyn.
+Vis placed before words beginning with consonants; as y
+dooiney, the man, y ven, the woman.
+Yn is used before words beginning with vowels, whether radi-
+cal or in construction; as yn oural, the sacrifice, shell boteil yn
+odill millish, this is the bottle of sweet oil. But it is often sub-
+stituted in the place of the article y even before consonants,
+especially when a person or thing is particularised..
+When the articles, ny, na, &c., and verbs substantive, ta, va,
+bee, and some of the irregulars, nee, hie, &c., precede in construc-
+tion, though the word following begins with a consonant, yn is
+* Properly, there is but one article, y, which becomes yn before a. vowel, and ny
+in the plural; and there are but two cases, the nominative and the genitive, the
+dative being a contraction of da yn, and the ablative being a simple preposition, gyn?
+without.—Ed.
+10
+A GRAMMAR OF
+used; but the y is cut off by apostrophe, because of the preceding
+vowel; as bee ’n doonniey mie maynrey, the good man shall be
+happy; ta ’n drogh-ghoonniey mollaghtagh, the wicked man is
+cursed; ta 3n chenndeeaght ny screeney ha ’n aegid. After other
+words ending with a vowel, and the following word beginning
+with a consonant, yn, not y, is always used; as ayns thie yn ree}
+(not thie 3n ree) in the king's house; feh gergaghey yn pebble, (not
+gergaghey3n pebble)} he comforts the people. In these and the
+like cases, to apostrophize the yn is reckoned highly barbarous.
+The article yn before all nouns beginning with a vowel trans-
+fers, in pronunciation, the final n to the following vowel; as yn
+agh, the horse, which is pronounced as if written yn nagh ; yn
+ollaghy the cattle, pronounced yn nollagh.
+Ec is a participial article of the present tense, er of the preter,
+and er-chee of the future; as, ee scrieu, writing; er scrieu, having
+written; er-chee scrieu3 about to write.
+THE HANKS LANGUAGE.
+11
+CHAPTER V.
+Of the Noun.
+And firsts of its Cases.
+In Manks there are six Cases, though originally we seem to
+have used but three, viz., the Nominative, Genitive, and Dative.
+When the article y or yn is placed before a substantive of the
+Nominative Case, beginning with a mutable consonant, if the
+Noun be of the feminine gender, the initial consonant must be
+either aspirated, mortified, or changed into its soft: as ben, a
+woman, yn ven ; keyrrey, a sheep, yn cheyrrey ; feill, flesh, yn eill.
+But if the Noun be of the masculine gender, the initial consonant
+remains in its own nature; as yn dooinney, the man; yn coo, the
+greyhound; yn feiyr, the noise.
+When the article y or yn is placed before a Noun beginning
+with a consonant, if the Noun be of the feminine gender,, the
+article is changed into ny in the Genitive Case singular; but if
+the Noun be of the masculine gender, the mutable consonant
+is changed into its soft or aspirated, and the article y or yn
+remains; as
+Masculine.
+Nom. Guilley, a boy.	Nom. Goo} a greyhound,.
+Gen. Yn ghuilley, of a boy. Gen. Yn choo.
+Feminine.
+Nom. 13en} a woman,	Nom. Booa, a cow.
+Gen. Ny mrieh, of a woman. Gen. Ny baa.
+Nom. Kiarkj a hen,	Nom. Cass, a foot,
+Gen. Ny giark.	Gen. Ny coskey.
+Nouns of the feminine gender, beginning with a vowel, change
+s
+12
+A GRAMMAR OF
+yn into ny in the genitive singular, and require h for their initial
+in the same case; as,
+Awin, a river,
+Broogh ny hawin, the brink of the river.
+Nom. Banin, a precipice,
+Beinn ny heanin, the summit of the precipice.
+As to the Cases of the Plural Number, there is but one termi-
+nation throughout; so that they are only distinguished by the
+articles set before them, or in their construction, varying their
+initial letters, if mutable, answerable to their dependence on the
+preceding words; as—	Plural.
+Nom. Ny boghtyn, the poor,
+Gen. Ny moghtyn, of the poor,
+Dat. Da ny boghtyn, to the poor,
+Acc. Ny boghtyn, the poor,
+Voc. Y or 0 voghtyn, 0 poor,
+Abi. Gyn voghtyn, without poor.
+The initial of the Genitive Case plural suffers always, when
+the genitive article ny is used, as if the possessive nyn were put
+in apposition, v. ; as—
+Plural.
+Nom. Ny boghtyn.
+Gen. (Bannaght) ny moghtyn, the blessing of the poor.
+Nom. Ny thieyn, the houses.
+Gen. (Fer) ny dhieyn, a man of the houses, i.e., a beggar.
+The vocative article is more frequently understood than ex-
+pressed in both numbers, except the English thou be used in the
+singular; as, magh, y voddee, Out, thou dog; and in the plural,
+except ye be expressed, which is generally translated by shiuish,
+ye, yourselves; as, ye friends, or friends, chaarjyn, or shiuish
+chaarjyn.
+THE HANKS LANGUAGE.
+13
+CHAPTER VI.
+Of the Numbers.
+Mariks nouns have ordinarily but two Numbers, the Singular
+and the Plural.
+We seem also to use the dual, when daa, two, or both, may be
+compounded with a substantive : as, daa ghooinney, two men;
+daa chass, two feet; daa hie, two houses, daa ven, two women,
+literally, two woman, &c.
+■ Substantives compounded, or put in apposition with numerals,
+in the first and second number of every score, instead of the
+plural, use the singular number; as, un hooill, one eye; daa
+hooill, two eyes; three sooillyn, three eyes; feed sooill, twenty
+eyes; un hooill as feed, one-and-twenty eyes; da-eed sooill, forty
+eyes; three-feed sooill, sixty eyes, &c.* The word laa, a day,
+when put after a numeral, may be used throughout in the singu-
+lar number: thus—un laa, daa laa, three, hiare, queig, &c., laa.
+Some substantives want the singular number: as, cloan, chil-
+dren; maase, cattle; sleih, people, &c. Others want the plural:
+as, ar ran, bread; jough, drink; sollan, salt; eeym, butter; feill,
+flesh ; suili, blood; bainney, milk; niart, strength; fort, ability;
+keayney, weeping; trimshey, sorrow; and the like.
+And the names of metals: as, airh} gold; argid, silver; prash,
+brass; yiarn, iron; stainney, tin, &c.; and all proper names.
+* The Manks count by scores. The score, yn feed has no plural termination.
+Every noun numbered by the score is in the singular form; as— a score man, two
+score man, three score man.—Ed.
+14
+A GRAMMAR OF
+CHAPTER VII.
+Of the Forming of Plurals in a Noun Substantive.
+The Plurals of Substantives are formed of their singulars in
+three ways.
+Firsts by adding only a syllable to the termination of the
+singular : as, awin} a river, plural awinyn ; cassan, a foot-path,
+plural cassanyn.
+Secondly, by changing only the vowels or diphthongs of mono*
+syllables into other vowels or diphthongs: as, mac, a son, pl.
+mcc; /er, a man, pl. fir; beeal, a mouth, pl. beill; mair, a finger,
+pl. meir ; or by changing the vowels and diphthongs of the ultima
+and penultima of polysyllables into other vowels or diphthongs;
+as, keeill, a church, pl. kiaulteenyn.
+Thirdly, by changing the vowel or diphthongs of the singular
+and adding to the termination too; as, raantagh, a bondsman, pl.
+raanteenyn ; claddagh3 a lake, pl. claddeeyn; bléin, pl. bleeantyn.
+But here it is necessary to know the various syllables usually
+added to, or diphthongs changed in, the singulars of substantives,
+to render them, plurals; which are these that follow:—
+Tn is the most common termination of all; as, glioon, a knee,
+pl. glioonyn; laue, a hand, pl. laueyn ; cass, a foot, pl. cassyn.*
+The singular termination agh is always changed into ee; as,
+berchaghj a rich man, pl. berchee ; kimmagh, a criminal, pl. kim-
+mee ; claasagh, a harp, pl. claasee.
+* The old English or Saxon plural ended in en as house, housen; hose, hosen; eye,
+eyen; shoe, shoon. Hence also, sowen, now swine; cowen, now bine; oxen; men;
+women; children.—En.
+THE MANKS LANGUAGE.
+15
+Nouns, whose singular number ends in ey, make their plural
+by changing ey into agh} and adding the particle yn to the ter-
+mination ; as, chengey, a tongue, pl. chengaghyn; caggey, a war,
+pl. caggaghyn; except dooinney, a man, pl. deiney.*
+Some monosyllables ending in r make their plurals by taking
+aghyn; as, pooar, power, pl. pooaraghyn; gloyr, glory, pl.
+gloyraghyn.
+A in monosyllables is changed for the most part into 6 ; as,
+mac, a son, pl. mec; mair, a finger, pl. meir; so also tarroo, a
+bull, pl. ferroo ; marroo, the dead, pl. merroo; not terriu, merriu,
+as some erroneously hold.
+F is changed into t; as; /er, a man, pl. /r.
+0 in monosyllables is changed into the diphthongs ut; as, molt,
+a mutton, pl. muilt; bolg, a belly, pl. builg ; bock, a horse, pl,
+buick; poyll, a puddle, pl. puill; sfoyZ, a stool, pl. stuill; cront,
+a knot, pl. cruint.
+• Other exceptions are—bailey, a town, pl. baljyn; billey, a tree, pl. biljyn;
+bunney, a sheaf, pl. bunnecyn; carrey, a friend, pl. caarjyn; paitchey, a child, pl.
+paiichyn.—Ed.
+16
+A GRAMMAR OF
+CHAPTER VIII.
+The Genders of Substantives.
+Although, the primitive and proper use of genders be only to
+distinguish one sex from another, yet the Manks, like the
+Greeks, Latins, French, Irish, &c., observe that distinction even
+in inanimate things, among which there is neither male nor
+female; so that there is not one noun in Manks but what is
+either masculine^ feminine, or common.*
+There are twos ways to know the gender of a noun.
+The first, by its signification.
+The second, by its termination,
+The proper names of men, winds, months; also qualities, good
+or bad; metals; and the infinite mood of verbs, when used
+substantively, are known by their signification to be of the mas-
+culine gender.
+Words ending in oo, ey, ed, er, are masculine by their termi-
+nation; as jannoo, an action; jalloo, an image; goo, a report; bain-
+ney, milk; phreeney, a pin; eggey, a web; dooinney, a man; red,
+a thing; bred, a prick; gred, a heat; dunver, a murderer;
+eeasyder, a borrower, ynseyder, an instructor.
+Words ending in oge, age, or ag, are‘feminines by their termi-
+nations ; as, rollage, a star, burdoge, a shrimp; cuinniag, a mull.
+* There is no such anomaly as a neuter gender.—Cregeen.
+j- As there are no determined rules to know the genders of substantives inanimate,
+I have been very exact in setting down the gender of every noun in my Dictionary;
+for adjectives being to express the quality «f the substantives, follow their genders,
+by becoming either masculine or feminine; which is effected by a change in the
+initials of the adjectives.
+THE MANKS LANGUAGE.
+17
+The names of women, countries, rivers, cities, also appella-
+tives of trees and stones; are of the feminine gender; so are
+nouns ending in ee joined to an adjective feminine, whether of
+the singular or plural number; as,peccee} sinners; peccee hreih,
+miserable sinners; moddey joogh, a greedy dog, masculine, pl.
+moddee yoogh, feminine: so are the singulars cree, slice, &c.
+Words that are common to both sexes, as, chaghter, a messen-
+ger ; sliarvaant, a servant; paitchey, a child, are of the common
+or two genders.
+When the article y or yn is placed before a noun beginning
+with s} if t be substituted in the place of s} so that the § be
+eclipsed and loseth its sound; then that noun is of the feminine
+gender; as—
+Sooill, an eye. Yn tauin.
+Yn tooill, the eye. Soalt, a barn.
+Sauin, Hallowing-tide. Yn toalt, the barn.
+But if the noun admits not of t, then it is of the masculine
+gender.
+When the article yn is placed before a noun beginning with a
+consonant, and the said article is changed into ny in the genitive
+case singular, that noun is of the feminine gender; but when
+the article yn remains in the genitive singular, then the noun is
+of the masculine gender; as—
+Nom. Yn for, the man, Horn. Tn ver, the woman,
+Gen. Yn er, of the man. Gen. Ny mrieh, of the woman.
+But in finding out the proper gender of the substantive given,
+provided the substantive begin with one or other of the mutable
+consonants, the most certain rule is :—
+A word beginning with any of the mutable consonants, if,
+upon putting the article y or yn before it, its initial consonant
+doth naturally change into its soft; as, cooish, a cause, yn chooish,
+the cause; grian, the sun, yn ghrian, the sun; moyrn, pride, yn
+voyrn, the pride; miljid, sweetness, yn viljid: the sweetness: such
+words are infallibly of the feminine gender. But if the initial
+consonant change not thereupon, we may justly conclude such
+18
+A GRAMMAR OF
+words to bo of the masculine gender; as, goo, fame, y goo, the
+fame; keayn, sea, yn keayn, the sea; corp, a body, yn corp, the
+body; cappan, a cup, yn cappan, the cup.
+THE MANKS LANGUAGE.
+19
+CHAPTER IX.
+Of the Declensions.
+There are Five Declensions.
+FIRST DECLENSION.
+Nouns of the First Declension are such as form their plural
+by adding the particle yn to the termination of the nominative
+singular; as—
+Of the Feminine Gender:
+Singular.	Plural.
+Nom. Sooill, an eye, or y tooill} N. Ny sooillyn, the eyes,
+the eye,
+Gen. Ny sooilley, of an eye,
+Dat.* Da’n tooill} to the eye,
+Acc. Yn tooill, the eye,
+Voc. Y or 0 hooill, 0 eye,
+Abi. Gyn hooill, without an eye.
+Singular.
+Nom. Cass, a foot,
+Gen. Ny coshey, of the foot,
+Dat. Da}n chass, to the foot,
+Acc. Yn chassj the foot,
+Voc. Y chass, 0 foot,
+Abi. Gyn chass, without a foot.
+G. Ny sooillyn, of the eyes,
+D. Da ny sooillyn, to the eyes,
+A. Ny sooillyn, the eyes,
+V. Y or 0 hooillyn, 0 eyes,
+A. Gyn sooillyn, without eyes.
+Plural.
+N. Cassyn, feet,
+G. Ny gassyn, of the feet,
+D. Da ny cassyn, to the feet,
+A. Ay cassyn, the feet,
+V. V chassyn, 0 feet,
+A. Gyn chassyn, without feet.
+* The Dative case of all nouns is the same as the Accusative, with the pre-
+position da prefixed. It might therefore be expunged; and the word in the Dative
+be said to be in the Accusative, governed by the preposition da. The Pronouns
+have a distinct Dative.—Ed.
+20
+A GRAMMAR OF
+Of the Masculine Gender.
+Singular.
+Nom. This, a house,
+Gen. Yn thie, of the house,
+Dat. Da’n tide, to the house,
+Acc. Yn thie, the house,
+Voc. Y or 0 hie j 0 house,
+Abi. Gyn thie, Without a house.
+Singular.
+Nom. Baase, death,
+Gen. Yn vaaish, of death,
+Dat. Da’n baase, to the death,
+Acc. Yn baase, the death,
+Voc. Y vaase, 0 death,
+Abi. Gyn vaase, without death.
+Plural.
+N. Thieyn, houses,
+G.	Ny dhieyn, of the houses,
+D. JDa ny thieyn,to the houses,
+A. Ny thieyn, the houses,
+V. Y hieyn, 0 houses,
+A. Gyn thieyn, without houses.
+Plural.
+N. Baaseyn, deaths,
+G.	Ny maaseyn, of deaths,
+D.	Bany baaseyn,totlae deaths,
+A. Ny baaseyn, the deaths,
+V. Y vaaseyn, 0 deaths,
+A. Gyn vaaseyn, without, &c.
+Some nouns of this declension transpose their final consonants
+in the genitive singular, and in the plural number; as—
+Singular.	Plural.
+Nom. Bannishj a wedding, N. Ny banshyn, the weddings,
+Gen. Ny banshey, of a wedding, G. Ny manshyn, of, &c.
+Dat. Da}n vannish, to the wed- D. Ba ny banshyn, to, &c.
+ding,
+Acc. Til vannish, the wedding, A. W/ banshyn, the, &c.
+Voc. V vannish, 0 weddings V. V vanshyn, 0 weddings,
+Abi. 6^M vannish, without a A. Gyn vanshyn, without, &c.
+wedding.
+Nouns ending in er, or, id, ys, are of this declension; and these
+nouns feminine:—
+Singular.
+Nom. Ooig, a pit,
+Gen. Ny hooigey, of, &c.
+Nom. Greg, a rock,
+Gen. Ny creggey, of a rock.
+Nom. Kiark, a hen,
+Gen. Ny giark, of the hen.
+Plural.
+N. Ny ooigyn, pits,
+G. Ny hooigyn, of pits.
+N. Creggyn, rocks,
+G. Ny creggyn, of rocks.
+N. Kiarkyn, of hens,
+G. Ny giarkyn, of hens.
+THE MANKS LANGUAGE.
+21
+And loin, gen. ny toaney ; crosh, an accidents gen. ny groshey ;
+muir, the sea, gen. ny marrey ; niuc, a pig, gen. ny muigey, &c.
+SECOND DECLENSION.
+Nouns of the Second Declension are such as admit of no change
+in the termination of the singular number; and the plural is
+formed by adding aghyn to the final consonant; and, if the noun
+ends in a vowel, the vowel is cast away, except it be a monosyl-
+lable, and then the vowel remains: as—
+Singular.
+Nom. Gaggey (masc.) war,
+Gen. Yn chaggey, of the war,
+Dat. Da’n caggey, to the war,
+Acc. Yn caggey, the war.
+Voc. Y chaggey, 0 war,
+Plural.
+N. Caggaghyn, waxs,
+G. Ny gaggaghyn, of the wars,
+D. Da ny caggaghyn, to the wars;
+A. Ny caggaghyn, the wars,
+V. Y chaggaghyn, 0 wars.
+Abi. Gyn chaggey,without, &c. A. Gynchaggaghyn^\DaGat} &c.
+Singular.	. Plural.
+Nom. Gloyr (fem.), glory, N. Gloyraghyn, glories,
+Gen. Ny ghloyr, of the glory, G. Ny gloyraghyn, of, &c.
+Dat. Da’n ghloyr, to the glory, D. Da ny gloyraghyn, to, &c.
+Acc. Yn ghloyr, the glory, A. Ny gloyraghyn, the glories,
+Voc. Y ghloyr, 0 glory, V. Y gloyraghyn, 0 glories,
+Abi. Gyn ghloyr, without, &c. A. Gyn gloyraghyn, &c.
+Singular.	Plural.
+Nom. Cruinney, a globe, N. Gruinnaghyn, globes,
+Gen. Ny cruinney, of a globe. G. Ny gruinnaghyn, of, &c. '
+Of this declension are the following nouns x-^cree, a heart; ree,'
+a king; coirrey, a furnace ; chengey, a tongue ; pooar, power;
+obbyr, work; peccah, sin, &c.
+THIRD DECLENSION.
+The Third Declension containeth nouns changeable in the cases
+of the singular number, and which form their plurals as the
+second declension.
+22
+A GRAMMAE OF
+Singular.
+Nom. Yn sourey, summer,
+Gen. Yn touree, of summer,
+Dat. Da’n tourey, to the, &c.
+Acc. Yn tourey, the summer,
+Voc. Y houree, 0 summer,
+Abi. Gyn hourey, without, &c.
+Plural.
+N. Souraghyn, summers,
+G. Ay souraghyn, of summers,
+D. Da ny souraghyn, to, &c.
+A.	Ai/ souraghynj the, &c.
+V.	Y houraghyn, 0, &c.
+A. Gyn souraghyn, without, &c.
+Singular.
+Plural.
+Nom. Moir, a mother,	N. Moiraghyn, mothers,
+Gen. A?/ mayrey, of a mother, G. Ay moiraghyn, of, &c.
+Dat. Da^n vor-^ to the mother, D. Da ny moiraghyn, to, &c.
+Acc. Th nm>, the mother.
+Voc. V voir, 0 mother,
+Abi. Gyn voir, without, &c.
+Of this declension are—
+A. Ay moiraghyn, the, &c.
+V.	y voiraghyn, 0, &c.
+A. Gyn voiraghyn, without, &c.
+Singular.
+Nom. Dr aar, a brother,
+Gen. V vraarey, of a brother,
+Singular.
+Nom. Shuyr, a sister,
+Gen. Ay shayrey, of a sister.
+Plural.
+N. Draaraghyn, brothers,
+G. Ay mraaraghyn, of, &c.
+Plural.
+N. Shuyraghyn, sisters,
+G. Ay shuyraghyn, of sisters.
+In the same manner are declined geurey, winter, gen. y gheuree,
+of winter; cheer, a country, gen. ny cheerey, of a country, &c.
+Of this declension are nouns wanting the singular number, also
+nouns of multitude singular, and are regularly declined; as—
+Singular.
+Plural.
+Nom. Feill, flesh,
+N. Gloan, children,
+Gen. Ay foalley, of the flesh,
+Dat. Da3n eill, to the flesh,
+Acc. Yn eill, the flesh,
+Voc. 0 eill, 0 flesh,
+Abi. Gyn eill, without flesh.
+Note here that cloan, maase, sleih {vide Of the Numbers, Chap.
+VI.),-which apparently seem plural nouns, are only nouns of
+G. Ay glienney, of children,
+D. Da3n chloan, to the children,
+A. Ph chloan, the children,
+V.	y chloan, 0 children,
+A. Gyn chloan, without, &c.
+THE MANKS LANGUAGE.
+23
+multitude singular, and declined with a singular article; for, we
+never say ta ny maase cheet, but ta*n maase cheet, the cattle comes;
+ta’n sleih chaglyni, the people assembles, not ta ny sleih chaglyni.
+THE FOURTH DECLENSION.
+Nouns of this declension ending in agh in the singular change
+agh into es in the plural, and add the particle yn ; as—
+Singular.	Plural.
+Nom. Gagliagh, a boundary, N. Gagkeyn, boundaries,
+Gen. Yn chagliagh, of the, &c. G. Ny gagkeyn, of the, &c.
+Dat. Da*n cagliagh,to the, &c. D. Da ny cagkeyn, to the, &c.
+Acc. Yn cagliagh, the, &c. A. Ny cagkeyn, the, &c.
+Voc. Ychagliagh, 0 boundary, V. Y chagkeyn, 0, &c.
+Abi. Gyn chagliagh, without,&c. A. Gyn cagkeyn, without, &c.
+Of this declension are claddagh, &c.
+Some nouns of this declension, to avoid the hiatus, receive the
+consonant n ; as—
+Singular.	Plural.
+Nom. Daantagh, a bail, N. Raanteenyn, bails,
+Gen. Yn raantagh, of a bail. G. Ny raanteenyn, of the bails.
+Some nouns of this declension, ending in vowels in the singu-
+lar number, form their plural by adding nyn to the termination;
+as—
+Singular.	Plural.
+Nom. Gliwe, a sword,	N. Gliwenyn, swords,
+Gen. Yn chliwe, of a sword.	G. Ny gliwenyn, of the, &c.
+So are jaghee, tythe; briw, a judge, &c., declined.
+Some nouns of this declension form their plurals from the geni-
+tive singular, and transpose the final consonant; as—
+Singular.
+Nom. Annym, a soul,	N.
+Gen. Ny hanmey, of the soul. G.
+Singular.
+Nom. Keeill, a church,	N.
+Gen. Ny killagh,of the church. G.
+Plural.
+Anmeenyn, souls,
+Ny hanmeenyn, of the souls.
+Plural.
+Kialteenyn, churches,
+Ny gialkenyn, of the, &c.
+E 2
+24
+A GRAMMAR OR
+And some, instead of n, admit of t in their plural; as, moainee,
+a turbary; Iheeanee, a meadow; bléin, &c.
+Singular.	Plural.
+Nom. Blein, a year,	N. Bleeantyn, years,
+Gen. Ny bleeaney, of a year. G. Ny mleeantyn, of the years.
+FIFTH DECLENSION.
+A, o, u, being broad vowels, are used promiscuously in general,
+but in monosyllable nouns the plural number follows the genitive
+singular, as—
+Singular.
+Plural.
+Nom.	Doam,afistorhand(shut), N. Duirn, hands,
+Gen.	Ny duirn, of a fist,	G. Ny ghuirn, of hands,
+Dat.	Da’n doarn, to the hand, D. Dy ny duirn, to the hands,
+Acc.	Yn doarn, the hand,	A. Ny dui/rn, the hands,
+Voc.	Y ghoarn, 0 hand,	V. Y ghuirn, 0 hands,
+Abi.	Gyn doarn, without, &c. A. Gyn duirn, without hands.
+Singular.	Plural.
+Nom.	Cron, a mast,	N.	Ny cruin,	masts,
+Gen.	Y chruin, of the mast,	G.	Ny gruin,	of the masts,
+Dat. Da’n chron, to the mast, D. Dy ny cruin, to the masts,
+Acc.	Yn chron, the mast,	A.	Ny cruin,	the masts,
+Voc.	Y chron, 0 mast,	V.	Y chruin,	0 masts.
+Abi. Gyn chron, without a mast. V. Gyn cruin, without, &c.
+Singular.	PluraL
+Nom. Kione, a head, Gen. Y ching, of a head. Singular. Nom. Booa, a cow, Gen. Ny baa, of the cow.	N. Ny king, heady, G. Ny ging, of the heads. Plural. N. Ny baa, cows, G. Ny maa, of the cows.
+Some monosyllables of this declension follow not their geni-
+tive, but change a into e ; as—
+Singular.	Plural.
+Nom. Mac, a son,	N. Ny mec, sons,
+Gen. Yn vac, of a son. G. Ny mec, of the sons.
+THE MANKS LANGUAGE.
+25
+Some change s into i, as—
+Singular.
+Nom. Fer, a man,
+Gen. Yn er, of the man.
+Plural.
+N. Fir, men,
+G. Ny vir, of the men.
+0, in monosyllables, is changed into the diphthong ui, as—
+Nom. Doig, a belly,	N. Ny builg, bellies,
+Gen. Yn volg, of a belly.	G. Ny muilg, of bellies.
+In this manner are declined molt, stoyl, cront, &c., &c.
+Some polysyllable nouns also form the plural from the genitive
+case singular, and are of the fifth declension; as,
+Singular.	Plural.
+Nom.	Kellagh, a cock,	N.	Ny kellee,	cocks,
+Gen.	Y chellee, of the cock,	G.	Ny gellee,	of the cocks,
+Dat. Da’n kellagh, to the cock, D. Fa ny kellee, to the cocks,
+Acc.	Yn kellagh, the cock,	A.	Ny kellee,	the cocks,
+Voc.	Y chellagh, 0 cock,	V.	Y chellee,	0 cocks,
+Abi. Gyn chellagh, without, &c. A. Gyn kellee, .without cocks.
+•	Singular.	Plural.
+Nom. Guiy, a goose,	N. Ny guoee, the geese,
+Gen. Ny guoee, of a goose.	G. Ny ghuoee, of the geese.
+Nom. Moddey, a dog,	N. Ny moddee, dogs,
+Gen. Y voddee, of a dog.	G. Ny moddee, of dogs.
+Keyrrey, a sheep, &c., are of this declension, and thus declined:
+Singular.	Plural.
+Nom. Keyrrey, a sheep, N. Ny kirree, sheep,
+Gen. Ny geyrragh, of a sheep, G. Ny girree, of the sheep,
+Dat. Da’n cheyrrey, to the sheep, D. Da ny kirree, to, &c.
+Acc. Yn cheyrrey, the sheep, A. Ny kirree, the sheep,
+Voc. Y cheyrrey, 0 sheep, V. Y chirrée, 0 sheep,
+Abi. Gyn cheyrrey, without, &c. A. Gyn kirree, without, &c.
+Adjectives sometimes become substantives, and are of this
+declension: as, berchagh, a rich man ; kimmagh, a criminal;
+peccagh, a sinner, &c. Pl. berchee, kimmee, peccee. _
+26
+A GEAMAIAK OF
+CHAPTER X.
+Of a Noun Adjective.
+An Adjective is a word joined to a substantive, to express its
+quality. Therefore, Adjectives very properly follow their substan-
+tives in the Manks.
+Adjectives may be formed from the genitive case of the nouns
+they derive from: as, sourey, summer, G. y touree, of summer;
+geurey, winter, G. y gheuree, of winter. Thus, earish liouree,
+summer weather; earish gheuree, winter weather.
+The variation of Adjectives is two-fold; of the gender and of
+the number.
+The variation of the gender is that by which masculines
+become feminines; and this is effected by changing only the
+radical or initial consonant (if mutable) into its soft or secondary
+mute, as the following scheme will clearly elucidate.
+Masculine.	Feminine.
+"Bingj shrill,	" Ving3
+Creeney, wise,	Chreeney,
+Dunnal, brave,	Ghunnal,
+Gennal, merry,	Ghennal3
+Booinney.	Jesh3 proper,	Ben. -j	: Yesh}
+Kiartj just,	Chiari3
+Moyrnagh, proud,	Voyrnagh,
+Baagh, thirsty,	Phaagh3
+Quaagh, strange.	Whaagh.
+The plurals of Adjectives are formed of singular masculines,
+without any change in their radical initials; as, inneen vie, a
+THE HANKS LANGUAGE.
+27
+good girl, Pl. inneenyn ró ; eddin ghennal, a merry countenance,
+Pl. eddinyn genual.
+When the substantive is not expressed but understood, the
+Adjectives often change their plural termination, or, in fact,
+become substantives ; as—
+First, by adding only to the singular termination, which
+addition is generally ee; as, fer niartal, a strong man, Pl. ny
+niartallee, the strong (men).
+Secondly, by changing the singular termination agh into ee ;
+as, berchagh, rich, Pl. ny berchee, the rich:
+Or, thirdly, by adding another vowel to the ultimate vowel of
+the singular without any addition ; as, deal, blind, Pl. ny doail,
+the blind.
+Sometimes the vowel a of the singular number is in the plural
+changed into e ; as, marroo, dead, Pl. ny merroo, the dead.
+Yet here I must observe, contrary to the received opinion of
+several of my countrymen, whose judgment I much value and
+esteem, that we have plural adjectives—adjectives of the plural
+number, that are distinguished from singulars by their termina-
+tion. The following examples will prove the best argument.
+Adjectives, whose singulars terminate in agh, in their plurals
+change agh into ee; as—
+Singular.
+Nom. Fer ynsagh, a teacher, or
+[teaching man,
+N.
+Gen. Yn er-ynsagh, of a teacher, &c. G.
+Plural.
+Ny fir ynsee, teachers, or
+[teaching men,
+Ny vir-ynsee,.
+Da ny fir-ynsee,.
+Dat.
+Acc.
+Da’n, fer-ynsagh
+Yn fer-ynsagh,
+&c.
+D.
+A. Ny fir-ynsee,
+V. 0 ir-ynsee,
+A. Gyn fir-ynsee*
+Gen.
+Dat.
+Singular.
+Fer kialgagh, a crafty man,
+Yn er kialgagh,	G.
+Da}n fer kialgagh,	D.
+&c.
+Plural.
+Fir chialgee,
+Ny vir chialgee,
+Da ny fir chialgee,
+&c.
+28
+A GRAMMAE OF
+Tide jaaghagh, a smoky house.	Ng thieyn jaaghee,
+Gen. &c.	G. Ny dldeyn jaaghee,
+&c.
+The most general termination of plural adjectives is ey, which
+is added to the final consonant: as—
+Singular.	Plural.
+Nom. Dooinney mooar, a great man, N. Deiney mooarey,
+Gen. Yn dooinney mooar, of a, &c. G. Ny gheiney mooarey, &c.
+Nom. Ben seyr, a rich woman, N. Mraane seyrey,
+Gen. Ny mrieh seyr, of a rich, &c. G. Ny mraane seyrey.
+Nom. Magher glass, a green field, N. Magheryn glassey,
+Gen. Ynvagher glass,of the green,&c.G. Ny magheryn, &c.
+Nom. Keyrrey vane, a white sheep, N. Kirree vaney,
+Gen. Ny geyragh vane.	G. Ny girree vaney.
+.Many adjectives want the plural number: as, mie, good; sie,
+bad; aalin, fair; glen, pure; crauee, holy; cam, crooked ; and
+such like.
+Cardinal numbers have no plural when put in apposition or
+composition with their substantives, though their substantives
+at the same time may be either singulars or plurals : as, troor,
+three; hiare, four, &c.; and thie, an house; three thieyn, kiare
+thieyn ; nor when set alone, or substantively, have they plurals;
+as we say, ta3n chiare, the four, not ta ny kiare ; ta’n wheig, the
+five, not ta ny queig.
+Ordinals have no plural number.
+THE HANKS LANGUAGE.
+29
+CHAPTER XI.
+The Comparison of Adjectives.
+In the Manks there are but two degrees of comparison, via.,
+the positive, or low degree; and the superlative, or highest
+degree ; as, aalin, fair, statin, fairest; pos. yn fer graney, the
+ugly man; sup. ynfer s’graney, the ugliest man. But in this
+superlative is included the English comparative degree also; as,
+s’aalin may be Englished, fairer; and s’graney, uglier.
+The superlative is formed of its positive by adding s’ (a con-
+traction of the word smoo, more, or most,) to the initial of its
+singular masculines; as,pooaral, powerful; sup. s’pooaral, more,
+or most powerful.
+Between the comparatives, or words or persons compared, is
+commonly placed the comparative conjunction na, answering to
+the ante-comparative conjunction ny ; as, la moddey bio ny share
+na lion marroo, a live dog is better than a dead lion.
+As the positive degree is a weak adjective, it undergoes those
+changes of gender that adjectives are subject to; but the super-
+lative alters not, but is always expressed in its singular masculine;
+as, yn ven ghennal, the merry woman; sup. yn ven s’gennal, the
+merriest woman.
+Monosyllables that begin and end with a consonant have
+always the syllable ey added to them in the superlative degree;
+as, pos. boght, poor; sup. s’boghtey, poorest. .
+Polysyllables ending in agh commonly change agh into ee ; as,
+pos. agglagh, horrid, sup. s’agglee, most horrid; pos. kiaralagh,
+careful, sup. s’kiaralee, most careful.
+30
+A GRAMMAR OF
+Positives having oa and io change them into e; as, moat,
+feeble, sup. s’melley, most feeble; pos. chion, tight, sup.
+s’chenney, tightest:
+Having o and ia make i; as, trome, heavy, sup. sHrimmey»
+heaviest; gial, white, sup. s)gilley) whitest:
+Having au, make iu—as roauyr, fat, sup. s’riurey, fattest;
+liauyr, long, sup. sUiurey, longest.
+These following are anomalous, or irregular comparisons :—
+Positive.
+Mie, good,
+Oik, bad,
+Beg, or beggan, little.
+Mooar, great,
+Ymmodee, many,
+Faggys, near,
+Lhean, broad,
+Aeg, young,
+Foddey, far, distant,
+Comp, and Sup.
+Share, better, or best.
+Smessey, worse, or worst.
+Sloo, less, or least.
+S’moo, greater, or greatest.
+S3lhee, more, or most.
+S’niessey, nearer, or nearest.
+S’lhea, broader, or broadest.
+S’aa, younger, or youngest.
+S’odjey, farther, or farthest.
+Which variations run through alt the European languages, as.
+depending on the Celtic; and not from the caprice of custom, as
+Mr. Louth imagines. (See Eng. Or. p. 26.)
+The Manks language,besides the degrees of comparison already
+mentioned, has a sort of comparison which imports sometimes
+equality, sometimes admiration, and may be explained in English
+by as, so, how ; as, cha aalin as eshyn, as fair as he; s3mie Ihiam
+shen dyjarroo ! how pleasing is it to me I s}banglaneagh y peccagh!'
+how prolific is man ! s’mooar Ihiam eh / how I begrudge it! It
+is formed of the positive, by prefixing the contraction s\ accord-
+ing to the rules of the superlative degree.
+THE HANKS LANGUAGE.
+31
+CHAPTER XII.
+Of the Pronouns.
+Of the Pronouns, some are Personal—as, mee, I; shin, we;
+oo, thou; shin, ye ; eh, he or it; ee, she; ad, they; or when any
+emphasis is expressed—mish for mee, uss for oo, eshyn for eh, ish
+for ee.
+Some are Demonstratives—as, shoh, this; shen, that; shid, that
+there, or yonder.
+Some are Relatives—as, quoi, who; ere, or que, what.
+Some are Possessives—as, my, mine; dty, thine; e, his or hers.
+Some are Interrogativos—as, quoi, who; ere, or que, what
+(kys, or quis, how).
+Some are Derivatives—as, mish, meehene ; uss, oohene ; ish,
+eehene.
+Pronouns are compounded with prepositions—as, orrym, upon
+me; ort, upon thee; er, upon him; Ihiam, with me; Ihiat, with
+thee; lesh, with him; &c., &c.* These are peculiar to our
+language, and are called pronominal participles; by the assist-
+ance of which, and the auxiliary verb ta mee, to be, annexed to
+the substantive, all possessive parts of speech are expressed. (See
+Construction of Prepositions.)
+* The ingenious and learned author of the Essay on the Antiquity of the Irish
+Language, treating of these pronouns, has these words:—“The Orientalist will find
+a suprising affinity between these cognomina and the Hebrew li, lo, lah, Le. olli,
+ollort, lionn, Le., the Persian aura, &c.; and they are certainly of the same root.”
+32
+A GRAMMAR OF
+1.—OF THE PERSONAL PRONOUNS AND THEIR DERIVATIVES.
+Personal Pronouns are three—mee, I - oo, thou; eh, he; and
+ee, she ; and are thus declined:—
+Mee, I.
+	Singular.	Plural.
+Nom.	Mee, I,	N. Shin, main, or mayd, we,
+Gen.	My, or aym, of me,	G. Ain, of us, or our,
+Dat.	Dou, hym, rhym, to	me,	D. Eooin, hooin, rooin, to us,
+Acc.	Mee, me,	A. Shin, us,
+Voc.	(caret)	V.
+Abi.	Voym, from me.	A. Vo’in, from us.
+		Oo, thou.
+	Singular.	Plural.
+Nom.	Oo, thou,	N. Shiu, you, or ye,
+Gen.	Ely, or ayd, of thee,	or thine, G. Eu, of you, or your,
+Dat.	Ehyt, rhyt, hood, to	thee, D. Eiu, hiu, riu, to you,
+Acc.	Oo, thee,	A. Shiu, you,
+Voc.	Oo, thou,	V. Shiu, you,
+Abi.	Void, from thee.	A. Veue, from you.
+		Eh, he.
+	Singular.	Plural.
+Nom.	Eh, he, or it,	N. Ad, they,
+Gen.	E, or echey, of him	or it, G. Oc, of them,
+Dat.	Ea, rish, huggey, to him or it, D. Eaue, roo, hue, to them.	
+Acc.	Eh, him, or it,	A. Ad, them,
+Voc.	(caret)	V. (caret)
+Abi.	Voish, or veih, from him or it. A. Voue, from them.	
+		Ee, she.
+	Singular.	Plural.
+Nom.	Ee, she,	N. Ad, &c., like Eh.
+Gen. E, or eck, of her, or hers,
+Dat. J’ee, Pee, huic, to her,
+Acc. Ee, her,
+Voc. (caret)
+Abi. Voee, from her,
+THE MANKS LANGUAGE.
+33
+Hene, self, or alone, expressing emphasis or apposition, may be
+added to the pronouns personal; thus, mee-hene, I myself; and.
+so throughout, except when it is added to aym, hym, rhym, voym,
+and then h is changed into p, as aympene, hympene, &c.
+Ish in the feminine, and eshyn in the masculine, are emphatical
+pronouns, and used in composition: as, ecksh, hers; echeysyn,
+his, or of him.
+Mish, shinyn ; aym’s, ainyn ; dooys, hym3s ; dooinyn, hooinyn,
+&c.; uss, shiuish ; ayd’s, euish ; dhyt3s, rhyt3s, &c.; eshyn, ish ;
+echeysyn, ecksh; dasyn, jeeish, &c., are used when particular per-
+sons or things are set in opposition to one another, or when
+property is signified: as, shoh yn Hoar ayms, cha nee yn Hoar
+echeysyn, this is my book, not his ; cur dooys eh, cha nee dasyn,
+give it to me, not to him. Otherwise it would be, cur dou eh, &c.
+2.--DEMONSTRATIVES.
+Shoh, shen, skid are common, undeclinable, and ali os the third
+person : ere shoh ? what's this ? ere shen ? what's that ? ere shid ?
+what's yonder, or there ?
+3.--RELATIVES.
+Quoi, who, ere, what, are common. Relatives are generally
+understood, and not expressed, in Manks.
+4.--THE POSSESSIVE PRONOUNS.
+My, mine or my.
+My is of both genders; and, when it comes before a vowel, y
+is cast away, and m3 only expressed—as, miannym, my soul, for
+my annym.
+Dty, thine or thy.
+Dty is of both genders; and by apostrophe di3—as, dt3ennal,
+thy breath, for dty ennal.
+his, her, or its.
+The gender of the possessive pronoun e is determined only by
+the initial letter of the following substantive; aspirated after e
+34
+A GRAMMAR OF
+masc., as 6 ghoo, his word, 6 hooil, his eye; but remaining un-
+altered after s fem., as s goo, her word, e sooil, her eye. It also
+doubles in expression the initial consonant of the following noun,
+when it comes before substantives beginning with Z, n, r. The
+same rule holds in the Spanish, Welsh, and Irish.
+Nyn, our, your, their, of all genders, and the plural number,
+used indiscriminately with substantives of both numbers—as
+nyn dhie, our house, pl. nyn dhieyn.
+5.	—INTERROGATORS.
+Quoi, who—what man or person.
+Ore, what—what thing.
+They are of all genders and numbers.
+They are not always interrogatives, but are sometimes in-
+definites, especially when attended with erbee, any: as quoi-erbee
+nee shoh, whosoever doth this; quoi-erbee nee eh, whosoever doth
+it; cree-erbee te, or rather Veh, whatever it be.
+THE HANKS LANGUAGE.
+35
+CHAPTER XIII.
+Of a Veeb.
+There are four sorts of Verbs; viz., the Active, and Passive^
+the Auxiliary, and Impersonal.
+The Manks Verbs are for the most part formed of substantives
+of the same signification with thein: as, ynsagh, learning, Veh
+gynsagh} he learns; coayl, loss, Veh coayl, he loses.
+They have properly but three Tenses—the Present, Past, and
+Future; the rest are formed by the help of auxiliaries.
+THE FOEMING OF A EEGULAE VEEB ACTIVE.
+The Indicative Mood, present tense, is always formed of the
+participle of the present tense and the auxiliary verb ta mee, to be.
+And indeed all the other tenses are frequently used in the parti-
+ciples only, particularly in discourse, joined with the auxiliary ta
+mee; as—
+EEGULAE VEEBS.
+, INDICATIVE MOOD.
+Present Tense.
+Singular.	Plural.
+Ta mee coayl, I lose, or am losing, Ta shin coayl, we lose, or, &c.
+Ton coayl} thou losest, or art losing, Ta shiu coayl} ye lose, or, &c.
+T’eh coayl, he loseth, or is losing, T^ad coayl, they lose, &c.
+36
+A GRAMMAR OF
+Preter imperfect.
+Singular.	Plural.
+Chaill mee, I did lose,	Chaillshin,welos^or did lose,
+Chaill oo, thou lost, or didst lose, Chaill shiu,ye lost, or did lose,
+Chaill eh, he lost.	Chaill ad, they lost, &c.
+Or:
+Va mee coayl, I lost, or was losing, Va shin coayl, we were losing,
+Pou coay Z,thoulost, or wastlosing, Va shiu coayl, ye were losing,
+V3eh coayl, he was losing.	V’ad coayl, they were losing.
+This tense may be conjugated, by the help of the verb ren,
+from the irregular verb jannoo, to do, as—
+Singular.	Plural.
+Pen mee coayl, I lost, or did lose, Pen shin coayl, we lost, &c.
+Pen oo coayl, thou didst lose,	Pen shiu coayl, ye lost, &c.
+Pen eh coayl, he lost.	Ren ad coayl, they lost, &c.
+Preterperfect.
+Singular.
+Ta mee er choayl, I have lost,
+T’ou er choayl, thou hast lost,
+T’eh er choayl, he hath lost.
+Plural.
+Ta shiner choayl,we have lost,
+Ta shiu er choayl,ye have lost,
+T’ad er choayl, they have lost.
+Preterp luperfect.
+Va mee er choayl, I had lost,
+V3ou er choayl, thou hadst lost,
+V3eh er choayl, he had lost. -
+Future
+Va shin er choay I, we had lo st,
+Va shiu er choayl, ye had lost,
+V3ad er choayl, they had lost.
+Tense.
+Cailleeym, I shall or will lose, Caillee mayd, or shin, we, &c.
+Caillee oo, thou shalt or wilt lose, Caillee shiu, ye, &c.
+Caillee eh, he shall or will lose. Caillee ad, they, &c.
+When a relative is either expressed or understood, the persons
+of the future tense terminate in ys, and the nominative case is
+always set before the verb : as, mish loayrys rish, I am he that
+will speak to him; uss screeuys hug gey, thou art he that shall
+write to him; eshin chaillys, he who shall lose.
+If the verb begin with a mutable consonant, then shall it
+always be aspirated : as, yn fer chaillys, the man that shall lose;
+THE MANKS LANGUAGE.
+37
+yn ven vlieaunys,&c.,ny deiny ghuinnys, the men that shall wound.
+Which termination is common to both numbers.
+IMPERATIVE MOOD.
+Calli, lose thou.	Calli-jee, lose ye.
+The third person of the Imperative Mood might, perhaps, be
+supplied from the future tense of the indicative :—
+Galilee eh, let him lose.	Caillee ad, let them lose.
+SUBJUNCTIVE MOOD.
+The Subjunctive Mood may be formed of auxiliaries and the
+verb compound foddym, to be able, without any change in the
+verb: as—
+Present Tense.
+Singular.	Plural.
+Foddym coayl,I may lose, Foddeeshin, ormaydcoayl^e, &c.
+Foddee oocoayl,thoumayest,&c.Foddee shiu coayl, ye may lose,
+Foddee eh coayl, he may lose. Foddee ad coayl, they may lose.
+But this manner of formation is periphrastic; and, as the
+present tense of the Subjunctive Mood is never used but after
+the adverbs dy and ny, that and if, like the French que, that, the
+following seems to be the original and truest mode of formation
+Singular.
+Fy gaillyn, that I lose,
+Dy gaill oo, that thou lose,
+Dy gaill eh, that he lose.
+Plural.
+Dygaillmayd, ors7iúz,thatwe, &c.
+Dy gaill shiu, that ye lose,
+Dy gaill ad, that they lose.
+Pre ter imp erf eel.
+Singular.	Plural.
+Chaillin, I might, should, would, or Chaillagh shin, we might, & c.
+could lose,
+Chaillagh oo, thou mightest, &c.	Chaillaghshiu, ye might, &c.
+Chaillagh eh, he might, &c.	Chaillagh ad, they might, &c.
+Periphrastical Formation.
+Yinnyn coayl, I might, &c., lose, Yinnagh shin coayl, we, &c.
+Yinnaghoocoayl,thoumightest, &c. Yinnagh shiu coayl, ye, &c.
+Yinnagh eh coayl, he might, &c. Yinnagh ad coayl, they, &c.
+F
+38
+A GRAMMAR OF
+This tense may be declined with Ihisin, I should or ought, and
+oddin, I might, in the same manner.
+Preterperfect and Preterpluperfect.
+Singular.	Plural.
+Veign er choayl, I had lost, or might Veagh shin er choayl, we, &c.
+have lost,
+Veagh oo erchoayl,thouhadstlost, &c. Veagh shiu er choaylj ye, &c.
+Veagh eh er choayl, he had lost, &c. Veagh ad er choayI,they, &c.
+Future Tense.
+This tense is formed as the present tense regular of the sub-
+junctive mood.
+INFINITIVE MOOD.
+The Infinitive Mood is known commonly by the sign to, or by
+its following another verb in the same sentence without any
+nominative case between; and, though the verb stand unvaried
+as to itself, yet doth it admit of three tenses, viz., the present,
+the preter, and preterpluperfect tenses : as—
+Present.—Fy choayl, to lose.
+Preter.—T3ou gobbal dy vel mee er choayl eh, thou deniest that I
+have lost it.
+Preterpluperfect.—Bob oo dy row mee er choayl, thou deniedst
+that I had lost.
+"PARTICIPLES.
+Participle Present.—Ooayl, losing.
+The Participles of the preter and future tenses are formed by
+prefixing the particle er, after, to the preter, and er-chee, about,
+to the future.
+Participle Preter.—Er choayl, having lost.
+Future.—Er-chee coayl, about to lose.
+Supine.—Caillit, lost.
+The supines end in t or it, which form the participle of the
+passive voice, and which, with the auxiliary verb ta mee, to be,
+go through all the tenses : as, ta mee coayl (active), I lose; ta
+mee.caillit (passive), I am lost.
+THE MANKS LANGUAGE.
+89
+In the conjugation of verbs, a negative much alters the initials ;
+and, therefore, to every verb here conjugated the affirmatives and
+negatives follow.
+The negative to the indicative and subjunctive moods is cha,
+not; and to the imperative, ny, not: as, cha gaillym, I will not
+lose; ny caill, lose thou not; cha gaillin, I would not lose.
+Interrogative.—Chaill oo ? did you lose ?
+Nagh chaill oo ? did you not lose ?
+Affirmative.—Chaill mee, I did lose.
+Negative.—Cha chaill mee, I did not lose.
+Ny caill, lose not.
+Screen j to write, or writing.
+Preter.	,.
+Singular.	Plural.
+Screeu-mee, I wrote, * Screen shin, we wrote,
+Screen oo, thou didst write, Screen shin, ye wrote,
+Screen eh, he wrote.	Screen ad, they wrote.
+Future.
+Screeu-ym, I shall or will write, Screeuee shin, we shall, &c., write,
+Screeuee oo, thou shalt, &c., write, Screeuee shin, ye shall, &c., write,
+Screeuee eh, he shall, &c., write. Screeuee ad, they shall, &c., write.
+IMPERATIVE MOOD.
+Screen, write thou.	Screeu-jee, write ye.
+SUBJUNCTIVE MOOD.
+.Preter.
+Screeuin, I might or could write, Screeuagh shin, we might, &c.
+Screeuagh oo, thou mightest, &c. Screeuagh shiu, ye might, &c.
+Screeuagh eh, he might, &c. Screeuagh ad, they might, &c.
+INFINITIVE MOOD.
+Present.—JDy screeu, to write.
+Supine.—Screeut, written.
+f 2
+40
+A GRAMMAR OF
+PARTICIPLES.
+Present.—Screen, writing.
+Prefer.—Pr-screeu, after writing, having written.
+Future.—Er-chee screen, about to write.
+Interrogative.-—Screen oo ? did you write ?
+Nagh screen oo huggey ? did you not write to him ?
+Affirmative.—Screen mee, I did write.
+Screeuyrn, I will write. .
+Negative.—Cha screen me, I did not write.
+Ny screen', do not write.
+. Giu, to drink, or drinking.
+Prefer.
+Singular.
+Piu mee, I drank,
+Pin oo, thou drankest,
+Pin eh, he drank.
+Plural.
+Pin shin, we drank,
+Pin shiu, ye drank,
+Pin ad, they drank.
+Future.
+Iu-ym, I shall or will drink, luee mayd, or shin, we shall, &c.
+luee oo, thou shalt or wilt drink, luee shiu, ye shall, &c.
+luee eh, he shall or will drink. luee ad, they shall, &c.
+IMPERATIVE MOOD.
+Iu, drink thou.	Iu-jee, drink ye.
+SUBJUNCTIVE MOOD.
+Prefer.
+luin, I might or could drink, luagh shin, we might, &c.
+Inagh oo, thou mightest, &c. luagh shiu, ye might, &c.
+luagh eh, he might, &c. luagh ad, they might, &c.
+INFINITIVE MOOD.
+Present.—Py iu, to drink.
+Supine.—Put, drunk.
+THE, MANKS LANGUAGE.
+41
+PARTICIPLES.
+Present.■—Giu, drinking.
+Preter.—Pr n* iu, having drunk.
+Future.—Er-chee giu, about to drink.
+Interrogative.—Diu oo ? did you drink ?
+Nagh diu oo ? did you not drink ?
+Ore iuys oo? what will you drink ?
+Affirmative.—D’iu mee, I drank.
+lu-ym, I will drink.
+Negative.—Cha diu mee, I did not drink.
+Cha n’ iu-ym, I will not drink.
+Ny iu, drink not.
+Ginsh, to tell; or, telling.
+Preter.
+Singular.	• Plural.
+Dinsh mee, I told;	Dinsh shin, we told;
+Dinsh oo, thou toldest;	Dinsh shiu, ye told;
+Dinsh eh, he told.	Dinsh ad, they told.
+Future.
+Inshym, I shall, or, will tell; Inshee mayd, we shall, or, &c.;
+Inshee oo, thou shalt, or, wilt tell; Inshee shiu, ye shall, &c.
+Inshee eh, he shall, or, will tell. Inshee ad, they, &c.
+IMPERATIVE MOOD.
+Insh, tell thou.	Insh-jee, tell ye.
+SUBJUNCTIVE MOOD.
+Preter.
+Inshin, I might, or, could tell; Inshagh shin, we might, &Ck
+Inshagh oo, thou mightest, &c. Inshagh shiu, ye, &c.
+Inshagh eh, he might, or, &c. Inshagh ad, they, &c.
+42
+A GRAMMAR OF
+INFINITIVE MOOD.
+Present.—, Dy insh, to tell.
+Supine.—Inshit, told.
+PARTICIPLES.
+Present.—Ginsh, telling.
+Preter.—Er n3 insh, having told.
+Future.—Er-chee n3 insh, about to tell.
+Interrogative.—Quoi dinsh dhyt ? who told thee ?
+Nagh dinsh eh dhyt ? did he not tell thee ?
+Affirmative.—Dinsh Juan dou, John told me.
+Negative.—Cha dinsh eh dhyt, he did not tell thee.
+Cha n3 inshym dhyt, I will not tell thee.
+Gimmeeaght, to go; or, going to depart.
+Singular.	Plural.
+Dimmee niee, I went, or, did go; Dimmee shin, we went;
+Dimmee oo, thou wentest;	Dimmee shiu, ye went;
+Dimmee eh, he went.	Dimmee ad, they went.
+Future.
+Immeeym, I shall, or, will go;	Imme mayd, we shall, or, &c.
+Immee oo, thou shalt, &c.	Immee shiu, ye shall, &c.
+Immee eh, he shall, &c.	Immee ad, they shall, &c.
+IMPERATIVE MOOD.
+Immee, go.	Immee-je, go ye. .
+SUBJUNCTIVE MOOD.
+Preter.
+Immeein, I might, or, could go; Immaghshin, we might, or,&c.
+Immagh oo, thou, &c.	Immagh shiu, ye might, &c.
+Immagh eh, he might, &c,	Immagh ad, they might, &c.
+THE MANKS LANGUAGE.
+43
+INFINITIVE .MOOD.
+Present.—Dy immeeaght, to go.
+Supine.—Immit, gone.
+PARTICIPLES.
+Present.—Gimmeeaght, going.
+Preter.—Er n3immeeaght, having gone.
+Future.—Er-chee gimmeeaght, about to go.
+Interrogative.—Vel oo gimmeeaght ? are you going ?.
+Nagh n3immee oo ? will you not go ?
+Affirmative.—Ta mee gimmeeagh, I am going.
+Negative.—Cha n3 immeeym, I will not go.
+Cha n3 immayd, we will not go.
+Kionnaghey, to buy; or, buying.
+.	Preter.
+Singular.	Plural. '
+Chionnee mee,I bought,or did buy; Chionnee shin, we bought, &c.
+Chionnee oo, thou boughtest, &c. Chionnee shiu, ye bought, &c.
+Chionnee eh, he bought, &c. Chionnee ad, they bought, &c. •
+Future.
+Kionnee-ym, I shall, or did buy; Kionnee mayd, we shall, &c.
+Kionnee oo, thou shalt, &c.	Kionnee shiu, ye shall, &c.
+Kionnee eh, he shall, or will, &c.	Kionnee ad, they shall, &c.
+IMPERATIVE MOOD.	.
+Kionnee, buy.	Kionnee-jee, buy ye.
+SUBJUNCTIVE MOOD.
+Preter.
+Chionneein I might, or could buy; Chionnagh shin, we might, &c.
+Chionnagh oo, thou mightest, &c. Chionnee shiu, ye, &c.
+Chionnagh eh, he, &c.	Chionnagh ad, they, &c.
+44
+A GRAMMAR OF
+INFINITIVE MOOD.
+Present.—Dy chionnaghey, to buy.
+Supine.—Kionnit, bought.
+PARTICIPLES.
+Present.—Kionnaghey, buying.
+Preter.—Er chionnaghey, having bought.
+Future.—Er-chee kionnaghey, about to buy.
+Gymmyrkey, to bear, or carry, or behave.
+Preter.
+Singular.
+Dymmyrk mee, I bore;
+Dyrnrnyrk oo, thou borest;
+Dymmyrk eh, he bore.
+Plural.
+Dymmyrk shin, we bore
+Dymmyrk shiu, ye bore:
+Dymmyrk ad, they bore.
+Future.
+Ymmyrk-ym, I shall, orwill bear; Ymmyrkeemayd, or shin,we,&c.
+Ymmyrkee oo, thou shalt, &c.	Ymmyrkee shiu, they shall, &c.
+Ymmyrkee eh, he shall, &c. Ymmyrkee ad, they shall, &c.
+Ymmyrk, bear.
+IMPERATIVE MOOD.
+Ymmyrk-jee, bear ye.
+SUBJUNCTIVE MOOD.
+Preter.
+Ymmyrkin, I might, or could bear; Ymmyrkagh shin, we might, &c.
+Ymmyrkagh, oo, thou, &c.	Ymmyrkagh shiu, ye might, &c.
+Ymmyrkagh eh, he, &c.	Ymmyrkagh ad, they, &c.
+INFINITIVE MOOD.
+Present.—Dy ymmyrkey, to bear.
+Supine.—Ymmyrkit, borne.
+THE" MANKS LANGUAGE.
+45
+PARTICIPLES.
+Present.—Gymmyrkey, bearing.
+Preter.—Pr n’ ymmyrkey, having borne.
+Future.—Er-chee gymmyrkey, about to bear.
+Goaill, to take; or, taking.
+Preter.
+• Singular.	Plural.
+Ghow mee, I took, or did take; Ghow shin, we took ;
+Ghow oo} thou didst take;	Ghow shiu, ye took ;
+Ghow eh, he did take.	Ghow ad, they took.
+Future.
+Gow-ym or goym, I shall, or, &c.; Goweemayd, we shall, or will, &c.
+Goweeoo,thou shalt, or wilt take; Gowee shiu, ye shall, &c.
+Gowee eh, he shall, or will take; Gowee ad, they, &c.
+.	IMPERATIVE MOOD.
+Gow, take.	Gow-jee, take ye.
+SUBJUNCTIVE MOOD. r
+Preter.
+Ghoin, I might, or could take; Ghoghe mayd, or shin, we, &c.
+Ghoghe oo, thou mightest, &c. Ghoghe shiu, ye might, &c.
+Ghoghe eh, he might, &c. Ghoghe ad, they might, &c.
+INFINITIVE MOOD.
+Present.—Dy ghoaill, to take.
+Supine.—Goit, taken.
+PARTICIPLES.
+Present.—Goaill, taking.
+Preter.—Fr ghoaill, having taken.
+* Future.'—Er-chee goaill, about to take.
+46
+A GRAMMAE OF
+Many nouns, betokening the passions of the mind and body,
+are conjugated with the verb substantive ta mee, to be, put for
+have, as the verb sum for habeo in Latin.
+EXAMPLES.
+Fys, knowledge.
+Present.
+Singular.	Plural.
+Tafys aym, I know, or I have knowledge; Tafys ain, we know ;
+Tafys ayd, thou knowest, or, &c.	Tafys eu, ye, &c.
+Tafys echey, he knows, &c.	Tafys oc, they, &c.
+Preter.
+Vafys aym, I knew, &c.
+Va fys ayd, thou knewest, &c«
+Vafys echey, he knew, &c.
+Vafys ain, we, &c.
+Vafys eu, ye knew;
+Va fys oc, they knew, &c.
+Future.
+Bee fys aym, I will knoty;
+Bee fys ayd, thou wilt know;
+Bee fys echey, he will know.
+Bee fys ain, we shall, or will, &c<
+Bee fys eu, ye shall, &c.
+Bee fys oc, they shall, &c.
+In'like manner.
+Graih, love.
+Present.
+Ta graih aym (er), I love (him);	Ta graih ain, we love;
+Ta graih ayd, thou lovest;	Ta graih eu, ye love;
+Ta graih ech, or echey, she or he loveth. Ta graih oc, they love.
+. Preter.
+Va graih aym, I loved;
+Va graih ayd, thou lovedst;
+Va graih echey, he loved.
+Va graih áin, we loved -
+Va graih eu, ye loved;
+Va graih oc, they loved.
+THE HANKS LANGUAGE.
+47
+Future.
+Singular.
+Bee graih aym, I will love,
+Bee graih ayd, thou wilt love,
+Bee graih echey, he will love.
+Plural.
+Bee graih aym, we will love.
+Bee graih ayd, ye will love,
+Bee graih oc, they will love.
+This takes two participial pronouns: as, ta graih aym er, I love
+him; ta graih echey orrym, he loves me.
+The adverb ersooyl, away, is used as a verb with the auxiliary
+ta mee, to be ; as—
+Preter.
+Va mee ersooyl, I went, or was gone; Va shyn ersooyl, we,&c.
+V3ou ersooyl, thou wentest, or wast gone; Va shiu ersooyl, ye, &c.
+V3eh.ersooyl, he went, or was gone. V3ad ersooyl, they, &c.
+Future.
+Bee 3m ersooyl, I will be gone; Bee mayd ersooyl, we, &c.
+Bee 00 ersooyl, thou wilt be gone; Bee shiu ersooyl, ye, &c.
+Bee eh ersooyl, he will be gone. Be ad ersooyl, they, &c.
+IMPERATIVE MOOD.
+Frsooyl, away, begone.	Frsooyl-jee, be ye gone.
+Of Reciprocal Verbs.	•
+Reciprocal or Reflecting Verbs are common to this language
+as to the Hebrew, French, Irish, &c., and require two personal
+pronouns when the sense is turned by the auxiliary verb ta mee,
+to be; which is the most elegant and pointed expression. Never-
+theless, the simple verb may be used alone, as in the following
+examples:—
+Cadley, to sleep; or, sleeping.
+Present.
+Singular.
+Ta mee my chadley, I sleep, or do sleep, or am sleeping; or, ta
+mee cadley.
+48
+A GRAMMAR OF
+Tou dty chadley, thou steepest, or art sleeping; or, sou cadley.
+Teh ny chadley, he sleepeth, or sleeps; or, feh cadley.
+Plural.
+Ta shin nyn gadley, or ta shin cadley, or ny chadley, we sleep.
+Ta shiu nyn gadley, or fa sTmt cadley, or ny chadley, ye sleep.
+Tad nyn gadley, or fad cadley, or ny chadley, they sleep.
+Prefer.
+Pa Mss my chadley, I was sleeping, or I slept; or, chaddil mee.
+V’ou dty, &c.
+Future.
+Bee’m my chadley, I will sleep, or be sleeping; or, cadlym.
+Bee oo dty chadley, or, cadlee oo, thou shalt, or wilt sleep.
+Fss eh ny chadley, or, cadlee eh, he shall, or will sleep.
+Interrogative.—.Row oo dty chadley ? were you asleep ?
+PeZ oo cZfy chadley ? are you asleep ?
+Affirmative.—Pa mee my chadley, or chaddil mee, I slept.
+Ta cadley orrym, I am sleepy.
+Negative.—(7Aa ueZ mee my chadley, I am not asleep.
+Cha chaddil mee, I did not sleep.
+CAa gadlym'I will not sleep.
+Shassoo, to stand; or, be standing.
+Ta mee my hassoo, or fa mee shassoo, I stand, or am standing.
+T'ou dty hassoo, or sou shassoo, thou standest, or art standing.
+Teh ny hassoo, or Veh shassoo, he standeth, or is standing.
+Plural.
+Ta sAin nyn shassoo, or ny hassoo, or fa eAin shassoo, we are
+standing, or do stand.	.
+Ta sAiu nyn shassoo, or ny hassoo, or shassoo, ye stand, &c.
+T^acZ nyn shassoo, or ny hassoo, of shassoo, they stand.
+THE MANES LANGUAGE.
+49
+Preter.
+Singular.
+Ta -ires my hassoo, or hass mee, I stood, or was standing.
+T’ou dty hassoo, or hass oo, thou stoodest, &c.
+T’eh ny hassoo, or hass eh, he stood, &c.
+Plural.
+Ta shin nyn shassoo, or ny hassoo, or hass shin, &c.
+Future.
+Singular.
+Bee’m my hassoo, or shassym, I will stand, &c.
+Bee oo dty hassoo, or shassee oo, thou wilt stand.
+Bee eh ny hassoo, or shassee eh, he will stand.
+Plural.
+Bee mayd nyn shassoo, or shassee mayd, we will stand.
+Bee shiu nyn shassoo, or shassee shiu, ye will stand.
+Bee ad nyn shassoo, or shassee ad, they shall or will stand, &c.
+Interrogative.—Bow oo dty hassoo ? Were you standing ?
+Tel eh ny hassoo ? Is he standing ?
+Affirmative.—Va mee my hassoo, I was standing.
+T’eh ny hassoo, he is standing.
+Negative.—Oha row mee my hassoo, I was not standing.
+Cha ret eh ny hassoo, he is not standing.
+Cha shassym, I will not stand.
+Ny shass, stand not.
+MORE EXAMPLES.
+Ta mee my hoie, I sit.
+Interrogative.—Vel oo dty hoie ? Do you sit ?
+Affirmative.—Ta mee my hoie, I sit.
+Negative.—Oha vel mee my hoie, I do not sit.
+Ta mee er my ghoostey, I am awake.
+50
+A GRAMMAR OF
+Interrogative.—FeZ oo er dty ghoostey ? Art thou awake? [&c.
+Affirmative.—Fa mee er my ghoostey, or ghooisht mee, I was awake.
+Negative.—Cha bee’m er my ghoostey, or cha dooishtym, I will not,
+Ny bee er dty ghoostey, or ny dooisht, don’t awake. [&c.
+Ta mee er my chosh, I am on foot.
+Interrogative.—FeZ oo er dZy cAosA ? Are you on foot ?
+Affirmative.—Ta mee er my chosh, I am on foot.
+Negative.—Cha vet mee er my chosh, I am not on foot.
+Ny bee er dty chosh, be not on foot.
+Of a Verb Passive.
+In Manks there is no Passive Voice; but in all parts of speech
+it is elegantly and expressively formed by the verb ta me, to
+be, and the supine active, or participle passive.
+The tenses are formed by the participle, which always ends in
+it or t, and serves throughout all the persons of both numbers
+with the verb substantive ta mee, to be.
+INDICATIVE MOOD.
+Present Tense.
+Singular.
+Ta mee caillit, I am lost,
+T’ou caillit, thou art lost,
+T’eh caillit, he is lost.
+Plural.
+Ta shin caillit, we are lost,
+Ta shiu caillit, ye are lost,
+T’ad caillit, they are lost.
+Preterimperfect.
+Fa mee caillit, I was lost,
+V’ou caillit, thou wast lost,
+F’eA caillit, he was lost.
+Fa shin caillit, we were lost,
+Fa shiu caillit, ye were lost,
+V’ad caillit, they were lost.
+Preterperfect.
+Ta mee er re caillit, I have been lost, Ta shin er re caillit, we, &c.
+T’ou er re caillit, thou hast been, &c. Ta shiu er re caillit, ye, &c.
+T’eh er re caillit, he has been lost. T’ad er re caillit, they, &c.
+THE MANKS LANGUAGE.	51
+Preterpluperfect.
+Fa mee er re caillit, I had been lost, Ta shin er re caillit, we had
+been lost,
+ouerve caillit, thou hadstbeen lost, Fa s/H er re caillit, ye, &c.
+eh er re caillit, he had been lost, F'ad er re caillit, they, &c.
+Future.
+Bee’m caillit, I shall or will be lost, Bee mayd caillit, we, &c.
+Bee oo caillit, thou shalt, &c.	Bee s/iia caillit, ye, &c.
+Bee eh caillit, he shall, &c.	Bee ad caillit, they, &c.
+IMPEBATIVE MOOD.
+Bee caillit, be thou lost.	Bee-jee caillit, be ye lost.
+SUBJUNCTIVE MOOD.
+Present Tense.
+By be^m caillit, that I be (or may By free mayd caillit, that we, &c.
+or can be) lost,
+By free oo caillit, that thou be lost, By bee shiu caillit, that ye, &c*
+By bee eh caillit, that he be lost. By bee ad caillit, that they, &c.
+Preter.
+Veign er re caillit, ! had been, or Veagh shin er re caillit, we, &c.
+I might have been lost,
+Veagh oo er re caillit, thou, &c. Veagh shiu er re caillit, ye, &c.
+Veagh eh er re caillit, he, &c. Veagh od er re caillit, they, &c.
+INFINITIVE MOOD.
+Present.—By re caillit, to be lost.
+Participle.—Caillit, lost.
+The preter and future tenses of the indicative mood are often
+very elegantly formed by the help of the irregular goll, to go :
+as—
+52
+A GRAMMAE OF
+Singular.
+Hie mee er coayl, I was lost,
+Hie oo er coayl, thou wast lost.
+Hie eh er coayl, he was lost.
+Plural.
+Hie shin er coayl, we were lo st.
+Hie shiu er coayl, ye were lost.
+Hie ad er coayl, they were lost.
+Future,
+Hem er coayl, I will be lost, Hed,for hem mayd er coayl, we, &c.
+Heu er coayl, thou wilt be lost, Hed shiu er coayl, ye, &c.
+Hed eh er coayl, he will be lost. Hed ad er coayl, they, &c.
+Impeesonals are such as have no persons, except the third
+person singular only: as, keearagh, to grow night; cheeree eh,
+it grew night; keeree eh, it will grow night.
+Or the Aexiliaey Veebs.
+There are no Auxiliary or Helping Verbs in the dead tongues
+—viz., the Greek, the Hebrew, and the Latin; but in all the
+living tongues there are—viz., the French, the Spanish, the
+Italian, the German, the Irish, &c., &c., except in the Portuguese.
+The principal auxiliary verb is ta mee, to be, or, I am, which
+is used on all occasions, as the verb sum in Latin, as the verb
+étre or suis in French, and as taim in Irish; all of the like signi-
+fication.
+The other auxiliaries'are ret mee, am I; foddym, I am able;
+saillym, I am willing; which are personals. She (it is), which
+is often substituted for ta mee, and sheign (must), are used
+impersonally, and always joined to a substantive : as, she mish
+t3ayn, it is I; sheign dhyt loayrt thou must speak. Vel mee is
+used in asking or denying : as, Vel mee er ghra eh, as nagh vel
+mee er chooilleeney eh ? Have I said it, and have I not per-
+formed it ? Cha vel, you have not.
+Bow, was, is an auxiliary, and generally used in the past time,
+either to ask a question—as, Row fer erbee dy my laccal ? Did any
+one want me ? or, was anybody wanting me ?—or else denies :
+as Cha row, there did not, or was not. Sometimes it is added
+THE HANKS LANGUAGE.
+53
+as an auxiliary to the auxiliary ta mee, as Va dooinney dy row,
+there was a man that was. It is also elegantly used, in suppli-
+cating or wishing, for the future tense—Shoe dy row marin /
+May peace be with us !
+Verb Substantive, or Auxiliary Verb.
+Ta mee, I am.
+INDICATIVE MOOD.
+Present Tense.
+Singular.—Ta mee, I am; sou, or ta oo, thou art; Veh, or ta eh,
+he or it is; fee, she is.
+Plural.—Ta shin, we are; ta shin, ye are; fad, they are.
+P reter imperfect.
+Singular.—Va mee, I was; Fou, thou wast; if eh he was; Fee,
+she was.
+Plural.—Va shin, we were ; va shiu, ye were; v^ad, they were.
+Preterperfect.
+Singular,—Ta mee er ve, I have been; sou er ve, thou hast been;
+f eh er ve, he has been; fee er ve, she has been.
+Plural.—Ta shin er ve, we have been; ta shiu er ve, ye have been;
+fad er ve, they have been.
+Preterpluperfect.
+Singular.—Va mee er ve, I had been; vou er ve, thou hadst been;
+v3eh er ve, he had been.
+Plural.—Va shin er ve, we had been; va shiu er ve, ye had been;
+Fad er ve, they had been.
+Future.
+Singular.—Bee>m, I shall or will be; bee oo, thou shalt or wilt
+be; bee eh, he shall or will be; bee ee, she shall or will be.
+Plural.—Bee mayd, we shall or will be; bee shiu, ye shall or will
+be; bee ad, they shall or will be.
+G
+54
+A GRAMMAR OF
+IMPERATIVE MOOD.
+Bee, be thou.	Bee-jee, be ye.
+SUBJUNCTIVE MOOD..
+Singular.—My vee’m, if I be ; my vees oo, if thou be; my vees
+eh, if he be. .
+Plural.—My vees mayd, if we be; my vees shiu, if ye be; my vees
+ad, if they be.
+Pr et er imp er feet.
+Singular.—Veign, I might or could be; veagh oo, thou mightest
+or couldst be; veagh eh, he might or could be.
+Plural.—Veagh shin, we might or could be; veagh shiu, ye might
+or could be; veagh ad, they might or could be.
+Preter and Preterpluperfect.
+Singular.—Veign er ve, I might have been, or had been; veagh
+oo er ve, thou mightest have been, &c.; veagh eh er ve, he -
+might have been, &c.
+Plural.—Veagh shin er ve, we might have been; veagh shiu er ve,
+ye might have been - veagh ad er ve, they might have been.
+INFINITIVE MOOD.
+Present.—By ve, to be. Part. pr.—Caret. Preter.—Er ve,
+having been. Future.—Er-chee ve, about to be.
+EXAMPLES.
+Ta mee Manninagh dooie, I am a true-born Manksman.
+Kys tJ ou, or kys myr Vou ? How do you do ?
+Ta mee er ve seer vie, I have been very well.
+RULE.
+When ta mee is put for the English verb have (as when sum
+in Latin is put for habeo), the pronoun must be put in the geni-
+tive case, as—
+THE MANKS LANGUAGE.
+Cha vel Hoar aym} I have no book.
+Ta argid ayd} you have money.
+AUXILIARY VERBS.
+Foddym, I am able.
+Present Tense.
+Singular.	Plural.
+Foddyms I am able, or I may, Foddee mayd> we are able, or may,
+Foddee oo} thou art able, or Foddee shiu} ye are able, or may,
+mayest,
+Foddee eh} he may, or is able. Foddee ad} they are able, or may.
+Preter.
+Oddin} I might, or was able, Oddagh shin} we were able, &c.
+Oddagh oo, thou mightest, or Oddagh shiu} ye were able,
+wast able,
+Oddagh eh, he might, or, &c. Oddagh ad} they were able, &c.
+The future tense is formed as the present; except when my, if,
+is expressed, or the relative understood, as—
+My oddym} if I can, or will be able, My oddys mayd} if we can,&c.
+My oddys oo} if thou canst, or wilt My oddys shiu} if ye can, &c.
+be able,
+My oddys eh}if he can,orwillbeable. My oddys ad, if they can, &c.
+INFINITIVE MOOD.
+Dy vod} to be able.
+AUXILIARY VERBS.
+Saillym, or Baillym} I am willing.
+Present.
+Saillym} I am willing, or have a mind, Saill mayd, we are willing,
+Sailt} thou art willing, &c.	Sailliu, ye are willing,
+Saillish, he is willing, &c.	Sailleu, they are willing.
+G 2
+56
+A GRAMMAR OF
+Or,
+Singular.
+Baillym, I am willing, or wish,
+Balli, thou art willing, or wishest,
+Ballllshj he is willing, or wishes.
+Plural.
+Balli mayd, we are willing,
+Bailllu, ye are willing,
+Bailleu, they are willing.
+Prefer.
+Baillln, I was willing, or could wish, Baillhien, we were willing,
+Bailt} thou wast willing, &c.	Bailllu, ye were willing,
+Baillislij he was willing, &c.	Bailleu} they were willing.
+Baillin, I could wish, or, would to God that, is also expressed
+by the superlative adjective share, best, and the participial pro-
+noun : as, Bare Ihiam nagh beagh caggey erbee, I wish there was
+no war.
+Sheen, it is worth, is an auxiliary impersonal: as, Sheen eh
+argid, it is worth money; cha beeu eh veg} it is good for nothing.
+Sloys, to dare, is also an impersonal, and governs a dative :
+as, Sloys dhyt goll ? Dare you go ? Cha bloys, I dare not.
+S’lhiassj it needs, or, it must, is an impersonal auxiliary, and
+governs a dative : as, SGhiass dou goll ? Need I go ? Cha Ihiass
+dhyt, thou needest not.
+RULE.
+When an auxiliary verb is joined to another, the auxiliary and '
+pronoun go through all the variation of person and number; but
+the verb continues invariably in the third person.
+Of Irregular Verbs.
+These Irregulars are by far the most difficult part of the
+language; but that they are neither so many, nor the knowledge
+of them so difficult to be attained, as is generally represented, a
+very little attention to the following pages will sufficiently evince.
+These irregular verbs are—
+Goll, to go.	Jannoo, to do.
+Chees} to come.	Geddyn, to get.
+Coyrtj to give, to bear, or carry. Clashtyn} to hear.
+THE MANKS LANGUAGE.
+57
+Gro, to say.	Fokin, to see.
+Goaill, to take.
+Quere. Roshtyn, to reach, arrive. Imperf. Raink, arrived.
+Of the verb Goll, to go; or, going.
+The indicative mood present tense of the irregulars is formed
+after the same manner as the regular verbs active—viz., by the
+participle present and the verb substantive to mee, to be: as, to
+mee goll, I go; sou goll, &c.
+Preter.
+Singular.	' Plural.
+Ilie mee, I went,	Hie shin, we went,
+Hie oo, thou wentest,	Hie shiu, ye went,
+Hie eh, he went.	Hie od, they went.
+Future.
+Hedy m, or hem, I shall or will go, Hed mayd, or hemmay I, we, &c.
+Hed oo, thou shalt or wilt go, Hed shiu, ye shall or will go,
+Hed eh, he shall or will go. Hed ad, they shall or will go.
+IMPERATIVE MOOD.
+Gow, go.	Hooin, let us go,
+Gow-jee, go ye.
+This is the only verb we can recollect that has in itself the
+first person plural of the imperative moots.
+SUBJUNCTIVE MOOD.
+Preterimperfect.
+Raghin, I might or could go, Ragh shin, we might, &c.
+Ba^oo, thoumightest or couldst go, Ragh shiu, ye might, &c.
+Ragh eh, he might or could go. Ragh ad, they might, &c.
+Preter and Preterpluperfect.
+Ry jagh mee, that I went or had gone, Dy jagh shin, that we, &c.
+Dyfagh oo, that thou wentest, &c.	Dy jagh shiu, that ye, &c.
+Dy jagh eh, that he went, &c.	Dy jagh ad, that they, &c.
+58
+A GRAMMAR OF
+Future.
+Fy j em, or dy jedym, that I go. Fy j ed mayd, orjemmayd, that
+we go,
+Fy je’ oo, ot dyj edoo, that thou go, Fy j ed shiu, that ye go,
+Fy j ed eh, that he go, or shall go. Fy j ed ad, that they go.
+INFINITIVE MOOD.
+Present.—Fy gholl, to go.
+Supine (wanting).
+participles.
+Present.—Goll, going.
+Preter.—Er-n3 gholl, havings gone.
+Future.—Er-chee goll, about to go.
+Singular.
+Haink mee, I came,
+Haink oo, thou earnest,
+Haink eh, he came.
+Cheet, to come.
+Preterimperfect.
+Plural.
+Haink shin, we came,
+Haink shiu, ye came,
+Haink ad, they came.
+Preterperfect.
+Ta shin er jeet, we have come.
+Ta shiu er jeet, ye have come;
+T3ad er jeet, they have come.
+Ta mee er jeet, I have*come,
+T3ou er jeet, thou hast come,
+T3eh er jeet, he hath come.
+Preterpluperfect.
+Va mee er jeet, I had come, Va shin er jeet, we had come,
+V3ou, &c.	&c.
+Future.
+Higym, I shall or will come, Hig mayd, we shall or will come,
+Hig oo, thou shalt or wilt come, Hig shiu, ye shall or will come,
+Hig eh, he shall or will come. Hig ad, they shall or will come.
+THE HANKS LANGUAGE.
+59
+IMPERATIVE MOOD.
+Singular.	'	Plural.
+Tar, come thou.	Tar-jee, come ye.
+SUBJUNCTIVE MOOD.
+Preter.
+Harrin, I might or could come, Harragh shin, we might, &c.
+Harragh oo, thou mightest, &c. Harragh shiu, ye might, &c.
+Harragh eh, he might, &c. Harragh ad, they might, &c.
+INFINITIVE MOOD.
+Present.—Pyheet, to come.
+Supine,—Sheet, come.
+PARTICIPLES.
+Present.—Sheet, coming.
+Preter.—Hr jeet, having come.
+Future.—Hr-chee cheet, about to come.
+Ren mee, I did,
+Ren oo, thou didst,
+Ren eh, he did.
+Jannoo, to do.
+Preterimperfect.
+Ren mayd, we did,
+Ren shiu, ye did,
+Red ad, they did.
+Preterperfect.
+Ta mee er n^annoo^have done, Ta shin ern'yannoo, we have done,
+T’ou ern}yannoo, thouhast done, Tashiuer n’yannoo, ye have done,
+T’eh er ^yannoo, he hath done. T’ad ern’yannoo, they have done.
+Preter pluperfect.
+Ya mee er n'yannoo, I had done,Yashin ern’yannoo, we had done,
+V’ou, &c.	&c.
+60
+A GRAMMAR-OF
+Future.
+Singular.
+Nee’m, I shall or will do,
+Nee oo, thou shalt or wilt do,
+Nee eh, he shall or will do.
+Plural.
+Nee mayd, we shall or will do,
+Nee shiu- ye shall or will do.
+Nee ad, they shall or will do.
+IMPERATIVE MOOD.
+Jean, do thou.
+Jean-jee, do ye.
+SUBJUNCTIVE MOOD.
+Preter.
+Yinnin, I might or c ould do, Yinn aghshin, we might or could do,
+Yinnagh oo, thou mightest, &c. Yinnagh shiu, ye might or coulddo,
+Yinnagh ad, they might or, &c.
+indicative, when a question is asked,
+Which is always answered by NePm,
+Yinnagh eh, he might, &c.
+The future tense of the
+is Jean-ym ? Will I do ?
+I will do.
+Jean-ym ? will I do ?
+Jean oo ? wilt thou do ?
+Jean eh ? will he do ?
+Jean mayd ? will we do ?
+Jean shiu ? will ye do ?
+Jean ad ? will they do ?
+But if the negative cha, not, be added, it asketh no question:
+as, Cha jeanym, I will not do.
+And the future tense of the subjunctive, having the adverb dy
+before it, asketh no question, and is thus conjugated:—
+Dy jean-ym, that I will, or may, or Dy jean mayd, that we, &c.
+can do,
+Dy jean oo, that thou wilt do,
+Dy jean eh, that he will do.
+Fy jean shiu, that ye, &c.
+Dy jean ad, that they, &c.
+INFINITIVE MOOD.
+Present.—Dy yannoo, to do.
+Supine.—Jeant, done.
+THE WANES LANGUAGE.
+61
+PARTICIPLES.
+Present.—Jannoo, doing.
+Preter.—Er n’yannoo, having done.
+Future.—Er-chee jannoo, about to do.
+Interrogative.—Cre nee’m ? what shall I do ?
+Ore yinnagh uss ? what would you do ?
+Jean oo screeu hug gey ? will you write to him ?
+Negative.—Cha ren mee eh, I did not do it.
+Cha jean-ym eh, I won't do it.
+Cha jinnin eh, I would not do it.
+Affirmative.—Nee’m eh, I will do it.
+Ta mee jannoo eh, I am doing it.
+Feddyn, or Geddyn, to get.
+Preter.
+Singular.
+Hooar mee, I got,
+Hooar oo, thou didst get,
+Hooar eh, he got.
+Future.
+Yiow-ym, or yioym, I shall or will get,
+Yiow oo, thou shalt or wilt get,
+Yiow eh, he shall or will get.
+Plural.
+Hooar shin, we got,
+Hooar shiu, ye got,
+Hooar ad, they got.
+Yiow mayd, we shall, &c.
+Yiow shiu, ye shall, &c.
+Yiow ad, they shall, &c.
+Fow, get.
+IMPERATIVE MOOD.
+Fow-jee, get ye.
+SUBJUNCTIVE MOOD.
+Yidin, or yiowin, I might or could get, Yioghshin, we might, &c.
+Yiogh oo, thou mightest, &c., get, Yiogh shiu, ye might, &c.
+Yiogh eh, he might or could get. Yiogh ad, they might, &c.
+With dy, that, it is formed thus:—
+62
+A GRAMMAR OF
+Singular.	Plural.
+Dy voin, or dy nowin} that I could Dy vogh) or nogh mayd} that we
+get,	could get,
+Dy vogh}ornogh oo} that thou, &c. Dy vogh, or nogh sAw, that ye, &c.
+Dy vogh, or nogh s^ that he, &c. Dy vogh}ornogh ad} that they, &c.
+Future.
+Dy voym, or dy noym,that I can get, Dy vow mayd, that we, &c.
+Dy vow 00, that thou may est, wilt get, Dy vow shiu, that ye, &c.
+Dy vow eh, that he may get.	Dy vow ad, that they, &c.
+INFINITIVE MOOD.
+Present.—Dy gheddyn, to get.
+Supine.—Feddynit, gotten.
+PARTICIPLES.
+Present.—Geddyn, getting.
+Preter.—Er gheddyn, having gotten.
+Future.—■Er-chee geddyn, about to get.
+Interrogative.—Dooar oo ? did you get ?
+Now-yet eh ? shall I get it ?
+Vogh ad eh ? would they get it ?
+Negative.—Gha dooar mee eh, I did not get it.
+Cha now eh} thou shalt not get it.
+Affirmative.—Hooar mee eh, I got it.
+•	Ta mee er n’gheddyn eh, I have got it.
+Cur, or Coyrt) to bear, carry, or bring.
+This verb is formed with the preposition lesh, with, changed
+into a pronoun; but, when it signifies to give} it is formed with-
+out the pronoun; as is also cur-myner} to behold.
+'	Preter.
+Hug mee Ihiam, I carried, or brought, Hug shin Ihien, we carried,
+Hug oo Ihidt) thou carriedst, &c. Hug shiu Ihiu, ye carried,
+Hug eh lesh, he carried or brought. Hug ad Ihieu, they carried.
+THE MANKS LANGUAGE.
+63
+Future.
+Singular.	Plural.
+Ver-ym Ihiam, I will bring or carry. Ver mayd Ihien, we will, &c.
+Ver oo Ihiat, thouwilt bring or cany. Ver shiu Thiu, ye will, &c.
+Ver eh lesh, he will carry orbring.	Ver ad Thieu, they will, &c.
+IMPERATIVE MOOD.
+Cur Ihiat, bring, or carry. Cur-jee Ihiu, bring, or carry, ye.
+SUBJUNCTIVE MOOD. -
+Preter.
+Verrin Ihiam, I might or could bring, Verragh shin Ihien, we, &c.
+Verragh oo Ihiat, thou mightest, &c. Verragh shiu thiu, ye, &c.
+Verragh eh lesh, he might, &c.	Verragh ad Ihieu, they, &c.
+With dy, that, or cha, not, it is formed—
+Dy derrin Ihiam, that I might or Dy derragh shin, that we, &c.
+could bring,
+Dy derragh oo Ihiat, that thou, &c.	&c.
+Or, it may be formed of the preter tense of the irregular verb
+jannoo, to do, as :—
+Yinnin Ihiam, I would bring Yinnagh shin Ihien, we, &c.
+Yinnagh oo Ihiat, thouwouldst bring, Yinnagh shiu Thiu, ye, &c.
+Yinnagh eh lesh, he would bring.	Yinnagh ad Ihieu, they, &c.
+Future.
+Dy derym Ihiam, that I bring,
+Dy der oo Ihiat, that thou bring.
+INFINITIVE MOOD.
+Present.—Dy choyrt, to give. Dy choyrt lesh, to carry.
+Supine.—Coyrt, given. Currit lesh, brought.
+PARTICIPLES.
+Present.—Coyrt, or cur, giving.
+Preter.—Er choyrt, or er chur, having given.
+Future.—Er-chee coyrt, or cur, about to give.
+64
+A GRAMMAR OF
+Interrogative.—Dug oo Ihiat yn Hoar ? did you bring the book ?
+Der oo Ihiat eh ? will you bring it?
+Negative.—Cha der-ym Ihiam eh, I won't bring it.
+Cha derragh eh lesh eh, he would not bring it.
+Gra, to say.
+Preter.
+Singular.
+Dooyrt mee, I said,
+Dooyrt oo, thou saidst,
+Dooyrt eh, he said.
+Plural.
+Dooyrt shin, we said,
+Dooyrt shiu, ye said,
+Dooyrt ad, they said.
+Future.
+Jir mayd, we shall or will say,
+,	J er shiu, ye shall or will say,
+Jir ad, they shall or will say.
+Jir-ym, I shall or will say,
+Jir oo, thou shalt or wilt say,
+Jir eh, he shall or will say.
+IMPERATIVE MOOD.
+Abbyr, speak.	Abhyr-jee, speak ye.
+Abbyr was in general use among the ancients as a regular
+verb, as appears from some MSS., and the now only cant word,
+’Nabbyr oo ? Did you speak ? for Anabbyr oo ? And here let me
+lament the loss our language sustains by the want of this inter-
+rogative article an ; for, in discourse or writing (except by a
+mark of interrogation, indeed), we cannot give the reader or the
+hearer, by order of the words, any idea of our request, whether
+it be a question or a positive assertion; as, for instance,—
+Ver oo Ihiat eh ? will you bring it ?
+Ver oo Ihiat eh, you will bring it;
+whereas with the particle an, whether, your meaning would im-
+mediately appear; and then it would run thus:—
+An ver oo Ihiat eh ? will you bring it ?
+THE MANKS LANGUAGE.
+65
+SUBJUNCTIVE MOOD.
+Preter.
+Singular.
+Yiarrin,1 might, could, or would say,
+Yiarragh oo, thou mightest, &c.
+Yiarragh eh, he might, &c., say.
+Plural.
+Yiarragh shin, we, &c.
+Yiarragh shiu, ye, &c.
+Yiarragh ad, they, &c.
+INFINITIVE MOOD.
+Present.—Dy ghra, to say.
+Supine.—Grait, spoken.
+PARTICIPLES.
+Present.—Gra, saying.
+Preter.—Dr ghra, having said.
+Future.—Erchee gra, about to say.
+Interrogative.—Ore}nabbyr oo ? what did you say ?
+Dooyrt oo y Iheid ? did you say the like ?
+Negative.—Cha dooyrt mee y Iheid, I did not say the like.
+Cha n’yiarrin eh, I would not say it.
+Goaill, to take.
+Preter.
+Ghow mee, I took,
+Ghow oo, thou tookest,
+Ghow eh, he took.
+/
+Ghow shin, we took,
+Ghow shiu, ye took,
+Ghow ad, they took.
+Future.
+Gow ym, or goym, I shall or will take,
+Gowee oo, thou shalt or wilt take,
+Gowee eh, he shall or will take.
+Gowee mayd, we shall, &c.
+Gowee shiu, ye shall, &c.
+Gowee-ad, they shall, &c.
+IMPERATIVE MOOD.
+Gow, take thou.
+Gow-jee, take ye.
+66
+A GRAMMAR OF
+SUBJUNCTIVE MOOD.
+Preter.
+Singular.	Plural.
+Ghdin, or ghowin, I might or could take, Ghogh shin, we, &c.
+Ghogh oo, thou mightest, &c., take,	Ghogh shiu, ye, &c.
+Ghogh eh, he might or could take.	Ghogh ad, they, &c.
+Future.
+My ghoym, or ghow-ym, if I take, My ghoys mayd, if we take
+.My ghoys; or ghowys oo, if thou take, My ghoys shiu3 if ye take,
+My yAoys eh, if he take, or will take. My ghoys ad, if they take.
+INFINITIVE MOOD.
+Present.—Dy ghoaill, to take.
+Supine.—Goitj or gowit, taken.
+PARTICIPLES.
+Present.—Goaill, taking.
+Preter.—Er n3ghoaill, having taken.
+Future.—Er-chee goaill, about to take.
+Interrogative.—Gogh oo eh ? would you take it ?
+Gow oo shen ? will you take that ?
+Negative.—Cha gain eh, I would not take it.
+CTia yoym eh, I will not take it.
+Glashtyn, to hear.
+Preter.
+Gheayll mee, I hear,
+Gheayll oo, thou didst hear,
+Gheayll eh, he did hear.
+Gheayll shin, we heard,
+Gheayll shiu, ye heard,
+Gheayll ad, they heard.
+Or,
+Ghluin mee, I heard,
+Ghluin oo, thou heardest,
+Ghluin eh, he heard.
+Ghluin shin, we heard,
+Ghluin shiu, ye heard,
+Ghluin ad, they heard.
+THE MANKS LANGUAGE.
+67
+Future.
+Singular.
+Cluinym, I shall or will hear,
+Cluinee oo, thou shalt or wilt hear,
+Cluinee eh, he shall or will hear.
+Plural.
+Cluinee mayd, we shall, &c.
+Cluinee shiu, ye shall, &c.
+Cluinee ad, they shall, &c.
+IMPERATIVE MOOD.
+Clasht, or cluin, hear thou.	Clasht-jee, hear ye.
+SUBJUNCTIVE MOOD.
+Preter.
+Chluinin, I might or could hear,
+Chluinagh oo, thou might'st, &c., hear,
+Chluinagh eh, he might or could hear.
+Chluinagh shin, we, &c.
+Chluinagh shiu, ye, &c.
+Chluinagh ad, they, &c.
+INFINITIVE MOOD.
+Present.—Pt/ chlashtyn, to hear.
+Supine.—Cluinit, heard.
+PARTICIPLES.
+Present.—Clashtyn, hearing.
+Preter.—Pr clashtyn, having heard.
+Future.—Er-chee clashtyn, about to hear.
+Interrogative.—Cheayll oo ? did you hear ?
+Nagh geayll oo ? did you not hear ?
+Chluin oo ? did you hear ?
+Negative.-—Cha geayll, I heard not.
+C7ta ghluinym, I won't hear.
+Cha gluinagh oo, you would not hear.
+Fokin, to see.
+Preter.
+Honnick mee, I saw,	Honnick shin, we saw,
+Honnick oo, thou sawest or didst see, Honnick shiu, ye saw,
+Honnick eh, he saw.	Honnick ad, they saw.
+68
+A GRAMMAR OF
+Future.
+Singular.
+Heeym, I shall or will see,
+Hee 00j thou shalt or wilt see,
+Hee eh j he shall or will see.
+Plural.
+Hee mayd, we shall or will see.
+Hee shiu, ye shall or will see,
+Hee ad, they shall or will see.
+Faik, see thou.
+IMPERATIVE MOOD.
+Faik-jeej see ye.
+SUBJUNCTIVE MOOD.
+Heein, I might, could, would, or should see, Heeagh shin, we, &c.
+Heeagh. oo, thou mightest, &c., see, Heeagh shiu, ye, &c.
+Heeagh eh, he might, &c., see. Heeagh ad, they, &c.
+Or,
+Dy vaikin, that I would, &c., see, Dy vaikagh shin, that we, &c.
+Dy vaikagh oo, that thou, &c. Dy vaikagh shiu, that ye, &c.
+Dy vaikagh eh, that he, &c. Dy vaikagh ad, that they, &c.
+INFINITIVE MOOD.
+Present.—Dy akin, to see.
+Supine.—Fakinit, seen, Qu.
+PARTICIPLES.
+Present.—Fakin, seeing.
+Preter.—Er vakin, having seen.
+Future.—Er-chee fakin, about to see.
+Interrogative.—Vaik oo eh ? did you see it ?
+N’aikin eh ? could I see it ?
+Negative.—Cha vaik mee eh, I did not see it.
+Cha vaikagh oo eh, thou couldst not see it.
+Cha vaik-ym eh, I shall not see it.
+THE HANKS LANGUAGE.
+69
+CHAPTER XIV.
+Of the Adverb.
+Some Adverbs are expressed in one word, as nish, now,
+eisht, then; some consist of a preposition and a noun, as dy-mie,
+well, er-y-gherrit, lately; and all nouns adjective may be made
+adverbs by prefixing the articles dy and er—as er-cooyl, behind,
+er-chea, in flight, dy oik, ill, dy bieau, quickly, &c., &c. Also,
+when the particle er is put before substantives it sometimes
+answers the English word for, as er-piling, for a penny; and
+sometimes changes them into adverbs, as er-aggle, lest, er-niart,
+forcibly. Adverbs are of several sorts.
+1	.—ADVERBS OF TIME.
+Nish, now.	Kinjagh, always.
+Chelleeragh, immediately, pre- Dy bragh, for ever.
+sently.	Mennick, often.
+Er-y-chooyl, in a moment, di- An-vennick, seldom,
+rectly.	Jiu, to-day.
+Jus msA,bye-and-bye, just now. Jea, yesterday.
+Boish, before.
+Er-y-gherrit, lately.
+Vaidjyn, a while ago.
+Tammy It, a while.
+Er-dy-henney, since.
+Lurg, after.
+Lurg shoh, hereafter.
+Jeih shoh, henceforth.
+Veih shoh, hence.
+Arroo-y-jea, or cha row eh jea,
+the day before yesterday.
+Noght, to-night.
+Biyr, last night.
+Arroo-y-riyr, or cha row eh riyr,
+the night before last night.
+Moghrey jea, yesterday morn.
+Mairagh, to-morrow.
+Nuyr, the day after to-morrow.
+70
+A GRAMMAR OF
+Rdie, before, or formerly. Guin, when.
+Foddey, far.	Keayrt elley} another time.
+Foddey er-dy-henney, long since, Dy beayn, perpetually.
+anciently.	Dy bragh, eternally.
+Ayns-polt, in a second, instant. Dy bragh as dy bragh, for ever
+Dagh-laa, daily.	and ever.
+Ghoud, while.	M's^ us reesht, now and then.
+Gre-choud, how long.	Fisht, then.
+3 Sytraa^ayn, in the meanwhile. Fr-dy, since.
+Foast, yet.
+Anmagh, late.
+Ro-anmagh, too late.
+Dy-traa, betimes.
+Moghey, early.
+Leah, early, soon.
+Ro-voghey, too early.
+Ro-leah, too soon.
+Reesht, again.
+J.ss-y-nou, again, of a new.
+Fr-qiyn. ) „
+„	. 7 > after.
+Drreish, )
+Feayrt dy row, once upon a time.
+Keayrt ny ghaa, many a time.
+Tru, when.
+Arragh, any more.
+Rieau, ever. (Past.)
+Rieau er-dy-henney, ever since.
+Fy-yerrey, at last.
+Ghoiee, never.
+2	.^-ADVERBS OF PLACE.
+j$hoA, here.
+-§/r^ there.
+jSAih, yonder.
+Ph sM / lo yonder!
+M/^ sAoA, this way.
+Gheu-sthie, within.
+Gheu-mooie, without.
+G3raad, where.
+JVeose seose, up and down.
+Raah ennagh, somewhere.
+Ooilley myqeayrt,)	, ,	,
+v a ^roundabout.
+Rwni mygeayrt, )
+Heose, up, above.
+Neose, down.
+Ksoss, up.
+Frskyn, above, over.
+Heese, below.
+Sheese, down.
+Neese, from below.
+Harrish, over.	[against.
+Harrish y raad, opposite, over,
+Ph, under.
+Roish, before.
+Cheu echooyl, or cooyl, behind.
+Fr-cooyl, or er-gooyl, behind, last.
+Gheu-wass, or veealloo, before.
+Gre-voish, or 'mA, from whence.
+PA sAoA, from hence.
+THE MANK3 LANGUAGE.
+71
+Veih shid, from thence. Neealloo, towards the surface or
+Faggy8, er-gerrey, near, hard by. face—as Myr urley neealloo
+Foddey, far.
+Veih foddey, from far.
+Foddey j eh, far off.
+Mooie, without, and magh,
+Sthie, within, and stiagh.
+yn aer, as an eagle towards
+heaven.
+Fr-jerrey, behind.
+Lurg, after.
+3	.—ADVERBS OF QUANTITY.
+Cre-woad,how much,how many. Ore wheesh, how much.
+Fy-liooar, enough.	Ro, too much (used in composi-
+Rour, too much, too many. Faggys, almost.	[tion).
+Lane,
+Ymmodee,
+Palchey,
+I Much,many, a great
+j deal, plenty.
+Ny smoo, more.
+Ny sloo, less.
+Beggan, little.
+Beggan beg, very little.
+Wheesh, so much.
+Feer saggys, very near.
+Fy peeshyn, by pieces.
+Fy slane, wholly, entirely.
+Whilleen, so many.
+Shimmey, many.
+S’coan, scarce.
+Bunnys j almost.
+Monney, much.
+4	.—ADVERBS OF NUMBER.
+Whilleen keayrt, so many times. Cre-woad keayrt, how many
+Uncheayrt, once, daacheayrt,&c. times.
+Keayrt ny ghaa, many times. Shimmey keayrt, many a time.
+5	.—ADVERBS OF ORDER.
+Boshiaght, first.
+Reesht, again.
+3Sy nah ynnyd, secondly.
+Frskyn ooilley, above all.
+Lurg ooilley, after all.
+Ooilley dy lieragh, altogether,
+order.
+Ayns ordyr, in order.
+Ayns fockle, in a word.
+Lhiattee ry Thiattee, side by side.
+Cooidjagh, together.
+Lurgy cheilley, one after another,
+in Ry cheilley, to one another.
+By cheilley, together.
+H 2
+72
+A GRAMMAR OF
+6	.—ADVERBS OF AFFIRMATION.
+Ta, yes, aye.	Myr shen, so, thus.
+Lio ar ta, yes indeed (by the Myr shen dy row, amen, so be it.
+book it is). Dy shickyr, indeed, surely. Dy seer, in truth.	Dy jarroo, indeed. Gyn-dooyt, undoubtedly. She, yes.
+7.—ADVERBS OF NEGATION, OB DENIAL.
+Ny, i Nagh, >not, nor.	Cha, not. S^cummey, no matter.
+Nar, -
+8.—ADVERBS OF DOUBT.
+Foddee, perhaps. Foddee y ve, it may be. Feer likly, very likely. Er-aggle, lest. Trooid taghyrt, accidentally.	Foast, yet, nevertheless. Ny-yeih, yet, nevertheless, how- ever. Agh, but. My ta, though, however.
+9.—ADVERBS OF INTERROGATION.
+An, whether. Gre ’n-fa, why, wherefore. Ore }n-fa nagh, why not. Quoi, who. Gre, what. Gre’d, for ere red, what. Gammah, why. Gaid, how long. Gre choud, how far.	Gre veih, whence. Kys, how. Gre’n oyr, wherefore. Cre-theihll, what in the world, whatsoever. Gre-woad, how many. Cre-woad share, what better. G’raad, where.
+10.—ADVERBS TO GIVE REASON.
+Er-y-fa, er-yn-oyr, er-y-ehoontey, son-y-fa, shen-y-fa, because.
+THE MANES LANGUAGE.
+73
+11	.—ADVERBS OF COMPARISON.
+Myr, as, like.	Smoo, more.
+Myr skok, thus.	Sloo,	less.
+Myrgeddin, likewise.	Na, than.
+Myrckaagk, in like manner. Ass-towse, exceedingly.
+Cka, equally—as cka mie riskyn,
+as good as he.
+12	.—ADVERBS OF SHEWING.
+Cur-my-ner / behold !
+Jeeagh / lo !
+Va skid / or vaik skid I see yon-
+Pa shok ! see here ! [der !
+13	.—ADVERBS OF CONFUSION.
+Bun-ry-skyn, topsy-turvey.
+Er mooin-y-ckeilley, pell-mell.
+Fud-y-ckeilley, in confusion.
+Er-skaghryn, astray.
+14.—ADVERBS
+OF SEPARATION.
+Veik-my-ckeilley, asunder.
+Rydkiattee, aside.
+Er-sooyl, away.
+15	.—ADVERBS OF QUALITY.
+Adverbs of quality are made of adjectives and participles, by
+putting the preposition dy, of, before them in apposition, as—
+Dy mie, well.
+Dy creeney, wisely.
+Dy bwaagk, prettily.
+And the like.
+JDy oik, badly.
+By liastey, idly.
+Dy mitckooragk, roguishly.
+74
+A GRAMMAE OF
+CHAPTER XV.
+Of the Interjection.
+Interjections are so called because they are thrown in between
+the parts of a sentence without making any alteration in it, and
+serve to express the sudden motions and transports of the soul.
+There are several sorts of interjections, such as—
+1	.—of joy.	Buy la7 you Sir! or ya!
+Ah! oh!	woman ! and la / Sir ! or
+Oh! cr^n sport! oh! the sport! man! or fellow!
+Ouwatta / ho ! brave!
+6	.—OF ADMIRATION.
+2	.—OF GRIEF AND PAIN.
+Ogh} or ugh I oh!
+Ogh-cha-nee / woe’s me!
+Bastagh ! pity!
+Smerg! woe!
+3	.—TO ENCOURAGE.^
+Erlongs / forward!
+Er-dty-hoshiaght / come on!
+4	.—TO WARN.
+Ass dt’aash 1 softly !
+Bee er dty hwoaie / have a care !
+S’lioar! hold!
+5	.—TO CALL.
+Vuddee ya ! you woman!
+Cur-my-ner / behold!
+Jeeagh ! see!
+Va shid, or vaik shid / see there !
+7	.—of aversion.
+Cugh 1 nasty ! fie!
+Hut j hut! out upon you!
+Brogh ort / deuce take you !
+8	.—OF LAUGHTER.
+Hah, hah, hah / ah, ah, ah !
+9	.—OF SILENCE.
+Bee dty host / silence!
+Cumdtyhengey! hold your peace!
+Whush / hush !
+THE HANKS LANGUAGE.
+75
+CHAPTER XVI.
+Of the Conjunction.
+A Conjunction is a part of speech which serves to join and
+connect the several parts of a discourse.
+Conjunctions are divided into several orders, of which are—
+1	.—CONJUNCTIONS COPULATIVE, OB TO JOIN.
+As, and (for which a single 3s with Foast, yet, still.
+an apostrophe is used, especially Ny, not, nor.
+in poetry).	Myrchaagh,likewise,moreover.
+Myrgeddin, also.	Ny-sodjey, furthermore.
+2	.—DISJUNCTIVE, OR TO SEPARATE.
+Ny, or.	Chamoo, neither.
+Na, than.	Ga, though, although.
+Edyr, whether.	My ta, though.
+3	.—ADVERSATIVE, OR SHEWING CONTRARIETY.
+Agh, but.	Agh fuime ort, yet, but still.
+Ny-yeih, nevertheless.	Lurg ooilley, after all.
+Foast, yet.
+4	.—CONDITIONAL.
+My, if.	Mannagh, except, unless, if not.
+5	.—CAUSAL, OB GIVING BEASON OF WHAT IS SAID.
+Er-yn-oyr, because.	Er-y-fa, because.
+Ay ns, arson wheesh as, foras much Son, for.
+Fokin dy, seeing that.	[as. Dy, that, in order that.
+6	.—INTEBROGATIVES.
+Vide of Adverbs.
+76
+A GRAMMAR OF
+CHAPTER XVII.
+Of the Preposition.
+A Preposition is set before other parts of speech, to explain
+some particular circumstance,—either in apposition, as cooyl y
+thammag, behind the bush; or else in composition, as cooyl-chas-
+sey, to slander.
+THE PREPOSITIONS USED IN APPOSITION ARE THESE:—
+Gys, to.
+Lurg, after.
+Roish, before.
+Parish, with.
+Risk, to.
+Ec, at.
+Noi, against, towards.
+Liorish, by.
+Ay ns, in, or into.
+Voish, r
+, y from
+Veih, J
+Cooylj behind.
+Fo, under.
+Erskyn, above.
+Son, for.
+Gyn, without.
+Fegooish, without.
+Fud, among.
+Mastey, amidst.
+Cour, or), n
+> towards.
+Gour,	)
+Mygeayrt, about.
+Cheu-mooie, except.
+Er, upon.
+Bentyn, touching.
+Tessyn, across.
+Magh, out of.
+Stiagh, in, into.
+Erlongs, along.
+Foddey, far.
+Er-gerrey, near.
+Faggys, near, nigh to.
+Choud’s, till, to, even to, as long
+as ; or choud as, as far as.
+Er-coontey, because of.
+Ersooyl, from, away.
+By and gy, of gys, to.
+Ass, out of.
+Cordail, according to, pursuant. By, of.
+Eddyr, between, or betwixt. Jeh, of, or concerning.
+Ba, to.
+Some of them become adverbs.
+THE MANKS LANGUAGE.
+77
+OF PREPOSITIONS USED IN COMPOSITION.
+There are, besides real prepositions, certain consignifi cant parti-
+cles, which are turned into prepositions, and prefixed to words in
+such manner as to coalesce, and to become a part of them, as—
+Aa generally implies a repeated action, as the Latin re, again
+—as aa-chroo, to create again; aa-viogkey, to revive; aa-lkieeney,
+to replenish; aa-smooinaghtyn, recollection.
+An signifies privation, or not, and has the force of the English
+un, or in Latin—as an-ckaskerick, unholy, impious; ajn-gkoo, in-
+famy; an-chreestee, infidel; an-leigk, partiality in law; an-
+skickyr, unstable ; an-vennick, seldom.
+Go has the force of the Latin con and co—as co-ckruinnagkt,
+an assembly; co-eirey, a coheir; co-ard, equally high; co-beayn,
+co-eternal; co-trome, equally poised.
+Lieh, half—as lieh-varroo, half-dead; lieh-valloo} half-dumb.
+Gooyl} behind—as cooyl-cklea, an ambush.
+Lesky with—as lesk-y-ckeilley, together with (and is com-
+pounded with pronouns).
+Fo} under—as fo-hallooj underground; fo-lieaUy under a moun-
+tain (and is compounded with pronouns).
+Er} upon, is joined to nouns substantive, and gives them the
+force of nouns adjective—as ben er-jinnue, a mad or passionate
+woman (literally, a woman upon passion, or having passion) ;
+fer er-creaUy a trembling man (literally, a man upon trembling),
+&c.; and is compounded with pronouns.
+Gyn, without, denotes privation, or not—as gyn-vyghiny un-
+merciful ; gyn-vioySy without life; &c.
+Neu signifies privation, or not, in like manner, and is joined
+to nouns, verbs, or participles—as neu-gklen} unclean; &c., &c.
+Am, bad—as in am-vlasSy a bad taste.
+Mee is also a privative preposition, and usedin composition—-
+as mee-arrySy impenitence; mee-ooaskley, dishonour.
+Ay not—as aslaynt, sickness.
+Drogh, bad—as drogh-ourys, suspicion; drogh^yannooy evil.
+78
+A GRAMMAR OF
+M/n, little—as myn-jaghee, small tythes; myn-vooinjer, the
+little ones of a family.
+Feer} very—as seer-vie, very well.
+Zane, full—as lane-vie, well, middling.
+Zh/, of, or to, joined to nouns adjective, makes them become
+adverbs of quality—as dy-mie, well; &c.
+Roish, against,
+Rish, to,
+Marish, with,
+Liorish, by,
+FLastey, among,
+Jeh, of,
+are compounded with pronouns.
+Ayns, in,
+Voish, from, or veih3
+Erskyn, above,
+Fegooish, without,
+Pa, to,
+J.SS, out of,
+OF THE POSTFIXES.
+Ey, postfixed to the nominative case of the primitive noun,
+forms a kind of adjective called a derivative—as cass, a foot,
+coshey, belonging to a foot; bannish, a wedding, banshey, belong-
+ing to a wedding.
+Oil, like, postfixed to the termination of nouns, forms a com-
+parative adjective—as from shawk, a hawk, shawkoil, hawk-like;
+caggey, war, caggoil, warlike; ayr, ayroil, like a father.
+Zen, postfixed, forms a Diminutive noun—as durn, a fist or
+hand, durneen.
+Al forms an augmentative adjective—asmari, strength, niartal,
+strong; pooar, power, pooaral, powerful.
+Agh9 postfixed, forms also an augmentative adjective—as nien,
+poison, nieuagh, poisonous; fo^/rf, a gift, toyrtagh, liberal; kialg,
+deceit, kialg agh, deceitful.
+These compound adjectives, again, are formed into nouns—as
+toyrtagh, liberal, toyrtyssagh, a donor; shirveish, service, shirveish-
+agh, serviceable, or a server.
+The postfixes ee, er, eyr, ag, oor, form artificial nouns—as,
+THE MANKS LANGUAGE.
+79
+Cass, a foot, coshee, a footman.
+Fee} weaving, feeder, a weaver.
+Shelg, hunting, s7i,eZy eyr,ahunter.
+Greas, industry, greasag, an econo-
+mist.
+Cadley, sleep, cadlag, a slug-
+gard.
+Preacheilfo preach^reac^oor,
+a preacher.
+80
+A GRAMMAR OF
+CHAPTER XVIII.
+THE SYNTAX.
+The Construction of Substantives.
+When two substantives come together belonging to divers
+things, the latter, if it be masculine, and the article y or yn pre-
+cede it, shall change its initial into its soft: as folt y ching, the
+hair of the head; duillag y villey, the leaf of the tree : but words
+beginning with d} j, t} of the mutable consonants, are not subject
+to this change: as Itione y jalloo, the head of the image; mac y
+Jee, the son of the God ; ben y dooinney, the man’s wife; ben y
+thie, the woman of the house.
+When two substantives come together, if the latter be of the
+feminine gender, the article ny, not yn, is used in the genitive,
+and the mutable consonant remains unaspirated : as cass, a foot,
+yn chass, the foot, boyn ny coshey, the heel of the foot; sooill, an
+eye, yn tooill, the eye, clagh ny sooilley, the apple of the eye.
+If the latter substantive be the proper name of a country,
+town, or place, without an article, the latter changeth its radical
+initial iLto its soft: as Elian Vannin, the Island of Mann ; mac
+Yee, the son of God; thie Ghavid, the house of David.
+Both substantives being common, the latter is determined by
+the gender of the former: as (fem.) slat hoost; (fem) clagh
+wyllin; (fem.) feill vuc, swine's flesh; str din (masc.) muc} a
+swine's snout; cloan (fem.) ghooinney, a man's children; mac
+(masc.) dooinney, a man's son; ben ghuilley ; mac ben. But if
+the former substantive be of the plural number, then the latter
+is immediately subjoined with its radical initial: as slattyn soost,
+flails; claghyn mwillin, mill-stones. -
+THE MANKS LANGUAGE.
+81
+CHAPTER XIX.
+The Construction of Substantives and Adjectives.
+The substantive and adjective agree generally in gender, and
+sometimes too in number; but an adjective singular is most fre-
+quently joined to a substantive plural; as deiney berchagh, rich
+men.
+The place of the adjective in construction is after its substan-
+tive : as dooinney mie, a good man; ben aalin, a fair woman;
+mac ammyssagh, a dutiful son; inneen ghraihagh, a lovely nymph.
+Except drogh and shenn. Glare and lhag are also sometimes
+placed before their substantives: yn ghiare-veinn, yn lhag-
+ghooinney.
+When an adjective comes after a substantive singular of the
+masculine gender, it retains its radical initial; as goo w, a good
+report; thie mooar, a large house ; tarroo puttagh, a pushing bull;
+dooinney builtagh, a quarrelsome man.
+The adjective, after a substantive singular of the feminine
+gender, changeth its radical initial into its soft: ben vie, a good
+woman; inneen waagh, a pretty girl; cooish chluicagh, a crafty
+cause; eddin ghennal, a merry countenance.
+When an adjective is placed before its substantive, the mutable
+initial of the substantive is changed into its soft, and the adjective
+must be of the masculine gender : as drogh-ghooinney, a bad man;
+drogh-yannoo, a bad action; shenn ven, an old woman.
+All substantives plural, of what gender soever they be, will
+have adjectives after them beginning with their radical initials,
+and most frequently of the singular number : as deiney mie, good
+men; inneenyn mie, good women; eddinyn gennal, merry faces ;
+sheeallyn mie, good news; deiney berchagh, rich men, not deiney
+82
+A GRAMMAR OF
+herchee, Except in the vocative case plural, which always aspir-
+ates the initial of the following adjective : as chaarjyn ghraiagh.
+Adjectives of the superlative (or English comparative) degree
+are always set after their substantives when comparison is signi-
+fied, and make no change of the initial of the substantive whether
+it be masculine or feminine : as yn eddin s’gilley, the fairest face;
+yn laue s’lajer, the strongest hand; as ta’n ven ny s’thollee na e
+sheshey, the woman is stronger than her husband. But when
+the superlative is used to express admiration, it is usually placed
+before its substantive without making any change in the initials :
+as s’gial yn eddin / how clean is the face ! s’lajer e laue / strong
+is his hand! s’thollee ta’n ven / stout is the woman!
+Houyr, too much, is ever placed before its substantive, and
+makes no change of the initial: t’ou goaill rouyr tea, rouyrjannoo
+ort, you take too much trouble or plague upon yourself. And so
+is dy chooilley, every, ever placed before its substantive, and
+always makes the radical initial of its substantive change into its
+soft or secondary mute : as dy chooilley ghooinney, every man ;
+dy chooilley ven, every woman.
+Numerals are placed before their substantives, and make no
+change in their initials : as un dooinney, one man, three deiney,
+hiare, gueig, &c.
+Except daa,two,whichmakes the substantive following change
+its radical initial intoits softjor secondary mute: as daa ghooinney,
+two men ; daa ven, two women; daa phaitchey, two children.
+So un, one, before a feminine substantive : as un ven, one woman;
+un vooa, one cow; un ghodee, a girl, or wench.
+Ordinals are placed before their substantives, and change their
+initials into their soft: as yn chied ven, the first woman; yn nah
+ghooinney, the second man; yn trass ghooinney, the third man, yn
+chiarroo, yn luheiggoo, &c. Except words beginning with d, j, t,
+which suffer no change when joined to chied; as yn chied dooinney,
+the first man; yn chied towse, the first measure; yn chiedjough,
+the first drink.
+THE HANKS LANGUAGE.
+83
+CHAPTER XX.
+The Construction of Pronouns.
+The pronoun relative is generally understood in Manks, as
+cheayll mee coraa nagh hoig mee, I heard a voice (that) I under-
+stood not; ay ns y vriwnys sou er harey, in the judgment (which)
+thou hast commanded.
+The pronouns possessive, aym’s, mine, ayd’s, thine, echey, his,
+and their plurals, are ever placed after their substantives; the
+articles y or yn being put before their substantives, as yn thie
+aym’s, my house; yn cabbyl ayd’s, thy horse; yn thie echey, ain,
+eu} ech, oc.
+All the other possessive pronouns are placed before their re-
+spective substantives, the radical initial letter of their substan-
+tives being changed into its soft: as my ven, dty ven, e ven. Nyn,
+our, your, their,is always placed before its substantives, and before
+the verbs with which it is used in a reflective sense : as va shin er
+nyn livrey, we were (ourselves) delivered; va shiu er nyn livrey,
+ye were (yourselves) delivered; But as nyn changes the mutable
+consonants in a manner peculiar to itself, viz., into their liquids,
+I shall give it in all its variations :—
+Bailey, a town,	motley.
+Cashtai, a castle,	gashtal.
+Cheer, a country,	jeer.
+Booghys, nature,	ghooghys.
+Foays, advantage,	voays.
+Giastyllys, charity,	ghiastyllys.
+Jee, God,	
+Kione, a head,	gione.
+Plan, a pain,	bian.
+Phreeney, a pin,	vreeney.
+Q,ningf a yoke,	guing.
+Toilchinys, merit,	doilchinys.
+The vowels and liquids suffer no change.
+84
+A GRAMMAR OF
+Pronouns are compounded with prepositions, thus:—
+Singular.
+Er, upon.—Orryrn, upon me;
+ort, upon thee; er, upon him;
+and urree, upon her.
+Da, to.—Dou, to me; dhyt, to
+thee; da, to him; and dee,
+or jee, to her.
+Dish, to.—Rhym, to me; rhyt,
+to thee; risk, to him; ree,
+to her.
+Parish, with.—Marym, with
+me; mayrt, with thee; ma-
+rish, with him.
+Harrish, over.—Harry m, over
+me; harryd, over thee ; har-
+rish, over him; harree, over
+her.
+Voish, from.—Voym, from me;
+void, from thee; voish, from
+him; voee, from her.
+Fo, under.—Foym, underline;
+foyd, under thee; so, under
+him; foee, under her.
+Liorish, by.—Liorym, by me ;
+Hort, by thee; liorish, by
+him; lioree, by her.
+Ayns,in..— Aynyw,inme; aynyd,
+in thee; ayn, in him; aynjee,
+in her.
+Lesh, with.—Lhiam, with me;
+Ihiat, with thee; lesh, with
+him.
+Plural.
+Orrm,uponus; erriu, upon you;
+orroof upon them.
+Dooin, to us; diu, to you; daue,
+to them.
+Rooin, to us; riu, to you; roo,
+to them.
+Marin, with us; meriu, with
+you ; maroo, with them.
+Harrin, over us; harrystiu, over
+you; harrystoo, over them.
+Voin, from us; veue, from you;
+voue, from them.
+Foin, under us; f’eue, under
+you; foue, under them.
+Liorin, by us; lieriu, by you;
+liorOo, by them.
+Aynin, in us; ayndiu, in you;
+ayndoo, by them.
+Lhien, with us; Ihiu, with you;
+Ihieu, with them.
+THE MAKES LANGUAGE.
+85
+Singular.
+Roish, before.—Roym, before
+me; royd,before thee; roish,
+before him; roee, before her.
+Mastey, among.—Masteymee;
+mass ayd; mastfechey; and
+mast’eck.
+J eh, of.—Je^m, of m e;jeed, of
+thee ; j eh, of him; and fee,
+of her.
+Ass, out of.—J-ssym^outofme;
+assyd, out of thee; ass, out of
+him; assjee, out of her.
+Erskyn, above.—Ermyskyn, a-
+boveme; er dtyskyn, above
+thee; er eskyn, above him.
+Fegooish, without.—Wegooish,
+without me; dt3egooish,ny3-
+gooish.
+Plural.
+Roin, before us; reue, before
+you; roue, before them.
+ELast3 avn, among us; masfeu,
+among you; mastioc, among
+them.
+J3in, of us; fiu, of you; feu,
+of them.
+Ass shin, out of us; assdiu, out
+of you; ass ad, out of them.
+Er-nyn skyn, above us, you,
+them.
+These pronouns are contracted thus:—Ym, from mee or my, I
+and my; yt, from dty, thy, and sometimes t is changed into d,
+as harryd, over thee, &c.; in, from shin, we; iu, from shiu, ye;
+oo, from roo, them.
+The interrogative and its answer shall agree in case: as Quoi
+roish haink eh? from whom did he come? Voym’s, from me.
+I
+86
+A GRAMMAR OF
+CHAPTER XXI.
+Of the Construction of Articles.
+These articles restrain or determine the sense of the word they
+are put before to some particular, in the same manner as the de-
+finite article the in English; but we have no article that answers
+the English a—as haink dooinney, a man came, haink y dooinney,
+the man came; yet,
+The reflective article ny is used in construction for the English
+article a, and before nouns of the masculine gender it always
+changes their radical initials into their soft or secondary mutes;
+but nouns of the feminine gender retain their radical initials: as
+Veh ny ghooinney mie, he is a good man ; Vee ny ben vie, she is a
+good woman.
+When words of the masculine gender have an article set before
+them, their radical letters are not changed: as y dooinney, the
+man; yn guilley, the boy. But if they be feminines, their initials
+are changed into their soft: as yn ven, the woman; yn vooa, the
+cow.
+Proper names have not the articles set before them, because
+they do of themselves, individually or particularly, distinguish
+the things or persons of which one speaks. So likewise the names
+of countries, cities, rivers, &c., having no article set before them,
+except these four—Yn Spainey, Spain; yn Rank, Franoe; yn
+Raue, Rome; yn thalloo Bretnagh, Wales; also, N’erin, Ireland,
+and N’alpin, Scotland, have the adventitious n, or article yn, be-
+fore them.
+An article is not put before the former of two substantives
+when they betoken divers things.
+THE HANKS LANGUAGE.
+87
+CHAPTER XXII.
+The Construction of Verbs.
+The nominative cases of verbs, whether placed before or after
+their verbs, preserve their radical initials : as dooyrt dooinney, a
+man said; she dooinney dooyrt rhym, ’twas a man told me.
+Nouns come aster verbs of filling with the preposition lesh, '
+with: as Veh Ihieeney yn thie lesh boirey, he filleth the house with
+contention.
+.Verbs of abounding have ay ns: as gaase ayns creenaght,
+growing in wisdom; bishagh ayns cooid, abounding with goods.
+Of agreeing and speaking to, have rish, to, or with : as choard
+mee rish, I agreed with him; dooyrt mee rish, I said to him.
+Of accusing, have son, for : as Veh plaiynt er son dunverys, he
+accuseth him of murder.
+Of arraying, have lesh, with : as coodagh lesh argid, covering
+with silver; coamrit leshpurple, clothed in purple.
+Of asking and intreating, have j eh, of, and weigh, from : as
+hir mee veih’n dooinney my chair, I entreated the man for my
+right; denee mee jeh’n dooinney, cre’n naight ? I asked the man,
+what news ?
+Of buying, have veih ; as ta mee hionnaghey cooid veih’n mar-
+chan, I am buying goods from the merchant.
+Of calling upon, have er, upon : as déie mee er cooney, I called
+for help.
+Of communicating, have da, to, or gys, to: as hoilshee mee da,
+or gys my naboo, I signified to my neighbour.
+88
+A'GRAMMAR OF
+Of defending and delivering, have veih, or voish .- as livrey mee
+veih oik, deliver me from evil; coadee mee voish y noid, protect
+me from the enemy.
+Of waiting, have rish, to: as duirree mee rish sheshaght, I
+waited for company.
+Of hearkening, have rish : as deaisht mee rish choud3s oddin, I
+listened to him as long as I could.
+Of loading, have lesh.- as Ihieen ym eh lesh feeyn, I will fill
+him with wine; laad mee eh lesh argid, I loaded him with silver.
+Of receiving, have voish, or veih; as hooar mee eh voish Lunnin,
+I received it from London.
+Of separating, have rish; as scarr mee rish my ven, I divorced
+my wife.
+When a question is asked in the present tense, the answer is
+made by the same tense of the same verb : as Vel oo goll thie?
+are you going home ? Ta mee goll. Or the answer may be made
+affirmatively by ta} yes, or I am; and negatively by cha nel} or
+vel, no, or I am not, thou art not, he, &c., is not.
+If the question be in the preterperfect tense, the answer is
+made, if affirmative, by ren} or va ; if negative, by cha ren, or
+row; or otherwise by repeating the verb, if an affirmative answer;
+but if negative, by repeating the verb, and putting cha before it,
+as Nagh dooyrt y dooinney shen ? did not the man say so ?
+Dooyrt, or, negatively, cha dooyrt.
+When a question is asked in the future tense, the answer is
+made by the same tense, or by the future, nee’m, I will do : as
+Jed oo thie ? will you go home ? Ued-ym, I will go, or nee’m.
+TUE HANKS LANGUAGE.
+89
+CHAPTER XXIII.
+Of the Construction of Adverbs.
+Feer, very, rd, too, or too much, are set in apposition with
+nouns adjective, and change their radical consonants into their
+soft: as dooinney seer vie, a very good man; errey ro hrome, too
+heavy a burden. But words beginning with d, j, and t, of the
+mutables, change not after the adverb seer : as seer doccaragh,
+very laborious; seer jollyssagh, very greedy; seer tastagh, very
+observant.
+Fy, that, governs a subjunctive mood.
+Fy chooilley, every, changes the mutable initial consonant of
+nouns substantive, to which it is joined in apposition, as dy
+chooilley ghooinney, evety man, &c.
+All the other adverbs, whether before verbs, substantives, or
+adjectives, suffer them to retain their radical initials.
+CHAPTER XXIV.
+Of the Interjections.
+All the inteijections make the nouns following them change
+their initials into their soft or secondary mute : as 0 Yee / 0
+God ! 0 ghooinney / 0 man ! But when verbs come after them
+they retain their radical initial: as 0 cleiy so / 0 supplant him !
+90
+A GRAMMAR OF
+CHAPTER XXV.
+Of the Construction of Conjunctions.
+Edyr, whether, or either, is answered by ny} or: as edyr eh ve
+dooinney ny ben, whether it be man or woman.
+As, and, ere, what, myr, also, &c., effect no change in the
+initials.
+Ny is often set before nouns adjective of the English compara-
+tive degree,—that is, in Manks, when two subjects are im-
+mediately compared the one to the other, and is answered by na,
+than : as ta’n airh ny strimmey na’n ar gid, the gold is heavier
+than the silver.	-
+CHAPTER XXVI.
+Of the Construction of Prepositions.
+of prepositions used in apposition.
+Prepositions used in apposition have always a radical initial
+after them : as marish dooinney, with man; lesh screeuyn, with a
+letter.
+When the articles y or yn, the, are joined to prepositions, the
+radical initials of the nouns which follow them are changed into
+THE MANKS LANGUAGE.
+91
+their secondary mutes, or softs : as marish y ghuilley, with the
+boy; rish y ven, to the woman; lesh y ghrian, towards the sun.
+But nouns whose initials are the consonants d, j, and t, suffer no
+change: marish y dooinney, with the man - cooyl y dorrys, behind
+the door; lesh y jalloo, with the image; gys y thie, to the house.
+Dy, of, or to, always aspirates, or changes into the secondary
+mute, the initial of the following mutable consonant: as goll dy
+valley, going home ; kione dy phrash, a head of brass; dy ghoaill
+leagh, to take a fee.
+Prepositions are compounded with adverbs of place: as veih-
+heose, from above; veih-heese, from beneath. They are also com-
+pounded with pronouns. (See the construction of pronouns.)
+OF PREPOSITIONS USED IN COMPOSITION.
+Aa is compounded with nouns, verbs, and participles, and
+changes their mutable initials into their soft or secondary mutes:
+as aa-chroo eh dooinney, he re-created man; aa-vioghee eh, he
+shall revive; aa-chooinaghtyn, recollection.
+An is joined either to nouns, verbs, or participles, and changes
+their mutable initials into their secondary mutes : as fan thie
+an-chasherick, the house is impure; feh laadit lesh anghoo, he is
+loaded with infamy.
+Co and cooyl, before the mutable initial c, doth change it into
+its soft: as co-chorrym, equal; co-chiart, even. Otherwise it re-
+taineth the radical initial: as co-trome, equally heavy; co-beayn,
+co-eternal; co-Jee, equally God; cooyl-chlea, an ambush; cooyl-
+dorrys, behind the door.
+Fo, before s and th, is used with the • .aspirate, or secondary
+mute: as fo-halloo, under the ground; fo-liedu, under the moun-
+tain ; instead of fo thalloo and fo slieau'.
+Dr is used with radical initials : as er-cannoo, wanton; er-gliee,
+brimming; er-finnue, passionate. Except when it is put for the
+English for, as er-phing, for a penny, where the aspirate is used.
+It is also used in composition with pronouns, as orrym, &c. (See^
+the construction of pronouns.)
+92
+A GRAMMAR OF THE MANKS LANGUAGE.
+Orrym and its derivatives are most commonly used to betoken
+the passions of the body : as ta’n chadley orrym, I am asleep, or
+am sleepy; ta paays orrym, I am dry.
+Lieh changes the radical initials of the words it is compounded
+with into their secondary mutes: as ta’n dooinney lieh-varroo,
+the man is half dead; yn ven lieh-valloo, the slow-speaking
+woman; moddey lieh-ghooghys, a mongrel.
+Neu and mee signify privation, or not, and make the following
+consonant change into its secondary mute or aspirate: as neu-
+ghlen, unclean; mee-viallagh, disobedient.
+Gyn is also a privative article, or article of the ablative case,
+and is sometimes joined to a soft or secondary mute: as gyn vioys,
+lifeless; gyn-vyghin, merciless or without mercy. When we say
+gyn bioys, gyn myghin, and the like, gyn issetby itself, and myghin,
+bioys, &c., are put absolutely—q.d., gyn, bioys ; gyn, myghin.
+Da, to, rish, to, marish, with, harrish, over, voish, from, so,
+under, liorish, by, ayns, in; lesh, with, roish, before, mastey,
+among, j eh, of, ass, out of, erskyn, above, fegooish, without,
+are all compounded with pronouns. (See the construction of
+pronouns.)
+LONDON:
+G. NORMAN AND SON, PRINTERS, MAIDEN LANE, COVENT GARDEN.
+
+
+PB Kelly, John
+1811 A practical grammar of the
+K4	antient Gaelic
+1870
+PLEASE DO NOT REMOVE
+CARDS OR SLIPS FROM THIS POCKET
+UNIVERSITY OF TORONTO LIBRARY

@@ -6,3 +6,4 @@ __pycache__/
 
 # Built database is tracked via Git LFS (*.db in .gitattributes)
 # To rebuild from source: python scripts/build_all.py
+scripts/manx.db 

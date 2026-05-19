@@ -1,0 +1,1195 @@
+﻿Etudes Celtiques
+The syntax of the verb in Manx Gaelic
+Robert Leith Thomson
+Citer ce document / Cite this document :
+Thomson Robert Leith. The syntax of the verb in Manx Gaelic. In: Etudes Celtiques, vol. 5, fascicule 2, 1950. pp. 260-292;
+doi : https://doi.org/10.3406/ecelt.1950.1221
+https://www.persee.fr/doc/ecelt_0373-1928_1950_num_5_2_1221
+Fichier pdf généré le 06/09/2019
+THE SYNTAX OF THE VERB IN MANX GAELIC
+BY
+ROBERT LEITH THOMSON
+fl
+®
+©
+G
+It is now twenty years since J. J. Kneen published at
+Oxford the Grammar of the Manx Language which he had
+written some twenty years before that. That book was
+only the second full-scale commentary on the language,
+the first being Sir. J. Rhys’ Outlines of Phonology in 1894,
+though the intervening First Lessons in Manx of
+Edmund Goodwin (1901) is an admirable summary from
+the learner’s point of view. The only other contributions
+to the subject were J. Strachan’s phonetic transcript,
+dated 1883, of a Manx folksong heard at Bradda, in ZCP
+I. 54 (1897), and the late F. G. Ackerley’s Manx Margi-
+nalia, a commentary on Rhys, in Y Cymmrodor XXXIX,
+20-38 (1928).
+Since the Grammar there has been an increase in the
+number of scholars’ contributions to the subject :
+T. F. O’Rahilly’s Irish Dialects Past and Present (1932)
+gave much attention to Manx ; in 1938 J. J. Kneen pro-
+duced his English-Manx Pronouncing Dictionary. The war
+caused a lull, until 1947 brought three contributions :
+the late G. I. Paton’s essay on the Manks Paradise Lost,
+Séamus Kavanagh’s edition of a Manx Sermon in Féilscri-
+bhinn Torna, and F. J. Carmody’s Manx Gaelic Sentence
+Structure in the University of California Publications in
+Linguistics 1. 8. 297-356. This year has seen John Gell’s
+THE SYNTAX OE THE VERB IN MANX GAELIC
+261
+translation of some of Edward Fargher’s reminiscences
+appear in Bealoideas for 1948.
+Of the three works last named two are translations of
+a Manx text, one with notes mainly on the spelling and
+mutations. Only Carmody has attempted a treatment of
+the language as a whole, based on the 1819 Bible (the last
+edition), and on the Moore-Rhys edition of the Phillips’
+Prayer Book.
+I propose here to treat of the syntax of the verb and
+its adjuncts in Manx, and to draw most of my examples
+from the gospel of St. John, the only text now generally
+available, as it was reprinted by the British and Foreign
+Bible Society in 1936. It was a careful reprint, faithfully
+reproducing the misprints of the 1819 edition.
+I may be asked why I should treat again the subject
+which Carmody dealt with (pp. 330-353). It seems to me
+that the number of mistranslations of examples and
+even errors in the choice of examples, and the mutilation of
+them to make them apply where they do not apply, call
+imperatively for a new treatment.
+My own scheme is as follows :
+A.	The preverbal particles
+/ and the treat-
+B.	The inflected tenses	i ment of subject
+The periphrastic tenses with VE ) and object, no-
+The periphrastic tenses with JANNOOjminal orprono-
+The verb modified bv modal verbs ( mir^> in each
+"	\case.
+C.	The copula (independent), its function, sentence order,
+omission.
+The copula as a non-independent survival.
+D.	The verb-noun.
+The commentary is reduced to a minimum, and the
+examples are left to speak for themselves. They do not
+claim to be exhaustive ; those from PB are quoted irres-
+262
+ROBERT LEITH THOMSON
+pective of whether they support the point for which the
+1819 version is quoted. They will in many cases serve to
+illustrate the variety of possible renderings of a given
+passage. I have not thought it necessary to translate my
+examples, as reference to the English text will always give
+the general sense. It should be noted, however, that in
+the Psalms the Manx version follows the text and verse
+numbering of the English Prayer Book version, not that
+of the Authorised Version.
+It will normally be implicit in my use of the material
+and in my commentary how I differ from Carmody, but a
+number of topics falling outside the scope of this paper,
+together with a list of some errors detected in MGSS form
+an appendix.
+A.	The preverbal particles
+1.	To the general rule that the verb stands first in its
+own clause followed by its subject and direct object or
+complement in that order, there are several exceptions, the
+most important of which consists of a group of particles
+modifying the verb and always preceding it, which we may
+call preverbs. Such are the now obsolete an making the
+verb interrogative ; cha the sign of negation ; nagh the
+sign of interrogative negation ; mannagh i. e. my, older ma,
+and nagh meaning r/ not, unless; dy the conjunction that,
+also so that; nagh the negative form of dy ; ny the negative
+imperative, also nagh; dy preceding the verb of a positive
+wish, also gur; nar preceding a negative wish, also ny;
+my, meaning if, in open conditions ; dy meaning if in
+closed conditions, negative nagh; (roish) my meaning
+before. For the mutations induced in the verb see Kneen’s
+Grammar and Goodwin’s Lessons. My governs a relative
+form in the future when it means if; dy with the same
+meaning is followed by the unlenited past subjunctive of
+VE, by nasalisation in other verbs.
+THE SYNTAX OF THE VERB IN MANX GAELIC
+263
+(AN) vel uss ny s’ooasle na’n ayr ain Jacob 4.	12. In
+PB both nell and veil are found ; veil represents the
+regular nasalisation of OIr /í/, nell the development
+represented in SG orthography by cha’ n ’eil. Some-
+times the PB has exactly the same distribution of
+the two forms as SG, viz. am bheil-vell? and cha’n
+’eil-ghanell. But in 1819 only vel is used.
+vod nhee erbee mie cheet magh ass Nazareth ? 1. 46.
+CHA cha vel sheshey aym 4.	17.
+cha jagh ad-hene stiagh ayns halley ny briwnys
+18. 28 PB gha jagh ayd heyn schiagh ayns hall
+ny bruinys.
+cha beagh shin er livrey hood’s eh 18. 30 PB gha
+beagh shuiniyn erna lifree duitche.
+cha vel my reeriaght’s jeh’n theihll shoh 18. 36
+PB gha nell my ririyghts d’yn tyyl shanoni.
+cha dug Yeesey ansoor da 19. 9 PB gha dugg
+lesy veg y fragyrt da
+cha vow eh baase 21. 23 PB gha nou e bays
+cha greidym 20. 25 PB gha jeanym krediu
+NAGH ? nagh dug Moses yn leigh diu ? 7.	19
+yn cappan ta my Ayr er chur dou, nagh n’iuym eh ?
+18.	11 PB nagh jeanyms if dyn ghapan ta m’aer
+erna hoyrt duys ?
+nagh loayr oo rhym’s ? 19.	10 PB nagh veil us
+loyrt ruyms ?
+nagh vaik mish oo marish ayns y gharey ? 18. 26
+PB nagh vaik mi us ayns y gayr marish
+MANNAGH chamoo oddys shiuish, mannagh jean shiu
+tannaghtyn aynym’s 15. 4 PB ghamu ’odys
+shiuss, managh vann shiu ayn-’yms
+mannagh beagh eh er ny choyrt dhyt veih’n yrjid
+19.	11 PB managh veagh erna hoyrt duitch
+vei huas
+mannagh vaikym ayns ny laueyn echey ynnyd ny
+2—1
+264
+ROBERT LEITH THOMSON
+treinaghyn, as mannagh derrym my vair ayns
+ynnyd ny treinaghyn 20. 25 PB naslu na
+niyms ayns y lauyn toll ny dreinaghyn, as my
+veyr kurr sc hiagh ayns toyll ny dreinaghyn
+DY dy vod fys y ve ec y theihll dy vel mish graihagh er yn
+Ayr 14. 31 PB gy vod fyss ve ag y tyyl gy
+niyne layms yn aer
+er-y-fa dy vel shiuish er ve graihagh orrym’s, as dy
+chred shiu dy daink mee magh veih Jee 16. 27
+PB erson gy byney leyfs mish, as gy veil shiu er
+gredjel gy haink mi magh vei jih
+er-aggle dy beagh ad anchasherick 18. 28 PB
+nagh beagh ayd er an salghagh
+er-y-fa dy ghow eh er 19. 7 PB erson dy renn e
+heyn na vack dy iih
+dy voddagh y scriptyr ve cooilleenit 19. 24 PB gy
+vodagh y skripturyn ve erna ghuiliny
+son dy row fys ec Yeesey dy row dy chooilley nhee
+nish cooilleenit 19. 28 PB fyss agg lesy gy
+rou gygh ully red nish kuilinit
+NAGH nagh gaillin veg 6. 39
+cre’n-fa nagh voddym geiyrt ort nish ? 13. 37
+as nagh voddagh ad yn Eayncaisht y ee 18. 28
+nagh beign er my livrey gys ny Hewnyn 18. 36
+PB nagh beinsh er my lifree dy ny hiuyn
+nagh beagh ny kirp er y chrosh er laa yn doonaght
+19. 31 PB nagh beagh ny kyirp er mayrn er y
+ghross er y la Sabbath
+ta mee dy heiltyn nagh gummagh y seihll hene ny
+lioaryn veagh scruit 21. 25 PB ta mi smuna-
+ghtyn nagh vodagh y syyl y goyl ny lioryn veagh
+skriut
+NY ny scrieu 19. 21 PB na skriu
+ny Ihig dooin y raipey eh 19. 24 PB lig uin gyn y
+renne
+THE SYNTAX OF THE VERB IN MANX GAELIC
+265
+ny benn rhym 20.	17
+ny bee mee-chredjuagh agh credjuagh 20. 27
+PB as na gyn ghrediu agh bii layn dy ghrediu
+MY my nee shin tannaghtyn aynym’s 15. 7 PB ma
+nii shiuss fannaghtyn ayn’-ym
+my ta dwoaie ec y seihll erriu 15.	18 PB ma ta yn
+syyl toyrt fua diifs
+my Ihiggys oo yn raad da yn dooinney shoh 19.	12
+PB my liggys u gasyn shiul
+DY dy n’yiarrin nagh nione dou eh, veign my vreagerey
+8. 55 PB ma jirrym nagh nial dou e, biim ny
+vragery
+dy beagh my reeriaght jeh’n theihll shoh 18. 36
+PB dy beagh my ririyghts d’yn tyyl shanoni
+MY or ROISH MY tar neose roish my vow my Ihiannoo
+baase 4. 49 PB tar nuas ma vou my vack
+bays
+roish my row Abraham, Ta mish 8. 58 PB ma
+rugg Abraham, ta mish
+son nagh varr eh mee my daink mee er y theinll.
+Jer. 20. 17	"	”
+DY dy vannee dhyt’s 19. 3 PB banaghy uit
+shee dy row hiu 20.	10, 21 PB shii gy rou errifs ;
+dy row shii errifs
+NAB nar hig eh Jee. Luke 20. 16 beside ny Ihig eh
+Jee. Rom. 3. 4, etc.
+With the simple interrogative construction we may
+compare the expression of indirect questions
+yiow eh toiggal jeh’n ynsagh nee veih Jee te, ny
+vel mee loayrt jee’m pene 7. 17
+In this section we must mention also a number of other
+elements which always precede the verb : ere (what, with
+simple relative flexion), ere (where, with conjunct flexion)
+and a group of conjunctions and adverbs all originally
+forms of nouns or prepositional phrases. The phrases are
+266
+ROBERT LEITH THOMSON
+followed by dy (thai, negative nagh), the case-forms by a
+relative when positive, by nagh when negative ; in a suc-
+ceeding clause dy may substitute for the positive form.
+ere vel eh ? 7. 11 but c’raad t’ou baghey ? 1. 38
+and cha vel fys echeysyn ta shooyll ayns y dorra-
+ghys c’raad t’eh goll 12. 35 where the meaning
+is the same in all cases.
+eshyn hug sarey dou, ere v’orrym dy ghra, as ere
+Ihisin loayrt 12. 49
+ere shoh t’eh dy ghra ? 16.	18 PB kre ta sho te
+gra ?
+ere ta shen dhyt’s ? 21. 22 PB kre ta shen duich ?
+tra vees eh er jeet 16. 8 PB nar viis eshyin er
+jiit
+tra v’eh er ghra shoh 20. 20 PB nar ve ern’ ra
+ny goyn shanoni
+ta shiu dy my hirrey’s, cha nee er-yn-oyr dy vaik
+shiu ny mirrilyn, agh son dy d’ee shiu jeh ny
+bwilleenyn, as dy row shiu jeant magh 6. 26.
+tra haink ad gys Yeesey, as dy vaik ad dy row e
+hannah marroo 19. 33
+bee eshyn ta credjal aynym’s bio, ga dy vow eh
+baase 11. 25
+ga nagh gred shiu mish, cred-jee ny obbraghyn 10. 38
+B.	The inflected tenses
+The inflected forms of the verb, i. e. the future or present
+subjunctive, the conditional or past subjunctive or imper-
+fect, the preterite, and the imperative combine with their
+subject pronouns as follows ; the pronominal follows the
+verbal element ; where the verbal element is distinctive of a
+particular person, i. e. in the first persons singular and plu-
+ral of the future, and the first person singular of the condi-
+tional, no subject pronoun is used, although the augentia
+of the pronouns are frequent ; in the future the first
+THE SYNTAX OF THE VERB IN MANX GAELIC
+267
+person plural ending mayd may be suffixed or disjoined
+like shin, but the augmented pronoun mainyn is always
+disjoined. The imperative is sometimes followed by an
+emphatic pronoun.
+tar royd as hee shiu 1. 46
+jean-jee yn vrooilliagh ta er-mayrn y haglym
+cooidjagh 6. 12 PB chiagylgi shuas yn bii
+brisht ta er mayrn
+jean-jee shiuish cre-erbee jir eh riu 2. 5 PB kre
+erbi jirr eshyin riiufs jeanji e
+gow-jee shiuish eh, as jean-jee eh y vriwnys 18. 31
+PB gouji, as jeanji y vruinus e
+ere nee mainyn dy vod mayd obbraghyn Yee y
+yannoo 6. 28
+mannagh nieeym’s oo, cha vod ayrn erbee ve ayd
+marym 13. 8
+hem mainyn myrgeddin mayrt 21. 3
+as dy jinnin ad y Iheihys 12. 40
+as dy n’yiarrin nagh nione dou eh, veign my vrea-
+gerey goll riuish 8. 55 PB ma jirrym nagh
+nial dou e, biim ny vragery kasly riiufs
+If the ordinary preterite may be called an inflected
+tense, the present and preterite of the verb « to be » may also
+be so described : the combination of verb and pronoun
+here is contracted in some cases ; the -a of ta and va disap-
+pears before eh, ee, and ad; before oo an apparent loss
+takes place, but the written forms Vou and u’ou represent
+an uncontracted diphthongal pronunciation. The augmen-
+ted forms of the pronouns enter into combination exactly
+like the simple ones, but in the second person singular the
+whole augmented pronoun is repeated after the verb-
+plus-pronoun form, thus Vou uss, v'ou uss. The forms te
+*and ve are not phonetically distinct from Veh and u’eh,
+but are used in deference to the English distinction between
+he and it when it is subject and refers to no definite, some-
+268
+ROBERT BEITH THOMSON
+times to no personal, antecedent. This false distinction
+naturally breaks down in other tenses : bee eh, dy row eh,
+veagh eh, etc. In the PB ie and la e, ve and u’e are inter-
+changeable and masculine.
+son ve mysh y jeihoo oor 1. 39
+yiow eh toiggal jeh’n ynsagh nee veih Jee te 7.	17
+t’ou uss er vreayll y feeyn mie derrey nish 2.	10
+v’ou uss er dty ruggey ooilley cooidjagh ayns
+peccaghyn 9. 31
+tou us klastchen yn fyeir eck PB 3. 8 t’ou clashtyn
+y sheean eck
+In the translation of Bishop Thomas Wilson’s sermons
+into Manx (Bath 1783) yh is used for eh when the English
+original has it.
+Ta mee goll dy hoiagh rhimbiu yn bannaght mooar
+jeh tendeil Goo Yee, edyr yh ve er ny lhaih na er ny
+phreacheil diu. p. 1
+ver yh aggie ayndiu 4
+bee yh ny sassey da Sodom as Gomorrah ec laa ny
+briwnys, na diuish 5. cf. Matt. 10. 15
+t’yh Ihie erriu... dy heet gys y cheeill lesh aigney
+beasagh 5.
+lesh slane shickyrys dy vel yh yn eer ynrickys 6.
+spheer yh ta mee fakin feallagh elley lesh cha beg
+dy chiarail rhym pene 8.
+my t’yh er ve inshit diu 9. but once
+er-yn-oyr nagh vel eh dy liooar da dooinney 6.
+Formally speaking, the simplest phrase consists of an
+inflected tense-form the subject and object of which are
+both pronouns. In this case the one immediately follo-
+wing the verb is subject, the next object or complement.
+No special forms are prescribed should the two be idem
+tical : honnick eh eh is perfectly natural. J. J. Kneen,
+Grammar parag. 36, adds : ‘In colloquial Manx in the third
+THE SYNTAX OF THE VERB IN MANX GAELIC	269
+person singular, there is a tendency to develop an accusa-
+tive form, which... might be represented by a. As varr
+eh a. Ghow eh yn coo as vaih eh a sy logh.’ This ‘accusative
+form’ seems to represent only a natural weakening of the
+second eh. There is no reason to believe an accusative
+has in fact arisen in Manx. In the second example we may
+suspect that a is equivalent to the Wilsonian yh. and
+represents an English ri, especially as Kneen translates
+‘and drowned ri' not ‘him’. Some examples of a after
+pronouns other than eh would be more convincing.
+The same order of sentence applies when either subject
+or object (or both) is a noun or phrase : honnick eh yn
+dooinney, honnick yn dooinney eh, or hug eh rish my hooilyn
+eh (9. 11) where a phrase intervenes before the objective
+pronoun. This is frequent but not inevitable in Manx.
+hug ad Ihieu ersooyl eh gys Annas hoshiaght 18. 13
+PB liid ayd e er shiul gys annas hossiagh
+hug eh lesh stiagh Peddyr 18.	16 PB hugg e
+schiagh Pedyr
+woaill fer jeh ny sir-oik va ny hassoo ayns shen
+Yeesey lesh basse laue 18. 82 PB voail anayn dy
+ny sirr oik hass liorish lesy er yn edyn
+cha beagh shin er livrey hood’s eh 18. 30 PB gha
+beagh shuiniyn erna lifree duitch e
+ta mish dy choyrt Ihiam magh hiu eh 19. 4 PB ta
+mi dy hoyrt-syn magh hugguish
+hug eh er y chrosh eh 19. 19 PB ghurr e er y
+ghross
+ren fer jeh ny sidooryn lesh shleiy yn Ihiattee echey
+y hoylley 19. 34 PB ren anayn dy ny sajuryn
+eshyin y vroddy rish sleyy ayns y liattai
+my t’ou er chur Ihiat ass shoh eh 20. 15
+With the general avoidance of this construction by PB,
+cL 19. 29
+270	ROBERT LEITH THOMSON
+as heeyn ad eh seose gys e veeal, PB as ghurr ayd e
+gys e veal.
+The substantive verb observes the same construction,
+except that we should substitute complement for object.
+The old use of the copula to express predication while the
+substantive verb expressed existence, has ceased with the
+restriction of the copula to emphasis and a number of set
+phrases. With the copula, as we shall see, the order is
+different.
+If the complement of the verb ’to be’ is an indefinite
+and at the same time a personal noun, then it requires to be
+preceded by the possessive particle appropriate to the
+person involved, but in the third person singular by ny.
+These particles are not in fact the possessives, though my
+and dty obviously represent OIr mo, do rather than im,
+it; the third singular and plural forms however, OIr
+inna‘ (m), inna (f), and inna° (pl) are clearly represented by
+ny and nyn.
+vel mish my Hew ? 18. 35 PB ni hiu mish ?
+vel uss dty ree eisht ? 18. 37 PB ni rii us eish ?
+kys dy vel uss ta dty Hew shirrey jough orrym’s, ta
+my ven dy Samaria ? 4. 9
+er-yn-oyr dy vel uss, ta dty ghooinney, jannoo oo
+hene Jee 10. 33
+ny jean-jee thie my Ayrey ny hie margee 2.	16
+dy yannoo eh ny ree 6.	15
+ta fer j’iu ny youyl 6. 70
+t’eh shen ny vaarliagh as ny roosteyr 10.	1 PB
+ta yn ferr kedyn na verliagh as ny gunvarragh
+bee yn ushtey verym da ny farrane ushtey ayn nee
+geill gys y veata dy bragh farraghtyn 4. 14
+dy beagh shiuish nyn gloan da Abraham 8. 39
+ta shiuish nyn veanishyn jeh ny reddyn shoh.
+Luke 24. 48	"
+THE SYNTAX OF THE VERB IN MANX GAELIC	271
+dauesyn hug eh pooar dy ve nyn mec dy Yee 1.	12
+PB gausyn hugg e puer dy ve er ’an ianu nan
+meek dy iih
+ta ooilley ny haink roym’s nyn maarlee as nyn
+roosteyryn 10.	8 PB ta ully nan merli as nan
+nynvarryssi
+From our fifth and ninth examples it seems that this
+idiom may be extended to all indefinite complements,
+though with jannoo it is more idiomatic to say jannoo ree
+j eh, than jannoo eh ny ree; cf. 6.	15
+quoi t’ou jannoo jeed hene ? PB quei ta us d’ianu
+iid heyn ?
+With this construction compare that of verbs of state,
+e. g. standing, sitting, lying, sleeping :
+as y ven ny shassoo kiongoyrt rish 8.	9
+honnick ee Yeesey ny hassoo 20. 14
+ta carrey dooinney yn phoosee ta ny hassoo as
+geaishtagh rish, goaill boggey mooar 3.	29
+yn nah laa reesht va Ean ny hassoo 1. 35
+hooar eh ayns y chiamble... y vooinjer va caghlaa
+argid nyn soie 2.	14
+honnick ee daa ainle nyn soie 20.	12
+honnick eh ny aanrityn nyn Ihie 20.	5 PB gho-
+nick ny hanrytyn nan lyi
+as y naptin va mysh e chione, cha nee ny Ihie
+marish ny aanrityn eiley 20. 7 PB as gha rou
+yn breid va ymmish y ghiann na lyi marish ny
+hanrytyn
+myr ve eisht ny Ihie rish oghrish Yeesey 13. 25
+ta nyn garrey Lazarus ny chadley 11.	11
+The periphrastic tenses
+The remaining tenses of the verb, present, perfect,
+pluperfect, and past conditional, must be formed by means
+272
+ROBERT LEITH THOMSON
+of TA as an auxiliary. When the future and imperative are
+periphrastic the auxiliary is JANNOO, and this verb also
+supplies a periphrastic preterite when required. There are
+many verbs which are virtually defective in that some of
+the inflected tenses are never found, as well as a few fully
+defective, i. e. having no inflected tenses. As a result, any
+verb may be treated as if wholly or partly defective, and
+even the commonest verbs form periphrastic tenses when
+they have well-known inflected ones. Hence the number of
+possible variants in a single verb is considerable : no
+attempt is made here to distinguish defective, partly
+defective, and «voluntarily» defective verbs. The demons-
+tration could not fail to be unconvincing, based as it must
+be on a series of argumenta ex silentio.
+The primary tenses are formed originally with the
+preposition ec, older ag, which is now quiescent, appearing
+only as g- before verb-nouns beginning in a vowel. Doll in
+PB, ‘to go’ has by assimilation become goll, and togrl is
+now usually coyrl, though togrl survives as a noun in
+toyrt-mow; in gra, beside the noun raa, the g~ has become
+permanently affixed and is lenited as if part of the verb.
+The historic tenses are formed with er, which originally
+nasalised, but now often lenites the voiceless stops as
+an alternative. It naturally prefixes n- to verb-nouns
+beginning in a vowel, and in some cases this has become
+confused with er ny, i. e. er n plus the third person singular
+infixed pronoun. Similarly we find verb-nouns in g- in
+primary tenses where the auxiliary is not TA.
+shegin dooys gobbraghey ny obbragnyn echeysyn
+t’er my choyrt.... ta’n oie cheet tra nagh vod
+dooinney erbee gobbraghey 9. 4
+cre’n-fa nagh voddym geiyrt ort nish 13. 37
+dy beign da girree veih ny merriu 20. 9 PB gy
+jeanagh eshyin irri riist vei yn vays
+as nee ad goanluckey ad ayns Tophet. Jer 19. 11
+ta queig deiney er ny ve ayd 4.	18
+THE SYNTAX OF THE VERB IN MANX GAELIC
+273
+ta mi erna insh giif gy ree mish e 18. 8 ta mee er
+n’insh diu dy nee mish eh
+kre t’ou erna ianu 18. 35 ere t’ou er n’yannoo
+The primary periphrastic tenses after parts of TA,
+frequently insert dy before the verb-noun, often in order to
+infix a pronoun object, but sometimes with less apparent
+justification. To take the clearer cases first, we find
+dy my, 1st sg ; dy dly, 2nd sg ; dyn, older d’an, for all persons
+plural.
+nagh vel shiu dy my chredjal 3.	12
+ta shiu dy my hirrey’s 6. 26
+myr shen neesht vees eshyn ta dy my ee’s, bio
+liorym 6. 57
+ere’ n-fa nagh vel shiu dy my chredjal ? 8. 46
+PB nagh veil shiu dy my ghredjel
+ta’n moddey oaldey dyn dayrtyn ad 10.	12 (where
+ad is really superfluous) PB as dan liidjeel magh
+10. 3
+cha vel shin dy dty chlaghey 10. 33
+quoi eh ta dy dty vrah ? 21. 20 PB quei eshyin
+ta dy thy vra ?
+t’ad dyn deiy as dyn dilgey ad ayns yn aile 15. 6
+PB ta dene d’ann jaglym ayd as d’an dilg ayd
+ayns yn angill
+v’ad dyn jiow ad-hene 18. 18 PB heu ayd ayd
+heyn
+va Peddyr ny hassoo as dy hiow eh-hene 18. 25
+PB hass Seimon pedyr as heu e heyn
+On the analogy of the plural we should expect dy in the
+third person singular representing dy plus e, leniting or
+not according to gender, but the case is by no means clear.
+We find dy there is a preceding singular direct object,
+and where in Welsh we should require an infixed pronoun :
+ere ta shiu dy hirrey ? L 38
+274
+ROBERT LEITH THOMSON
+cre’n cowrey t’ou dy yeeaghyn dooin ? 2.	18,
+6.	30
+ere t’ou dy hirrey ? 4. 27
+ta fys aym dy vel yn eanish t’eh dy ymmyrkey
+jee’m firrinagh 5. 32
+shoh ta mee dy ghra 5. 34
+ere t’ou uss dy ghra ? 8. 5, 9. 17
+quei ta us d’ianu iid heyn PB 8. 53 but 1819
+Quoi t’ou jannoo... but we also find dy when the
+preceding direct object is plural :
+cha vod dooinney erbee ny mirrilyn shen y yannoo
+t’ou uss dy yannoo, mannagh bee Jee marish
+3. 3 PB gha noddagh duyne erbi leid ny
+myriltyn y ianu as tou us dy ianu managh
+beagh jih marish
+ny obbraghyn cheddin ta mee dy yannoo 5. 36
+hig adsyn ooilley hym’s ta’n Ayr dy chur dou 6. 37
+dy vod ny eiyrtee t’ayd... fakin ny obbraghyn t’ou
+dy yannoo 7. 4
+Even less certain are examples like
+ta mee dy heiltyn 21. 25 PB ta mi smunaghtyn
+shey bleeaney as da-eed va’n chiamble shoh dy
+hroggal 2. 20
+cha vel mee dy enmys shiu sharvaantyn 15.	15
+PB ghanell mi d’an gerym shiuss fermuinjery:
+erson ghanell fys ag yn ’ermuinjery kre ta y
+hiarn d’ianu
+er y ghraih oesyn ta mish dy chasherickey mee-
+hene 17.	19 and the phrase so frequent in the
+prophets, Myr shoh ta’n Chiarn dy gha, or paren-
+theticallly, ta’n Chiarn dy ghra.
+The type of example which would clinch the matter, e.
+b£ •
+., ta mee dy akin without a following eh, meaning I see him’
+is
+lacking
+if dy frequently conceals an infixed third
+THE SYNTAX OF THE VERB IN MANX GAELIC
+27 .>
+singular pronoun it has become obsolete in this sense.
+As the preceding direct object is not echoed after er it is
+unlikely that it is after dy, which seems now to be merely a
+substitute for, perhaps an original alternative to, ec.
+The historic tenses formed with er may also infix an
+object pronoun, the forms being er my, er diy, er ny, and
+er nyn; the third singular form, however, has a much
+wider currency in that it forms a periphrastic past parti-
+ciple passive loosely applied to all persons, though properly
+speaking the possessive should vary according to the
+antecedent.
+my veem’s er my hroggal 12. 32
+eshyn ta dy my akin t’eh fakin eshyn t’er my
+choyrt 12. 45
+nish ta Moses er chur sarey dooin, e Iheid dy ve er ny
+claghey 8. 5
+va dooinney er ny choyrt veih Jee va enmyssit
+Ean 1. 6
+va er nyn ruggey cha nee jeh fuill... agh jeh Jee
+1. 13
+v’adsyn v’er goyrt jeh ny Phariseeyn 1. 24
+When the auxiliary is JANNOO the construction is
+rather different ; the object follows the auxiliary, and the
+verb-noun is preceding by y (leniting) ; alternatively
+the pronoun object may be expressed as a possessive
+governing the verb-noun, although the spelling m'y seems
+to imply that it was felt as mee y contracted. The commo-
+nest use of auxiliary JANNOO is to produce a periphrastic
+preterite :
+agh cha ren e vooinjer hene soiaghey jeh 1. 11 PB
+gha renn y vuinjer heyn y goyl e
+ren eh baghey nyn mast’ ain 1.	14 PB as renn e
+vaghey nan masky shuiniyn
+eshyn ren mish y choyrt dy vashtey lesh ushtey
+1. 33
+276
+ROBERT LEITH THOMSON
+ta peccah smoo Ihie ersyn ren m’y livrey hood
+19.	11 PB ta aggesyn ren mish y lifree guitch
+nasmu dy pheky
+er my chooat ren ad lottyn y hilgey 19. 24
+ren ad Yeesey... y oanluckey 19. 42
+er shoh ren eh eshyn y livrey hue 19. 16
+but also other tenses :
+jean-ym yn ree euish y chrossey ? 19. 15
+When we find in close proximity ‘Jean y chrossey eh’
+and ‘Jean-jee eh y chrossey’ 19. 6, we may wonder
+whether y in the former is not the possessive particle 3rd
+sg masc., with a superfluous eh. There are a number of
+examples where this explanation seems plausible :
+v’ad reesht son y ghoaill eh 10. 39
+quoi va ry-hoi y vrah eh 13.	11
+ny syrjey na eshyn ren y choyrt eh 13.	16
+dy vod eh y chur diu eh 15.	16 PB gy vod e y
+hoyrt diifs kre erbi nii shiu hyirre
+va Yuaase myrgeddin ren y vrah eh ny hassoo
+maroo 18. 5 PB luas niist vra e, hasse mariu
+ny Ihig dooin y raipey eh 19. 24 PB ligg uin gyn
+y renn e
+With VOD, LHISIN and SHEGIN two constructions
+are possible :
+a)	the object of the verb which VOD etc. modifies
+may follow that verb-noun, or
+b)	it may follow the modal verb, the verb-noun being
+preceded by y (leniting) :
+a)	kys oddys y dooinney shoh cur dooin e eill dy ee ?
+6. 52
+kys oddys dooinney v’er ny ruggey tra t’eh shenn ?
+3. 4 PB kyns ’odys duyne ve erna vree nar
+t’ae shenn ?
+THE SYNTAX OF THE VERB IN MANX GAELIC
+277
+ta shiuish gra dy nee ayns Jerusalem ta’n boayl
+raad Ihisagh sleih ooashlaghey 4. 20
+liorish yn leigh ain Ihisagh eh v’er ny choyrt gy-
+baase 19. 7 PB liorish nan lyei leshagh bays y
+jeathyn
+shegin diu v’er ny ruggey reesht 3. 7 PB shegyn
+diif ve er nan mree vei huas
+shegin da Mac y dooinney v’er ny hroggal seose
+3.	14 PB sh’egyn dy vack y duyne ve erna
+hroggell shuas
+beigh da goll trooid Samaria 4. 4
+b)	vod drogh-spyrryd sooillyn ny doail y osley ? 10. 21
+myr nagh vod y banglane mess y ymmyrkey jeh
+hene 15. 4 PB mar nagh vod y banglayn meass
+y ymmyrke ie heyn
+kys oddys enney y ve ain er y raad ? 14. 5 PB
+kyns ’odys e y ve gy nioyl duin y rayd ?
+Ihisagh shiuish myrgeddin yn derrey yeh eu cassyn
+y jeh elley y niee 13.	14
+ad shen neesht shegin dou y chur Ihiam 10.	16 PB
+sh’eggyn duys aydsyn y hoyrt liam niist
+shegin dauesyn... ooashley y choyrt da ayns
+Spyrryd as ayns firrinys 4. 24
+Beside ‘Quoi oddys y chlashlyn eh?’ 6. 60, where we
+might fall back on the explanation we postulated for
+‘ Jean y chrossey eh’, we find.
+cha jarg fer erbee y ghoaill ad ass laue my Ayrey
+10. 29.
+I have included in (b) 10. 16, which is clearly (b) in
+the PB version, as being equivalent to ‘Shegin dou ad shen
+neesht y chur Ihiam’.
+278
+ROBERT LEITH THOMSON
+The Passive
+No extended commentary on the passive is required.
+Only the first passive, i. e. the active direct object beco-
+ming the passive subject, is possible. The passive is always
+periphrastic, the auxiliary being TA ; the past participle
+is either the inflected form in -IT, or the periphrastic ER
+N- plus possessive particle varying according to person,
+plus verb-noun. The perfect, pluperfect and past condi-
+tional are rare and cumbersome, involving such locutions
+as da mee er ve currit' or ldy beagh ad er ve er nyn goyri' ;
+the present and perfect are often not distinguished. The
+agent is usually introduced by liorish, the instrument by
+lesh.
+Of an alternative form based on GOLL ER plus unle-
+nited verb-noun, we find only one example in St John :
+as ayns y gharey oaie noa, ayn nagh jagh rieau
+dooinney er coyrt 19. 41 PR as ayns y gayrr
+va yoi no ayn nagh rou riu duyne na lyei
+Of the original inflected passive or impersonal the
+language preserves only ruggyr with meaning is/was
+born.
+An Alternative Perfect
+This is formed with the present of TA and the inflected
+past participle passive of the verb, followed by a part of
+the preposition EC. This also is not very common :
+ny ta scruit aym, te scruit 19. 22 PR kre ta mi er
+na skriu, shen skrui mi
+Cf. lTe dy bollagh jarroodil aym's' — ‘I have clean for-
+gotten it’.
+Ftelative Clauses
+These also call for little special comment. The construc-
+tion is formally paratactic, except where a future tense in
+the relative clause shows a relative ending. The relative
+THE SYNTAX OF THE VERB IN MANX GAELIC
+279
+clause follows its antecedent as closely as possible ; NY is
+used to supply an indefinite antecedent, and usually
+follows an adjectival one.
+The omission of the subject pronoun in the relative
+clause is regular when the relative particle would be nomi-
+native ; it cannot be omitted when the particle would be
+accusative (v. MGSS 338, 330). One might as well say of
+English that there is a tendency to omit the relative
+« whenever possible » : in standard English it is possible
+only when it would be accusative, though some dialects
+omit the nominative.
+With the construction in the genitive
+va chiarn dy row, va’n echey ching ec Capernaum
+4. 46 PB va ferr reel dy rou, as rou y vack
+chinn ag Capernaum.
+compare the Welsh rendering
+yr oedd rhyw bendefig, yr hwn yr oedd ei fab yn
+glaf yn Capernaum
+Where a more modern version would omit yr hwn,
+making the parallel with the Manx exact.
+For the cases where a preposition governs the relative
+pronoun, an inflected preposition may introduce or con-
+clude the clause.
+C. The copula
+The independent forms of the copula in Manx have now
+no tenses. The simple form is she, the conjunct nee; in
+the PB the ordinary conjunct form is ree, but the inter-
+rogative is ni. They are used for emphasis, the element of
+the sentence which they introduce having there by greater
+prominence than the rest. Simple deviation from normal
+order without the use of the copula is only a stylistic
+variance, without significance for emphasis.
+The order of sentence when there is a complement is
+280
+ROBERT LEITH THOMSON
+copula, complement, subject ; when there is no real sub-
+ject, i. 6., where in English we find there! it is j was, we
+find ayn in the subject position in Manx.
+she yn Voirrey cheddin v’ayn, ish ren ooillaghey yn
+Chiarn 11. 2
+she ooig v’ayn 11. 38
+dooyrt y pobble dy nee taarnagh v’ayn 12. 29
+cha row fys eck dy nee Yeesey v’ayn : heill ish dy
+nee yn gareyder v’ayn 20.	14, 15
+she laa yn doonaght t’ayn 5.	10
+The tense of the main verb, la or va depends on the
+sense, which the copula cannot express. With a real
+subject we have
+dty ghoo she firrinys eh 17.	17 where eh equals
+dty ghoo.
+she ree ny Hewnyn mee 19. 21 PB she mish rii
+ny hiuyn
+my she my aigney’s eh eshyn dy uirriaght derrey
+higym 21. 22 PB ma salliams aeshyn d’ur-
+riygh naggy dere higgyms
+my she yn Greest oo, insh dooin dy ynrick 10. 24
+she my chaarjyn shiu 15.	14
+Simply emphatic are
+nish she Caiaphas v’er choyrlaghey ny Hewnyn
+18.	14 PB Caiphas va eshyin hugg kourley dy
+ny hiuyn
+she dty ashoon hene... t’er livrey oo seose hym’s
+18.	35 PB ta t’atiun heyn... er dy lifree
+duys
+she er laa aarlaghey ny Caisht ve 19. 14
+After cha we find nee :
+shoh dooyrt eh cha nee ayns kiarail erbee son ny
+boghtyn 12. 6
+THE SYNTAX OF THE VERB IN MANX GAELIC
+281
+cha nee ynrycan eisht my chassyn, agh myrgeddin
+my laueyn as my chione 13. 9
+cha nee Ihiam’s eh 14. 24 PB gani e layms e
+nish cha nee veih shoh ta my reeriaght 18. 36
+PB agh nish gha nell my ririyght ass sho
+cha nee eh shoh agh Barabbas 18. 40 ghani e eshyn
+agh Barabas
+cha nee carrey da Cesar oo 19.	12 ghani karry
+Cesar u
+similarly after nagh, dy, and (an) :
+ta mee credjal dy nee uss yn Creest Mac Yee 11. 27
+dooyrt feallagh elley dy nee Ainle ren loayrt rish
+12. 29
+as dy nee veih Jee haink eh, as dy nee gys Jee
+v’eh goll 13. 3
+dy vod shin credjal dy nee mish eh 13. 19
+er-yn-oyr dy nee ec Yuaase va’n sporran 13. 29
+ta mee er n’insh diu dy nee mish eh 18. 8 PB ta
+mi erna insh giif gy ree mish e
+nagh nee fer jeh eiyrtyssee yn dooinney shoh uss
+neesht ? Cha nee 18.	17 PB nagh ree us niist
+anayn dy Austylyn yn duyne shanoni ? ghani
+nee shen myr t’ou freggyrt yn ard-saggyrt ? 18. 22
+PB veil us fragyrt yn ayrd sagyrt marshen ?
+nagh nee fer jeh e eiyrtyssee uss neesht ? 18. 25
+PB nagh ree us niist anayn dy ny haustelyn
+aggesyn ?
+er-be dy nee drogh-yantagh eh 18. 30 PB managh
+beagh e na grogh uyne
+nee ree ny Hewnyn oo ? 18. 33 ni us rii ny
+hiuyn ?
+nee ‘ feallagh elley dinsh dhyt eh my-mychione’s
+18. 34 PB na ren sielagh elle insh uitt e iims ?
+er-y-fa dy ghow eh er dy nee Mac Yee v’eh 19. 7
+PB erson gy renn e heyn na vack dy iih
+282
+ROBERT LEITH THOMSON
+son dy nee laa yn aarlaghey ve 19. 31 PB erson
+gy ree arlaghy yn Sabbath v’e.
+dy voddagh shiuish credjal dy nee Yeesey yn
+Creest Mac Yee 20. 31 PB gy vodagh shiuss y
+ghrediu, gy ree lesy khrist mack iih
+While she must historically be equivalent to is e, cf. the
+occurrence of ghani e in PB as its negative, the original is,
+relative as, survives as s in two positions : a) in a number of
+probably set phrases where there is no emphasis and the
+copula simply predicates an adjective or noun ; b) in the
+comparative-superlative of adjectives and adverbs : to
+these we may add ; c) the omission of the copula.
+a)	’smie Ihiam er y choontey euish 11.	15
+as s’liooar dooin eh 14. 8
+smerg dou dy vel mee eginit dy chummal marish
+Mesech. Ps 120. 4 PB smarig
+smerg da’n dooinney shen liorish vees Mac y dooin-
+ney er ny vrah. Matt 26. 24
+myr s’bio mee, ta’n Chiarn dy ghra. Jer 22. 24
+s’maynrey vees shiu my nee shiu ad y yannoo
+13. 17
+b)	cha vel y charvaant ny syrjey na e hiarn 13. 16
+hee oo reddyn smoo na ad shoh 1. 50
+t’eh dy phollal, dy vod eh ve ny s’messoil 15. 2
+PB nii eshyn y glanny gy vod e y hoyrt magh
+nasmu dy veass
+vel oo ny s’graihee orrym’s na orroo shoh ? 21. 15
+agh ta feanish stroshey aym’s na Ean 5. 36
+tra cheayll Pilate... yn raa shoh, v’eh ny s’agglee
+19. 8 PB nar ghyyl peilat yn ’ra shenneni, ve
+nasmu aglagh
+(Note that ny precedes the comparative when it is
+predicative, but not when it is attributive)
+c)	When the element emphasised by she is a disjunctive
+THE SYNTAX OF THE VERB IN MANX GAELIC
+283
+pronoun or the demonstratives, shoh, shen, etc., then she
+may be omitted :
+eshyn va gymmyrkey ny v’ayn 12. 6
+eshyn eh ta graihagh orrym’s 14. 21 PB shen
+ferr kedyn eshyin shunelesh mish
+mish eh 18. 5 PB mish e
+mish arran y vea 6. 35
+mish soilshey yn theihll 8. 12
+Rabbi, oo Mac Yee, oo ree Israel 1. 49
+but
+she shen mee 13. 13
+she eshyn eh da verym greme dy arran 13. 26
+she shoh eh 9. 9
+shoh feanish Ean 1.	19 PB sho feanish Eyn
+shoh eshyn mychione dooyrt mee 1. 30
+shoh yn vriwnys 3.	19 PB she sho yn fagael
+mui
+shoh obbyr Yee 6. 29
+shoh aigney yn Ayr ta er my choyrt 6. 39
+shoh yn arran ta cheet neose veih niau 6. 50
+shoh raa creoi 6. 60
+shoh my harey 15.	12 PB she sho my hayrys
+shoh yn vea veayn 17. 3
+Closely related to (a) above, is another set of phrases
+incorporating the copula, but with the addition of b-
+forms which represent the past or conditional. The most
+common are SAILLESH, SHEGIN, SHIONE, and
+SHYNNEY.
+ma salliams aeshyn d’urriygh 21. 22 and ma
+salliams gy vurri aeshiynn 21. 23 where 1819
+has my she my aigney’s eh eshyn dy uirriaght
+jimmee oo raad erbee dy bailt... as ver eh lesh oo
+raad nagh nailt 21. 18
+nailt ve er dty laanaghey ? 5. 6
+284
+ROBERT LEITH THOMSON
+ta’n Mac bioghey yn vooinjer saillish 5. 21
+ta’n gheay sheidey raad saillee 3. 8 PB ta yn
+gya seje yn ynyd saillesh, as ton us klastchen
+yn fyeir eck agh gha nell fyss ayds kaid as veil
+e chiit, na kayrt tai goll (the verb here looks
+masc, but gya can represent geay or gheay, eck
+is fem. only, e is masc, but tai fem. The PB
+version is clearly confused about gender.)
+cre’n-fa bailliu y chlashtyn reesht eh ? 9. 27
+shirree shiu ere sailliu 15. 7 PB shiyrji na salieu
+as myrgeddin jeh ny eeastyn wheesh as bailloo
+6.	11 PB as margedyn dy ny hieskyn ghuish as
+bailio
+nailliu er-y-fa shen mee dy eaysley diu ree ny Hew-
+nyn ? 18. 39 PB balief gy vueskylyn diifs rii ny
+hiuyn ?
+shegin diu v’er nyn ruggey reesht 3. 7 PB shegyn
+diif ve er nan mree vei huas
+shegin da Mac y dooinney v’er ny hroggal seose
+3.	14 PB sh’egyn dy vack y duyne ve erna
+hroggell shuas
+shegin dasyn bishaghey, agh shegin dooys parail
+3. 30
+shegin dauesyn... ooashley y choyrt da 4. 24
+shegin dooys gobbraghey ny obbraghyn echeysyn
+t’er my choyrt 9. 4
+ad shen neesht shegin dou y chur Ihiam 10.	16
+PB sh’egyn duys aydsyn y hoyrt liam niist
+beign da goll trooid Samaria 4. 4
+dy beign da girree veih yn merriu 20. 9 PB dy
+jeannagh eshyin irri riist vei yn vays
+yn ayr as y voir echey shione dooin 6. 42
+eshyn cha nione diu. Agh shione dooys eh 7. 28,
+29
+ny-yeih cha nione diuish eh, agh shione dooys eh ;
+THE SYNTAX OF THE VERB IN MANX GAELIC
+285
+dy n’yiarrin nagh nione dou eh 8. 55 PB
+ghanel en aggu er agh shoyl duys e ; as my
+jirrym nagh nial dou e
+as bione da Yuaase neesht va dy vrah eh yn ynnyd
+18. 2 PB luas niist vraei eshyin boyl da yn
+iynyd
+t’eshyn shynney Ihiat ching 11. 3
+nish bynney lesh Yeesey Martha 11. 5
+eshyn shynney lesh e vioys, caillee eh eh 12. 25
+gys yn ostyl elley bynney lesh Yeesey 20. 2 PB
+gys yn austyll elle bune lesh lesy
+Of the same type are :
+shimmey red ta ayrn’s foast dy ghra riu 16. 12 PB
+ta ayms foost ymmydi dy redyn dy ra riifs
+as cha nhimmey laa duirree eh ayns shen 2.	12
+(also illustrating the nasalising effect of cha is :
+cha voddey neayr as va ny Hewnyn shirrey dty
+chlaghey 11. 8)
+cha by-lhoys da fer jeh ny ostyllyn fenaght jeh
+21. 12	"
+D. The verb-noun
+The non-finite parts of the verb are the verb-noun,
+which we shall treat here, the present participle, i. e.
+the verb-noun preceded by the remnant of the preposition
+ag, and the past participle passive in -it, (earlier in -le, cf.
+SG -ie as in kirree cailjey), (v. the General Confession).
+In an example such as
+cheayll yn daa ynseydagh eh loayrt 1. 37
+We should regard loayrt as a present participle in appo-
+sition with eh, rather than a verb-noun ; similarly in 1. 29.
+This conclusion is reinforced by Fargher’s introductory
+formula.
+286
+ROBERT LEITH THOMSON
+ta mee er chlashtyn my ayr ginsh...
+The truly nominal nature of the verb-noun is illustrated
+by one surviving phrase in which its object, as always
+originally, is in the genitive :
+cha voddym reurey ; as dy huill ny dhieyn ta
+nearey orrym. Luke 16. 3
+foast cha vaik mee rieau yn dooinney cairagh
+treigit, chamoo e Ihuight shoovl ny dhieyn PS. 37.
+25.	"
+Where the nasalisation after ny shows thieyn to be
+genitive plural. The cases where the direct pronoun
+object in periphrastic conjugation is represented by a
+possessive particle are also relics of the same construction.
+Another sign of the nominal character of the verb-noun is
+the use with it of the definite article as in :
+ny lurg shen, adsyn ta lesh Creest, ec y cheet echey.
+1	Cor 15. 23
+nagh beemayd er nyn goyrt gys nearey ec y cheet
+echey. 1 Ean 2. 28
+In expressing when or after with a pluperfect tense Manx
+has two constructions, either : a) tra, with erreish substi-
+tuted for er in the verb, and the object included before
+the verb-noun preceded by y, or ; b) erreish alone followed
+by the perfect infinitive, the subject appearing as governed
+by the preposition da. That erreish is originally a simple
+preposition may be seem from
+tra v’ad erreish bee 21.	12 and the use of lurg in
+its place
+lurg da Nebuchadrezzar ree Vabylon v’er chur
+ersooyl ayns cappeeys Jeconiah... Jer 24.	1
+a)	tra v’eh erreish ny goan shoh y loayrt 18. 22 PB
+nar va eshyin er loyrt myrsho
+tra v’eh erreish shoh y loayrt 9. 6 or with a future
+perfect
+THE SYNTAX OF THE VERB IN MANX GAELIC
+287
+tra vees shiu erreish yn Mac dooinney y hroggal
+seose 8. 28
+b)	erreish da v’er niee ny cassyn oc 13. 12
+erreish da eisht v’er n’ghoaill y greme dy arran
+13. 30
+erreish da v’er n’ gholi magh 13. 31
+The infinitive, i. e. the verb-noun preceded by dy
+has a variety of unclassiliable uses after nouns and adjec-
+tives, as :
+nagh vel fys ayd dy vel pooar aym’s dy dty chrossey,
+as pooar dy dty eaysley ? 19. 10 PB nagh veil
+fyss ayds gy veil puer ayms us y ghrossy, as dy
+veil puer ayms dy t’aysly ?
+but there are also a number of recognisable types. Pro-
+minent among these is the explanatory infinitive, in appo-
+sition to the main sentence or some part of it, which avoids
+an awkward clause with the subjunctive ; the PB trans-
+lator preferred the construction with an inflectedtense.
+ghuee ad er, eh dy uirriaght maroo 4. 40
+ghuee eh er, eh dy heet neose dy Iheihys e vac
+4. 47 PB gui e err gy dorragh e shiis as y vack
+y lyeiys
+shoh obbyr Yee, shiu dy chredjal aynsyn t’eh er
+choyrt 6. 29
+shoh yn aigney echeysyn... dy chooilley unnane
+ta fakin y Mac as credjal ayn, yn vea dy bragh
+farraghtyn dy ve echey 6. 40
+son ta mish er chur sampleyr diu, shiuish dy yannoo
+myr ta mish er n’yannoo riu 13.	15
+chrie Simon Peddyr er-y-fa shen er, eh dy enaght
+quoi er v’eh cheet 13. 24
+ny eh dy chur jeirk da ny boghtyn 13. 29
+sarey noa ta mee dy choyrt diu, shiu dy ve graihagh
+yn derrey yeh er y jeh elley 13. 34, 15 12
+3
+288
+ROBERT LEITH THOMSON
+te ymmyrchagh en nyn son mish dy gholl roym
+16. 7 PB ta ymmyrtysagh giifs, gy jeyms
+er siul
+nish ve Caiaphas v’er choyrlaghey ny Hewnyn, dy
+row eh ymmyrchagh un dooinney dy ve er ny
+choyrt gy-baase son y pobble 18. 14 PB
+Caiphas va eshyin hugg kourley dy ny hiuyn, gy
+rou e ymmyrtsagh gy jeanagh yn uyne bays y
+uillaghtyn erson y phobyl.
+ta cliaghtey eu mee dy eaysley diu fer ec y Chaisht
+18. 39 PB ta oish aggu, gy jeaninsh y lifree
+diifs anayn fueskilt ag y ghaysk
+ghuee ny Hewnyn er Pilate ny lurgaghyn oc dy ve
+brisht, as ad dy ve goit ersooyl 19. 31 PB
+hyirr ayd er peilat gy vodagh nan lurgyn ack ve er
+na vrissie, as gy vodagh ayd ve er an goyl shiis
+ren Joseph dy Arimathae... guee er Pilate, eh dy
+Ihiggey da corp Yeesey y ghoaill ersooyl 19. 38
+PB na iei sho Joseph dy Arymathea... hyrr e er
+peilat, gy vodagh e korp lesy y goyl shiis
+liorish credjal shiu dy chosney bea trooid yn ennym
+echeysyn 20. 31 PB ayns krediu gy vodagh
+bee ve agguish, tryid yn enym aggesyn
+my she m’aigney’s eh eshyn dy uirriaght 21. 22
+PB ma salliams aeshyn d’urriygh
+The negative of this construction we see in
+shoh yn arran ta cheet neose veih niau dy vod
+dooinney gee jeh, as gyn baase y gheddyn 6. 50
+chamoo ta shiu goaill eu hene kys dy vel eh ymmyr-
+chagh er nyn son ain, un dooinney dy gheddyn
+baase son y pobble, as gyn y slane ashoon dy
+herraghtyn 11. 50
+The infinitive with dy also forms a deliberative on the
+English pattern :
+THE SYNTAX OF TH E VERB IN MANX GAELIC
+289
+ere ta shinyn dy yannoo ? 11. 47
+and a tense form combining the notions of necessity and
+futurity :
+dy row ad dy choyrt briaght 11. 57
+ere v’orrym’s dy ghra 12. 49
+tra v’eh dy gholl assy theihll shoh 13. 1
+cha vel mish dy ve ny sodjey ayns y theihll 17. 11
+bione da Yuaase neesht va dy vrah eh yn ynnyd
+18. 2
+These last examples all accord with the English use of
+the infinitive with to, which in ’headline idiom’ so largely
+replaces the future.
+It will, I think, be obvious to all who peruse these notes
+that while Manx has not been able to maintain its syntax
+completely free from foreign influence, yet sufficient has
+survived, sometimes only in vestigial form, to give the
+lie to the suggestion that only the vocabulary is Celtic.
+It is true that protracted bilingualism must have distur-
+bing effects on any language with so little literary tradition
+as Manx has, whose literature is almost entirely in the
+form of translation from the foreign Germanic idiom.
+Fortunately some speakers at least have been conscious
+of the dangers, and my copy of the Sharmaneyn of Bishop
+Wilson contains a number of marginal corrections, of
+some age, to the frequently Anglicised syntax of that
+translation.
+Robert Leith Thomson.
+The Queen’s College, Oxford.
+December, 1950
+290
+ROBERT LEITH THOMSON
+APPENDIX
+Mistranslations (the page or example number is given together with
+the word(s) wrongly, inadequately, or ambiguously translated) : 331.3,
+Ihiam pene ; 4, son ; 332.7, dy oik ; 333.11, cha vel unnane er vakin Jee ec
+traa erbee ; 334.18, ’ sy traa t’er n’gholl shaghey ; 335, imbee, Ihieeney ;
+24, nee eh fassaghey ; 25, ad y vroo ; 26, niartaghey ; 336.28, hie ; 31, shen-
+y-fa ; 337, er-yn-oyr dy ; 32, my nee ad cummal ; 38, ga dy vel mee ; 338.40,
+toig-jee shoh neesht ; 43, casherick ; 339, my-e-chione in Ps 2.7 ; 340.49,
+er n’ ghoaill ; 342.56, nagh baare diu surranse molteyraght ? ; 344.66,
+Jihys ; 69, fer ; 71, ta Jee briw cairagh ; 345.76, eshyn eh ta cheet my yei ;
+349.99, t’er jeet er y theihll ; 101, dy yannoo magh ad shoh; 350.108,
+aggindagh ; 352.118, dy ve nyn mee dy Yee ; and 119, nagh beagh oyr ec
+fer erbee.
+Irrelevant and. mutilated examples: 331.1, soil, as if from shassoo; 5, ny
+lurg shoh) va feailley (ny Ilewnyn — after this was the feast of the Jews ;
+337.33, ny smooinee-jee dy jeanym’s (plaiynt erriu — do not think that I
+shall plead against you; 341, cha surragh oo does not belong here, v. n.
+surranse, impv. surr-jee, pret. hurr, v. Luke 22.15 ; 342.59, ta shin credjal
+as shickyr jeh dy nee uss yn Creest — we believe and are sure of it, that
+thou art the Christ, credjal and the adjective shickyr, sure, are equally the
+predicates of ta shin; 345, t’ eshyn ta (cheet my yei er ny hoiagney roym —
+this is simply t’ eshyn er ny hoiaghey roym, with an inserted relative, ta
+cheet my yei ; 347.88, she er y doonaght va (Yeesey er n’ yannoo yn chray
+— it was on the Sabbath that Jesus had made the clay - - va belongs to the
+second clause.
+Inaccurate statements: 332, Ta plus gerund gives progressive tenses;
+but this is the only method of forming a simple present ; ta plus er plus
+mutated gerund is used for perfect action (I have done, but NOT I did) ;
+the direct noun object may precede the gerund as object of the preposition
+er — so, ta mee er dooinney fakin ? » ; in 1625 an adverb could be placed
+between ta and the gerund (the implication being that this is no longer
+possible), but three lines later the modern la mee nish goaill, I am now
+taking, occurs ; 333, ny (mutating) — but there will be no lenition if the
+antecedent is feminine ; 338.42 [dArAr'irAX] would be dty ryreeriaght ; 43,
+dy introducing a wish cannot precede an adjective ; 340.52, nan masky
+shius, accusative for possessive — in view of the ambiguity of nan (which
+is not strong (321) but very weak), having to rely entirely on context, and
+usually supported by explanatory ain, eu, oc, there seems no good reason
+why the alternative use of explanatory shin, shiu, ad should not occur, and
+it does so when the word governed by nyn is a verb-noun, e. g. v’ad dyn
+jiow adhene —- the irregularity occurs elsewhere in PB, cf. nan masky
+shuiniyn 1. 14. We may in any case compare the W. yn eich mysg chwi;
+342, ny can hardly be equated with E. more, nor is equative cha a negative,
+cf. PB gho, nor is s'beg likely ever to be a comparative adjective ; 348, quoi
+THE SYNTAX OF THE VERB IN MANX GAELIC
+291
+ec — ee is merely the ordinary preposition, and governs quoi, as voish in
+ere voish governs ere: it might be more accurate to say that quoi and ere
+supply the interrogative element which ec and voish cannot of themselves
+show — in either case cf. W. paham, and OIr ced ara ; 349 if ere is the direct
+object, the infinitive is mutated by the particle y, but ex. 102, ere t’ou gra
+my-dty-chione hene ? ; 352, ec y cheet echey/ag y chiit aggesyn raises no
+problem — y in PB equals both e and y, but with e aggesyn would be super-
+fluous, and in 1819 no such ambiguity arises. Y is the article and there
+is no lenition in the dative singular because cheel begins in a dental.
+330	. « The perfect has for the most part replaced the preterite in
+independent clauses ». Presumably something like the encroachment of
+the French perfect on the past historic is meant. But it is not so. If we
+take chapters 18 and 19 of St John in PB and 1819, and compare the tenses,
+we shall find only the following cases where perfect and preterite alternate.
+(Nothing is to be said of numerous other alternations). If we take into
+account the English texts, 2 PBE 6 and AV 1611 we shall see the reason
+for some of these alternations, and perhaps we shall be inclined to dismiss
+the remainder as not at all proving Carmody’s assertion of the general loss
+of the preterite in 1819.
+18.20	dy follit cha vel mee er ghra nhee erbee — in secret have 1 said
+nothing PB ayns falliit gha loyr mi vegg — in secrete haue I said
+nothyng
+18.21	Fenee jeusyn t’er my chlashtyn ere ta mec er ghra roo; cur-my-ner
+ta fys oesyn ere ta mee er ghra — ask them which heard me what
+I have said unto them : behold they know what I said. PB feanaght
+jusyn ghyyl mi kre duyrt mi riu : jeagh fodi aydsyn y insh kre
+duyrt mi — aske them whiche heard me, what I sayde unto them.
+Beholde they can tell what I sayde
+18.23	my loayr mee dy mie — but if well... PB ma ta mi er loyrt gy mei
+— but if I haue well spoken
+19.24	reynn ad my gharmad nyn mast’ oc — they parted my raiment
+among them PB t’ ayd er reynn my ghomry nan masky — they
+naue parted my raymente among them
+If the alternation of preterite and perfect in these examples is tabulated,
+and the cases where the Manx version coincides with the English are left
+out of account, we find.
+Preterite for perfect once in PB 18.20 and probably once in 1819
+at 18.23.
+Perfect for preterite twice in 1819, i. e. 18.21 (a) and (c).
+BUT, in no one of these cases would the substitution of one for the other
+be at all unnatural in English, or, I believe, in Manx.
+If we restrict ourselves to independent clauses, there is not one among
+the very numerous narrative past tenses where a perfect is used in 1819
+in these two chapters. Only in dialogue is it at all frequent ; cf. the examples
+cited.
+292
+ROBERT LEITH THOMSON
+To me it seems that the conditions for a loss of the preterite do not
+exist in Manx ; even if the ordinary preterite presented any morphological
+difficulty, which it does not, there would still be the alternative with ren
+open ; all speakers are bilingual, and English carefully preserves the distinc-
+tion.
+321, 323 on EU. There seems to be no necessity for assuming eu is an
+importation from another preposition ; all seven forms originally had
+intervocalic -g- (01r-c). The PB forms for eu and euish are aggu and
+agguish; the 3rd. sg. fem. and 3rd. pl. are eck and oc (PB ack) with
+unvoicing of -g-. Subsequently, in accordance with the general develop-
+ment of Manx consonants, this -g- becomes a spirant (Carmody’s J) and
+disappears. This, as Rhys saw, is in effect a repetition of the earlier
+Goidelic lenition of medial and final consonants. So far from the forms
+eu and euish requiring to be explained as peculiar and abnormal, it is the
+survival ok aggu and agguish until the early seventeenth century which is
+surprising.
+Even if it were possible to accept Carmody’s explanation of eu, one
+wonders how he would explain hiu, in PB hugguish, which in Manx is
+parallel in all its forms to ec.
+R. L. T.
