@@ -349,6 +349,71 @@ for jf in jsonl_files:
     print(f"  {os.path.basename(jf)}: {count:,} sentences")
 
 conn.commit()
+print(f"  JSONL subtotal: {parallel_count:,} parallel sentences (deduplicated)")
+
+# --- manx-search-data CSVs (david-allison/manx-search-data) ---
+# If the repo is cloned alongside this one, ingest its aligned CSV data.
+# Each document.csv has columns: Manx, English, Diplomatic[, Notes]
+import csv
+
+MANX_SEARCH_DIR = os.path.join(REPO_ROOT, '..', 'manx-search-data', 'OpenData')
+if not os.path.isdir(MANX_SEARCH_DIR):
+    # Also check a sibling clone location
+    for candidate in [
+        os.path.join(os.path.expanduser('~'), 'manx-search-data', 'OpenData'),
+        os.path.join(REPO_ROOT, 'data', 'manx-search-data', 'OpenData'),
+    ]:
+        if os.path.isdir(candidate):
+            MANX_SEARCH_DIR = candidate
+            break
+
+msd_count = 0
+if os.path.isdir(MANX_SEARCH_DIR):
+    print(f"\n  --- manx-search-data CSVs ---")
+    csv_files = []
+    for root, dirs, files in os.walk(MANX_SEARCH_DIR):
+        for f in files:
+            if f == 'document.csv':
+                csv_files.append(os.path.join(root, f))
+
+    for csv_path in sorted(csv_files):
+        rel_path = os.path.relpath(csv_path, MANX_SEARCH_DIR)
+        source_name = os.path.dirname(rel_path).replace(os.sep, '/')
+        try:
+            with open(csv_path, 'r', encoding='utf-8-sig', errors='replace') as fh:
+                reader = csv.reader(fh)
+                header = next(reader, None)
+                if not header:
+                    continue
+                for row in reader:
+                    manx = row[0].strip() if len(row) > 0 else ''
+                    eng = row[1].strip() if len(row) > 1 else ''
+
+                    # Quality filters: skip empty, too short, or too long
+                    if not manx or not eng or len(manx) < 5 or len(eng) < 5:
+                        continue
+                    if len(manx) > 2000 or len(eng) > 2000:
+                        continue
+
+                    pair_key = (eng.lower(), manx.lower())
+                    if pair_key in seen_pairs:
+                        continue
+                    seen_pairs.add(pair_key)
+
+                    conn.execute(
+                        "INSERT INTO parallel_sentences (english, manx, source, domain) VALUES (?,?,?,?)",
+                        (eng, manx, f"manx-search-data/{source_name}", 'corpus')
+                    )
+                    parallel_count += 1
+                    msd_count += 1
+        except Exception as e:
+            print(f"    Warning: {rel_path}: {e}")
+
+    conn.commit()
+    print(f"  manx-search-data: {msd_count:,} new sentences")
+else:
+    print(f"\n  manx-search-data not found (optional: clone david-allison/manx-search-data alongside this repo)")
+
 print(f"  Total: {parallel_count:,} parallel sentences (deduplicated)")
 
 # ============================================================
