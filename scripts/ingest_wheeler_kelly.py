@@ -597,19 +597,128 @@ def ingest_source_3(conn, dedup) -> tuple[int, int]:
 # Source 4: Wheeler Study 5 — Verbs
 # ------------------------------------------------------------
 VN_SECTION_HEADERS = [
+    # Order matters — more specific phrases first.
     ('Verbs without verbal noun', 'no_vn'),
     ('Verbs with suffixless verbal nouns', 'vn_suffixless'),
     ('Verbs with verbal nouns in -ey', 'vn_ey'),
     ('Verbs with verbal nouns in -aghey', 'vn_aghey'),
-    ('Verbs with verbal nouns in -aght', 'vn_aght'),
     ('Verbs with verbal nouns in -aghtyn', 'vn_aghtyn'),
+    ('Verbs with verbal nouns in -aght', 'vn_aght'),
     ('Verbs with verbal nouns in -agh', 'vn_agh'),
-    ('Verbs with verbal nouns in -al', 'vn_al'),
     ('Verbs with verbal nouns in -ail', 'vn_ail'),
+    ('Verbs with verbal nouns in -al', 'vn_al'),
     ('Verbs with verbal nouns in -in', 'vn_in'),
     ('Verbs with verbal nouns in -tyn', 'vn_tyn'),
-    ('Verbs with verbal nouns in -agh(t)', 'vn_aght'),
 ]
+
+# Cells that are pure English glosses or paradigm-label headers we should skip
+PARADIGM_HEADER_CELLS = {
+    'base', 'verbal noun', 'past', 'ptcp', 'imperative', 'imperative 2sg',
+    'imperative 2pl', 'root', 'roots', 'gerund', 'perfect', 'participle',
+    'present', 'present independent', 'present dependent',
+    'future independent', 'future dependent', 'future relative',
+    'past independent', 'past dependent', 'conditional', 'paradigm',
+    'singular', 'genitive', 'plural', 'notes', 'emphatic',
+    'conditional independent 1sg', 'conditional independent other',
+    'conditional dependent 1sg', 'conditional dependent other',
+    'future independent 1sg', 'future independent 1pl', 'future independent 2/3',
+    'future dependent 1sg', 'future dependent 1pl', 'future dependent 2/3',
+    'future relative 1sg', 'future relative 1pl', 'future relative 2/3',
+    'dy + vn',
+}
+
+# Conservative Manx-token detector: must look like a Manx word with at least
+# one Manx-distinctive feature OR be a known short Manx particle.
+MANX_FEATURE_RE = re.compile(
+    r"(çÇ|aa|ee|oo|yy|yn$|ail$|al$|ee$|ey$|agh$|agh[ye]|aght$|aghyn$|"
+    r"ail$|al$|ey$|iagh$|iaght$|eet$|eit$|eyrey|raght|^ny|^dy|^ag|^yn)",
+    re.IGNORECASE,
+)
+# Common English words we know appear as glosses in this file's tables
+ENGLISH_GLOSS_WORDS = {
+    'please', 'prevail', 'wall', 'band', 'veil', 'justice', 'change',
+    'chew', 'plait', 'cloak', 'clay', 'shoe', 'number', 'call', 'arm',
+    'forfeit', 'feather', 'fodder', 'take', 'root', 'spring', 'grill',
+    'halt', 'set', 'dog', 'on', 'give', 'alms', 'beg', 'shit', 'peep',
+    'whip', 'dry', 'after', 'rain', 'cover', 'mud', 'labour', 'allot',
+    'rust', 'piece', 'pepper', 'pluck', 'hoard', 'impound', 'warn',
+    'stripe', 'freeze', 'riot', 'wipe', 'rick', 'seal', 'sound',
+    'vanish', 'squat', 'smash', 'sort', 'hack', 'hoe', 'spey', 'geld',
+    'snort', 'hiss', 'astonish', 'gape', 'thatch', 'forebode', 'trot',
+    'try', 'idly', 'stroll', 'grow', 'complain', 'jeer', 'swim',
+    'extirpate', 'swell', 'calve', 'grind', 'waft', 'milk', 'betray',
+    'judge', 'boil', 'bruise', 'reap', 'lose', 'cast', 'wear', 'wean',
+    'flee', 'seek', 'heat', 'turn', 'harrow', 'dig', 'play', 'tease',
+    'grieve', 'hop', 'shake', 'corrode', 'sell', 'ruin', 'crush',
+    'create', 'give', 'put', 'send', 'dance', 'lament', 'attempt',
+    'eat', 'desire', 'pay', 'name', 'wring', 'weave', 'rest', 'wait',
+    'keep', 'weed-corn', 'steal', 'wrestle', 'entreat', 'hatch', 'brew',
+    'drive', 'mention', 'wonder', 'tell', 'rise', 'drink', 'forget',
+    'shut', 'warp', 'suck', 'cavil', 'forgive', 'read', 'melt', 'leap',
+    'lie', 'down', 'rot', 'deliver', 'stagger', 'swear', 'cure', 'mock',
+    'sweat', 'reproach', 'suspect', 'pant', 'choose', 'govern', 'divide',
+    'run', 'write', 'push', 'stir', 'lurk', 'hunt', 'suppose', 'sharpen',
+    'lick', 'up', 'walk', 'shed', 'daub', 'paint', 'surname', 'creep',
+    'spin', 'sit', 'shine', 'soak', 'woo', 'sprinkle', 'strive',
+    'destroy', 'weld', 'converse', 'alight', 'draw', 'pick', 'thaw',
+    'measure', 'plough', 'ebb', 'abate', 'travel', 'envy', 'roll',
+    'horse', 'need', 'row', 'graze', 'petition', 'argue', 'make',
+    'bare', 'indulge', 'drown', 'bargain', 'baptize', 'dwell', 'live',
+    'feed', 'enliven', 'blossom', 'stare', 'taste', 'form', 'into',
+    'ball', 'cloud', 'trouble', 'roast', 'blister', 'shoe', 'fallow',
+    'dash', 'vow', 'inspire', 'coax', 'break', 'thicken', 'intr',
+    'roar', 'glory', 'cut', 'with', 'nails', 'hooves', 'sting', 'act',
+    'rope', 'heather', 'speak', 'ironically', 'guard', 'shackle',
+    'bestow', 'kneel', 'polish', 'come', 'out', 'of', 'the', 'ground',
+    'excite', 'provoke', 'bite', 'grip', 'sun', 'air', 'pain', 'hold',
+    'frown', 'jeer',
+}
+
+
+def is_manx_inflection(token: str) -> bool:
+    """Stricter check than is_plausible_manx, intended for verb-table cells.
+
+    Accepts: token has a Manx-distinctive feature, OR has 4+ chars and
+    contains characteristic doubled letters or suffixes.
+    """
+    if not is_plausible_manx(token):
+        return False
+    t = token.lower().strip('-')
+    if t in ENGLISH_GLOSS_WORDS:
+        return False
+    # Multi-word: not a single inflection
+    if ' ' in token:
+        return False
+    if MANX_FEATURE_RE.search(t):
+        return True
+    # Hyphenated forms like d-aase, d-eayrt, j-eeck are valid past forms
+    if re.match(r"^[a-z]-[a-zçÇ]{2,}", t):
+        return True
+    # Otherwise reject short word that looks like English
+    if len(t) <= 5 and re.match(r"^[a-z]+$", t):
+        return False
+    # Accept ç-containing tokens regardless
+    if 'ç' in token or 'Ç' in token:
+        return True
+    # Default: accept tokens >= 5 chars that pass is_plausible
+    return len(t) >= 5
+
+
+SECTION_LAYOUTS = {
+    # name -> (vn_col, past_col, ptcp_col)
+    # vn_col=None means VN is not present in the table.
+    'no_vn':         (None, 1, 2),  # Base | Past | Ptcp | gloss
+    'vn_suffixless': (1, 2, 3),     # Base | VN | Past | Ptcp | gloss
+    'vn_ey':         (1, 2, 3),
+    'vn_aghey':      (1, 2, 3),
+    'vn_aghtyn':     (1, 2, 3),
+    'vn_aght':       (1, 2, 3),
+    'vn_agh':        (1, 2, 3),
+    'vn_ail':        (1, 2, 3),
+    'vn_al':         (1, 2, 3),
+    'vn_in':         (1, 2, 3),
+    'vn_tyn':        (1, 2, 3),
+}
 
 
 def ingest_source_4(conn, dedup) -> tuple[int, int]:
@@ -629,8 +738,8 @@ def ingest_source_4(conn, dedup) -> tuple[int, int]:
     for raw in lines:
         line = raw.rstrip('\n')
 
-        # Section detection
-        for header, label in VN_SECTION_HEADERS:
+        # Section detection (longest header phrase first, hence sorted list)
+        for header, label in sorted(VN_SECTION_HEADERS, key=lambda x: -len(x[0])):
             if header in line:
                 current_section = label
                 break
@@ -639,87 +748,61 @@ def ingest_source_4(conn, dedup) -> tuple[int, int]:
 
         if '\t' not in line:
             continue
+        # Preserve empty cells (use multiple-tab splitting that keeps gaps).
         cells = [c.strip() for c in line.split('\t')]
-        cells = [c for c in cells if c]
-        if len(cells) < 2:
+        if len(cells) < 2 or not cells[0]:
             continue
 
-        # First cell must be plausible base/verbal noun token
-        base_cell = cells[0]
-        # Strip parens for verb stems given like "(eab)" — these are "uncertain" forms
-        base = clean_token(base_cell.strip('()'))
+        # Base may be given as "alt1 alt2"; take first plausible token only.
+        raw_base = cells[0].replace('(', '').replace(')', '')
+        first_word = raw_base.split()[0] if raw_base.split() else ''
+        base = clean_token(first_word)
         if not is_plausible_manx(base):
             continue
-        # Skip header-like rows
         first_lower = base.lower()
-        if first_lower in {'base', 'verbal noun', 'past', 'ptcp', 'imperative',
-                          'imperative 2sg', 'imperative 2pl', 'root', 'roots',
-                          'gerund', 'perfect', 'participle', 'present',
-                          'present independent', 'present dependent',
-                          'future independent', 'future dependent',
-                          'future relative', 'past independent', 'past dependent',
-                          'conditional', 'paradigm', 'singular'}:
+        if first_lower in PARADIGM_HEADER_CELLS:
             continue
-
-        # cells alignment for VN sections:
-        # base | verbal_noun | past | ptcp | gloss | notes
-        verbal_noun = clean_token(cells[1].strip('()')) if len(cells) > 1 else ''
-        past = clean_token(cells[2].strip('()')) if len(cells) > 2 else ''
-        ptcp = clean_token(cells[3].strip('()')) if len(cells) > 3 else ''
-        # Some rows have only ~2 cells (gloss in second cell). Avoid bogus inserts.
-
-        # Heuristic: if cells[1] is a short word that looks more like an English
-        # gloss (e.g. "swim", "labour") rather than Manx, skip non-base forms.
-        def looks_english(t):
-            return bool(re.match(r"^[a-z]{2,15}$", t)) and not re.search(
-                r"[çjqwx]|ll$|aa|ee|oo|yn$|agh$|ey$|aght$", t.lower())
+        # Reject rows whose base has unexpected suffix digits (OCR footnote markers)
+        if re.search(r"\d", base):
+            continue
 
         if current_section is None:
             continue
 
+        layout = SECTION_LAYOUTS.get(current_section)
+        if layout is None:
+            continue
+        vn_col, past_col, ptcp_col = layout
+
+        def get(col):
+            if col is None or col >= len(cells):
+                return ''
+            v = cells[col].replace('(', '').replace(')', '').strip()
+            return v
+
         notes_base = f"Wheeler study 5, section: {current_section}"
 
-        # Insert verbal noun if it differs from base
-        if (is_plausible_manx(verbal_noun) and verbal_noun.lower() != base.lower()
-                and not looks_english(verbal_noun)):
-            for alt in re.split(r"\s+|~", verbal_noun):
-                alt = clean_token(alt)
-                if not is_plausible_manx(alt) or alt.lower() == base.lower():
+        def insert_alts(value, infl_type):
+            nonlocal infl_added
+            if not value:
+                return
+            for alt in re.split(r"\s+|~|,", value):
+                alt = clean_token(alt).strip('-')
+                if not alt or alt.lower() == base.lower():
+                    continue
+                if not is_manx_inflection(alt):
                     continue
                 if dedup.add_inflection(
-                    base=base, inflected=alt, infl_type='verbal_noun',
+                    base=base, inflected=alt, infl_type=infl_type,
                     pos='verb', pattern_class=current_section,
                     notes=notes_base,
                 ):
                     infl_added += 1
 
-        # Past tense (strip leading d- / j- mutation markers and report as past)
-        if (is_plausible_manx(past) and past.lower() != base.lower()
-                and not looks_english(past)):
-            for alt in re.split(r"\s+|~", past):
-                alt = clean_token(alt)
-                if not is_plausible_manx(alt):
-                    continue
-                if dedup.add_inflection(
-                    base=base, inflected=alt, infl_type='past',
-                    pos='verb', pattern_class=current_section,
-                    notes=notes_base,
-                ):
-                    infl_added += 1
-
-        # Participle
-        if (is_plausible_manx(ptcp) and ptcp.lower() != base.lower()
-                and not looks_english(ptcp)):
-            for alt in re.split(r"\s+|~", ptcp):
-                alt = clean_token(alt)
-                if not is_plausible_manx(alt):
-                    continue
-                if dedup.add_inflection(
-                    base=base, inflected=alt, infl_type='past_participle',
-                    pos='verb', pattern_class=current_section,
-                    notes=notes_base,
-                ):
-                    infl_added += 1
+        if vn_col is not None:
+            insert_alts(get(vn_col), 'verbal_noun')
+        insert_alts(get(past_col), 'past')
+        insert_alts(get(ptcp_col), 'past_participle')
 
         section_counts[current_section] = section_counts.get(current_section, 0) + 1
 
