@@ -186,6 +186,56 @@ if os.path.exists(po_path):
 else:
     print(f"  SKIPPED - {po_path} not found")
 
+# --- Kelly Fockleyreen (Phil Kelly's 130K-entry Manx-English dictionary) ---
+kelly_path = os.path.join(RAW_DIR, 'kelly_fockleyreen.jsonl')
+kelly_dict_count = 0
+kelly_example_pairs = []
+
+if os.path.exists(kelly_path):
+    print(f"\n  --- Kelly Fockleyreen ---")
+    with open(kelly_path, 'r', encoding='utf-8') as fh:
+        for line in fh:
+            obj = json.loads(line)
+            eng = obj['english'].strip()
+            if not eng or len(eng) < 2:
+                continue
+
+            for gv in obj.get('manx', []):
+                gv = gv.strip()
+                if not gv or len(gv) < 2:
+                    continue
+                # Skip entries that look like example sentences rather than translations
+                if len(gv) > 80 or len(eng) > 80:
+                    continue
+                key = (eng.lower()[:50], gv.lower()[:50])
+                if key in seen_words:
+                    continue
+                seen_words.add(key)
+                conn.execute(
+                    "INSERT INTO dictionary (english, manx, part_of_speech, source) VALUES (?,?,?,?)",
+                    (eng, gv, '', 'kelly-fockleyreen')
+                )
+                kelly_dict_count += 1
+
+            # Collect example sentence pairs for parallel_sentences later
+            examples = obj.get('examples', [])
+            en_example = None
+            for ex in examples:
+                if ex.startswith('EN:'):
+                    en_example = ex[3:].strip()
+                elif en_example and not ex.startswith('EN:'):
+                    # This is the Manx translation of the previous English example
+                    kelly_example_pairs.append((en_example, ex.strip()))
+                    en_example = None
+                else:
+                    en_example = None
+
+    conn.commit()
+    print(f"  Kelly dictionary: {kelly_dict_count:,} new entries")
+    print(f"  Kelly example pairs collected: {len(kelly_example_pairs):,} (will add in parallel section)")
+else:
+    print(f"\n  Kelly Fockleyreen not found at {kelly_path}")
+
 # ============================================================
 # 2. INFLECTIONS from focloir.txt
 # ============================================================
@@ -314,8 +364,15 @@ def ingest_jsonl(filepath):
             except json.JSONDecodeError:
                 continue
 
-            en = obj.get('source', obj.get('en', obj.get('english', ''))).strip()
-            gv = obj.get('target', obj.get('gv', obj.get('manx', ''))).strip()
+            en = obj.get('source', obj.get('en', obj.get('english', '')))
+            gv = obj.get('target', obj.get('gv', obj.get('manx', '')))
+            # Handle fields that are lists instead of strings
+            if isinstance(en, list):
+                en = ' '.join(str(x) for x in en)
+            if isinstance(gv, list):
+                gv = ' '.join(str(x) for x in gv)
+            en = str(en).strip()
+            gv = str(gv).strip()
             source = obj.get('ref', obj.get('source_name', os.path.basename(filepath)))
 
             if not en or not gv:
@@ -425,6 +482,406 @@ if os.path.isdir(MANX_SEARCH_DIR):
     print(f"  manx-search-data: {msd_count:,} new sentences")
 else:
     print(f"\n  manx-search-data not found (optional: clone david-allison/manx-search-data alongside this repo)")
+
+print(f"  Subtotal after manx-search-data: {parallel_count:,}")
+
+# --- Kelly Fockleyreen example sentences ---
+kelly_pair_count = 0
+if kelly_example_pairs:
+    print(f"\n  --- Kelly Fockleyreen example sentences ---")
+    for en, gv in kelly_example_pairs:
+        if len(en) < 5 or len(gv) < 5 or len(en) > 500 or len(gv) > 500:
+            continue
+        pair_key = (en.lower(), gv.lower())
+        if pair_key in seen_pairs:
+            continue
+        seen_pairs.add(pair_key)
+        conn.execute(
+            "INSERT INTO parallel_sentences (english, manx, source, domain) VALUES (?,?,?,?)",
+            (en, gv, 'kelly-fockleyreen/examples', 'mixed')
+        )
+        parallel_count += 1
+        kelly_pair_count += 1
+    conn.commit()
+    print(f"  Kelly example pairs: {kelly_pair_count:,} new parallel sentences")
+
+# --- Modern bilingual content from manxtxt/ ---
+# Ansooryn (exercise answers), Combine Result units, and Facebook translations
+# contain aligned English↔Manx sentence pairs in contemporary language.
+
+manxtxt_pairs = 0
+
+if os.path.isdir(MANXTXT):
+    print(f"\n  --- manxtxt/ modern bilingual content ---")
+
+    def add_pair(eng, gv, source):
+        """Add a parallel pair if not already seen."""
+        global parallel_count, manxtxt_pairs
+        eng = eng.strip()
+        gv = gv.strip()
+        # Clean up numbering prefixes like "1 ", "2\t"
+        eng = re.sub(r'^\d+[\s\t]+', '', eng)
+        gv = re.sub(r'^\d+[\s\t]+', '', gv)
+        # Remove trailing page numbers
+        eng = re.sub(r'\s+\d+\s*$', '', eng)
+        gv = re.sub(r'\s+\d+\s*$', '', gv)
+        if not eng or not gv or len(eng) < 3 or len(gv) < 3:
+            return
+        if len(eng) > 500 or len(gv) > 500:
+            return
+        pair_key = (eng.lower(), gv.lower())
+        if pair_key in seen_pairs:
+            return
+        seen_pairs.add(pair_key)
+        conn.execute(
+            "INSERT INTO parallel_sentences (english, manx, source, domain) VALUES (?,?,?,?)",
+            (eng, gv, source, 'modern')
+        )
+        parallel_count += 1
+        manxtxt_pairs += 1
+
+    # --- 1. Ansooryn (exercise answer files) ---
+    # Format: tab-separated Manx\tEnglish or English\tManx pairs
+    # with "Cur Baarle" / "Cur Gaelg" direction markers
+    ansooryn_files = sorted([
+        f for f in os.listdir(MANXTXT)
+        if 'ansooryn' in f.lower() or 'anssooryn' in f.lower()
+    ])
+    ans_count = 0
+    for fname in ansooryn_files:
+        fpath = os.path.join(MANXTXT, fname)
+        with open(fpath, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            direction = None  # 'gv2en' or 'en2gv'
+            for line in fh:
+                line = line.strip()
+                if not line:
+                    continue
+                # Detect direction markers
+                if 'Cur Baarle' in line or 'Put English' in line:
+                    direction = 'gv2en'
+                    continue
+                elif 'Cur Gaelg' in line or 'Put Manx' in line:
+                    direction = 'en2gv'
+                    continue
+                elif line.startswith('Unnid') or line.startswith('Unit'):
+                    direction = None
+                    continue
+
+                if direction and '\t' in line:
+                    parts = line.split('\t', 1)
+                    if len(parts) == 2:
+                        left = parts[0].strip()
+                        right = parts[1].strip()
+                        # Skip header-like lines
+                        if any(x in left.lower() for x in ['unnid', 'unit', 'cur baarle', 'cur gaelg', 'put english', 'put manx']):
+                            continue
+                        if direction == 'gv2en':
+                            add_pair(right, left, f'manxtxt/ansooryn/{fname}')
+                            ans_count += 1
+                        elif direction == 'en2gv':
+                            add_pair(left, right, f'manxtxt/ansooryn/{fname}')
+                            ans_count += 1
+    print(f"    Ansooryn exercises: {ans_count} pairs")
+
+    # --- 1b. Inline GV+EN pairs from ansooryn + Combine Result ---
+    # Some lines have "Manx sentence English sentence" without tabs
+    # e.g. "Ta mee cho mooar as elefant I'm as big as an elephant"
+    # Also extract vocabulary items like "Coardail\t-\tAgree"
+    inline_files = ansooryn_files + sorted([
+        f for f in os.listdir(MANXTXT)
+        if f.startswith('Combine') and f.endswith('.txt')
+    ])
+    inline_count = 0
+    en_starts = r'(?:I(?:\'m|\s)|You(?:\'re|\s)|He(?:\'s|\s)|She(?:\'s|\s)|We(?:\'re|\s)|They(?:\'re|\s)|It(?:\'s|\s)|Do\s|Does\s|Did\s|Is\s|Are\s|Was\s|Were\s|Who\s|What\s|Where\s|When\s|Why\s|How\s|Am\s|Isn\'t|Aren\'t|Doesn\'t|Don\'t|Won\'t|Wouldn\'t|There(?:\'s|\s))'
+    gv_starts = r'(?:Ta\s|Vel\s|Cha\s|Nagh\s|Share\s|Nhare\s|Bare\s|T\'eh\s|T\'ee\s|T\'ad\s|Neeym\s|Nee\s|Ren\s|Va\s|Row\s|Hie\s)'
+    for fname in inline_files:
+        fpath = os.path.join(MANXTXT, fname)
+        with open(fpath, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            for line in fh:
+                line = line.strip()
+                if not line or len(line) < 10:
+                    continue
+                # Match: GV sentence followed by EN sentence on same line
+                m = re.match(rf'^({gv_starts}.{{5,60}}?)\s+({en_starts}.+)$', line)
+                if m:
+                    gv = m.group(1).strip()
+                    en = m.group(2).strip()
+                    # Reject if EN part contains another GV sentence (table row with multiple pairs)
+                    if re.search(gv_starts, en[5:]):
+                        continue
+                    if len(gv) > 5 and len(en) > 5 and len(en) < 200:
+                        add_pair(en, gv, f'manxtxt/inline/{fname}')
+                        inline_count += 1
+
+                # Also extract vocabulary items: "Word\t-\tManx word"
+                vocab_m = re.match(r'^(\w[\w\s]*?)\t-\t(\w[\w\s]*?)$', line)
+                if vocab_m:
+                    en_w = vocab_m.group(1).strip()
+                    gv_w = vocab_m.group(2).strip()
+                    if len(en_w) > 1 and len(gv_w) > 1:
+                        conn.execute(
+                            "INSERT OR IGNORE INTO dictionary (english, manx, part_of_speech, source) VALUES (?,?,?,?)",
+                            (en_w, gv_w, '', f'manxtxt/vocab/{fname}')
+                        )
+    print(f"    Inline GV+EN pairs: {inline_count} pairs")
+
+    # --- 2. Combine Result units (bilingual exercises) ---
+    # Same format as ansooryn but within the combined course units
+    combine_files = sorted([
+        f for f in os.listdir(MANXTXT)
+        if f.startswith('Combine') and f.endswith('.txt')
+    ])
+    combine_count = 0
+    for fname in combine_files:
+        fpath = os.path.join(MANXTXT, fname)
+        with open(fpath, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            direction = None
+            lines = fh.readlines()
+            i = 0
+            while i < len(lines):
+                line = lines[i].strip()
+                i += 1
+                if not line:
+                    continue
+                if 'Cur Baarle' in line or 'Put English' in line:
+                    direction = 'gv2en'
+                    continue
+                elif 'Cur Gaelg' in line or 'Put Manx' in line:
+                    direction = 'en2gv'
+                    continue
+                elif line.startswith('UNNID') or line.startswith('Unnid'):
+                    direction = None
+                    continue
+                elif line.startswith('Vocabulary') or line.startswith('Duillag'):
+                    direction = None
+                    continue
+
+                if direction and '\t' in line:
+                    parts = line.split('\t', 1)
+                    if len(parts) == 2:
+                        left = parts[0].strip()
+                        right = parts[1].strip()
+                        if any(x in left.lower() for x in ['unnid', 'cur baarle', 'cur gaelg', 'put english', 'put manx']):
+                            continue
+                        if not right or right.startswith('_'):
+                            continue
+                        if direction == 'gv2en':
+                            add_pair(right, left, f'manxtxt/combine/{fname}')
+                            combine_count += 1
+                        elif direction == 'en2gv':
+                            add_pair(left, right, f'manxtxt/combine/{fname}')
+                            combine_count += 1
+    print(f"    Combine Result units: {combine_count} pairs")
+
+    # --- 3. Facebook translations ---
+    # Format: English line followed by Manx translation on next line
+    fb_file = os.path.join(MANXTXT, 'facebook%20translations%20and%20info.txt')
+    fb_count = 0
+    if os.path.exists(fb_file):
+        with open(fb_file, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            lines = [l.strip() for l in fh.readlines()]
+            i = 0
+            while i < len(lines) - 1:
+                line = lines[i]
+                i += 1
+                # Skip comments and blanks
+                if not line or line.startswith('#'):
+                    continue
+                # Look for tab-separated pairs on same line
+                if '\t' in line:
+                    parts = line.split('\t', 1)
+                    if len(parts) == 2 and parts[0] and parts[1]:
+                        add_pair(parts[0].strip(), parts[1].strip(), 'manxtxt/facebook')
+                        fb_count += 1
+                    continue
+                # Otherwise look for EN line followed by GV line
+                next_line = lines[i] if i < len(lines) else ''
+                if next_line and not next_line.startswith('#'):
+                    # Heuristic: if line is English-looking and next is Manx-looking
+                    # Facebook file alternates EN/GV
+                    add_pair(line, next_line, 'manxtxt/facebook')
+                    fb_count += 1
+                    i += 1
+        print(f"    Facebook translations: {fb_count} pairs")
+
+    # --- 4. Food glossary ---
+    # Format: "English term - Manx term" per line
+    food_file = os.path.join(MANXTXT, 'Glossary%20of%20food%20terms.txt')
+    food_count = 0
+    if os.path.exists(food_file):
+        with open(food_file, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            for line in fh:
+                line = line.strip()
+                if ' - ' in line and not line.startswith('English') and not line.startswith('Kindly'):
+                    parts = line.split(' - ', 1)
+                    if len(parts) == 2:
+                        eng = parts[0].strip()
+                        gv = parts[1].strip()
+                        if eng and gv and len(eng) > 1 and len(gv) > 1:
+                            # Add to dictionary table too
+                            dict_key = (gv.lower(), eng.lower()[:50])
+                            conn.execute(
+                                "INSERT OR IGNORE INTO dictionary (english, manx, part_of_speech, source) VALUES (?,?,?,?)",
+                                (eng, gv, 'n', 'manxtxt/food-glossary')
+                            )
+                            food_count += 1
+        print(f"    Food glossary: {food_count} entries (dictionary)")
+
+    # --- 5. Computer terminology ---
+    # Format: "term n/vb\tManx equivalent"
+    comp_file = os.path.join(MANXTXT, 'computer%20terminology%20argeed%20by%20Coonceil%20ny%20Gaelgey.txt')
+    comp_count = 0
+    if os.path.exists(comp_file):
+        with open(comp_file, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            for line in fh:
+                line = line.strip()
+                if not line or line.startswith('\ufeff'):
+                    continue
+                if '\t' in line:
+                    parts = line.split('\t', 1)
+                    if len(parts) == 2:
+                        eng_raw = parts[0].strip()
+                        gv = parts[1].strip()
+                        # Strip POS tags from English
+                        eng = re.sub(r'\s+[nv](?:b|pl)?\s*$', '', eng_raw).strip()
+                        eng = re.sub(r'\s+adj(?:,\s*pp)?\s*$', '', eng).strip()
+                        if eng and gv and len(eng) > 1:
+                            pos = ''
+                            if re.search(r'\bvb\b', eng_raw):
+                                pos = 'v'
+                            elif re.search(r'\bn\b', eng_raw):
+                                pos = 'n'
+                            elif re.search(r'\badj\b', eng_raw):
+                                pos = 'adj'
+                            conn.execute(
+                                "INSERT OR IGNORE INTO dictionary (english, manx, part_of_speech, source) VALUES (?,?,?,?)",
+                                (eng, gv, pos, 'manxtxt/computer-terminology')
+                            )
+                            comp_count += 1
+        print(f"    Computer terminology: {comp_count} entries (dictionary)")
+
+    # --- 6. focCnyG 4/5/6 and CnyG 2007 (modern approved terminology) ---
+    # Format: "English term [POS] Manx term" with line wrapping
+    cnyg_files = [
+        ('focCnyG4.txt', 'focCnyG4'),
+        ('focCnyG5.txt', 'focCnyG5'),
+        ('focCnyG6.txt', 'focCnyG6'),
+        ('Coonceil%20ny%20Gaelgey%20terms%20upto%202007.txt', 'CnyG-2007'),
+    ]
+    cnyg_count = 0
+    for fname, source_label in cnyg_files:
+        fpath = os.path.join(MANXTXT, fname)
+        if not os.path.exists(fpath):
+            continue
+        with open(fpath, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            content = fh.read()
+        # These files have entries like:
+        # "abolish vb moogh, mooghey"
+        # "access n cair f -entreil"
+        # Split on lines, try to parse English term + POS + Manx
+        for line in content.split('\n'):
+            line = line.strip()
+            if not line or len(line) < 4:
+                continue
+            # Skip headers and meta
+            if line.startswith('BAARLE') or line.startswith('Coonceil') or line.startswith('Fockleyreen') or line.startswith('focCnyG') or line.startswith('Cur magh') or line.startswith('('):
+                continue
+
+            # Try to match: English [POS] Manx
+            # POS markers: n, vb, adj, npl, adv, pp, pref
+            m = re.match(r'^(.+?)\s+(?:n(?:pl)?|vb|adj|adv|pp|pref)\s+(.+)$', line)
+            if m:
+                eng = m.group(1).strip()
+                gv = m.group(2).strip()
+                # Extract POS
+                pos_m = re.search(r'\b(n(?:pl)?|vb|adj|adv)\b', line[len(eng):len(eng)+10])
+                pos = ''
+                if pos_m:
+                    p = pos_m.group(1)
+                    if p.startswith('n'):
+                        pos = 'n'
+                    elif p == 'vb':
+                        pos = 'v'
+                    elif p == 'adj':
+                        pos = 'adj'
+                    elif p == 'adv':
+                        pos = 'adv'
+                # Clean Manx: remove gender markers and pl info for dictionary
+                gv_clean = re.sub(r'\s+[mf]\s', ' ', gv)
+                gv_clean = re.sub(r',\s*pl\s+.*$', '', gv_clean).strip()
+                gv_clean = re.sub(r'\s+[mf]$', '', gv_clean).strip()
+
+                if eng and gv_clean and len(eng) > 1 and len(gv_clean) > 1:
+                    conn.execute(
+                        "INSERT OR IGNORE INTO dictionary (english, manx, part_of_speech, source) VALUES (?,?,?,?)",
+                        (eng, gv_clean, pos, f'manxtxt/{source_label}')
+                    )
+                    cnyg_count += 1
+    print(f"    CnyG terminology (4/5/6/2007): {cnyg_count} entries (dictionary)")
+
+    # --- 7. Nobles Hospital report (bilingual healthcare text) ---
+    # This is continuous Manx prose — add as Manx-only for potential back-translation
+    # but extract any inline translations where English terms appear in brackets
+    nobles_file = os.path.join(MANXTXT, 'nobleshospital%20gaelg%20(new).txt')
+    nobles_count = 0
+    if os.path.exists(nobles_file):
+        with open(nobles_file, 'r', encoding='utf-8-sig', errors='replace') as fh:
+            for line in fh:
+                line = line.strip()
+                # Look for patterns like "Manx term (English)" or bullet items
+                # The Nobles report has section headers in English too
+                pass  # Complex format — skip for now, focus on clean bilingual sources
+        print(f"    Nobles Hospital: skipped (Manx prose, needs back-translation)")
+
+    conn.commit()
+    print(f"  manxtxt/ total: {manxtxt_pairs:,} new parallel pairs")
+
+# --- UD_Manx-Cadhan (Universal Dependencies treebank) ---
+# Contains syntactically parsed Manx sentences, many with English translations.
+# Mostly modern prose — Wikipedia, news, contemporary writing.
+UD_DIR = None
+for candidate in [
+    os.path.join(REPO_ROOT, '..', 'UD_Manx-Cadhan'),
+    os.path.join(os.path.expanduser('~'), 'UD_Manx-Cadhan'),
+    os.path.join(REPO_ROOT, 'data', 'UD_Manx-Cadhan'),
+]:
+    if os.path.isdir(candidate):
+        UD_DIR = candidate
+        break
+
+ud_count = 0
+if UD_DIR:
+    print(f"\n  --- UD_Manx-Cadhan treebank ---")
+    for conllu_file in sorted(os.listdir(UD_DIR)):
+        if not conllu_file.endswith('.conllu'):
+            continue
+        fpath = os.path.join(UD_DIR, conllu_file)
+        gv_text = None
+        en_text = None
+        with open(fpath, 'r', encoding='utf-8') as fh:
+            for line in fh:
+                line = line.strip()
+                if line.startswith('# text = '):
+                    gv_text = line[9:].strip()
+                elif line.startswith('# text_en = '):
+                    en_text = line[12:].strip()
+                elif line == '' and gv_text and en_text:
+                    if len(en_text) >= 5 and len(gv_text) >= 5:
+                        pair_key = (en_text.lower(), gv_text.lower())
+                        if pair_key not in seen_pairs:
+                            seen_pairs.add(pair_key)
+                            conn.execute(
+                                "INSERT INTO parallel_sentences (english, manx, source, domain) VALUES (?,?,?,?)",
+                                (en_text, gv_text, f'UD_Manx-Cadhan/{conllu_file}', 'modern')
+                            )
+                            parallel_count += 1
+                            ud_count += 1
+                    gv_text = None
+                    en_text = None
+    conn.commit()
+    print(f"  UD_Manx-Cadhan: {ud_count:,} new parallel sentences")
+else:
+    print(f"\n  UD_Manx-Cadhan not found (optional: clone UniversalDependencies/UD_Manx-Cadhan alongside this repo)")
 
 print(f"  Total: {parallel_count:,} parallel sentences (deduplicated)")
 
