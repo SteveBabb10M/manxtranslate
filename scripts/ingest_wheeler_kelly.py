@@ -1222,26 +1222,91 @@ def ingest_source_7_kelly_ch11(conn, dedup) -> tuple[int, int]:
     infl_added = 0
     rules_added = 0
 
-    # Look for "positive comp. compar." style lines or definition lists with
-    # "X, comp. Y" or "X — Y"
-    text_lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
-    comp_re = re.compile(
-        r"([a-zçÇ’'\-]{2,20})\s*,\s*(?:comp(?:arative)?\.?|compar\.|comp\.)"
-        r"\s*([a-zçÇ’'\-]{2,20})",
+    # (1) Pattern: "<positive>, <gloss>, sup. s'<superlative>" with a single-word
+    # English gloss to avoid runaway greedy matches across sentences.
+    sup_re = re.compile(
+        r"\b([A-Za-zçÇ][A-Za-zçÇ’'\-]{3,})\s*,\s*([a-z]{3,15})\s*[,;]\s*"
+        r"(?:sup\.?\s*)?s['’]\s*([A-Za-zçÇ][A-Za-zçÇ’'\-]+)",
         re.IGNORECASE,
     )
-    for ln in text_lines:
-        for m in comp_re.finditer(ln):
-            base = clean_token(m.group(1))
-            comp = clean_token(m.group(2))
-            if (is_plausible_manx(base) and is_plausible_manx(comp)
-                    and base.lower() != comp.lower()):
-                if dedup.add_inflection(
-                    base=base, inflected=comp, infl_type='comparative',
-                    pos='adjective', pattern_class='kelly_comparison',
-                    notes='Kelly Grammar Ch.11 (online)',
-                ):
-                    infl_added += 1
+    base_blacklist = {'as', 'or', 'of', 'on', 'the', 'a', 'an', 'in',
+                       'is', 'it', 'pos', 'sup', 'comp', 'post', 'positive',
+                       'superlative', 'comparative', 'and', 'are', 'this'}
+    for m in sup_re.finditer(text):
+        base = clean_token(m.group(1))
+        comp = clean_token(m.group(3))
+        if base.lower() in base_blacklist:
+            continue
+        if (is_plausible_manx(base) and is_plausible_manx(comp)
+                and base.lower() != comp.lower()):
+            if dedup.add_inflection(
+                base=base, inflected=comp, infl_type='comparative',
+                pos='adjective', pattern_class='kelly_comparison',
+                notes='Kelly Grammar Ch.11 (online, prose example)',
+            ):
+                infl_added += 1
+            # Also store the s'-prefixed form which is how it appears in the construction
+            if dedup.add_inflection(
+                base=base, inflected=f"s'{comp}", infl_type='superlative',
+                pos='adjective', pattern_class='kelly_comparison',
+                notes='Kelly Grammar Ch.11 (online, prose example)',
+            ):
+                infl_added += 1
+
+    # (2) Irregular comparison table. Reflow into cells (joining wrapped lines).
+    raw_cells: list[str] = []
+    buf: list[str] = []
+    for ln in text.splitlines():
+        if ln.strip():
+            buf.append(ln.strip())
+        else:
+            if buf:
+                raw_cells.append(' '.join(buf))
+                buf = []
+    if buf:
+        raw_cells.append(' '.join(buf))
+
+    # Find "Positive." cell, then pair subsequent cells (pos_cell, comp_cell)
+    # until we leave the table.
+    in_table = False
+    i = 0
+    while i < len(raw_cells):
+        cell = raw_cells[i].strip()
+        if cell.lower().startswith('positive') and i + 1 < len(raw_cells):
+            nxt = raw_cells[i + 1].strip().lower()
+            if nxt.startswith('comp'):
+                in_table = True
+                i += 2
+                continue
+        if in_table:
+            if cell == '' or cell.lower().startswith('any comments'):
+                in_table = False
+                break
+            # Look for pos cell pattern "Word, gloss,"
+            pos_m = re.match(r"^([A-Za-zçÇ][A-Za-zçÇ’'\-]+)\s*,", cell)
+            if not pos_m:
+                i += 1
+                continue
+            pos = clean_token(pos_m.group(1))
+            if i + 1 >= len(raw_cells):
+                break
+            comp_cell = raw_cells[i + 1].strip()
+            # comp cell looks like "Share, better, or best." -> first word is the form
+            comp_m = re.match(r"^([A-Za-zçÇ’'][A-Za-zçÇ’'\-]+)", comp_cell)
+            if comp_m:
+                comp = clean_token(comp_m.group(1))
+                if (is_plausible_manx(pos) and is_plausible_manx(comp)
+                        and pos.lower() != comp.lower()):
+                    if dedup.add_inflection(
+                        base=pos, inflected=comp,
+                        infl_type='comparative',
+                        pos='adjective', pattern_class='kelly_irregular',
+                        notes='Kelly Grammar Ch.11 (online, irregular table)',
+                    ):
+                        infl_added += 1
+            i += 2
+            continue
+        i += 1
 
     summary_rules = [
         ("ADJECTIVE:COMPARISON:KELLY",
