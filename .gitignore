@@ -4,6 +4,5 @@ __pycache__/
 *.swp
 *.tmp
 
-# Built database — rebuild with: python scripts/build_all.py
-*.db
-data/processed/
+# Built database is tracked via Git LFS (*.db in .gitattributes)
+# To rebuild from source: python scripts/build_all.py
