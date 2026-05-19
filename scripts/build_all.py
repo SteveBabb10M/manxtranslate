@@ -383,11 +383,23 @@ if os.path.isdir(MANX_SEARCH_DIR):
             with open(csv_path, 'r', encoding='utf-8-sig', errors='replace') as fh:
                 reader = csv.reader(fh)
                 header = next(reader, None)
-                if not header:
+                if not header or len(header) < 2:
                     continue
+
+                # Detect column order from headers
+                h0 = header[0].strip().lower()
+                h1 = header[1].strip().lower()
+                if h0 == 'manx' and h1 == 'english':
+                    gv_col, en_col = 0, 1
+                elif h0 == 'english' and h1 == 'manx':
+                    gv_col, en_col = 1, 0
+                else:
+                    # Skip non-bilingual CSVs (Speaker,Manx; Manx,Manx2; etc.)
+                    continue
+
                 for row in reader:
-                    manx = row[0].strip() if len(row) > 0 else ''
-                    eng = row[1].strip() if len(row) > 1 else ''
+                    manx = row[gv_col].strip() if len(row) > gv_col else ''
+                    eng = row[en_col].strip() if len(row) > en_col else ''
 
                     # Quality filters: skip empty, too short, or too long
                     if not manx or not eng or len(manx) < 5 or len(eng) < 5:
